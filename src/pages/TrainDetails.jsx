@@ -211,6 +211,205 @@ const HaltStationCard = ({ stop, isLast, trainData }) => (
     </div>
 );
 
+// Component for showing train's current position between stations
+const TrainPositionIndicator = ({ fromStation, toStation, trainData }) => {
+    // Calculate position based on time elapsed
+    const calculatePosition = () => {
+        if (!fromStation || !toStation) return 50;
+
+        // Get departure time from last station and arrival at next
+        const now = Date.now() / 1000;
+        const departureTime = fromStation.actualDepartureTimestamp || fromStation.scheduledDepartureTimestamp;
+
+        // Use scheduled arrival + current delay for a better estimation
+        const baseArrival = toStation.scheduledArrivalTimestamp;
+        const currentDelay = (trainData?.overallDelay || 0) * 60;
+        const expectedArrival = baseArrival + currentDelay;
+
+        if (!departureTime || !expectedArrival) return 50;
+
+        const totalDuration = expectedArrival - departureTime;
+        const elapsed = now - departureTime;
+
+        if (totalDuration <= 0) return 95; // Already arriving
+
+        const position = Math.min(Math.max((elapsed / totalDuration) * 100, 5), 95);
+        return position;
+    };
+
+    const position = calculatePosition();
+    const delayMinutes = trainData?.overallDelay || 0;
+
+    return (
+        <div style={{
+            marginLeft: '66px',
+            marginBottom: '20px',
+            position: 'relative',
+            zIndex: 5
+        }}>
+            {/* Connection line from previous station */}
+            <div style={{
+                position: 'absolute',
+                left: '-7px',
+                top: '-16px',
+                width: '3px',
+                height: '16px',
+                background: 'var(--success)'
+            }}></div>
+
+            {/* Main Indicator Card */}
+            <div style={{
+                background: 'linear-gradient(145deg, rgba(30, 41, 59, 0.9), rgba(15, 23, 42, 0.9))',
+                borderRadius: '16px',
+                border: '1px solid rgba(59, 130, 246, 0.2)',
+                padding: '16px',
+                boxShadow: '0 8px 32px rgba(0,0,0,0.4)',
+                backdropFilter: 'blur(12px)',
+                overflow: 'hidden'
+            }}>
+                {/* Header: Status & Live Pulse */}
+                <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '12px' }}>
+                    <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+                        <div className="live-pulse" style={{
+                            width: '8px',
+                            height: '8px',
+                            borderRadius: '50%',
+                            backgroundColor: 'var(--success)',
+                            boxShadow: '0 0 8px var(--success)'
+                        }}></div>
+                        <span style={{ fontSize: '12px', fontWeight: 600, color: 'var(--success)', letterSpacing: '0.5px' }}>LIVE STATUS</span>
+                    </div>
+                    {delayMinutes > 0 ? (
+                        <div style={{
+                            fontSize: '11px',
+                            padding: '4px 10px',
+                            borderRadius: '20px',
+                            background: 'rgba(239, 68, 68, 0.15)',
+                            color: 'var(--danger)',
+                            border: '1px solid rgba(239, 68, 68, 0.2)',
+                            fontWeight: 600
+                        }}>
+                            DELAYED {delayMinutes}m
+                        </div>
+                    ) : (
+                        <div style={{
+                            fontSize: '11px',
+                            padding: '4px 10px',
+                            borderRadius: '20px',
+                            background: 'rgba(34, 197, 94, 0.15)',
+                            color: 'var(--success)',
+                            border: '1px solid rgba(34, 197, 94, 0.2)',
+                            fontWeight: 600
+                        }}>
+                            ON TIME
+                        </div>
+                    )}
+                </div>
+
+                {/* Body: En Route Info */}
+                <div style={{ marginBottom: '16px' }}>
+                    <div style={{ fontSize: '11px', color: 'var(--text-secondary)', marginBottom: '4px' }}>CURRENTLY BETWEEN</div>
+                    <div style={{ fontSize: '15px', fontWeight: 600, color: 'white' }}>
+                        {fromStation?.name} <span style={{ color: 'var(--text-secondary)', fontWeight: 400 }}>&</span> {toStation?.name}
+                    </div>
+                </div>
+
+                {/* Visual Track */}
+                <div style={{ position: 'relative', height: '4px', background: 'rgba(255,255,255,0.1)', borderRadius: '2px', margin: '24px 0 12px 0' }}>
+                    {/* Progress Fill */}
+                    <div style={{
+                        position: 'absolute',
+                        left: 0,
+                        top: 0,
+                        height: '100%',
+                        width: `${position}%`,
+                        background: 'linear-gradient(to right, var(--success), #3b82f6)',
+                        borderRadius: '2px',
+                        transition: 'width 1.5s cubic-bezier(0.4, 0, 0.2, 1)'
+                    }}></div>
+
+                    {/* Animated Train Icon */}
+                    <div style={{
+                        position: 'absolute',
+                        left: `${position}%`,
+                        top: '50%',
+                        transform: 'translate(-50%, -50%)',
+                        display: 'flex',
+                        flexDirection: 'column',
+                        alignItems: 'center',
+                        zIndex: 10
+                    }}>
+                        <div style={{
+                            fontSize: '22px',
+                            filter: 'drop-shadow(0 0 10px rgba(59, 130, 246, 0.5))',
+                            animation: 'trainMove 2.5s ease-in-out infinite'
+                        }}>
+                            🚂
+                        </div>
+                    </div>
+                </div>
+
+                {/* Footer: ETA & Info */}
+                <div style={{
+                    marginTop: '20px',
+                    padding: '12px',
+                    background: 'rgba(59, 130, 246, 0.08)',
+                    borderRadius: '12px',
+                    border: '1px solid rgba(59, 130, 246, 0.1)',
+                    display: 'flex',
+                    flexDirection: 'column',
+                    gap: '4px'
+                }}>
+                    <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+                        <span style={{ fontSize: '11px', color: 'var(--text-secondary)' }}>NEXT STATION ETA</span>
+                        <span style={{ fontSize: '14px', fontWeight: 700, color: delayMinutes > 0 ? 'var(--danger)' : '#60a5fa' }}>{toStation?.eta || '---'}</span>
+                    </div>
+                    {toStation?.scheduledTime && (
+                        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+                            <span style={{ fontSize: '11px', color: 'var(--text-secondary)' }}>SCHEDULED AT</span>
+                            <span style={{ fontSize: '11px', color: 'white', fontWeight: 500 }}>{toStation.scheduledTime}</span>
+                        </div>
+                    )}
+                </div>
+            </div>
+
+            {/* Connection line to next station */}
+            <div style={{
+                position: 'absolute',
+                left: '-7px',
+                bottom: '-16px',
+                width: '3px',
+                height: '16px',
+                background: 'rgba(255,255,255,0.1)'
+            }}></div>
+        </div>
+    );
+};
+
+// Add CSS animations
+const animationsStyle = `
+@keyframes trainMove {
+    0%, 100% { transform: translate(-50%, -50%) translateX(-2px); }
+    50% { transform: translate(-50%, -50%) translateX(2px); }
+}
+@keyframes pulse {
+    0% { transform: scale(0.95); opacity: 0.5; }
+    50% { transform: scale(1.05); opacity: 1; }
+    100% { transform: scale(0.95); opacity: 0.5; }
+}
+.live-pulse {
+    animation: pulse 2s infinite ease-in-out;
+}
+`;
+
+// Inject the animation style
+if (typeof document !== 'undefined' && !document.getElementById('train-position-animations')) {
+    const styleEl = document.createElement('style');
+    styleEl.id = 'train-position-animations';
+    styleEl.textContent = animationsStyle;
+    document.head.appendChild(styleEl);
+}
+
 const TrainDetails = () => {
     const { trainNo } = useParams();
     const navigate = useNavigate();
@@ -345,6 +544,52 @@ const TrainDetails = () => {
     const groupedStations = getGroupedStations();
     const haltStations = groupedStations.filter(g => g.type === 'halt');
 
+    // Find train's current position (between which stations)
+    const getTrainPosition = () => {
+        if (!trainData?.stations) return null;
+
+        const haltOnlyStations = trainData.stations.filter(s => s.isHalt);
+        let lastPassedStation = null;
+        let nextStation = null;
+
+        for (let i = 0; i < haltOnlyStations.length; i++) {
+            const station = haltOnlyStations[i];
+            if (station.isPassed) {
+                lastPassedStation = station;
+            } else if (!nextStation) {
+                nextStation = station;
+                break;
+            }
+        }
+
+        // Only show train position if we have both a passed station and upcoming station
+        if (lastPassedStation && nextStation) {
+            return {
+                fromStation: lastPassedStation,
+                toStation: nextStation
+            };
+        }
+        return null;
+    };
+
+    const trainPosition = getTrainPosition();
+
+    // Find the index in groupedStations where to insert train position indicator
+    const findTrainPositionInsertIndex = () => {
+        if (!trainPosition) return -1;
+
+        for (let i = 0; i < groupedStations.length; i++) {
+            const item = groupedStations[i];
+            if (item.type === 'halt' && !item.station.isPassed) {
+                return i; // Insert before first non-passed halt station
+            }
+        }
+        return -1;
+    };
+
+    const trainPositionIndex = findTrainPositionInsertIndex();
+
+
     return (
         <div className="fade-in" style={{ paddingBottom: '100px' }}>
             {/* Sticky Navbar */}
@@ -394,16 +639,22 @@ const TrainDetails = () => {
                     gap: '12px',
                     marginTop: '8px',
                     fontSize: '12px',
-                    color: 'var(--text-secondary)'
+                    color: 'var(--text-secondary)',
+                    alignItems: 'center'
                 }}>
                     <span>Journey: {trainData?.journeyDate}</span>
-                    {trainData?.overallDelay > 0 && (
-                        <>
-                            <span>•</span>
-                            <span style={{ color: 'var(--danger)' }}>Delayed {trainData.overallDelay} min</span>
-                        </>
-                    )}
+                    <span>•</span>
+                    <div style={{ display: 'flex', alignItems: 'center', gap: '4px' }}>
+                        <div className="live-pulse" style={{ width: '6px', height: '6px', borderRadius: '50%', background: 'var(--success)' }}></div>
+                        <span style={{ color: 'var(--success)', fontWeight: 600 }}>Live Updates</span>
+                    </div>
                 </div>
+
+                {trainData?.lastUpdated && (
+                    <div style={{ marginTop: '8px', fontSize: '10px', color: 'rgba(255,255,255,0.3)' }}>
+                        Last updated: {trainData.lastUpdated}
+                    </div>
+                )}
             </div>
 
             {/* Ad Placement - reduced padding */}
@@ -414,10 +665,24 @@ const TrainDetails = () => {
             {/* Timeline with Collapsible Groups */}
             <div style={{ padding: '4px 20px 20px 20px' }}>
                 {groupedStations.map((item, idx) => {
+                    const elements = [];
+
+                    // Insert train position indicator before the first upcoming halt station
+                    if (idx === trainPositionIndex && trainPosition) {
+                        elements.push(
+                            <TrainPositionIndicator
+                                key="train-position"
+                                fromStation={trainPosition.fromStation}
+                                toStation={trainPosition.toStation}
+                                trainData={trainData}
+                            />
+                        );
+                    }
+
                     if (item.type === 'halt') {
                         const haltIndex = haltStations.findIndex(h => h.id === item.id);
                         const isLast = haltIndex === haltStations.length - 1;
-                        return (
+                        elements.push(
                             <HaltStationCard
                                 key={item.id}
                                 stop={item.station}
@@ -426,7 +691,7 @@ const TrainDetails = () => {
                             />
                         );
                     } else {
-                        return (
+                        elements.push(
                             <NonHaltStationsGroup
                                 key={item.id}
                                 stations={item.stations}
@@ -435,6 +700,8 @@ const TrainDetails = () => {
                             />
                         );
                     }
+
+                    return elements;
                 })}
             </div>
         </div>
