@@ -31,6 +31,8 @@ const QuickAction = ({ icon: Icon, label, color, onClick }) => (
     </button>
 );
 
+import StationSearch from '../components/StationSearch';
+
 const Home = () => {
     const navigate = useNavigate();
     const [fromStation, setFromStation] = useState('');
@@ -58,27 +60,21 @@ const Home = () => {
             <div className="glass-panel" style={{ padding: '24px', marginBottom: '32px' }}>
                 <form onSubmit={handleSearch} style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
 
-                    <div style={{ display: 'flex', alignItems: 'center', gap: '12px', borderBottom: '1px solid rgba(255,255,255,0.1)', paddingBottom: '12px' }}>
-                        <MapPin size={20} color="var(--accent-color)" />
-                        <input
-                            type="text"
-                            placeholder="From Station"
-                            value={fromStation}
-                            onChange={(e) => setFromStation(e.target.value)}
-                            style={{ background: 'transparent', border: 'none', color: 'white', width: '100%', outline: 'none', fontSize: '16px' }}
-                        />
-                    </div>
+                    <StationSearch
+                        label="From Station"
+                        placeholder="Enter Source Code/Name"
+                        value={fromStation}
+                        onChange={setFromStation}
+                        icon={MapPin}
+                    />
 
-                    <div style={{ display: 'flex', alignItems: 'center', gap: '12px', borderBottom: '1px solid rgba(255,255,255,0.1)', paddingBottom: '12px' }}>
-                        <MapPin size={20} color="var(--accent-color)" />
-                        <input
-                            type="text"
-                            placeholder="To Station"
-                            value={toStation}
-                            onChange={(e) => setToStation(e.target.value)}
-                            style={{ background: 'transparent', border: 'none', color: 'white', width: '100%', outline: 'none', fontSize: '16px' }}
-                        />
-                    </div>
+                    <StationSearch
+                        label="To Station"
+                        placeholder="Enter Destination Code/Name"
+                        value={toStation}
+                        onChange={setToStation}
+                        icon={MapPin}
+                    />
 
                     <div style={{ display: 'flex', alignItems: 'center', gap: '12px', paddingBottom: '12px' }}>
                         <Calendar size={20} color="var(--text-secondary)" />

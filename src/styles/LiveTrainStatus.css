@@ -1,0 +1,352 @@
+/* Live Train Status Page Styles */
+
+.live-train-status-page {
+    min-height: 100vh;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    padding: 2rem 1rem;
+}
+
+.live-status-container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.live-status-header {
+    text-align: center;
+    color: white;
+    margin-bottom: 2rem;
+}
+
+.live-status-header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+    font-weight: 700;
+}
+
+.live-status-header p {
+    font-size: 1.1rem;
+    opacity: 0.9;
+}
+
+/* Search Form */
+.live-search-form {
+    background: white;
+    padding: 2rem;
+    border-radius: 16px;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+    margin-bottom: 2rem;
+}
+
+.search-input-group {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
+.live-search-input {
+    flex: 1;
+    min-width: 250px;
+    padding: 1rem 1.5rem;
+    border: 2px solid #e2e8f0;
+    border-radius: 12px;
+    font-size: 1rem;
+    transition: all 0.3s ease;
+}
+
+.live-search-input:focus {
+    outline: none;
+    border-color: #667eea;
+    box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+}
+
+.live-search-btn {
+    padding: 1rem 2rem;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    border: none;
+    border-radius: 12px;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: transform 0.2s ease, box-shadow 0.3s ease;
+}
+
+.live-search-btn:hover:not(:disabled) {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px rgba(102, 126, 234, 0.3);
+}
+
+.live-search-btn:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+}
+
+/* Error Message */
+.live-error-message {
+    background: #fee;
+    border: 2px solid #fcc;
+    border-radius: 12px;
+    padding: 1rem 1.5rem;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 2rem;
+}
+
+.live-error-message span {
+    font-size: 1.5rem;
+}
+
+.live-error-message p {
+    color: #c33;
+    margin: 0;
+    font-weight: 500;
+}
+
+/* Train Data Display */
+.live-train-data {
+    background: white;
+    border-radius: 16px;
+    padding: 2rem;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+}
+
+.train-header-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 2px solid #f0f0f0;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.train-title {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
+.train-title h2 {
+    margin: 0;
+    font-size: 1.8rem;
+    color: #1a202c;
+}
+
+.train-number-badge {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 0.9rem;
+}
+
+.last-updated {
+    color: #718096;
+    font-size: 0.9rem;
+}
+
+/* Status Cards */
+.live-status-cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.status-card {
+    background: linear-gradient(135deg, #f7fafc 0%, #edf2f7 100%);
+    padding: 1.5rem;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    transition: transform 0.2s ease, box-shadow 0.3s ease;
+}
+
+.status-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+}
+
+.card-icon {
+    font-size: 2.5rem;
+}
+
+.card-content h3 {
+    margin: 0 0 0.5rem 0;
+    font-size: 0.9rem;
+    color: #718096;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.status-value {
+    margin: 0;
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: #1a202c;
+}
+
+.status-value.delayed {
+    color: #e53e3e;
+}
+
+.status-value.ontime {
+    color: #38a169;
+}
+
+/* Route Section */
+.route-section {
+    margin-top: 2rem;
+    padding-top: 2rem;
+    border-top: 2px solid #f0f0f0;
+}
+
+.route-section h3 {
+    margin-bottom: 1.5rem;
+    color: #1a202c;
+    font-size: 1.3rem;
+}
+
+.route-list {
+    max-height: 400px;
+    overflow-y: auto;
+    padding-right: 1rem;
+}
+
+.route-station {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 1rem;
+    margin-bottom: 0.5rem;
+    background: #f7fafc;
+    border-radius: 8px;
+    transition: background 0.2s ease;
+}
+
+.route-station:hover {
+    background: #edf2f7;
+}
+
+.station-marker {
+    width: 12px;
+    height: 12px;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    border-radius: 50%;
+    flex-shrink: 0;
+}
+
+.station-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex: 1;
+    gap: 1rem;
+}
+
+.station-name {
+    font-weight: 600;
+    color: #1a202c;
+}
+
+.station-time {
+    color: #718096;
+    font-size: 0.9rem;
+}
+
+/* Running Days */
+.running-days-section {
+    margin-top: 1.5rem;
+    padding-top: 1.5rem;
+    border-top: 2px solid #f0f0f0;
+}
+
+.running-days-section h4 {
+    margin-bottom: 1rem;
+    color: #1a202c;
+}
+
+.days-list {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+}
+
+.day-badge {
+    background: #667eea;
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+    font-size: 0.85rem;
+    font-weight: 600;
+}
+
+/* Placeholder */
+.live-placeholder {
+    background: white;
+    border-radius: 16px;
+    padding: 3rem 2rem;
+    text-align: center;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+}
+
+.placeholder-icon {
+    font-size: 4rem;
+    margin-bottom: 1rem;
+}
+
+.live-placeholder h3 {
+    color: #1a202c;
+    margin-bottom: 0.5rem;
+    font-size: 1.5rem;
+}
+
+.live-placeholder p {
+    color: #718096;
+    margin-bottom: 2rem;
+}
+
+.feature-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+    margin-top: 2rem;
+}
+
+.feature-item {
+    background: #f7fafc;
+    padding: 1rem;
+    border-radius: 8px;
+    color: #1a202c;
+    font-weight: 500;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .live-status-header h1 {
+        font-size: 2rem;
+    }
+
+    .search-input-group {
+        flex-direction: column;
+    }
+
+    .live-search-input,
+    .live-search-btn {
+        width: 100%;
+    }
+
+    .live-status-cards {
+        grid-template-columns: 1fr;
+    }
+
+    .train-header-info {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+}

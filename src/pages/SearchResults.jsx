@@ -2,9 +2,10 @@ import React, { useState, useEffect } from 'react';
 import { ArrowLeft, Clock, Calendar, ChevronRight, AlertCircle } from 'lucide-react';
 import { useNavigate, useSearchParams } from 'react-router-dom';
 import GoogleAd from '../components/GoogleAd';
+import AdContainer from '../components/AdContainer';
 import { searchTrains } from '../services/railwayApi';
 
-const TrainCard = ({ name, number, depTime, arrTime, duration, availability, price, onClick }) => {
+const TrainCard = ({ name, number, depTime, arrTime, duration, availability, price, onClick, fromStation, toStation }) => {
     const getStatusColor = (status) => {
         if (status.includes('AVL')) return 'var(--success)';
         if (status.includes('RAC')) return 'var(--warning)';
@@ -30,7 +31,7 @@ const TrainCard = ({ name, number, depTime, arrTime, duration, availability, pri
             <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '16px' }}>
                 <div>
                     <div style={{ fontSize: '16px', fontWeight: 600 }}>{depTime}</div>
-                    <div style={{ fontSize: '12px', color: 'var(--text-secondary)' }}>NDLS</div>
+                    <div style={{ fontSize: '12px', color: 'var(--text-secondary)' }}>{fromStation}</div>
                 </div>
                 <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', flex: 1 }}>
                     <div style={{ fontSize: '10px', color: 'var(--text-secondary)', marginBottom: '4px' }}>{duration}</div>
@@ -41,7 +42,7 @@ const TrainCard = ({ name, number, depTime, arrTime, duration, availability, pri
                 </div>
                 <div style={{ textAlign: 'right' }}>
                     <div style={{ fontSize: '16px', fontWeight: 600 }}>{arrTime}</div>
-                    <div style={{ fontSize: '12px', color: 'var(--text-secondary)' }}>BCT</div>
+                    <div style={{ fontSize: '12px', color: 'var(--text-secondary)' }}>{toStation}</div>
                 </div>
             </div>
 
@@ -137,6 +138,8 @@ const SearchResults = () => {
                     {idx === 1 && <AdContainer label="Partner Offer" />}
                     <TrainCard
                         {...train}
+                        fromStation={fromStation}
+                        toStation={toStation}
                         onClick={() => navigate(`/train-details/${train.number}`)}
                     />
                 </div>
