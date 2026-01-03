@@ -1,0 +1,117 @@
+/**
+ * Google AdSense Integration Component
+ * Replace with your actual AdSense publisher ID
+ * 
+ * SETUP INSTRUCTIONS:
+ * 1. Sign up at https://www.google.com/adsense
+ * 2. Get your publisher ID (ca-pub-XXXXXXXXXXXXXXXX)
+ * 3. Replace VITE_ADSENSE_CLIENT_ID in .env
+ * 4. Add AdSense script to index.html
+ */
+
+import React, { useEffect, useRef } from 'react';
+
+const GoogleAd = ({
+    slot = "auto",
+    format = "auto",
+    responsive = true,
+    style = {}
+}) => {
+    const adRef = useRef(null);
+    const clientId = import.meta.env.VITE_ADSENSE_CLIENT_ID;
+
+    useEffect(() => {
+        // Only load ads if client ID is configured
+        if (!clientId || clientId === 'YOUR_ADSENSE_CLIENT_ID') {
+            console.warn('AdSense not configured. Set VITE_ADSENSE_CLIENT_ID in .env');
+            return;
+        }
+
+        try {
+            // Push ad to AdSense queue
+            if (window.adsbygoogle && adRef.current) {
+                (window.adsbygoogle = window.adsbygoogle || []).push({});
+            }
+        } catch (error) {
+            console.error('AdSense error:', error);
+        }
+    }, [clientId]);
+
+    // If AdSense not configured, show placeholder
+    if (!clientId || clientId === 'YOUR_ADSENSE_CLIENT_ID') {
+        return (
+            <div className="fade-in glass-panel" style={{
+                padding: '16px',
+                marginBottom: '20px',
+                position: 'relative',
+                border: '1px solid rgba(255,255,255,0.05)',
+                background: 'rgba(0, 0, 0, 0.2)',
+                overflow: 'hidden',
+                ...style
+            }}>
+                {/* Ad Label */}
+                <span style={{
+                    position: 'absolute',
+                    top: '4px',
+                    right: '6px',
+                    fontSize: '9px',
+                    textTransform: 'uppercase',
+                    letterSpacing: '0.5px',
+                    color: 'var(--text-secondary)',
+                    background: 'rgba(0,0,0,0.3)',
+                    padding: '2px 4px',
+                    borderRadius: '4px'
+                }}>
+                    Advertisement
+                </span>
+
+                {/* Placeholder Content */}
+                <div style={{
+                    display: 'flex',
+                    alignItems: 'center',
+                    gap: '16px',
+                    opacity: 0.9
+                }}>
+                    <div style={{
+                        width: '48px',
+                        height: '48px',
+                        borderRadius: '8px',
+                        background: 'linear-gradient(135deg, #3b82f6 0%, #2dd4bf 100%)',
+                        display: 'flex',
+                        alignItems: 'center',
+                        justifyContent: 'center',
+                        flexShrink: 0
+                    }}>
+                        <span style={{ fontSize: '20px' }}>📢</span>
+                    </div>
+
+                    <div>
+                        <h4 style={{ fontSize: '14px', fontWeight: 600, color: 'white', marginBottom: '2px' }}>
+                            Configure AdSense
+                        </h4>
+                        <p style={{ fontSize: '11px', color: 'var(--text-secondary)', lineHeight: '1.4' }}>
+                            Add your AdSense ID to .env to enable monetization
+                        </p>
+                    </div>
+                </div>
+            </div>
+        );
+    }
+
+    // Real AdSense ad
+    return (
+        <div style={{ marginBottom: '20px', ...style }}>
+            <ins
+                ref={adRef}
+                className="adsbygoogle"
+                style={{ display: 'block' }}
+                data-ad-client={clientId}
+                data-ad-slot={slot}
+                data-ad-format={format}
+                data-full-width-responsive={responsive.toString()}
+            />
+        </div>
+    );
+};
+
+export default GoogleAd;
