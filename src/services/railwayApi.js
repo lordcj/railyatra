@@ -119,7 +119,7 @@ export const searchTrains = async (fromStation, toStation, date = null) => {
 
     try {
         // Free train search API
-        const url = `https://railwayapi.site/api/trains/between/${fromStation}/${toStation}`;
+        const url = `${API_BASE}/trains/between/${fromStation}/${toStation}`;
         const data = await fetchWithTimeout(url);
 
         if (!data || !data.trains || data.trains.length === 0) {
@@ -163,7 +163,7 @@ export const getTrainSchedule = async (trainNumber) => {
     if (cached) return cached;
 
     try {
-        const url = `https://railwayapi.site/api/train/${trainNumber}`;
+        const url = `${API_BASE}/train/${trainNumber}`;
         const data = await fetchWithTimeout(url);
 
         if (!data || !data.route || data.route.length === 0) {
