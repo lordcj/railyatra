@@ -141,12 +141,12 @@ const PNRStatus = () => {
                                 <div>
                                     <div style={{ fontSize: '12px', color: 'var(--text-secondary)', marginBottom: '4px' }}>From</div>
                                     <div style={{ fontSize: '24px', fontWeight: 800 }}>{result.from}</div>
-                                    <div style={{ fontSize: '13px', fontWeight: 500 }}>New Delhi</div>
-                                    <div style={{ fontSize: '12px', color: 'var(--text-secondary)', marginTop: '4px' }}>15:30</div>
+                                    <div style={{ fontSize: '13px', fontWeight: 500 }}>{result.fromName}</div>
+                                    <div style={{ fontSize: '12px', color: 'var(--text-secondary)', marginTop: '4px' }}>{result.departureTime}</div>
                                 </div>
 
                                 <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', flex: 1 }}>
-                                    <div style={{ fontSize: '11px', color: 'var(--text-secondary)', marginBottom: '4px' }}>8h 30m</div>
+                                    <div style={{ fontSize: '11px', color: 'var(--text-secondary)', marginBottom: '4px' }}>{result.duration}</div>
                                     <div style={{ width: '80%', height: '1px', background: 'rgba(255,255,255,0.1)', position: 'relative' }}>
                                         <div style={{ position: 'absolute', right: 0, top: '-3px', width: '6px', height: '6px', borderRadius: '50%', background: 'var(--text-secondary)' }}></div>
                                         <div style={{ position: 'absolute', left: 0, top: '-3px', width: '6px', height: '6px', borderRadius: '50%', background: 'var(--text-secondary)' }}></div>
@@ -156,8 +156,8 @@ const PNRStatus = () => {
                                 <div style={{ textAlign: 'right' }}>
                                     <div style={{ fontSize: '12px', color: 'var(--text-secondary)', marginBottom: '4px' }}>To</div>
                                     <div style={{ fontSize: '24px', fontWeight: 800 }}>{result.to}</div>
-                                    <div style={{ fontSize: '13px', fontWeight: 500 }}>Varanasi</div>
-                                    <div style={{ fontSize: '12px', color: 'var(--text-secondary)', marginTop: '4px' }}>23:00</div>
+                                    <div style={{ fontSize: '13px', fontWeight: 500 }}>{result.toName}</div>
+                                    <div style={{ fontSize: '12px', color: 'var(--text-secondary)', marginTop: '4px' }}>{result.arrivalTime}</div>
                                 </div>
                             </div>
 

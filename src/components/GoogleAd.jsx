@@ -18,12 +18,14 @@ const GoogleAd = ({
     style = {}
 }) => {
     const adRef = useRef(null);
-    const clientId = import.meta.env.VITE_ADSENSE_CLIENT_ID;
+    // Hardcoded fallback for your AdSense ID
+    const clientId = import.meta.env.VITE_ADSENSE_CLIENT_ID || 'ca-pub-8792747031835209';
+    console.log('AdsDebug: Active AdSense Client ID:', clientId);
 
     useEffect(() => {
-        // Only load ads if client ID is configured
-        if (!clientId || clientId === 'YOUR_ADSENSE_CLIENT_ID') {
-            console.warn('AdSense not configured. Set VITE_ADSENSE_CLIENT_ID in .env');
+        // Only load ads if client ID is configured and not a placeholder
+        // Note: AdSense will return 400 Bad Request on localhost - this is normal.
+        if (!clientId || clientId === 'YOUR_ADSENSE_CLIENT_ID' || clientId.includes('XXXX')) {
             return;
         }
 
@@ -37,8 +39,10 @@ const GoogleAd = ({
         }
     }, [clientId]);
 
-    // If AdSense not configured, show placeholder
-    if (!clientId || clientId === 'YOUR_ADSENSE_CLIENT_ID') {
+    // Show placeholder only if ID is still a generic placeholder string
+    const isPlaceholder = !clientId || clientId === 'YOUR_ADSENSE_CLIENT_ID' || clientId.includes('XXXX');
+
+    if (isPlaceholder) {
         return (
             <div className="fade-in glass-panel" style={{
                 padding: '16px',
@@ -98,7 +102,7 @@ const GoogleAd = ({
         );
     }
 
-    // Real AdSense ad
+    // Real AdSense ad (will result in 400 on localhost, which is correct)
     return (
         <div style={{ marginBottom: '20px', ...style }}>
             <ins

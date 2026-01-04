@@ -77,7 +77,12 @@ export const getPNRStatus = async (pnrNumber) => {
             trainNo: data.train_number || 'N/A',
             doj: data.doj || 'N/A',
             from: data.from_station?.code || 'N/A',
+            fromName: data.from_station?.name || 'N/A',
             to: data.to_station?.code || 'N/A',
+            toName: data.to_station?.name || 'N/A',
+            departureTime: data.boarding_station?.departure_time || '--:--',
+            arrivalTime: data.reservation_upto?.arrival_time || '--:--',
+            duration: data.duration || 'N/A',
             passengers: (data.passengers || []).map(p => ({
                 name: p.passenger_name || 'Passenger',
                 status: p.current_status || 'N/A',
