@@ -1,9 +1,8 @@
 import React, { Suspense } from 'react'
 import { BrowserRouter, Routes, Route, useLocation } from 'react-router-dom'
-import Home from './pages/Home'
-import Navbar from './components/Navbar'
-
 import LoadingSpinner from './components/LoadingSpinner';
+import Home from './pages/Home';
+import Navbar from './components/Navbar';
 
 // Lazy Load Pages for Performance
 const SearchResults = React.lazy(() => import('./pages/SearchResults'));

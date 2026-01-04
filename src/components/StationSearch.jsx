@@ -95,6 +95,7 @@ const StationSearch = ({ label, placeholder, value, onChange, icon: Icon }) => {
                         value={search}
                         onChange={handleInput}
                         onFocus={() => setIsOpen(true)}
+                        aria-label={label}
                         style={{
                             width: '100%',
                             background: 'transparent',

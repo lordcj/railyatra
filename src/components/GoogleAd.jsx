@@ -104,11 +104,11 @@ const GoogleAd = ({
 
     // Real AdSense ad (will result in 400 on localhost, which is correct)
     return (
-        <div style={{ marginBottom: '20px', ...style }}>
+        <div style={{ marginBottom: '20px', minHeight: '100px', ...style }}>
             <ins
                 ref={adRef}
                 className="adsbygoogle"
-                style={{ display: 'block' }}
+                style={{ display: 'block', minHeight: '100px' }}
                 data-ad-client={clientId}
                 data-ad-slot={slot}
                 data-ad-format={format}
