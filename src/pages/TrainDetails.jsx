@@ -61,7 +61,7 @@ const NonHaltStationsGroup = ({ stations, isExpanded, onToggle }) => {
     if (stations.length === 0) return null;
 
     return (
-        <div style={{ marginLeft: '66px', marginBottom: '16px' }}>
+        <div style={{ marginLeft: '60px', marginBottom: '16px' }}>
             {/* Collapsible Header */}
             <div
                 onClick={onToggle}
@@ -144,12 +144,12 @@ const NonHaltStationsGroup = ({ stations, isExpanded, onToggle }) => {
 
 // Component for displaying a halt station
 const HaltStationCard = ({ stop, isLast, trainData }) => (
-    <div style={{ display: 'flex', gap: '16px', marginBottom: '0', position: 'relative' }}>
+    <div style={{ display: 'flex', gap: '8px', marginBottom: '0', position: 'relative' }}>
         {/* Thread Line */}
         {!isLast && (
             <div style={{
                 position: 'absolute',
-                left: '59px',
+                left: '50px',
                 top: '32px',
                 bottom: '-12px',
                 width: '3px',
@@ -158,7 +158,7 @@ const HaltStationCard = ({ stop, isLast, trainData }) => (
         )}
 
         {/* Time Column */}
-        <div style={{ width: '50px', paddingTop: '4px', textAlign: 'right' }}>
+        <div style={{ width: '42px', paddingTop: '4px', textAlign: 'right' }}>
             <div style={{ fontWeight: 600, fontSize: '14px' }}>{stop.scheduledTime}</div>
             <div style={{ fontSize: '10px', color: 'var(--text-secondary)', marginTop: '2px' }}>{stop.date}</div>
         </div>
@@ -294,7 +294,7 @@ const TrainPositionIndicator = ({ fromStation, toStation, trainData }) => {
 
     return (
         <div style={{
-            marginLeft: '66px',
+            marginLeft: '60px',
             marginBottom: '20px',
             position: 'relative',
             zIndex: 5
