@@ -75,7 +75,7 @@ function AppContent() {
                         <Route path="/pnr/:pnrNumber" element={<PNRStatus />} />
                         {/* SEO: Live status with optional train number */}
                         <Route path="/live" element={<LiveTrainStatus />} />
-                        <Route path="/live/:trainNumber" element={<LiveTrainStatus />} />
+                        <Route path="/live/:trainNo" element={<TrainDetails />} />
                         <Route path="/privacy" element={<Privacy />} />
                     </Routes>
                 </Suspense>
