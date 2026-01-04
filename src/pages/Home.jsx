@@ -103,11 +103,29 @@ const Home = () => {
 
     return (
         <div className="fade-in" style={{ padding: '20px' }}>
-            {/* Header */}
+            {/* Header with Logo */}
             <header style={{ marginBottom: '32px', marginTop: '12px' }}>
-                <h1 style={{ fontSize: '32px', fontWeight: 800, marginBottom: '6px', letterSpacing: '-0.02em' }}>
-                    Hello, <span className="text-gradient">Traveler</span>
-                </h1>
+                <div style={{ display: 'flex', alignItems: 'center', gap: '12px', marginBottom: '16px' }}>
+                    <img
+                        src="/logo.png"
+                        alt="RailYatra"
+                        style={{
+                            width: '48px',
+                            height: '48px',
+                            borderRadius: '12px',
+                            objectFit: 'cover'
+                        }}
+                    />
+                    <div>
+                        <h1 style={{ fontSize: '24px', fontWeight: 800, letterSpacing: '-0.02em', margin: 0 }}>
+                            <span className="text-gradient">RailYatra</span>
+                        </h1>
+                        <p style={{ color: 'var(--text-secondary)', fontSize: '12px', fontWeight: 500, margin: 0 }}>Indian Railway Companion</p>
+                    </div>
+                </div>
+                <h2 style={{ fontSize: '28px', fontWeight: 700, marginBottom: '4px', letterSpacing: '-0.01em' }}>
+                    Hello, <span style={{ color: 'var(--text-primary)' }}>Traveler</span> 👋
+                </h2>
                 <p style={{ color: 'var(--text-secondary)', fontSize: '15px', fontWeight: 500 }}>Where is your next journey?</p>
             </header>
 
