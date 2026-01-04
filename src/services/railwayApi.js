@@ -52,7 +52,11 @@ export const getPNRStatus = async (pnrNumber) => {
 
     try {
         console.log('🚀 Using ConfirmTkt API for PNR status');
-        const url = `https://www.confirmtkt.com/api/pnr/status/${pnrNumber}`;
+        // Use proxy on localhost to bypass CORS, direct URL on production
+        const isLocalhost = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
+        const url = isLocalhost
+            ? `/api/confirmtkt/${pnrNumber}`
+            : `https://www.confirmtkt.com/api/pnr/status/${pnrNumber}`;
         const response = await fetch(url);
 
         if (!response.ok) {
