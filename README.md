@@ -13,6 +13,7 @@ A modern, fast, and beautiful Progressive Web App (PWA) for checking Indian Rail
 - 💰 **Ad-Supported** - Free to use, supported by Google AdSense
 - ⚡ **Lightning Fast** - Aggressive caching for instant results
 - 🌐 **PWA** - Install on your phone like a native app
+- 📈 **User Analytics** - Metrics tracking via Google Analytics 4
 
 ## Tech Stack
 
@@ -55,6 +56,7 @@ Copy `.env.example` to `.env` and configure:
 ```env
 VITE_RAILWAY_API_BASE_URL=https://indianrailapi.com/api/v2
 VITE_ADSENSE_CLIENT_ID=ca-pub-YOUR_ACTUAL_ID
+VITE_GA_MEASUREMENT_ID=G-XXXXXXXXXX
 ```
 
 ## Monetization
