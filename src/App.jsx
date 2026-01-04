@@ -1,5 +1,5 @@
 import React from 'react'
-import { HashRouter, Routes, Route, useLocation } from 'react-router-dom'
+import { BrowserRouter, Routes, Route, useLocation } from 'react-router-dom'
 import Home from './pages/Home'
 import Navbar from './components/Navbar'
 
@@ -61,9 +61,15 @@ function AppContent() {
                     <Route path="/" element={<Home />} />
                     <Route path="/trains" element={<SearchResults />} />
                     <Route path="/search-train" element={<TrainSearch />} />
+                    {/* SEO: Train details with clean URL */}
+                    <Route path="/train/:trainNo" element={<TrainDetails />} />
                     <Route path="/train-details/:trainNo" element={<TrainDetails />} />
+                    {/* SEO: PNR with optional direct lookup */}
                     <Route path="/pnr" element={<PNRStatus />} />
+                    <Route path="/pnr/:pnrNumber" element={<PNRStatus />} />
+                    {/* SEO: Live status with optional train number */}
                     <Route path="/live" element={<LiveTrainStatus />} />
+                    <Route path="/live/:trainNumber" element={<LiveTrainStatus />} />
                     <Route path="/privacy" element={<Privacy />} />
                 </Routes>
 
@@ -86,9 +92,9 @@ function AppContent() {
 
 function App() {
     return (
-        <HashRouter>
+        <BrowserRouter>
             <AppContent />
-        </HashRouter>
+        </BrowserRouter>
     )
 }
 

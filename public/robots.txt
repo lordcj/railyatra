@@ -1,0 +1,17 @@
+# RailYatra - Indian Railway PNR & Train Status
+# https://railyatra.co.in
+
+User-agent: *
+Allow: /
+
+# High-priority pages
+Allow: /pnr
+Allow: /live
+Allow: /train/
+Allow: /search-train
+
+# Sitemap location
+Sitemap: https://railyatra.co.in/sitemap.xml
+
+# Crawl delay for polite crawling
+Crawl-delay: 1

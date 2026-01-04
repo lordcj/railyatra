@@ -2,7 +2,59 @@ import React, { useState, useEffect } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { ArrowLeft, MapPin, MoreVertical, Clock, AlertCircle, ChevronDown, ChevronRight } from 'lucide-react';
 import GoogleAd from '../components/GoogleAd';
+import SEOHead from '../components/SEOHead';
 import { getTrainSchedule } from '../services/railwayApi';
+
+// Helper to generate TrainTrip Schema
+const getTrainJsonLd = (trainData) => {
+    if (!trainData) return null;
+
+    return {
+        "@context": "https://schema.org",
+        "@graph": [
+            {
+                "@type": "TrainTrip",
+                "trainName": trainData.trainName,
+                "trainNumber": trainData.trainNo,
+                "departureStation": {
+                    "@type": "TrainStation",
+                    "name": trainData.fromStationName || trainData.fromStation || "Origin"
+                },
+                "arrivalStation": {
+                    "@type": "TrainStation",
+                    "name": trainData.toStationName || trainData.toStation || "Destination"
+                },
+                "departureTime": trainData.departureTime,
+                "arrivalTime": trainData.arrivalTime,
+                "provider": {
+                    "@type": "Organization",
+                    "name": "Indian Railways"
+                }
+            },
+            {
+                "@type": "FAQPage",
+                "mainEntity": [
+                    {
+                        "@type": "Question",
+                        "name": `What are the running days of ${trainData.trainNo} ${trainData.trainName}?`,
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": `${trainData.trainName} (${trainData.trainNo}) runs on ${trainData.runningDays || 'Scheduled days'}. Check the full schedule for details.`
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": `How many stops does ${trainData.trainNo} have?`,
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": `${trainData.trainName} has ${trainData.stations?.length || 'several'} stops on its route from ${trainData.fromStationName || 'Origin'} to ${trainData.toStationName || 'Destination'}.`
+                        }
+                    }
+                ]
+            }
+        ]
+    };
+};
 
 // Component for displaying a collapsible group of non-halt stations
 const NonHaltStationsGroup = ({ stations, isExpanded, onToggle }) => {
@@ -589,9 +641,33 @@ const TrainDetails = () => {
 
     const trainPositionIndex = findTrainPositionInsertIndex();
 
+    // Generate FAQ data dynamically
+    const trainFaqs = trainData ? [
+        {
+            question: `What are the running days of ${trainData.trainNo} ${trainData.trainName}?`,
+            answer: `${trainData.trainName} runs on ${trainData.runningDays || 'scheduled days of the week'}. Please check the detailed timetable above for exact timings.`
+        },
+        {
+            question: `How many stops does ${trainData.trainNo} have?`,
+            answer: `${trainData.trainName} stops at ${trainData.stations?.filter(s => s.isHalt).length || 'several'} stations between ${trainData.fromStationName || 'Origin'} and ${trainData.toStationName || 'Destination'}.`
+        },
+        {
+            question: `What is the departure time of ${trainData.trainName} from ${trainData.fromStationName}?`,
+            answer: `The train departs from ${trainData.fromStationName} at ${trainData.departureTime} and arrives at ${trainData.toStationName} at ${trainData.arrivalTime}.`
+        }
+    ] : [];
 
     return (
         <div className="fade-in" style={{ paddingBottom: '100px' }}>
+            {/* Dynamic SEO Meta Tags */}
+            <SEOHead
+                title={trainData ? `${trainData.trainNo} ${trainData.trainName} - Schedule & Route | RailYatra` : 'Train Schedule & Route Information | RailYatra'}
+                description={trainData ? `${trainData.trainName} (${trainData.trainNo}) route, schedule, status and time table. Check stops, arrival/departure times, and running days at RailYatra.` : 'Check Indian Railways train schedule, route, and running status.'}
+                keywords={`train schedule, ${trainData ? `${trainData.trainNo}, ${trainData.trainName},` : ''} train route, time table, indian railway`}
+                canonical={`https://railyatra.co.in/train/${trainNo}`}
+                jsonLd={getTrainJsonLd(trainData)}
+            />
+
             {/* Sticky Navbar */}
             <div style={{
                 position: 'sticky',
@@ -704,6 +780,8 @@ const TrainDetails = () => {
                     return elements;
                 })}
             </div>
+
+            {/* Visual FAQ Section - Removed as per user request */}
         </div>
     );
 };

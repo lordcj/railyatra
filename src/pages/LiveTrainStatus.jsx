@@ -1,9 +1,12 @@
 import { useState, useEffect } from 'react';
+import { useParams } from 'react-router-dom';
 import { getLiveTrainStatus } from '../services/railRadarApi';
+import SEOHead from '../components/SEOHead';
 import '../styles/LiveTrainStatus.css';
 
 export default function LiveTrainStatus() {
-    const [trainNumber, setTrainNumber] = useState('');
+    const { trainNumber: urlTrainNumber } = useParams();
+    const [trainNumber, setTrainNumber] = useState(urlTrainNumber || '');
     const [loading, setLoading] = useState(false);
     const [error, setError] = useState('');
     const [trainData, setTrainData] = useState(null);
@@ -12,6 +15,28 @@ export default function LiveTrainStatus() {
     useEffect(() => {
         window.scrollTo(0, 0);
     }, []);
+
+    // Auto-search if train number is in URL
+    useEffect(() => {
+        if (urlTrainNumber && urlTrainNumber.length >= 4) {
+            handleSearchDirect(urlTrainNumber);
+        }
+    }, [urlTrainNumber]);
+
+    const handleSearchDirect = async (number) => {
+        if (!number) return;
+        setLoading(true);
+        setError('');
+        setTrainData(null);
+        try {
+            const data = await getLiveTrainStatus(number);
+            setTrainData(data);
+        } catch (err) {
+            setError(err.message || 'Unable to fetch live train status');
+        } finally {
+            setLoading(false);
+        }
+    };
 
     const handleSearch = async (e) => {
         e.preventDefault();
@@ -40,8 +65,40 @@ export default function LiveTrainStatus() {
         return `${delay} min ${delay > 0 ? 'late' : 'early'}`;
     };
 
+    // Dynamic SEO Data
+    const seoTitle = trainData
+        ? `Live Status: ${trainData.trainName} (${trainData.trainNumber}) - RailYatra`
+        : 'Live Train Running Status - Track Train Position | RailYatra';
+
+    const seoDesc = trainData
+        ? `Check live running status of ${trainData.trainName} (${trainData.trainNumber}). Current location: ${trainData.liveData.currentPosition}. Delay: ${formatDelay(trainData.liveData.delay)}.`
+        : 'Track live train status, current position, delay updates, and expected arrival time for any Indian Railways train. Real-time updates powered by RailRadar.';
+
+    // Static FAQs for Live Status
+    const liveFaqs = [
+        {
+            question: "How accurate is the live train status?",
+            answer: "RailYatra uses real-time GPS tracking data from RailRadar to provide the most accurate live train status updates, usually delayed by only a few minutes."
+        },
+        {
+            question: "Can I track any train in India?",
+            answer: "Yes, you can track the live status of any scheduled Indian Railways train by entering its 5-digit number or name."
+        },
+        {
+            question: "What does 'Last Updated' mean?",
+            answer: "The 'Last Updated' time indicates when the train's location was last reported to the system. If it's old, the train might be in a no-network zone."
+        }
+    ];
+
     return (
         <div className="live-train-status-page">
+            <SEOHead
+                title={seoTitle}
+                description={seoDesc}
+                keywords={`live train status, train running status, ${trainData ? `${trainData.trainNumber} live status, ${trainData.trainName} running status,` : ''} where is my train, rail radar`}
+                canonical={`https://railyatra.co.in/live${trainNumber ? `/${trainNumber}` : ''}`}
+            />
+
             <div className="live-status-container">
                 <div className="live-status-header">
                     <h1>🚂 Live Train Tracking</h1>
@@ -153,7 +210,7 @@ export default function LiveTrainStatus() {
                     </div>
                 )}
 
-                {!trainData && !loading && !error && (
+                {trainData && !loading && !error && (
                     <div className="live-placeholder">
                         <div className="placeholder-icon">🔍</div>
                         <h3>Track Your Train in Real-Time</h3>

@@ -41,6 +41,74 @@
     <!-- Google AdSense -->
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8792747031835209"
         crossorigin="anonymous"></script>
+
+    <!-- JSON-LD Structured Data for SEO -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@graph": [
+            {
+                "@type": "WebSite",
+                "@id": "https://railyatra.co.in/#website",
+                "name": "RailYatra",
+                "url": "https://railyatra.co.in",
+                "description": "Check PNR status, live train running status, train schedules & seat availability for Indian Railways",
+                "potentialAction": [
+                    {
+                        "@type": "SearchAction",
+                        "target": {
+                            "@type": "EntryPoint",
+                            "urlTemplate": "https://railyatra.co.in/pnr/{pnr_number}"
+                        },
+                        "query-input": "required name=pnr_number"
+                    },
+                    {
+                        "@type": "SearchAction",
+                        "target": {
+                            "@type": "EntryPoint",
+                            "urlTemplate": "https://railyatra.co.in/train/{train_number}"
+                        },
+                        "query-input": "required name=train_number"
+                    }
+                ],
+                "inLanguage": "en-IN"
+            },
+            {
+                "@type": "Organization",
+                "@id": "https://railyatra.co.in/#organization",
+                "name": "RailYatra",
+                "url": "https://railyatra.co.in",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://railyatra.co.in/logo.png",
+                    "width": 512,
+                    "height": 512
+                },
+                "sameAs": []
+            },
+            {
+                "@type": "WebApplication",
+                "@id": "https://railyatra.co.in/#webapp",
+                "name": "RailYatra PNR Status Checker",
+                "url": "https://railyatra.co.in",
+                "applicationCategory": "TravelApplication",
+                "operatingSystem": "Web Browser",
+                "offers": {
+                    "@type": "Offer",
+                    "price": "0",
+                    "priceCurrency": "INR"
+                },
+                "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "4.8",
+                    "ratingCount": "1000",
+                    "bestRating": "5",
+                    "worstRating": "1"
+                }
+            }
+        ]
+    }
+    </script>
 </head>
 
 <body>

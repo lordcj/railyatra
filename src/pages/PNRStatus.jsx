@@ -1,13 +1,88 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
+import { useParams, Link } from 'react-router-dom';
 import { Search, Hash, Clock, AlertCircle, ArrowRight, Train } from 'lucide-react';
 import GoogleAd from '../components/GoogleAd';
+import SEOHead from '../components/SEOHead';
+import FAQSection from '../components/FAQSection';
 import { getPNRStatus } from '../services/railwayApi';
 
+// JSON-LD Schema for PNR page with FAQ
+const getPnrJsonLd = () => ({
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "WebApplication",
+            "name": "RailYatra PNR Status Checker",
+            "url": "https://railyatra.co.in/pnr",
+            "applicationCategory": "TravelApplication",
+            "operatingSystem": "Web Browser",
+            "description": "Check your Indian Railways PNR status instantly. Get real-time updates on ticket confirmation, berth allocation, and coach details.",
+            "offers": {
+                "@type": "Offer",
+                "price": "0",
+                "priceCurrency": "INR"
+            }
+        },
+        {
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "What is PNR number?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "PNR (Passenger Name Record) is a unique 10-digit number assigned to every train ticket booked through Indian Railways. It contains all your journey details including passenger names, train number, boarding station, and ticket status."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "How to check PNR status?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Enter your 10-digit PNR number in the search box above and click 'Check Status'. You'll instantly see your ticket confirmation status, berth details, and coach number."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "What does CNF, RAC, and WL mean in PNR status?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "CNF means Confirmed (you have a reserved seat), RAC means Reservation Against Cancellation (you may need to share a berth), WL means Waitlist (no seat assigned yet, waiting for cancellations)."
+                    }
+                }
+            ]
+        }
+    ]
+});
+
 const PNRStatus = () => {
-    const [pnr, setPnr] = useState('');
+    const { pnrNumber } = useParams(); // Get PNR from URL if available
+    const [pnr, setPnr] = useState(pnrNumber || '');
     const [result, setResult] = useState(null);
     const [loading, setLoading] = useState(false);
     const [error, setError] = useState(null);
+
+    // Auto-fetch if PNR comes from URL
+    useEffect(() => {
+        if (pnrNumber && pnrNumber.length === 10) {
+            handleSearchDirect(pnrNumber);
+        }
+    }, [pnrNumber]);
+
+    const handleSearchDirect = async (pnrValue) => {
+        setLoading(true);
+        setError(null);
+        setResult(null);
+        try {
+            const data = await getPNRStatus(pnrValue);
+            setResult(data);
+        } catch (err) {
+            setError(err.message || 'Failed to fetch PNR status');
+        } finally {
+            setLoading(false);
+        }
+    };
+
 
     // Validation state
     const isValidLength = pnr.length === 10;
@@ -53,9 +128,18 @@ const PNRStatus = () => {
 
     return (
         <div className="fade-in" style={{ padding: '20px' }}>
-            <h2 style={{ fontSize: '24px', fontWeight: 700, marginBottom: '24px', marginTop: '12px' }}>
+            {/* SEO Meta Tags */}
+            <SEOHead
+                title="Check PNR Status Online - Indian Railway PNR Enquiry | RailYatra"
+                description="Instant PNR status check for Indian Railways IRCTC tickets. Get real-time confirmation status, berth details, coach number & waiting list position. Free & fast PNR enquiry."
+                keywords="PNR status, check PNR, IRCTC PNR status, Indian railway PNR, PNR enquiry, train ticket status, CNF RAC WL status"
+                canonical="https://railyatra.co.in/pnr"
+                jsonLd={getPnrJsonLd()}
+            />
+
+            <h1 style={{ fontSize: '24px', fontWeight: 700, marginBottom: '24px', marginTop: '12px' }}>
                 PNR <span className="text-gradient">Status</span>
-            </h2>
+            </h1>
 
             {/* Top Ad - High engagement area */}
             <GoogleAd slot="pnr-top-banner" format="horizontal" />
@@ -242,6 +326,22 @@ const PNRStatus = () => {
                     </div>
                 </div>
             )}
+
+            {/* Visual FAQ Section */}
+            <FAQSection faqs={[
+                {
+                    question: "What is PNR number?",
+                    answer: "PNR (Passenger Name Record) is a unique 10-digit number assigned to every train ticket booked through Indian Railways. It contains all your journey details including passenger names, train number, boarding station, and ticket status."
+                },
+                {
+                    question: "How to check PNR status?",
+                    answer: "Enter your 10-digit PNR number in the search box above and click 'Check Status'. You'll instantly see your ticket confirmation status, berth details, and coach number."
+                },
+                {
+                    question: "What does CNF, RAC, and WL mean?",
+                    answer: "CNF means Confirmed (you have a reserved seat). RAC means Reservation Against Cancellation (you may need to share a berth). WL means Waitlist (no seat assigned yet, waiting for cancellations)."
+                }
+            ]} />
         </div>
     );
 };
