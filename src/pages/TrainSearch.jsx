@@ -1,10 +1,15 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { Search, Clock, ArrowRight, Train } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
 
 const TrainSearch = () => {
     const navigate = useNavigate();
     const [trainNo, setTrainNo] = useState('');
+
+    // Scroll to top when component mounts
+    useEffect(() => {
+        window.scrollTo(0, 0);
+    }, []);
 
     const handleSearch = (e) => {
         e.preventDefault();

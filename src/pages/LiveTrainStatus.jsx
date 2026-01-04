@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { getLiveTrainStatus } from '../services/railRadarApi';
 import '../styles/LiveTrainStatus.css';
 
@@ -7,6 +7,11 @@ export default function LiveTrainStatus() {
     const [loading, setLoading] = useState(false);
     const [error, setError] = useState('');
     const [trainData, setTrainData] = useState(null);
+
+    // Scroll to top when component mounts
+    useEffect(() => {
+        window.scrollTo(0, 0);
+    }, []);
 
     const handleSearch = async (e) => {
         e.preventDefault();

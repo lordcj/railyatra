@@ -116,20 +116,40 @@ export const searchTrains = async (fromStation, toStation, date = null) => {
         console.log('🚀 Using RailRadar API for train search');
         const trains = await RailRadar.getTrainsBetweenStations(fromStation, toStation, date);
 
-        const result = trains.map(train => ({
-            id: train.trainNumber,
-            name: train.trainName,
-            number: train.trainNumber,
-            depTime: train.departureTime,
-            arrTime: train.arrivalTime,
-            duration: train.duration,
-            price: '1,500', // Default price
-            availability: [
-                { type: 'SL', status: 'AVL 120', selected: false },
-                { type: '3A', status: 'AVL 45', selected: false },
-                { type: '2A', status: 'RAC 5', selected: false }
-            ]
-        }));
+        const result = trains.map(train => {
+            // Map RailRadar classes to UI availability format with mock counts
+            const defaultClasses = ['SL', '3A', '2A', 'CC'];
+            const trainClasses = train.classes || defaultClasses;
+
+            const availability = trainClasses.map(cls => {
+                const type = cls.toUpperCase().trim();
+                // Generate realistic mock counts
+                let status = 'AVL 200';
+                if (type === '1A') status = 'AVAILABLE 0022';
+                else if (type === '2A') status = 'AVAILABLE 0045';
+                else if (type === '3A') status = 'AVAILABLE 0120';
+                else if (type === 'SL') status = 'WL 12';
+                else if (type === 'CC') status = 'AVAILABLE 0068';
+
+                return {
+                    type,
+                    status,
+                    selected: false
+                };
+            });
+
+            return {
+                id: train.trainNumber,
+                name: train.trainName,
+                number: train.trainNumber,
+                depTime: train.departureTime,
+                arrTime: train.arrivalTime,
+                duration: train.duration,
+                price: '1,500', // Placeholder
+                availability,
+                runningDays: train.daysRunning || 'S M T W T F S'
+            };
+        });
 
         setCache(cacheKey, result);
         return result;

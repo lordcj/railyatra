@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Search, Train, Calendar, MapPin, ArrowRight, Utensils, AlertCircle } from 'lucide-react';
+import { Train, Calendar, MapPin, Utensils, AlertCircle, IndianRupee } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
 import GoogleAd from '../components/GoogleAd';
 
@@ -35,16 +35,57 @@ import StationSearch from '../components/StationSearch';
 
 const Home = () => {
     const navigate = useNavigate();
+    const [selectedDate, setSelectedDate] = useState(new Date().toISOString().split('T')[0]);
     const [fromStation, setFromStation] = useState('');
     const [toStation, setToStation] = useState('');
+    const [selectedClass, setSelectedClass] = useState('ALL');
+
+    // Handle Order Food - Redirect to IRCTC e-Catering
+    const handleOrderFood = () => {
+        window.open('https://www.ecatering.irctc.co.in/', '_blank');
+    };
+
+    // Handle Fare Enquiry - Redirect to IRCTC fare calculator
+    const handleFareEnquiry = () => {
+        window.open('https://www.irctc.co.in/nget/train-search', '_blank');
+    };
 
     const handleSearch = (e) => {
         e.preventDefault();
+
+        // Handle Search by Train Number
+        const trainNumberRegex = /^\d{5}$/;
+        if (trainNumberRegex.test(fromStation.trim())) {
+            navigate(`/train-details/${fromStation.trim()}`);
+            return;
+        }
+
         if (fromStation && toStation) {
-            // Pass search params to results page
-            navigate(`/trains?from=${encodeURIComponent(fromStation)}&to=${encodeURIComponent(toStation)}`);
+            // Pass search params to results page including date and class
+            navigate(`/trains?from=${encodeURIComponent(fromStation)}&to=${encodeURIComponent(toStation)}&date=${selectedDate}&class=${selectedClass}`);
         }
     };
+
+    const FilterButton = ({ label, value }) => (
+        <button
+            type="button"
+            onClick={() => setSelectedClass(value)}
+            style={{
+                background: selectedClass === value ? 'var(--accent-color)' : 'rgba(255,255,255,0.05)',
+                color: selectedClass === value ? 'white' : 'var(--text-secondary)',
+                border: 'none',
+                padding: '8px 16px',
+                borderRadius: '12px',
+                fontSize: '13px',
+                fontWeight: 600,
+                cursor: 'pointer',
+                transition: 'all 0.2s',
+                flex: 1
+            }}
+        >
+            {label}
+        </button>
+    );
 
     return (
         <div className="fade-in" style={{ padding: '20px' }}>
@@ -61,8 +102,8 @@ const Home = () => {
                 <form onSubmit={handleSearch} style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
 
                     <StationSearch
-                        label="From Station"
-                        placeholder="Enter Source Code/Name"
+                        label="From (or Train #)"
+                        placeholder="Station Code/Name or 5-digit #"
                         value={fromStation}
                         onChange={setFromStation}
                         icon={MapPin}
@@ -76,12 +117,40 @@ const Home = () => {
                         icon={MapPin}
                     />
 
-                    <div style={{ display: 'flex', alignItems: 'center', gap: '12px', paddingBottom: '12px' }}>
-                        <Calendar size={20} color="var(--text-secondary)" />
-                        <span style={{ color: 'var(--text-primary)', fontSize: '16px' }}>Today, 03 Jan</span>
+                    <div style={{ display: 'flex', alignItems: 'center', gap: '12px', paddingBottom: '12px', borderBottom: '1px solid rgba(255,255,255,0.05)' }}>
+                        <Calendar size={20} color="var(--accent-color)" />
+                        <div style={{ display: 'flex', flexDirection: 'column', flex: 1 }}>
+                            <span style={{ fontSize: '10px', color: 'var(--text-secondary)', marginBottom: '2px' }}>Journey Date</span>
+                            <input
+                                type="date"
+                                value={selectedDate}
+                                onChange={(e) => setSelectedDate(e.target.value)}
+                                min={new Date().toISOString().split('T')[0]}
+                                style={{
+                                    background: 'transparent',
+                                    border: 'none',
+                                    color: 'var(--text-primary)',
+                                    fontSize: '16px',
+                                    fontFamily: 'inherit',
+                                    outline: 'none',
+                                    cursor: 'pointer',
+                                    width: '100%'
+                                }}
+                            />
+                        </div>
                     </div>
 
-                    <button type="submit" className="btn-primary" style={{ marginTop: '8px' }}>
+                    <div style={{ display: 'flex', flexDirection: 'column', gap: '8px' }}>
+                        <span style={{ fontSize: '10px', color: 'var(--text-secondary)' }}>Travel Class</span>
+                        <div style={{ display: 'flex', gap: '8px' }}>
+                            <FilterButton label="All" value="ALL" />
+                            <FilterButton label="AC" value="AC" />
+                            <FilterButton label="SL" value="SL" />
+                            <FilterButton label="GN" value="GENERAL" />
+                        </div>
+                    </div>
+
+                    <button type="submit" className="btn-primary" style={{ marginTop: '12px' }}>
                         Search Trains
                     </button>
                 </form>
@@ -114,25 +183,14 @@ const Home = () => {
                     icon={Utensils}
                     label="Order Food"
                     color="251, 146, 60" // Orange
-                    onClick={() => { }}
+                    onClick={handleOrderFood}
                 />
                 <QuickAction
-                    icon={Search}
-                    label="Seat Layout"
+                    icon={IndianRupee}
+                    label="Fare Enquiry"
                     color="168, 85, 247" // Purple
-                    onClick={() => { }}
+                    onClick={handleFareEnquiry}
                 />
-            </div>
-
-            {/* Recent / Promo */}
-            <div className="glass-panel" style={{ padding: '20px', display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
-                <div>
-                    <h4 style={{ fontWeight: 600, marginBottom: '4px' }}>Vande Bharat Special</h4>
-                    <p style={{ fontSize: '12px', color: 'var(--text-secondary)' }}>Experience world-class travel</p>
-                </div>
-                <div style={{ background: 'rgba(255,255,255,0.1)', padding: '8px', borderRadius: '50%' }}>
-                    <ArrowRight size={20} />
-                </div>
             </div>
         </div>
     );

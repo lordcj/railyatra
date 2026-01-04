@@ -128,7 +128,7 @@ const StationSearch = ({ label, placeholder, value, onChange, icon: Icon }) => {
 
             {/* Dropdown Results */}
             {isOpen && search.length > 0 && filteredStations.length > 0 && (
-                <div className="glass-panel" style={{
+                <div style={{
                     position: 'absolute',
                     top: '100%',
                     left: 0,
@@ -136,9 +136,12 @@ const StationSearch = ({ label, placeholder, value, onChange, icon: Icon }) => {
                     marginTop: '8px',
                     maxHeight: '300px',
                     overflowY: 'auto',
-                    zIndex: 50,
+                    zIndex: 2000,
                     padding: '8px',
-                    boxShadow: '0 10px 25px rgba(0,0,0,0.5)'
+                    boxShadow: '0 10px 25px rgba(0,0,0,0.5)',
+                    background: '#1a1a1b', // Solid opaque color
+                    borderRadius: '12px',
+                    border: '1px solid rgba(255,255,255,0.1)'
                 }}>
                     {filteredStations.map((station) => (
                         <div
