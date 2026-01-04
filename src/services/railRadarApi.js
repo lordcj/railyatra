@@ -6,7 +6,62 @@
 
 const RAILRADAR_BASE = 'https://api.railradar.in/api/v1';
 const API_KEY = import.meta.env.VITE_RAILRADAR_API_KEY;
+const WEBHOOK_URL = import.meta.env.VITE_DISCORD_WEBHOOK_URL;
 const TIMEOUT = 15000;
+
+// Monitoring State
+let lastQuotaAlert = 0;
+let lastServerAlert = 0;
+let serverErrorCount = 0;
+let serverErrorWindowStart = 0;
+
+// Constants
+const QUOTA_COOLDOWN = 60 * 60 * 1000; // 1 Hour
+const SERVER_ALERT_COOLDOWN = 15 * 60 * 1000; // 15 Minutes
+const SERVER_ERROR_THRESHOLD = 3; // 3 errors...
+const SERVER_ERROR_WINDOW = 60 * 1000; // ...in 1 minute
+
+/**
+ * Send alert to Discord Webhook
+ */
+const notifyAdmin = async (type, details) => {
+    if (!WEBHOOK_URL) return;
+
+    const timestamp = new Date().toLocaleString('en-IN');
+    let title = '⚠️ RailTravel App Alert';
+    let color = 16776960; // Yellow
+
+    if (type === 'QUOTA') {
+        title = '🚨 API QUOTA EXCEEDED (429)';
+        color = 15548997; // Red
+    } else if (type === 'SERVER_DOWN') {
+        title = '🔥 SERVER INSTABILITY DETECTED (5xx)';
+        color = 15158332; // Red-Orange
+    }
+
+    const payload = {
+        embeds: [{
+            title: title,
+            color: color,
+            fields: [
+                { name: 'Time', value: timestamp, inline: true },
+                { name: 'Error', value: details.message || 'Unknown Error', inline: true },
+                { name: 'Endpoint', value: details.endpoint || 'Unknown', inline: false }
+            ],
+            footer: { text: "RailTravel Monitor System" }
+        }]
+    };
+
+    try {
+        await fetch(WEBHOOK_URL, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(payload)
+        });
+    } catch (e) {
+        console.error('Failed to send webhook:', e);
+    }
+};
 
 /**
  * Generic fetch with RailRadar authentication
@@ -34,7 +89,43 @@ const railRadarFetch = async (endpoint, options = {}) => {
 
         if (!response.ok) {
             const errorData = await response.json().catch(() => ({}));
-            throw new Error(errorData.message || `HTTP ${response.status}: ${response.statusText}`);
+            const errorMessage = errorData.message || `HTTP ${response.status}: ${response.statusText}`;
+
+            // --- Monitoring Logic ---
+            const now = Date.now();
+
+            // Handle 429 Quota Exceeded/Payment Required
+            if (response.status === 429 || response.status === 402) {
+                if (now - lastQuotaAlert > QUOTA_COOLDOWN) {
+                    notifyAdmin('QUOTA', { message: errorMessage, endpoint });
+                    lastQuotaAlert = now;
+                }
+            }
+            // Handle 5xx Server Errors
+            else if (response.status >= 500) {
+                // Reset window if passed
+                if (now - serverErrorWindowStart > SERVER_ERROR_WINDOW) {
+                    serverErrorCount = 0;
+                    serverErrorWindowStart = now;
+                }
+
+                serverErrorCount++;
+
+                if (serverErrorCount >= SERVER_ERROR_THRESHOLD) {
+                    if (now - lastServerAlert > SERVER_ALERT_COOLDOWN) {
+                        notifyAdmin('SERVER_DOWN', {
+                            message: `High failure rate detected (${serverErrorCount} errors in 1m). Last: ${errorMessage}`,
+                            endpoint
+                        });
+                        lastServerAlert = now;
+                        // Reset count after alert to avoid double triggering immediately
+                        serverErrorCount = 0;
+                    }
+                }
+            }
+            // ------------------------
+
+            throw new Error(errorMessage);
         }
 
         return await response.json();
