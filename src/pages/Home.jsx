@@ -54,6 +54,7 @@ const Home = () => {
     const [fromStation, setFromStation] = useState('');
     const [toStation, setToStation] = useState('');
     const [selectedClass, setSelectedClass] = useState('ALL');
+    const [searchMode, setSearchMode] = useState('STATION'); // 'STATION' | 'NUMBER'
 
     // Handle Order Food - Redirect to IRCTC e-Catering
     const handleOrderFood = () => {
@@ -68,15 +69,18 @@ const Home = () => {
     const handleSearch = (e) => {
         e.preventDefault();
 
-        // Handle Search by Train Number
-        const trainNumberRegex = /^\d{5}$/;
-        if (trainNumberRegex.test(fromStation.trim())) {
-            navigate(`/train-details/${fromStation.trim()}`);
+        if (searchMode === 'NUMBER') {
+            const trainNumberRegex = /^\d{5}$/;
+            if (trainNumberRegex.test(fromStation.trim())) {
+                navigate(`/train-details/${fromStation.trim()}`);
+            } else {
+                // simple alert or error handling if needed, though HTML5 validation helps
+                alert('Please enter a valid 5-digit number');
+            }
             return;
         }
 
         if (fromStation && toStation) {
-            // Pass search params to results page including date and class
             navigate(`/trains?from=${encodeURIComponent(fromStation)}&to=${encodeURIComponent(toStation)}&date=${selectedDate}&class=${selectedClass}`);
         }
     };
@@ -116,21 +120,87 @@ const Home = () => {
             <div className="glass-panel" style={{ padding: '24px', marginBottom: '32px' }}>
                 <form onSubmit={handleSearch} style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
 
-                    <StationSearch
-                        label="From (or Train #)"
-                        placeholder="Station Code/Name or 5-digit #"
-                        value={fromStation}
-                        onChange={setFromStation}
-                        icon={MapPin}
-                    />
+                    {/* Search Mode Toggle */}
+                    <div style={{ display: 'flex', background: 'rgba(255,255,255,0.05)', borderRadius: '12px', padding: '4px', marginBottom: '8px' }}>
+                        <button
+                            type="button"
+                            onClick={() => { setSearchMode('STATION'); setFromStation(''); }}
+                            style={{
+                                flex: 1,
+                                padding: '8px',
+                                border: 'none',
+                                borderRadius: '8px',
+                                background: searchMode === 'STATION' ? 'rgba(255,255,255,0.1)' : 'transparent',
+                                color: searchMode === 'STATION' ? 'white' : 'var(--text-secondary)',
+                                fontWeight: 600,
+                                fontSize: '13px',
+                                cursor: 'pointer',
+                                transition: 'all 0.2s'
+                            }}
+                        >
+                            By Station
+                        </button>
+                        <button
+                            type="button"
+                            onClick={() => { setSearchMode('NUMBER'); setFromStation(''); }}
+                            style={{
+                                flex: 1,
+                                padding: '8px',
+                                border: 'none',
+                                borderRadius: '8px',
+                                background: searchMode === 'NUMBER' ? 'rgba(255,255,255,0.1)' : 'transparent',
+                                color: searchMode === 'NUMBER' ? 'white' : 'var(--text-secondary)',
+                                fontWeight: 600,
+                                fontSize: '13px',
+                                cursor: 'pointer',
+                                transition: 'all 0.2s'
+                            }}
+                        >
+                            By Train No.
+                        </button>
+                    </div>
 
-                    <StationSearch
-                        label="To Station"
-                        placeholder="Enter Destination Code/Name"
-                        value={toStation}
-                        onChange={setToStation}
-                        icon={MapPin}
-                    />
+                    {searchMode === 'STATION' ? (
+                        <>
+                            <StationSearch
+                                label="From Station"
+                                placeholder="Station Code or Name"
+                                value={fromStation}
+                                onChange={setFromStation}
+                                icon={MapPin}
+                            />
+
+                            <StationSearch
+                                label="To Station"
+                                placeholder="Enter Destination Code/Name"
+                                value={toStation}
+                                onChange={setToStation}
+                                icon={MapPin}
+                            />
+                        </>
+                    ) : (
+                        <div style={{ display: 'flex', alignItems: 'center', gap: '12px', paddingBottom: '12px', borderBottom: '1px solid rgba(255,255,255,0.05)' }}>
+                            <Train size={20} color="var(--accent-color)" />
+                            <div style={{ display: 'flex', flexDirection: 'column', flex: 1 }}>
+                                <span style={{ fontSize: '10px', color: 'var(--text-secondary)', marginBottom: '2px' }}>Train Number</span>
+                                <input
+                                    type="number"
+                                    value={fromStation} /* reusing fromStation state for train number */
+                                    onChange={(e) => setFromStation(e.target.value)}
+                                    placeholder="Enter 5-digit number"
+                                    style={{
+                                        background: 'transparent',
+                                        border: 'none',
+                                        color: 'var(--text-primary)',
+                                        fontSize: '16px',
+                                        fontFamily: 'inherit',
+                                        outline: 'none',
+                                        width: '100%'
+                                    }}
+                                />
+                            </div>
+                        </div>
+                    )}
 
                     <div style={{ display: 'flex', alignItems: 'center', gap: '12px', paddingBottom: '12px', borderBottom: '1px solid rgba(255,255,255,0.05)' }}>
                         <Calendar size={20} color="var(--accent-color)" />
@@ -167,7 +237,7 @@ const Home = () => {
                     </div>
 
                     <button type="submit" className="btn-primary" style={{ marginTop: '12px' }}>
-                        Search Trains
+                        {searchMode === 'STATION' ? 'Search Trains' : 'Check Schedule'}
                     </button>
                 </form>
             </div>

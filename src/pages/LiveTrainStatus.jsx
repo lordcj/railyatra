@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react';
 import { useParams } from 'react-router-dom';
 import { getLiveTrainStatus } from '../services/railRadarApi';
 import SEOHead from '../components/SEOHead';
+import GoogleAd from '../components/GoogleAd';
 import '../styles/LiveTrainStatus.css';
 
 export default function LiveTrainStatus() {
@@ -223,6 +224,11 @@ export default function LiveTrainStatus() {
                         </div>
                     </div>
                 )}
+            </div>
+
+            {/* Bottom Ad */}
+            <div className="live-status-container" style={{ marginTop: '2rem' }}>
+                <GoogleAd slot="live-status-bottom" format="horizontal" />
             </div>
         </div>
     );

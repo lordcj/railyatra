@@ -708,8 +708,9 @@ const TrainDetails = () => {
                 padding: '0 20px 8px 20px',
                 marginTop: '-10px'
             }}>
-                <h1 style={{ fontSize: '24px', fontWeight: 700, marginBottom: '2px' }}>{trainData?.trainNo}</h1>
-                <p style={{ color: 'var(--accent-color)', fontWeight: 500, marginBottom: '0' }}>{trainData?.trainName}</p>
+                <h1 style={{ fontSize: '24px', fontWeight: 700, marginBottom: '2px' }}>
+                    {trainData?.trainNo} <span style={{ fontWeight: 400, opacity: 0.8 }}>- {trainData?.trainName}</span>
+                </h1>
                 <div style={{
                     display: 'flex',
                     gap: '12px',
