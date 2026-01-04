@@ -35,7 +35,7 @@ function AppContent() {
             }}>
                 <Link to="/" style={{ display: 'flex', alignItems: 'center', gap: '10px', textDecoration: 'none' }}>
                     <img
-                        src="/logo.png"
+                        src="/logo.svg"
                         alt="RailYatra"
                         width="28"
                         height="28"
