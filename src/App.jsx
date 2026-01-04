@@ -98,10 +98,16 @@ function AppContent() {
 }
 
 import ScrollToTop from './components/ScrollToTop'
+import { initGA } from './services/analytics';
+import AnalyticsTracker from './components/AnalyticsTracker';
+
+// Initialize GA4
+initGA();
 
 function App() {
     return (
         <BrowserRouter>
+            <AnalyticsTracker />
             <ScrollToTop />
             <AppContent />
         </BrowserRouter>
