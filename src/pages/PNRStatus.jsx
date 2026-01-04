@@ -9,11 +9,24 @@ const PNRStatus = () => {
     const [loading, setLoading] = useState(false);
     const [error, setError] = useState(null);
 
+    // Validation state
+    const isValidLength = pnr.length === 10;
+    const hasInput = pnr.length > 0;
+    const isInvalid = hasInput && !isValidLength;
+
+    // Handle input change - clear old results and errors
+    const handleInputChange = (e) => {
+        const value = e.target.value.replace(/\D/g, '').slice(0, 10); // Only digits, max 10
+        setPnr(value);
+        setError(null); // Clear error on input change
+        if (result) setResult(null); // Clear old result when user edits
+    };
+
     const handleSearch = async (e) => {
         e.preventDefault();
         if (pnr.length !== 10) {
             setError('PNR must be 10 digits');
-            setResult(null); // Clear old result when showing error
+            setResult(null);
             return;
         }
 
@@ -31,6 +44,13 @@ const PNRStatus = () => {
         }
     };
 
+    // Dynamic border color based on validation
+    const getBorderColor = () => {
+        if (!hasInput) return 'rgba(255,255,255,0.1)';
+        if (isValidLength) return 'rgba(16, 185, 129, 0.6)'; // Green for valid
+        return 'rgba(239, 68, 68, 0.6)'; // Red for invalid
+    };
+
     return (
         <div className="fade-in" style={{ padding: '20px' }}>
             <h2 style={{ fontSize: '24px', fontWeight: 700, marginBottom: '24px', marginTop: '12px' }}>
@@ -41,21 +61,32 @@ const PNRStatus = () => {
             <GoogleAd slot="pnr-top-banner" format="horizontal" />
 
             <form onSubmit={handleSearch} className="glass-panel" style={{ padding: '24px', marginBottom: '32px' }}>
-                <label style={{ fontSize: '12px', fontWeight: 600, color: 'var(--accent-color)', marginBottom: '8px', display: 'block', textTransform: 'uppercase', letterSpacing: '0.5px' }}>
-                    PNR Number
-                </label>
-                <div style={{ position: 'relative', marginBottom: '24px' }}>
-                    <Hash style={{ position: 'absolute', left: '16px', top: '16px', color: 'var(--text-secondary)' }} size={20} />
+                <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '8px' }}>
+                    <label style={{ fontSize: '12px', fontWeight: 600, color: 'var(--accent-color)', textTransform: 'uppercase', letterSpacing: '0.5px' }}>
+                        PNR Number
+                    </label>
+                    <span style={{
+                        fontSize: '11px',
+                        fontWeight: 600,
+                        color: isValidLength ? 'var(--success)' : isInvalid ? 'var(--error)' : 'var(--text-secondary)'
+                    }}>
+                        {pnr.length}/10
+                    </span>
+                </div>
+                <div style={{ position: 'relative', marginBottom: '16px' }}>
+                    <Hash style={{ position: 'absolute', left: '16px', top: '16px', color: isInvalid ? 'var(--error)' : 'var(--text-secondary)' }} size={20} />
                     <input
-                        type="number"
-                        placeholder="e.g. 4215678902"
+                        type="text"
+                        inputMode="numeric"
+                        pattern="[0-9]*"
+                        placeholder="e.g. 2447795565"
                         value={pnr}
-                        onChange={(e) => setPnr(e.target.value)}
+                        onChange={handleInputChange}
                         style={{
                             width: '100%',
                             padding: '16px 16px 16px 48px',
                             background: 'rgba(0,0,0,0.2)',
-                            border: '1px solid rgba(255,255,255,0.1)',
+                            border: `2px solid ${getBorderColor()}`,
                             borderRadius: '16px',
                             color: 'white',
                             fontSize: '18px',
@@ -66,6 +97,11 @@ const PNRStatus = () => {
                         }}
                         maxLength={10}
                     />
+                    {isInvalid && (
+                        <div style={{ fontSize: '11px', color: 'var(--error)', marginTop: '6px', paddingLeft: '4px' }}>
+                            Enter all 10 digits of your PNR
+                        </div>
+                    )}
                 </div>
                 <button
                     type="submit"
