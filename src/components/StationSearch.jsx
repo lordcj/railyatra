@@ -113,6 +113,7 @@ const StationSearch = ({ label, placeholder, value, onChange, icon: Icon }) => {
                     <button
                         onClick={clearSearch}
                         type="button" // Prevent form submission
+                        aria-label="Clear search"
                         style={{
                             background: 'none',
                             border: 'none',

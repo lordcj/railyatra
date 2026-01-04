@@ -20,7 +20,6 @@ const GoogleAd = ({
     const adRef = useRef(null);
     // Hardcoded fallback for your AdSense ID
     const clientId = import.meta.env.VITE_ADSENSE_CLIENT_ID || 'ca-pub-8792747031835209';
-    console.log('AdsDebug: Active AdSense Client ID:', clientId);
 
     useEffect(() => {
         // Only load ads if client ID is configured and not a placeholder
@@ -35,7 +34,7 @@ const GoogleAd = ({
                 (window.adsbygoogle = window.adsbygoogle || []).push({});
             }
         } catch (error) {
-            console.error('AdSense error:', error);
+            // Silently fail for ads
         }
     }, [clientId]);
 

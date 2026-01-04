@@ -51,7 +51,7 @@ export const getPNRStatus = async (pnrNumber) => {
     if (cached) return cached;
 
     try {
-        console.log('🚀 Using ConfirmTkt API for PNR status');
+        // console.log('🚀 Using ConfirmTkt API for PNR status');
         // Use proxy on localhost to bypass CORS, direct URL on production
         const isLocalhost = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
         const url = isLocalhost
@@ -96,7 +96,7 @@ export const getPNRStatus = async (pnrNumber) => {
         setCache(cacheKey, result);
         return result;
     } catch (error) {
-        console.error('❌ PNR API Error:', error);
+        // console.error('❌ PNR API Error:', error);
         throw new Error(`Unable to fetch PNR status: ${error.message}`);
     }
 };
@@ -120,7 +120,7 @@ export const searchTrains = async (fromStation, toStation, date = null) => {
     }
 
     try {
-        console.log('🚀 Using RailRadar API for train search');
+        // console.log('🚀 Using RailRadar API for train search');
         const trains = await RailRadar.getTrainsBetweenStations(fromStation, toStation, date);
 
         const result = trains.map(train => {
@@ -161,7 +161,7 @@ export const searchTrains = async (fromStation, toStation, date = null) => {
         setCache(cacheKey, result);
         return result;
     } catch (error) {
-        console.error('❌ RailRadar API Error:', error);
+        // console.error('❌ RailRadar API Error:', error);
         throw new Error(`Unable to fetch trains: ${error.message}`);
     }
 };
@@ -185,7 +185,7 @@ export const getTrainSchedule = async (trainNumber) => {
     }
 
     try {
-        console.log('🚀 Using RailRadar API for train schedule');
+        // console.log('🚀 Using RailRadar API for train schedule');
         const trainData = await RailRadar.getLiveTrainStatus(trainNumber);
 
         // Get journey start date
@@ -336,7 +336,7 @@ export const getTrainSchedule = async (trainNumber) => {
         setCache(cacheKey, result);
         return result;
     } catch (error) {
-        console.error('❌ RailRadar API Error:', error);
+        // console.error('❌ RailRadar API Error:', error);
         throw new Error(`Unable to fetch train schedule: ${error.message}`);
     }
 };
@@ -350,7 +350,7 @@ export const getLiveTrainStatus = async (trainNumber) => {
         throw new Error('RailRadar API key not configured. Please add VITE_RAILRADAR_API_KEY to your environment variables.');
     }
 
-    console.log('🚀 Using RailRadar API for live train status');
+    // console.log('🚀 Using RailRadar API for live train status');
     return await RailRadar.getLiveTrainStatus(trainNumber);
 };
 
@@ -363,7 +363,7 @@ export const getLiveStationBoard = async (stationCode) => {
         throw new Error('RailRadar API key not configured. Please add VITE_RAILRADAR_API_KEY to your environment variables.');
     }
 
-    console.log('🚀 Using RailRadar API for station board');
+    // console.log('🚀 Using RailRadar API for station board');
     return await RailRadar.getLiveStationBoard(stationCode);
 };
 

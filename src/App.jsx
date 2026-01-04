@@ -37,6 +37,8 @@ function AppContent() {
                     <img
                         src="/logo.png"
                         alt="RailYatra"
+                        width="28"
+                        height="28"
                         style={{
                             width: '28px',
                             height: '28px',

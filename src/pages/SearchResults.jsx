@@ -110,7 +110,7 @@ const SearchResults = () => {
     // Sync internal state with URL parameter for robust filtering
     useEffect(() => {
         const clsInUrl = (searchParams.get('class') || 'ALL').toUpperCase();
-        console.log('🔄 URL Sync Active. Filter is now:', clsInUrl);
+        // console.log('🔄 URL Sync Active. Filter is now:', clsInUrl);
         setSelectedClass(clsInUrl);
     }, [searchParams]);
 
@@ -120,13 +120,13 @@ const SearchResults = () => {
             setLoading(true);
             try {
                 const results = await searchTrains(fromStation, toStation, selectedDate);
-                console.log('🚄 Search Results Loaded:', results.length, 'trains found');
+                // console.log('🚄 Search Results Loaded:', results.length, 'trains found');
                 if (results.length > 0) {
-                    console.log('DEBUG: First train availability:', results[0].availability);
+                    // console.log('DEBUG: First train availability:', results[0].availability);
                 }
                 setTrains(results);
             } catch (err) {
-                console.error('API Error:', err);
+                // console.error('API Error:', err);
                 setError('Failed to fetch trains. Please try again.');
             } finally {
                 setLoading(false);
@@ -153,12 +153,12 @@ const SearchResults = () => {
         const trainClasses = train.availability.map(a => a.type.toUpperCase().trim());
         const filterVal = selectedClass.toUpperCase();
 
-        console.log(`Checking Train ${train.number}: classes=${JSON.stringify(trainClasses)}, filter=${filterVal}`);
+        // console.log(`Checking Train ${train.number}: classes=${JSON.stringify(trainClasses)}, filter=${filterVal}`);
 
         if (filterVal === 'AC') {
             const acPatterns = ['1A', '2A', '3A', '3E', 'CC', 'EC', 'AC', 'TIER', 'EXEC'];
             const match = trainClasses.some(cls => acPatterns.some(p => cls.includes(p)));
-            console.log(`  AC Match Result: ${match}`);
+            // console.log(`  AC Match Result: ${match}`);
             return match;
         }
 
@@ -198,7 +198,7 @@ const SearchResults = () => {
     return (
         <div className="fade-in" style={{ padding: '20px', paddingBottom: '100px' }}>
             <div style={{ display: 'flex', alignItems: 'center', gap: '16px', marginBottom: '24px', marginTop: '12px' }}>
-                <button onClick={() => navigate(-1)} style={{ background: 'none', border: 'none', color: 'white', cursor: 'pointer' }}>
+                <button onClick={() => navigate(-1)} aria-label="Go Back" style={{ background: 'none', border: 'none', color: 'white', cursor: 'pointer' }}>
                     <ArrowLeft size={24} />
                 </button>
                 <div>
