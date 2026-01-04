@@ -13,6 +13,7 @@ const PNRStatus = () => {
         e.preventDefault();
         if (pnr.length !== 10) {
             setError('PNR must be 10 digits');
+            setResult(null); // Clear old result when showing error
             return;
         }
 
