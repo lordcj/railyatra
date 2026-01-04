@@ -9,25 +9,39 @@ const QuickAction = ({ icon: Icon, label, color, onClick }) => (
         className="glass-panel"
         style={{
             border: 'none',
-            padding: '16px',
+            padding: '20px 16px',
             display: 'flex',
             flexDirection: 'column',
             alignItems: 'center',
-            gap: '12px',
+            gap: '14px',
             cursor: 'pointer',
             height: '100%',
-            width: '100%'
+            width: '100%',
+            transition: 'all 0.2s ease',
+            background: 'rgba(30, 41, 59, 0.6)'
         }}
+        onMouseOver={(e) => e.currentTarget.style.transform = 'translateY(-2px)'}
+        onMouseOut={(e) => e.currentTarget.style.transform = 'translateY(0)'}
     >
         <div style={{
-            background: `rgba(${color}, 0.1)`,
-            padding: '12px',
-            borderRadius: '50%',
-            color: `rgb(${color})`
+            background: `rgba(${color}, 0.15)`,
+            padding: '14px',
+            borderRadius: '16px',
+            color: `rgb(${color})`,
+            display: 'flex',
+            alignItems: 'center',
+            justifyContent: 'center'
         }}>
-            <Icon size={24} />
+            <Icon size={26} strokeWidth={2} />
         </div>
-        <span style={{ color: 'var(--text-primary)', fontSize: '12px', fontWeight: 500 }}>{label}</span>
+        <span style={{
+            color: 'var(--text-primary)',
+            fontSize: '13px',
+            fontWeight: 600,
+            letterSpacing: '-0.01em',
+            textAlign: 'center',
+            lineHeight: '1.3'
+        }}>{label}</span>
     </button>
 );
 
@@ -91,10 +105,10 @@ const Home = () => {
         <div className="fade-in" style={{ padding: '20px' }}>
             {/* Header */}
             <header style={{ marginBottom: '32px', marginTop: '12px' }}>
-                <h1 style={{ fontSize: '28px', fontWeight: 700, marginBottom: '4px' }}>
+                <h1 style={{ fontSize: '32px', fontWeight: 800, marginBottom: '6px', letterSpacing: '-0.02em' }}>
                     Hello, <span className="text-gradient">Traveler</span>
                 </h1>
-                <p style={{ color: 'var(--text-secondary)' }}>Where is your next journey?</p>
+                <p style={{ color: 'var(--text-secondary)', fontSize: '15px', fontWeight: 500 }}>Where is your next journey?</p>
             </header>
 
             {/* Main Search Card */}
