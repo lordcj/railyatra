@@ -39,7 +39,7 @@ const setCache = (key, data) => {
 
 /**
  * PNR Status API
- * Uses RailRadar API only
+ * Uses ConfirmTkt API for reliable PNR status
  */
 export const getPNRStatus = async (pnrNumber) => {
     if (!pnrNumber || pnrNumber.length !== 10) {
@@ -50,16 +50,9 @@ export const getPNRStatus = async (pnrNumber) => {
     const cached = getCached(cacheKey);
     if (cached) return cached;
 
-    // Verify RailRadar is configured
-    if (!RailRadar.isRailRadarConfigured()) {
-        throw new Error('RailRadar API key not configured. Please add VITE_RAILRADAR_API_KEY to your environment variables.');
-    }
-
     try {
-        console.log('🚀 Using RailRadar API for PNR status');
-        // Note: RailRadar may not have PNR endpoint, using free PNR API as exception
-        // This is the only endpoint that doesn't use RailRadar
-        const url = `https://pnrapi.com/api/pnr/${pnrNumber}`;
+        console.log('🚀 Using ConfirmTkt API for PNR status');
+        const url = `https://www.confirmtkt.com/api/pnr/status/${pnrNumber}`;
         const response = await fetch(url);
 
         if (!response.ok) {
@@ -68,26 +61,31 @@ export const getPNRStatus = async (pnrNumber) => {
 
         const data = await response.json();
 
-        if (data.error) {
-            throw new Error(data.error);
+        if (data.Error || data.ErrorCode !== 0) {
+            throw new Error(data.Error || 'PNR not found or invalid');
         }
 
         const result = {
-            trainName: data.train_name || 'Unknown Train',
-            trainNo: data.train_number || 'N/A',
-            doj: data.doj || 'N/A',
-            from: data.from_station?.code || 'N/A',
-            fromName: data.from_station?.name || 'N/A',
-            to: data.to_station?.code || 'N/A',
-            toName: data.to_station?.name || 'N/A',
-            departureTime: data.boarding_station?.departure_time || '--:--',
-            arrivalTime: data.reservation_upto?.arrival_time || '--:--',
-            duration: data.duration || 'N/A',
-            passengers: (data.passengers || []).map(p => ({
-                name: p.passenger_name || 'Passenger',
-                status: p.current_status || 'N/A',
-                berth: p.booking_berth || 'N/A',
-                type: p.booking_coach_id || 'N/A'
+            trainName: data.TrainName || 'Unknown Train',
+            trainNo: data.TrainNo || 'N/A',
+            doj: data.Doj || 'N/A',
+            from: data.BoardingPoint || data.From || 'N/A',
+            fromName: data.BoardingStationName || data.SourceName || 'N/A',
+            to: data.ReservationUpto || data.To || 'N/A',
+            toName: data.ReservationUptoName || data.DestinationName || 'N/A',
+            departureTime: data.DepartureTime || '--:--',
+            arrivalTime: data.ArrivalTime || '--:--',
+            duration: data.Duration || 'N/A',
+            travelClass: data.Class || 'N/A',
+            quota: data.Quota || 'N/A',
+            chartPrepared: data.ChartPrepared || false,
+            passengers: (data.PassengerStatus || []).map((p, idx) => ({
+                name: `Passenger ${p.Number || idx + 1}`,
+                status: p.CurrentStatus || 'N/A',
+                bookingStatus: p.BookingStatus || 'N/A',
+                berth: p.CurrentBerthNo || p.Berth || 'N/A',
+                coach: p.CurrentCoachId || p.Coach || 'N/A',
+                berthCode: p.CurrentBerthCode || ''
             }))
         };
 

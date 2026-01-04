@@ -186,15 +186,17 @@ const PNRStatus = () => {
                                     }}>
                                         <div>
                                             <div style={{ fontWeight: 600, fontSize: '14px' }}>{p.name}</div>
-                                            <div style={{ fontSize: '11px', color: 'var(--text-secondary)' }}>{p.type}</div>
+                                            <div style={{ fontSize: '11px', color: 'var(--text-secondary)' }}>
+                                                Coach: {p.coach} | Berth: {p.berth} {p.berthCode ? `(${p.berthCode})` : ''}
+                                            </div>
                                         </div>
                                         <div style={{ textAlign: 'right' }}>
                                             <div style={{
-                                                color: p.status === 'CNF' ? 'var(--success)' : 'var(--warning)',
+                                                color: p.status.includes('CNF') ? 'var(--success)' : p.status.includes('RAC') ? 'var(--warning)' : 'var(--error)',
                                                 fontWeight: 700,
                                                 fontSize: '15px'
                                             }}>{p.status}</div>
-                                            <div style={{ fontSize: '12px', fontWeight: 600, color: 'var(--text-secondary)' }}>{p.berth}</div>
+                                            <div style={{ fontSize: '10px', color: 'var(--text-secondary)' }}>Booked: {p.bookingStatus}</div>
                                         </div>
                                     </div>
                                 ))}
