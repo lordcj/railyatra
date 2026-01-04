@@ -107,7 +107,7 @@ const GoogleAd = ({
             <ins
                 ref={adRef}
                 className="adsbygoogle"
-                style={{ display: 'block', minHeight: '100px' }}
+                style={{ display: 'block', minHeight: '100px', contain: 'content' }}
                 data-ad-client={clientId}
                 data-ad-slot={slot}
                 data-ad-format={format}

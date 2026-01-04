@@ -38,6 +38,18 @@
 
 ---
 
+## Method 1.5: Manual Redeploy (If Auto-Deploy Fails)
+If you pushed code but don't see changes:
+
+1. Go to your **Vercel Dashboard** (https://vercel.com/dashboard)
+2. Select your project `railtravel-app`
+3. Go to **Deployments** tab
+4. Find the latest commit you pushed
+5. Click the **three dots (⋮)** next to it -> **Redeploy**
+6. Ensure "Use existing Build Cache" is checked -> Click **Redeploy**
+
+---
+
 ## Method 2: Direct Upload to Vercel (No GitHub)
 
 ### Step 1: Install Vercel CLI
@@ -51,12 +63,19 @@ cd C:\Users\A.B.Joshi\.gemini\antigravity\scratch\rail-travel-app
 vercel login
 ```
 
-### Step 3: Deploy
+### Step 3: Troubleshooting "Script Disabled" Error
+If you see `File ... cannot be loaded because running scripts is disabled`, run this command first:
+
 ```powershell
-vercel --prod
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 ```
 
-Follow the prompts and your app will be deployed!
+### Step 4: Deploy
+```powershell
+npx vercel --prod
+```
+
+Follow the prompts to log in and deploy.
 
 ---
 
