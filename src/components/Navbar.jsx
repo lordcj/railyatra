@@ -4,7 +4,7 @@ import { Link, useLocation } from 'react-router-dom';
 
 const NavItem = ({ to, icon: Icon, label, active }) => {
     return (
-        <Link to={to} style={{ textDecoration: 'none', flex: 1 }}>
+        <Link to={to} style={{ textDecoration: 'none', flex: 1 }} aria-label={label}>
             <div style={{
                 display: 'flex',
                 flexDirection: 'column',

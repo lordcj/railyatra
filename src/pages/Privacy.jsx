@@ -66,7 +66,7 @@ const Privacy = () => {
             <Section icon={Cookie} title="Google AdSense & Cookies">
                 <p>We use Google AdSense to show advertisements to help keep this service free. Google uses cookies to serve ads based on your prior visits to our website or other websites.</p>
                 <p style={{ marginTop: '10px' }}>Google's use of advertising cookies enables it and its partners to serve ads to you based on your visit to our sites and/or other sites on the Internet.</p>
-                <p style={{ marginTop: '10px' }}><strong>Opt-out:</strong> You may opt out of personalized advertising by visiting <a href="https://www.google.com/settings/ads" target="_blank" rel="noreferrer" style={{ color: 'var(--accent-color)' }}>Ads Settings</a>.</p>
+                <p style={{ marginTop: '10px' }}><strong>Opt-out:</strong> You may opt out of personalized advertising by visiting <a href="https://www.google.com/settings/ads" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--accent-color)' }}>Ads Settings</a>.</p>
             </Section>
 
             <Section icon={Lock} title="Data Security">

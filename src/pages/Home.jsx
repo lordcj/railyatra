@@ -6,6 +6,7 @@ import GoogleAd from '../components/GoogleAd';
 const QuickAction = ({ icon: Icon, label, color, onClick }) => (
     <button
         onClick={onClick}
+        aria-label={label}
         className="glass-panel"
         style={{
             border: 'none',
@@ -56,12 +57,12 @@ const Home = () => {
 
     // Handle Order Food - Redirect to IRCTC e-Catering
     const handleOrderFood = () => {
-        window.open('https://www.ecatering.irctc.co.in/', '_blank');
+        window.open('https://www.ecatering.irctc.co.in/', '_blank', 'noopener,noreferrer');
     };
 
     // Handle Fare Enquiry - Redirect to IRCTC fare calculator
     const handleFareEnquiry = () => {
-        window.open('https://www.irctc.co.in/nget/train-search', '_blank');
+        window.open('https://www.irctc.co.in/nget/train-search', '_blank', 'noopener,noreferrer');
     };
 
     const handleSearch = (e) => {
@@ -150,6 +151,7 @@ const Home = () => {
                                     cursor: 'pointer',
                                     width: '100%'
                                 }}
+                                aria-label="Journey Date"
                             />
                         </div>
                     </div>

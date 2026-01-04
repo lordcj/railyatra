@@ -1,14 +1,17 @@
-import React from 'react'
+import React, { Suspense } from 'react'
 import { BrowserRouter, Routes, Route, useLocation } from 'react-router-dom'
 import Home from './pages/Home'
 import Navbar from './components/Navbar'
 
-import SearchResults from './pages/SearchResults'
-import TrainSearch from './pages/TrainSearch'
-import TrainDetails from './pages/TrainDetails'
-import PNRStatus from './pages/PNRStatus'
-import LiveTrainStatus from './pages/LiveTrainStatus'
-import Privacy from './pages/Privacy'
+import LoadingSpinner from './components/LoadingSpinner';
+
+// Lazy Load Pages for Performance
+const SearchResults = React.lazy(() => import('./pages/SearchResults'));
+const TrainSearch = React.lazy(() => import('./pages/TrainSearch'));
+const TrainDetails = React.lazy(() => import('./pages/TrainDetails'));
+const PNRStatus = React.lazy(() => import('./pages/PNRStatus'));
+const LiveTrainStatus = React.lazy(() => import('./pages/LiveTrainStatus'));
+const Privacy = React.lazy(() => import('./pages/Privacy'));
 import { Link } from 'react-router-dom'
 
 function AppContent() {
@@ -57,21 +60,23 @@ function AppContent() {
             </div>
 
             <div className="app-container" style={{ paddingBottom: '120px' }}>
-                <Routes>
-                    <Route path="/" element={<Home />} />
-                    <Route path="/trains" element={<SearchResults />} />
-                    <Route path="/search-train" element={<TrainSearch />} />
-                    {/* SEO: Train details with clean URL */}
-                    <Route path="/train/:trainNo" element={<TrainDetails />} />
-                    <Route path="/train-details/:trainNo" element={<TrainDetails />} />
-                    {/* SEO: PNR with optional direct lookup */}
-                    <Route path="/pnr" element={<PNRStatus />} />
-                    <Route path="/pnr/:pnrNumber" element={<PNRStatus />} />
-                    {/* SEO: Live status with optional train number */}
-                    <Route path="/live" element={<LiveTrainStatus />} />
-                    <Route path="/live/:trainNumber" element={<LiveTrainStatus />} />
-                    <Route path="/privacy" element={<Privacy />} />
-                </Routes>
+                <Suspense fallback={<LoadingSpinner />}>
+                    <Routes>
+                        <Route path="/" element={<Home />} />
+                        <Route path="/trains" element={<SearchResults />} />
+                        <Route path="/search-train" element={<TrainSearch />} />
+                        {/* SEO: Train details with clean URL */}
+                        <Route path="/train/:trainNo" element={<TrainDetails />} />
+                        <Route path="/train-details/:trainNo" element={<TrainDetails />} />
+                        {/* SEO: PNR with optional direct lookup */}
+                        <Route path="/pnr" element={<PNRStatus />} />
+                        <Route path="/pnr/:pnrNumber" element={<PNRStatus />} />
+                        {/* SEO: Live status with optional train number */}
+                        <Route path="/live" element={<LiveTrainStatus />} />
+                        <Route path="/live/:trainNumber" element={<LiveTrainStatus />} />
+                        <Route path="/privacy" element={<Privacy />} />
+                    </Routes>
+                </Suspense>
 
                 {/* Subtle Footer */}
                 <div style={{
