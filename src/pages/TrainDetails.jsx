@@ -683,7 +683,11 @@ const TrainDetails = () => {
                 borderBottom: isScrolled ? '1px solid rgba(255,255,255,0.1)' : '1px solid transparent',
                 transition: 'all 0.3s ease'
             }}>
-                <button onClick={() => navigate(-1)} style={{ background: 'none', border: 'none', color: 'white', cursor: 'pointer' }}>
+                <button
+                    onClick={() => (window.history.state && window.history.state.idx > 0) ? navigate(-1) : navigate('/')}
+                    style={{ background: 'none', border: 'none', color: 'white', cursor: 'pointer' }}
+                    aria-label="Go Back"
+                >
                     <ArrowLeft size={24} />
                 </button>
 

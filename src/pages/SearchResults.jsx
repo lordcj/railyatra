@@ -198,7 +198,11 @@ const SearchResults = () => {
     return (
         <div className="fade-in" style={{ padding: '20px', paddingBottom: '100px' }}>
             <div style={{ display: 'flex', alignItems: 'center', gap: '16px', marginBottom: '24px', marginTop: '12px' }}>
-                <button onClick={() => navigate(-1)} aria-label="Go Back" style={{ background: 'none', border: 'none', color: 'white', cursor: 'pointer' }}>
+                <button
+                    onClick={() => (window.history.state && window.history.state.idx > 0) ? navigate(-1) : navigate('/')}
+                    aria-label="Go Back"
+                    style={{ background: 'none', border: 'none', color: 'white', cursor: 'pointer' }}
+                >
                     <ArrowLeft size={24} />
                 </button>
                 <div>
