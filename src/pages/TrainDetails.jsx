@@ -713,7 +713,11 @@ const TrainDetails = () => {
                 marginTop: '-10px'
             }}>
                 <h1 style={{ fontSize: '24px', fontWeight: 700, marginBottom: '2px' }}>
-                    {trainData?.trainNo} <span style={{ fontWeight: 400, opacity: 0.8 }}>- {trainData?.trainName}</span>
+                    {trainData?.trainNo}
+                    {(() => {
+                        const cleaned = trainData?.trainName?.replace(/^Train\s+/i, '').replace(new RegExp(`^${trainData?.trainNo}\\s*`), '').replace(/^-\s*/, '').trim();
+                        return cleaned ? <span style={{ fontWeight: 400, opacity: 0.8 }}> - {cleaned}</span> : null;
+                    })()}
                 </h1>
                 <div style={{
                     display: 'flex',
@@ -739,7 +743,8 @@ const TrainDetails = () => {
             </div>
 
             {/* Ad Placement - reduced padding */}
-            <div style={{ padding: '0 20px 8px 20px' }}>
+            {/* Ad Placement - reduced padding, constrained height for mobile */}
+            <div style={{ padding: '0 20px 8px 20px', maxHeight: '280px', overflow: 'hidden' }}>
                 <GoogleAd slot="train-details-ad" format="horizontal" />
             </div>
 

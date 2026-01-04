@@ -82,7 +82,8 @@ export const getLiveTrainStatus = async (trainNumber) => {
 
         // RailRadar returns data nested under 'data' key
         const trainData = response.data || response;
-        const liveData = trainData.liveData || {};
+        const trainInfo = trainData.train || trainData;
+        const liveData = trainData.liveData || trainInfo.liveData || {};
         const currentLocation = liveData.currentLocation || {};
 
         // Find current/next station from live route
@@ -120,8 +121,8 @@ export const getLiveTrainStatus = async (trainNumber) => {
         }
 
         return {
-            trainNumber: liveData.trainNumber || trainNumber,
-            trainName: trainData.name || `Train ${trainNumber}`,
+            trainNumber: liveData.trainNumber || trainInfo.trainNumber || trainNumber,
+            trainName: trainInfo.trainName || trainInfo.name || trainData.name || `Train ${trainNumber}`,
             liveData: {
                 currentPosition,
                 currentStationCode,

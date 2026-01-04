@@ -141,9 +141,6 @@ const PNRStatus = () => {
                 PNR <span className="text-gradient">Status</span>
             </h1>
 
-            {/* Top Ad - High engagement area */}
-            <GoogleAd slot="pnr-top-banner" format="horizontal" />
-
             <form onSubmit={handleSearch} className="glass-panel" style={{ padding: '24px', marginBottom: '32px' }}>
                 <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '8px' }}>
                     <label style={{ fontSize: '12px', fontWeight: 600, color: 'var(--accent-color)', textTransform: 'uppercase', letterSpacing: '0.5px' }}>
@@ -211,6 +208,11 @@ const PNRStatus = () => {
                     )}
                 </button>
             </form>
+
+            {/* Top Ad - Moved below form for better UX */}
+            <div style={{ marginBottom: '32px' }}>
+                <GoogleAd slot="pnr-top-banner" format="horizontal" />
+            </div>
 
             {/* Error Message */}
             {error && (
