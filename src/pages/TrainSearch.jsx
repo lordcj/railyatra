@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Search, Clock, ArrowRight, Train } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
+import FAQSection from '../components/FAQSection';
 
 const TrainSearch = () => {
     const navigate = useNavigate();
@@ -95,6 +96,36 @@ const TrainSearch = () => {
                     </div>
                 ))}
             </div>
+            {/* About Section for SEO */}
+            <div style={{ marginTop: '32px', color: 'var(--text-secondary)', fontSize: '14px', lineHeight: '1.6' }}>
+                <h3 style={{ color: 'white', marginBottom: '12px', fontSize: '18px' }}>About Train Schedule Search</h3>
+                <p style={{ marginBottom: '12px' }}>
+                    RailYatra allows you to check the latest Indian Railways train time table and schedule.
+                    Enter any 5-digit train number (like 12951) or train name (like Rajdhani Express) to get detailed route information.
+                </p>
+                <p>
+                    Check arrival & departure times, platform numbers, and halt duration for all stations easily.
+                </p>
+            </div>
+
+            {/* FAQ Section */}
+            <FAQSection
+                title="Common Questions"
+                faqs={[
+                    {
+                        question: "How do I find a train schedule?",
+                        answer: "Simply enter the 5-digit train number or the name of the train in the search box above. Click 'Get Schedule' to see the full route and timing details."
+                    },
+                    {
+                        question: "Is the time table accurate?",
+                        answer: "We strive to provide the most recent schedule information. For live running status, please check the 'Live Train' feature to see current delays."
+                    },
+                    {
+                        question: "Can I see platform numbers?",
+                        answer: "Yes, the train schedule page displays the expected platform number for major stations. Please note that platform numbers can change last minute at the station manager's discretion."
+                    }
+                ]}
+            />
         </div>
     );
 };

@@ -232,6 +232,13 @@ const SearchResults = () => {
                 <FilterButton label="Chair Car" value="CC" />
             </div>
 
+            {/* Search Summary Text for SEO */}
+            <div style={{ marginBottom: '20px', fontSize: '12px', color: 'var(--text-secondary)', lineHeight: '1.5' }}>
+                Showing <strong>{filteredTrains.length}</strong> trains from {fromStation || 'Source'} to {toStation || 'Destination'}.
+                RailYatra helps you find Indian Railways train information easily.
+                Check seat availability, coach composition, and running status.
+            </div>
+
             {/* Loading State */}
             {loading && (
                 <div style={{ textAlign: 'center', padding: '40px' }}>
@@ -284,7 +291,23 @@ const SearchResults = () => {
                     </button>
                 </div>
             )}
-        </div>
+
+
+            {/* Travel Tips Content for AdSense */}
+            {
+                !loading && (
+                    <div style={{ marginTop: '40px', padding: '20px', background: 'rgba(255,255,255,0.02)', borderRadius: '16px', border: '1px solid rgba(255,255,255,0.05)' }}>
+                        <h3 style={{ fontSize: '16px', fontWeight: 600, color: 'white', marginBottom: '12px' }}>Travel Booking Tips</h3>
+                        <ul style={{ fontSize: '13px', color: 'var(--text-secondary)', paddingLeft: '20px', lineHeight: '1.8' }}>
+                            <li>Book <strong>Tatkal tickets</strong> starting at 10:00 AM for AC classes and 11:00 AM for Non-AC classes one day before travel.</li>
+                            <li>Check <strong>PNR Status</strong> regularly to see confirmation probabilities for waitlisted tickets.</li>
+                            <li>Use alternative station search if direct trains are unavailable or fully booked.</li>
+                            <li>Carry a valid ID proof (Aadhar, PAN, Voter ID) during your journey as per IRCTC guidelines.</li>
+                        </ul>
+                    </div>
+                )
+            }
+        </div >
     );
 };
 

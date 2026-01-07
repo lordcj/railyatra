@@ -1,5 +1,5 @@
 import React, { Suspense } from 'react'
-import { BrowserRouter, Routes, Route, useLocation } from 'react-router-dom'
+import { BrowserRouter, Routes, Route, useLocation, Navigate } from 'react-router-dom'
 import LoadingSpinner from './components/LoadingSpinner';
 import Home from './pages/Home';
 import Navbar from './components/Navbar';
@@ -9,7 +9,7 @@ const SearchResults = React.lazy(() => import('./pages/SearchResults'));
 const TrainSearch = React.lazy(() => import('./pages/TrainSearch'));
 const TrainDetails = React.lazy(() => import('./pages/TrainDetails'));
 const PNRStatus = React.lazy(() => import('./pages/PNRStatus'));
-const LiveTrainStatus = React.lazy(() => import('./pages/LiveTrainStatus'));
+
 const Privacy = React.lazy(() => import('./pages/Privacy'));
 import { Link } from 'react-router-dom'
 
@@ -68,15 +68,18 @@ function AppContent() {
                         <Route path="/trains" element={<SearchResults />} />
                         <Route path="/search-train" element={<TrainSearch />} />
                         {/* SEO: Train details with clean URL */}
+                        <Route path="/train" element={<Navigate to="/search-train" replace />} />
                         <Route path="/train/:trainNo" element={<TrainDetails />} />
                         <Route path="/train-details/:trainNo" element={<TrainDetails />} />
                         {/* SEO: PNR with optional direct lookup */}
                         <Route path="/pnr" element={<PNRStatus />} />
                         <Route path="/pnr/:pnrNumber" element={<PNRStatus />} />
                         {/* SEO: Live status with optional train number */}
-                        <Route path="/live" element={<LiveTrainStatus />} />
+                        <Route path="/live" element={<Navigate to="/search-train" replace />} />
                         <Route path="/live/:trainNo" element={<TrainDetails />} />
                         <Route path="/privacy" element={<Privacy />} />
+                        {/* Catch-all redirect */}
+                        <Route path="*" element={<Navigate to="/" replace />} />
                     </Routes>
                 </Suspense>
 

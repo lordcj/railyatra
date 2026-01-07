@@ -3,6 +3,7 @@ import { useParams, useNavigate } from 'react-router-dom';
 import { ArrowLeft, MapPin, MoreVertical, Clock, AlertCircle, ChevronDown, ChevronRight } from 'lucide-react';
 import GoogleAd from '../components/GoogleAd';
 import SEOHead from '../components/SEOHead';
+import FAQSection from '../components/FAQSection';
 import { getTrainSchedule } from '../services/railwayApi';
 
 // Helper to generate TrainTrip Schema
@@ -460,7 +461,38 @@ if (typeof document !== 'undefined' && !document.getElementById('train-position-
     styleEl.id = 'train-position-animations';
     styleEl.textContent = animationsStyle;
     document.head.appendChild(styleEl);
+    document.head.appendChild(styleEl);
 }
+
+// Generate dynamic train summary text
+const TrainSummary = ({ trainData }) => {
+    if (!trainData) return null;
+
+    return (
+        <div style={{ padding: '0 20px', marginBottom: '16px' }}>
+            <div style={{
+                background: 'rgba(255,255,255,0.03)',
+                borderRadius: '12px',
+                padding: '16px',
+                border: '1px solid rgba(255,255,255,0.05)',
+                fontSize: '14px',
+                lineHeight: '1.6',
+                color: 'var(--text-secondary)'
+            }}>
+                <h3 style={{ fontSize: '16px', fontWeight: 600, color: 'white', marginBottom: '8px' }}>
+                    About {trainData.trainName}
+                </h3>
+                <p>
+                    The <strong>{trainData.trainNo} {trainData.trainName}</strong> is a popular train operated by Indian Railways that connects <strong>{trainData.fromStationName || 'Origin'}</strong> to <strong>{trainData.toStationName || 'Destination'}</strong>.
+                </p>
+                <div style={{ marginTop: '12px' }}>
+                    It covers a total route of approximately <strong>{trainData.stations?.[trainData.stations.length - 1]?.distance || 'several hundred km'}</strong> with {trainData.stations?.filter(s => s.isHalt)?.length} official halts.
+                    The train offers multiple classes including {['SL', '3A', '2A'].join(', ')} for a comfortable journey.
+                </div>
+            </div>
+        </div>
+    );
+};
 
 const TrainDetails = () => {
     const { trainNo } = useParams();
@@ -742,7 +774,9 @@ const TrainDetails = () => {
                 )}
             </div>
 
-            {/* Ad Placement - reduced padding */}
+            {/* Train Summary Text for SEO/AdSense */}
+            <TrainSummary trainData={trainData} />
+
             {/* Ad Placement - reduced padding, constrained height for mobile */}
             <div style={{ padding: '0 20px 8px 20px', maxHeight: '280px', overflow: 'hidden' }}>
                 <GoogleAd slot="train-details-ad" format="horizontal" />
@@ -791,9 +825,13 @@ const TrainDetails = () => {
                 })}
             </div>
 
-            {/* Visual FAQ Section - Removed as per user request */}
+            {/* FAQ Section */}
+            <div style={{ padding: '0 20px' }}>
+                <FAQSection faqs={trainFaqs} title={`FAQs for ${trainData?.trainNo}`} />
+            </div>
         </div>
     );
 };
+
 
 export default TrainDetails;

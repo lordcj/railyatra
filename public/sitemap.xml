@@ -16,13 +16,7 @@
         <priority>1.0</priority>
     </url>
     
-    <!-- Live Train Status - High Priority -->
-    <url>
-        <loc>https://railyatra.co.in/live</loc>
-        <lastmod>2026-01-04</lastmod>
-        <changefreq>always</changefreq>
-        <priority>1.0</priority>
-    </url>
+
     
     <!-- Train Search -->
     <url>

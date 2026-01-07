@@ -6,7 +6,7 @@ Allow: /
 
 # High-priority pages
 Allow: /pnr
-Allow: /live
+
 Allow: /train/
 Allow: /search-train
 

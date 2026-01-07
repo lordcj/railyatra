@@ -278,6 +278,33 @@ const Home = () => {
                     onClick={handleFareEnquiry}
                 />
             </div>
+
+            {/* Welcome Text for SEO/AdSense */}
+            <div style={{ marginBottom: '32px' }}>
+                <h3 style={{ fontSize: '18px', fontWeight: 600, marginBottom: '12px', color: 'white' }}>Welcome to RailYatra</h3>
+                <div style={{ color: 'var(--text-secondary)', fontSize: '14px', lineHeight: '1.6', background: 'rgba(255,255,255,0.02)', padding: '16px', borderRadius: '16px' }}>
+                    <p style={{ marginBottom: '12px' }}>
+                        <strong>RailYatra</strong> is your ultimate companion for Indian Railways travel information.
+                        Whether you need to check your <strong>PNR status</strong> to know your booking confirmation,
+                        track the <strong>live running status</strong> of your train to spot delays,
+                        or simply find the best <strong>train schedule</strong> for your next trip, we have it all.
+                    </p>
+                    <p>
+                        We strive to provide accurate travel information for your convenience.
+                        Plan your journey with confidence using our train search, fare enquiry, and seat availability tools.
+                    </p>
+                </div>
+            </div>
+
+            <div style={{ marginBottom: '80px', color: 'var(--text-secondary)', fontSize: '13px', lineHeight: '1.5' }}>
+                <h4 style={{ color: 'white', marginBottom: '8px' }}>Why use RailYatra?</h4>
+                <ul style={{ paddingLeft: '20px', display: 'flex', flexDirection: 'column', gap: '8px' }}>
+                    <li>Fastest PNR Status updates with prediction.</li>
+                    <li>Accurate Live Train Status with GPS tracking.</li>
+                    <li>Detailed Time Table for over 5,000 trains.</li>
+                    <li>Check Platform numbers and coach position.</li>
+                </ul>
+            </div>
         </div>
     );
 };
