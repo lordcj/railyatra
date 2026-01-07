@@ -175,7 +175,7 @@ export const getTrainSchedule = async (trainNumber) => {
         throw new Error('Train number is required');
     }
 
-    const cacheKey = `schedule_v3_${trainNumber}`; // v3 to bust old cache
+    const cacheKey = `schedule_v5_${trainNumber}`; // v5 to bust old cache
     const cached = getCached(cacheKey);
     if (cached) return cached;
 
@@ -303,6 +303,7 @@ export const getTrainSchedule = async (trainNumber) => {
                     date: getStationDate(station.day),
                     day: `Day ${station.day}`,
                     distance: station.distanceFromSourceKm ? `${station.distanceFromSourceKm.toFixed(1)} km` : null,
+                    distanceKm: station.distanceFromSourceKm || 0,
                     delay: delayText,
                     delayMinutes: delay,
                     eta,
@@ -331,6 +332,17 @@ export const getTrainSchedule = async (trainNumber) => {
             overallDelay: trainData.liveData?.delay || 0,
             lastUpdated: trainData.liveData?.lastUpdated,
             stations,
+            // Derived fields for UI
+            fromStationName: stations[0]?.name || 'Origin',
+            fromStationCode: stations[0]?.code || '',
+            toStationName: stations[stations.length - 1]?.name || 'Destination',
+            toStationCode: stations[stations.length - 1]?.code || '',
+            departureTime: stations[0]?.scheduledTime || '--:--',
+            arrivalTime: stations[stations.length - 1]?.scheduledTime || '--:--',
+            duration: trainData.duration || 'N/A',
+            distance: trainData.distanceKm ? `${trainData.distanceKm} km` : (stations[stations.length - 1]?.distance || '0 km'),
+            distanceKm: trainData.distanceKm || stations[stations.length - 1]?.distanceKm || 0,
+            classes: trainData.classes || ['SL', '3A', '2A', '1A'], // Fallback classes
         };
 
         setCache(cacheKey, result);

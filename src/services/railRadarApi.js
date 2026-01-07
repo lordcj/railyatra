@@ -214,6 +214,7 @@ export const getLiveTrainStatus = async (trainNumber) => {
         return {
             trainNumber: liveData.trainNumber || trainInfo.trainNumber || trainNumber,
             trainName: trainInfo.trainName || trainInfo.name || trainData.name || `Train ${trainNumber}`,
+            distanceKm: trainInfo.distanceKm || 0,
             liveData: {
                 currentPosition,
                 currentStationCode,
@@ -232,6 +233,7 @@ export const getLiveTrainStatus = async (trainNumber) => {
                 day: station.day || 1,
                 isHalt: station.isHalt === 1 || station.isHalt === true,
                 sequence: station.sequence,
+                distanceFromSourceKm: station.distanceFromSource || station.distance || 0,
             })),
             runningDays: trainData.runningDays || [],
         };

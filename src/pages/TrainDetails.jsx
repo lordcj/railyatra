@@ -483,11 +483,11 @@ const TrainSummary = ({ trainData }) => {
                     About {trainData.trainName}
                 </h3>
                 <p>
-                    The <strong>{trainData.trainNo} {trainData.trainName}</strong> is a popular train operated by Indian Railways that connects <strong>{trainData.fromStationName || 'Origin'}</strong> to <strong>{trainData.toStationName || 'Destination'}</strong>.
+                    The <strong>{trainData.trainNo} {trainData.trainName}</strong> is a popular train operated by Indian Railways that connects <strong>{trainData.fromStationName} ({trainData.fromStationCode})</strong> to <strong>{trainData.toStationName} ({trainData.toStationCode})</strong>.
                 </p>
                 <div style={{ marginTop: '12px' }}>
-                    It covers a total route of approximately <strong>{trainData.stations?.[trainData.stations.length - 1]?.distance || 'several hundred km'}</strong> with {trainData.stations?.filter(s => s.isHalt)?.length} official halts.
-                    The train offers multiple classes including {['SL', '3A', '2A'].join(', ')} for a comfortable journey.
+                    It covers a total route of approximately <strong>{trainData.distance}</strong> with {trainData.stations?.filter(s => s.isHalt)?.length} official halts.
+                    The train offers multiple classes including {trainData.classes?.join(', ') || 'SL, 3A, 2A'} for a comfortable journey.
                 </div>
             </div>
         </div>
@@ -677,15 +677,15 @@ const TrainDetails = () => {
     const trainFaqs = trainData ? [
         {
             question: `What are the running days of ${trainData.trainNo} ${trainData.trainName}?`,
-            answer: `${trainData.trainName} runs on ${trainData.runningDays || 'scheduled days of the week'}. Please check the detailed timetable above for exact timings.`
+            answer: `${trainData.trainName} runs on ${Array.isArray(trainData.runningDays) ? trainData.runningDays.join(', ') : (trainData.runningDays || 'scheduled days')}. Please check the detailed timetable above for exact timings.`
         },
         {
             question: `How many stops does ${trainData.trainNo} have?`,
-            answer: `${trainData.trainName} stops at ${trainData.stations?.filter(s => s.isHalt).length || 'several'} stations between ${trainData.fromStationName || 'Origin'} and ${trainData.toStationName || 'Destination'}.`
+            answer: `${trainData.trainName} stops at ${trainData.stations?.filter(s => s.isHalt).length || 'several'} stations between ${trainData.fromStationName} and ${trainData.toStationName}.`
         },
         {
             question: `What is the departure time of ${trainData.trainName} from ${trainData.fromStationName}?`,
-            answer: `The train departs from ${trainData.fromStationName} at ${trainData.departureTime} and arrives at ${trainData.toStationName} at ${trainData.arrivalTime}.`
+            answer: `The train departs from ${trainData.fromStationName} at ${trainData.departureTime} and arrives at ${trainData.toStationName} at ${trainData.arrivalTime}. The total journey duration is approximately ${trainData.duration}.`
         }
     ] : [];
 
@@ -774,8 +774,7 @@ const TrainDetails = () => {
                 )}
             </div>
 
-            {/* Train Summary Text for SEO/AdSense */}
-            <TrainSummary trainData={trainData} />
+
 
             {/* Ad Placement - reduced padding, constrained height for mobile */}
             <div style={{ padding: '0 20px 8px 20px', maxHeight: '280px', overflow: 'hidden' }}>
@@ -825,10 +824,31 @@ const TrainDetails = () => {
                 })}
             </div>
 
-            {/* FAQ Section */}
-            <div style={{ padding: '0 20px' }}>
-                <FAQSection faqs={trainFaqs} title={`FAQs for ${trainData?.trainNo}`} />
-            </div>
+            {/* About Section (Replaces FAQ) */}
+            {trainData && (
+                <div style={{ padding: '0 20px', marginBottom: '24px' }}>
+                    <h3 style={{ fontSize: '16px', fontWeight: 600, color: 'white', marginBottom: '12px' }}>
+                        About {trainData.trainName}
+                    </h3>
+                    <div style={{
+                        background: 'rgba(255,255,255,0.03)',
+                        borderRadius: '12px',
+                        padding: '16px',
+                        border: '1px solid rgba(255,255,255,0.05)',
+                        fontSize: '14px',
+                        lineHeight: '1.6',
+                        color: 'var(--text-secondary)'
+                    }}>
+                        <p style={{ marginBottom: '12px' }}>
+                            The <strong>{trainData.trainNo} {trainData.trainName}</strong> is a popular train operated by Indian Railways that connects <strong>{trainData.fromStationName} ({trainData.fromStationCode})</strong> to <strong>{trainData.toStationName} ({trainData.toStationCode})</strong>.
+                        </p>
+                        <p>
+                            It covers a total route of approximately <strong>{trainData.distanceKm?.toFixed(0) || 0} km</strong> with {trainData.stations?.filter(s => s.isHalt)?.length} official halts.
+                            The train offers multiple classes including {trainData.classes?.join(', ') || 'SL, 3A, 2A, 1A'} for a comfortable journey.
+                        </p>
+                    </div>
+                </div>
+            )}
         </div>
     );
 };
