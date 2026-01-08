@@ -55,11 +55,26 @@ const SEOHead = ({
             <meta httpEquiv="content-language" content="en-IN" />
 
             {/* JSON-LD Structured Data */}
-            {jsonLd && (
-                <script type="application/ld+json">
-                    {JSON.stringify(jsonLd)}
-                </script>
-            )}
+            {/* JSON-LD Structured Data */}
+            <script type="application/ld+json">
+                {JSON.stringify(jsonLd || {
+                    "@context": "https://schema.org",
+                    "@type": "WebSite",
+                    "url": canonical,
+                    "name": title,
+                    "description": description,
+                    "publisher": {
+                        "@type": "Organization",
+                        "name": "RailYatra",
+                        "logo": {
+                            "@type": "ImageObject",
+                            "url": "https://railyatra.co.in/icon-192.png",
+                            "width": 192,
+                            "height": 192
+                        }
+                    }
+                })}
+            </script>
         </Helmet>
     );
 };

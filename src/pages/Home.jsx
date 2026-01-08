@@ -82,9 +82,9 @@ const Home = () => {
                 "url": "https://railyatra.co.in",
                 "logo": {
                     "@type": "ImageObject",
-                    "url": "https://railyatra.co.in/logo.png",
-                    "width": 512,
-                    "height": 512
+                    "url": "https://railyatra.co.in/icon-192.png",
+                    "width": 192,
+                    "height": 192
                 },
                 "sameAs": [
                     "https://twitter.com/railyatra",
@@ -147,8 +147,9 @@ const Home = () => {
     return (
         <div className="fade-in" style={{ padding: '20px' }}>
             <SEOHead
-                title="RailYatra - Indian Railway PNR Status, Live Train Status & Schedule"
-                description="Check confirmed PNR status, live train running status, seat availability and train time table. Fast, simple, and ad-free experience on RailYatra."
+                title="RailYatra - Indian Railway PNR Status & Live Train Status"
+                description="Fastest PNR Status check for Indian Railways. Get live train running status, train schedule, seat availability, and confirmation probability. Simple, Fast & Ad-Lite."
+                keywords="PNR status, live train status, train running status, Indian Railways, IRCTC PNR, check PNR, train schedule, seat availability, RailYatra"
                 jsonLd={homeJsonLd}
             />
             {/* Header */}
