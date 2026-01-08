@@ -1,6 +1,7 @@
 import React, { useEffect } from 'react';
 import { Shield, Lock, Eye, Cookie, FileText, ChevronLeft } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
+import SEOHead from '../components/SEOHead';
 
 const Privacy = () => {
     const navigate = useNavigate();
@@ -30,6 +31,10 @@ const Privacy = () => {
 
     return (
         <div className="fade-in" style={{ padding: '20px', maxWidth: '800px', margin: '0 auto' }}>
+            <SEOHead
+                title="Privacy Policy - RailYatra"
+                description="Privacy Policy for RailYatra. Learn how we handle your data, cookies, and privacy."
+            />
             {/* Header */}
             <div style={{ display: 'flex', alignItems: 'center', gap: '12px', marginBottom: '32px', marginTop: '12px' }}>
                 <button

@@ -47,6 +47,7 @@ const QuickAction = ({ icon: Icon, label, color, onClick }) => (
 );
 
 import StationSearch from '../components/StationSearch';
+import SEOHead from '../components/SEOHead';
 
 const Home = () => {
     const navigate = useNavigate();
@@ -55,6 +56,43 @@ const Home = () => {
     const [toStation, setToStation] = useState('');
     const [selectedClass, setSelectedClass] = useState('ALL');
     const [searchMode, setSearchMode] = useState('STATION'); // 'STATION' | 'NUMBER'
+
+    // JSON-LD Structured Data
+    const homeJsonLd = {
+        "@context": "https://schema.org",
+        "@graph": [
+            {
+                "@type": "WebSite",
+                "@id": "https://railyatra.co.in/#website",
+                "url": "https://railyatra.co.in",
+                "name": "RailYatra",
+                "publisher": {
+                    "@id": "https://railyatra.co.in/#organization"
+                },
+                "potentialAction": {
+                    "@type": "SearchAction",
+                    "target": "https://railyatra.co.in/search-train?number={search_term_string}",
+                    "query-input": "required name=search_term_string"
+                }
+            },
+            {
+                "@type": "Organization",
+                "@id": "https://railyatra.co.in/#organization",
+                "name": "RailYatra",
+                "url": "https://railyatra.co.in",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://railyatra.co.in/logo.png",
+                    "width": 512,
+                    "height": 512
+                },
+                "sameAs": [
+                    "https://twitter.com/railyatra",
+                    "https://facebook.com/railyatra"
+                ]
+            }
+        ]
+    };
 
     // Handle Order Food - Redirect to IRCTC e-Catering
     const handleOrderFood = () => {
@@ -108,6 +146,11 @@ const Home = () => {
 
     return (
         <div className="fade-in" style={{ padding: '20px' }}>
+            <SEOHead
+                title="RailYatra - Indian Railway PNR Status, Live Train Status & Schedule"
+                description="Check confirmed PNR status, live train running status, seat availability and train time table. Fast, simple, and ad-free experience on RailYatra."
+                jsonLd={homeJsonLd}
+            />
             {/* Header */}
             <header style={{ marginBottom: '28px', marginTop: '8px' }}>
                 <h2 style={{ fontSize: '28px', fontWeight: 700, marginBottom: '4px', letterSpacing: '-0.01em' }}>
@@ -279,31 +322,39 @@ const Home = () => {
                 />
             </div>
 
-            {/* Welcome Text for SEO/AdSense */}
-            <div style={{ marginBottom: '32px' }}>
-                <h3 style={{ fontSize: '18px', fontWeight: 600, marginBottom: '12px', color: 'white' }}>Welcome to RailYatra</h3>
-                <div style={{ color: 'var(--text-secondary)', fontSize: '14px', lineHeight: '1.6', background: 'rgba(255,255,255,0.02)', padding: '16px', borderRadius: '16px' }}>
-                    <p style={{ marginBottom: '12px' }}>
-                        <strong>RailYatra</strong> is your ultimate companion for Indian Railways travel information.
-                        Whether you need to check your <strong>PNR status</strong> to know your booking confirmation,
-                        track the <strong>live running status</strong> of your train to spot delays,
-                        or simply find the best <strong>train schedule</strong> for your next trip, we have it all.
-                    </p>
-                    <p>
-                        We strive to provide accurate travel information for your convenience.
-                        Plan your journey with confidence using our train search, fare enquiry, and seat availability tools.
-                    </p>
-                </div>
-            </div>
+            {/* Why Choose RailYatra Section - AdSense Content */}
+            <div className="glass-panel" style={{ padding: '32px', marginBottom: '80px' }}>
+                <h2 style={{ fontSize: '24px', fontWeight: 700, marginBottom: '24px' }}>Why Choose <span className="text-gradient">RailYatra</span>?</h2>
 
-            <div style={{ marginBottom: '80px', color: 'var(--text-secondary)', fontSize: '13px', lineHeight: '1.5' }}>
-                <h4 style={{ color: 'white', marginBottom: '8px' }}>Why use RailYatra?</h4>
-                <ul style={{ paddingLeft: '20px', display: 'flex', flexDirection: 'column', gap: '8px' }}>
-                    <li>Fastest PNR Status updates with prediction.</li>
-                    <li>Accurate Live Train Status with GPS tracking.</li>
-                    <li>Detailed Time Table for over 5,000 trains.</li>
-                    <li>Check Platform numbers and coach position.</li>
-                </ul>
+                <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', gap: '32px' }}>
+                    <div>
+                        <h3 style={{ fontSize: '18px', fontWeight: 600, marginBottom: '12px', color: 'var(--accent-color)' }}>Fastest PNR Status Updates</h3>
+                        <p style={{ color: 'var(--text-secondary)', lineHeight: '1.6', fontSize: '15px' }}>
+                            RailYatra provides the fastest and most accurate PNR status for Indian Railways bookings. Whether you have a confirm ticket, RAC, or waiting list (WL), our direct integration allows you to check your current booking status in milliseconds. We decode the complex IRCTC codes so you know exactly which coach and berth interpret your journey.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h3 style={{ fontSize: '18px', fontWeight: 600, marginBottom: '12px', color: 'var(--accent-color)' }}>Real-Time Train Tracking</h3>
+                        <p style={{ color: 'var(--text-secondary)', lineHeight: '1.6', fontSize: '15px' }}>
+                            Never miss a train again with our live train running status. Our GPS-based tracking system gives you the exact location of your train, estimated time of arrival (ETA), and delay updates. We cover all trains including Rajdhani, Shatabdi, Vande Bharat, and local passenger trains, ensuring you can plan your pickup and drop-offs accurately.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h3 style={{ fontSize: '18px', fontWeight: 600, marginBottom: '12px', color: 'var(--accent-color)' }}>Comprehensive Train Schedules</h3>
+                        <p style={{ color: 'var(--text-secondary)', lineHeight: '1.6', fontSize: '15px' }}>
+                            Access the latest time table for over 5,000 Indian Railways trains. Our database is updated daily to reflect changes in routes, stoppages, and timing. You can search by train number or station name to find the most convenient connection for your travel. We also provide information on station facilities, platform numbers, and pantry availability.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h3 style={{ fontSize: '18px', fontWeight: 600, marginBottom: '12px', color: 'var(--accent-color)' }}>User-Friendly & Ad-Lite</h3>
+                        <p style={{ color: 'var(--text-secondary)', lineHeight: '1.6', fontSize: '15px' }}>
+                            Unlike other rail apps cluttered with invasive ads, RailYatra focuses on a clean, premium user experience. Our glassmorphism design ensures readability and ease of use on all devices. We value your privacy and data security, providing a safe environment to check your travel details without unnecessary distractions.
+                        </p>
+                    </div>
+                </div>
             </div>
         </div>
     );

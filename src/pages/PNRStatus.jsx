@@ -329,19 +329,55 @@ const PNRStatus = () => {
                 </div>
             )}
 
+            {/* Publisher Content: Comprehensive Guide */}
+            <div className="glass-panel" style={{ padding: '32px', marginBottom: '32px' }}>
+                <h2 style={{ fontSize: '24px', fontWeight: 700, marginBottom: '24px' }}>Understanding <span className="text-gradient">PNR Status</span></h2>
+
+                <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: '24px', marginBottom: '32px' }}>
+                    <div>
+                        <h3 style={{ fontSize: '18px', fontWeight: 600, marginBottom: '12px', color: 'var(--accent-color)' }}>What is PNR?</h3>
+                        <p style={{ color: 'var(--text-secondary)', lineHeight: '1.6', fontSize: '14px' }}>
+                            PNR stands for <strong>Passenger Name Record</strong>. It is a unique 10-digit number assigned to every train ticket booked via Indian Railways CRS (Computerized Reservation System). The PNR number is located on the top-left corner of your printed ticket or in the SMS received after booking. It holds vital information like passenger details, route, and current status.
+                        </p>
+                    </div>
+                    <div>
+                        <h3 style={{ fontSize: '18px', fontWeight: 600, marginBottom: '12px', color: 'var(--accent-color)' }}>Booking Status Codes</h3>
+                        <ul style={{ color: 'var(--text-secondary)', lineHeight: '1.6', fontSize: '14px', paddingLeft: '20px' }}>
+                            <li style={{ marginBottom: '8px' }}><strong style={{ color: 'var(--success)' }}>CNF (Confirmed)</strong>: Your seat is confirmed. You have been allotted a coach and berth number.</li>
+                            <li style={{ marginBottom: '8px' }}><strong style={{ color: 'var(--warning)' }}>RAC (Reservation Against Cancellation)</strong>: You have a confirmed travel authority but may have to share a side-lower berth. You likely will get a full berth if others cancel.</li>
+                            <li style={{ marginBottom: '8px' }}><strong style={{ color: 'var(--danger)' }}>WL (Waiting List)</strong>: No seat is allotted yet. You cannot board the train if your ticket remains WL after chart preparation.</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <h3 style={{ fontSize: '18px', fontWeight: 600, marginBottom: '16px' }}>How to Check PNR Status?</h3>
+                <ol style={{ color: 'var(--text-secondary)', lineHeight: '1.6', fontSize: '14px', paddingLeft: '20px', marginBottom: '24px' }}>
+                    <li style={{ marginBottom: '8px' }}>Locate the 10-digit PNR number on your ticket.</li>
+                    <li style={{ marginBottom: '8px' }}>Enter the number in the search box above.</li>
+                    <li style={{ marginBottom: '8px' }}>Click on "Check Status" button.</li>
+                    <li style={{ marginBottom: '8px' }}>View your current status, coach position, and platform number instantly.</li>
+                </ol>
+
+                <div style={{ background: 'rgba(255,255,255,0.03)', padding: '16px', borderRadius: '12px', borderLeft: '4px solid var(--accent-color)' }}>
+                    <p style={{ margin: 0, fontSize: '14px', fontStyle: 'italic', color: 'var(--text-secondary)' }}>
+                        <strong>Note:</strong> PNR status is dynamic. A Waiting List (WL) ticket can move to RAC or Confirmed (CNF) as other passengers cancel. We recommend checking the status periodically, especially 4 hours before departure when the final chart is prepared.
+                    </p>
+                </div>
+            </div>
+
             {/* Visual FAQ Section */}
             <FAQSection faqs={[
                 {
-                    question: "What is PNR number?",
-                    answer: "PNR (Passenger Name Record) is a unique 10-digit number assigned to every train ticket booked through Indian Railways. It contains all your journey details including passenger names, train number, boarding station, and ticket status."
+                    question: "Can I travel with a WL (Waitlisted) ticket?",
+                    answer: "If you booked a ticket online (e-ticket) and it remains fully waitlisted after chart preparation, it gets automatically cancelled and refunded. You CANNOT travel. However, if you bought a counter ticket, you can technically board the general compartment, but it's not advised."
                 },
                 {
-                    question: "How to check PNR status?",
-                    answer: "Enter your 10-digit PNR number in the search box above and click 'Check Status'. You'll instantly see your ticket confirmation status, berth details, and coach number."
+                    question: "What is Chart Preparation time?",
+                    answer: "The final chart is usually prepared 4 hours before the train's scheduled departure from the originating station. For early morning trains, charts are prepared the previous night."
                 },
                 {
-                    question: "What does CNF, RAC, and WL mean?",
-                    answer: "CNF means Confirmed (you have a reserved seat). RAC means Reservation Against Cancellation (you may need to share a berth). WL means Waitlist (no seat assigned yet, waiting for cancellations)."
+                    question: "What does PQWL, RLWL, and GNWL mean?",
+                    answer: "GNWL (General Waiting List) has the highest chance of confirmation. RLWL (Remote Location WL) is for intermediate stations and has lower chances. PQWL (Pooled Quota WL) is for short distances and has the least chance of confirmation."
                 }
             ]} />
         </div>

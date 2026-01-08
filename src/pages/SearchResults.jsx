@@ -3,6 +3,7 @@ import { ArrowLeft, Clock, Calendar, ChevronRight, AlertCircle } from 'lucide-re
 import { useNavigate, useSearchParams } from 'react-router-dom';
 import GoogleAd from '../components/GoogleAd';
 import AdContainer from '../components/AdContainer';
+import SEOHead from '../components/SEOHead';
 import { searchTrains } from '../services/railwayApi';
 
 const TrainCard = ({ name, number, depTime, arrTime, duration, price, onClick, fromStation, toStation, runningDays }) => {
@@ -197,6 +198,12 @@ const SearchResults = () => {
 
     return (
         <div className="fade-in" style={{ padding: '20px', paddingBottom: '100px' }}>
+            <SEOHead
+                title={fromStation && toStation ? `Trains from ${fromStation} to ${toStation} - Fare & Availability | RailYatra` : 'Search Trains - RailYatra'}
+                description={fromStation && toStation ? `List of ${filteredTrains.length} trains running between ${fromStation} and ${toStation}. Check seat availability, fare, and timing for your journey on RailYatra.` : 'Search for trains between stations on RailYatra.'}
+                keywords={`trains from ${fromStation} to ${toStation}, train fare, seat availability, ${fromStation} to ${toStation} trains`}
+                canonical={`https://railyatra.co.in/trains`}
+            />
             <div style={{ display: 'flex', alignItems: 'center', gap: '16px', marginBottom: '24px', marginTop: '12px' }}>
                 <button
                     onClick={() => (window.history.state && window.history.state.idx > 0) ? navigate(-1) : navigate('/')}
@@ -289,6 +296,15 @@ const SearchResults = () => {
                     >
                         Show All Trains
                     </button>
+                    {/* HIDE ADS ON EMPTY SCREENS to comply with AdSense */}
+                </div>
+            )}
+
+            {/* Sponsored Ad - Only show if we have results */}
+            {!loading && !error && filteredTrains.length > 0 && (
+                <div style={{ margin: '32px 0' }}>
+                    <GoogleAd slot="search-results-mid" format="horizontal" />
+                    <div style={{ fontSize: '10px', color: 'var(--text-secondary)', textAlign: 'center', marginTop: '4px' }}>Sponsored</div>
                 </div>
             )}
 

@@ -11,9 +11,9 @@ import { Helmet } from 'react-helmet-async';
  * @param {string} ogImage - Open Graph image URL
  */
 const SEOHead = ({
-    title = 'RailYatra - PNR Status & Live Train Status',
-    description = 'Check PNR status, live train running status, train schedules & seat availability. Fast, free Indian Railway information.',
-    keywords = 'PNR status, live train status, train running status, Indian railway, IRCTC PNR',
+    title = 'RailYatra - Indian Railway PNR Status, Live Train Status & Schedule',
+    description = 'Check confirmed PNR status, live train running status, seat availability and train time table. Fast, simple, and ad-free experience on RailYatra.',
+    keywords = 'PNR status, live train status, train running status, indian railway, irctc pnr, train schedule, seat availability',
     canonical = 'https://railyatra.co.in',
     jsonLd = null,
     ogImage = 'https://railyatra.co.in/og-image.jpg',
@@ -26,6 +26,9 @@ const SEOHead = ({
             <meta name="description" content={description} />
             <meta name="keywords" content={keywords} />
             {noindex && <meta name="robots" content="noindex,nofollow" />}
+
+            {/* Google Search Console Verification */}
+            <meta name="google-site-verification" content="YOUR_VERIFICATION_TOKEN_HERE" />
 
             {/* Canonical URL */}
             <link rel="canonical" href={canonical} />

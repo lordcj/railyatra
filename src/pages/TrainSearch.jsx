@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Search, Clock, ArrowRight, Train } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
 import FAQSection from '../components/FAQSection';
+import SEOHead from '../components/SEOHead';
 
 const TrainSearch = () => {
     const navigate = useNavigate();
@@ -26,6 +27,12 @@ const TrainSearch = () => {
 
     return (
         <div className="fade-in" style={{ padding: '20px' }}>
+            <SEOHead
+                title="Train Schedule & Time Table - Check Route & Stoppages | RailYatra"
+                description="Get detailed Indian Railways train schedule, time table, route map, and running days. Search by train number or name for accurate information."
+                keywords="train schedule, train time table, indian railway time table, train route, train stoppages, check train schedule"
+                canonical="https://railyatra.co.in/search-train"
+            />
             <h2 style={{ fontSize: '24px', fontWeight: 700, marginBottom: '24px', marginTop: '12px' }}>
                 Find <span className="text-gradient">Train</span>
             </h2>
@@ -96,6 +103,46 @@ const TrainSearch = () => {
                     </div>
                 ))}
             </div>
+            {/* Publisher Content: Schedule Guide */}
+            <div className="glass-panel" style={{ padding: '32px', marginBottom: '32px' }}>
+                <h2 style={{ fontSize: '24px', fontWeight: 700, marginBottom: '24px' }}>Indian Railways <span className="text-gradient">Time Table</span></h2>
+
+                <div style={{ color: 'var(--text-secondary)', lineHeight: '1.6', fontSize: '15px' }}>
+                    <p style={{ marginBottom: '16px' }}>
+                        The Indian Railways network is one of the largest in the world, operating over 13,000 passenger trains daily. Knowing the accurate schedule is crucial for a hassle-free journey. RailYatra provides the most up-to-date train time table, sourced directly from the National Train Enquiry System (NTES) data.
+                    </p>
+
+                    <h3 style={{ fontSize: '18px', fontWeight: 600, marginBottom: '12px', color: 'white', marginTop: '24px' }}>Reading the Train Schedule</h3>
+                    <ul style={{ paddingLeft: '20px', marginBottom: '24px', display: 'flex', flexDirection: 'column', gap: '8px' }}>
+                        <li><strong>Arrival Time:</strong> The time a train reaches a specific station.</li>
+                        <li><strong>Departure Time:</strong> The time a train leaves the station.</li>
+                        <li><strong>Halt Time:</strong> The duration a train stops at a station (Departure - Arrival).</li>
+                        <li><strong>Distance:</strong> Kilometers covered from the originating station.</li>
+                        <li><strong>Day Count:</strong> Indicates if the train is on Day 1, Day 2, etc., of its journey.</li>
+                    </ul>
+
+                    <h3 style={{ fontSize: '18px', fontWeight: 600, marginBottom: '12px', color: 'white' }}>Types of Trains</h3>
+                    <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(250px, 1fr))', gap: '16px' }}>
+                        <div style={{ background: 'rgba(255,255,255,0.03)', padding: '16px', borderRadius: '12px' }}>
+                            <strong style={{ color: 'var(--accent-color)', display: 'block', marginBottom: '4px' }}>Vande Bharat</strong>
+                            <span style={{ fontSize: '13px' }}>India's semi-high speed train set, known for comfort and speed.</span>
+                        </div>
+                        <div style={{ background: 'rgba(255,255,255,0.03)', padding: '16px', borderRadius: '12px' }}>
+                            <strong style={{ color: 'var(--accent-color)', display: 'block', marginBottom: '4px' }}>Rajdhani Express</strong>
+                            <span style={{ fontSize: '13px' }}>Premium fully air-conditioned trains connecting state capitals to New Delhi.</span>
+                        </div>
+                        <div style={{ background: 'rgba(255,255,255,0.03)', padding: '16px', borderRadius: '12px' }}>
+                            <strong style={{ color: 'var(--accent-color)', display: 'block', marginBottom: '4px' }}>Shatabdi Express</strong>
+                            <span style={{ fontSize: '13px' }}>Day trains connecting major cities, returning to origin the same day.</span>
+                        </div>
+                        <div style={{ background: 'rgba(255,255,255,0.03)', padding: '16px', borderRadius: '12px' }}>
+                            <strong style={{ color: 'var(--accent-color)', display: 'block', marginBottom: '4px' }}>Mail/Express</strong>
+                            <span style={{ fontSize: '13px' }}>The backbone of Indian rail travel, connecting distant parts of the country.</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
             {/* About Section for SEO */}
             <div style={{ marginTop: '32px', color: 'var(--text-secondary)', fontSize: '14px', lineHeight: '1.6' }}>
                 <h3 style={{ color: 'white', marginBottom: '12px', fontSize: '18px' }}>About Train Schedule Search</h3>
