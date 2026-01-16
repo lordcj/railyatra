@@ -1,0 +1,31 @@
+{
+  "number": "17301",
+  "name": "Mysore Dharwad Express",
+  "type": "Exp",
+  "source": "MYSORE JN",
+  "sourceCode": "MYS",
+  "destination": "DHARWAR",
+  "destinationCode": "DWR",
+  "departureTime": "22:15:00",
+  "arrivalTime": "08:15:00",
+  "duration": "10h 0m",
+  "distance": "491 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

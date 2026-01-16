@@ -1,0 +1,32 @@
+{
+  "number": "12915",
+  "name": "Ashram SF Express",
+  "type": "SF",
+  "source": "AHMEDABAD JN",
+  "sourceCode": "ADI",
+  "destination": "OLD DELHI",
+  "destinationCode": "DLI",
+  "departureTime": "18:30:00",
+  "arrivalTime": "10:10:00",
+  "duration": "15h 40m",
+  "distance": "933 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

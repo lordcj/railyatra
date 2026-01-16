@@ -1,0 +1,30 @@
+{
+  "number": "55742",
+  "name": "Jogbani Katihar Passenger",
+  "type": "Pass",
+  "source": "JOGBANI",
+  "sourceCode": "JBN",
+  "destination": "KATIHAR JN",
+  "destinationCode": "KIR",
+  "departureTime": "19:05:00",
+  "arrivalTime": "21:40:00",
+  "duration": "2h 35m",
+  "distance": "108 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,31 @@
+{
+  "number": "12442",
+  "name": "Bilaspur Rajdhani Express",
+  "type": "Raj",
+  "source": "NEW DELHI",
+  "sourceCode": "NDLS",
+  "destination": "BILASPUR JN",
+  "destinationCode": "BSP",
+  "departureTime": "15:45:00",
+  "arrivalTime": "12:00:00",
+  "duration": "20h 15m",
+  "distance": "1501 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

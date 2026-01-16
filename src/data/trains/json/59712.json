@@ -1,0 +1,30 @@
+{
+  "number": "59712",
+  "name": "Suratgarh Bhatinda Passenger",
+  "type": "Pass",
+  "source": "SURATGARH JN",
+  "sourceCode": "SOG",
+  "destination": "BHATINDA JN",
+  "destinationCode": "BTI",
+  "departureTime": "09:00:00",
+  "arrivalTime": "12:35:00",
+  "duration": "3h 35m",
+  "distance": "142 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

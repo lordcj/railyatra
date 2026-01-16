@@ -1,0 +1,31 @@
+{
+  "number": "18518",
+  "name": "Visakhapatnam-Korba Express",
+  "type": "Exp",
+  "source": "VISHAKAPATNAM",
+  "sourceCode": "VSKP",
+  "destination": "Korba",
+  "destinationCode": "KRBA",
+  "departureTime": "20:00:00",
+  "arrivalTime": "11:10:00",
+  "duration": "15h 10m",
+  "distance": "728 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

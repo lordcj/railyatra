@@ -1,0 +1,13 @@
+{
+  "code": "UDZ",
+  "name": "Udaipur",
+  "fullName": "Udaipur City Railway Station",
+  "zone": "NWR",
+  "state": "Rajasthan",
+  "category": "A",
+  "platforms": 4,
+  "connectivity": [
+    "Bus",
+    "Taxi"
+  ]
+}

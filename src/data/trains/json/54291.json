@@ -1,0 +1,30 @@
+{
+  "number": "54291",
+  "name": "Varanasi Partapgarh Passenger",
+  "type": "Pass",
+  "source": "VARANASI JN",
+  "sourceCode": "BSB",
+  "destination": "PARTAPGARH JN",
+  "destinationCode": "PBH",
+  "departureTime": "16:50:00",
+  "arrivalTime": "21:00:00",
+  "duration": "4h 10m",
+  "distance": "128 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

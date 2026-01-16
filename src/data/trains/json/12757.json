@@ -1,0 +1,29 @@
+{
+  "number": "12757",
+  "name": "Tirupati-Coimbatore Intercity Express",
+  "type": "SF",
+  "source": "TIRUPATI MAIN",
+  "sourceCode": "TPTY",
+  "destination": "COIMBATORE JN",
+  "destinationCode": "CBE",
+  "departureTime": "14:50:00",
+  "arrivalTime": "22:40:00",
+  "duration": "7h 50m",
+  "distance": "472 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

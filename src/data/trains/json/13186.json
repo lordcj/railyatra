@@ -1,0 +1,31 @@
+{
+  "number": "13186",
+  "name": "Ganga Sagar Express",
+  "type": "Exp",
+  "source": "JAYNAGAR",
+  "sourceCode": "JYG",
+  "destination": "KOLKATA SEALDAH",
+  "destinationCode": "SDAH",
+  "departureTime": "16:05:00",
+  "arrivalTime": "06:55:00",
+  "duration": "14h 50m",
+  "distance": "624 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,31 @@
+{
+  "number": "12272",
+  "name": "New Delhi-Lucknow AC Duronto Express",
+  "type": "Drnt",
+  "source": "NEW DELHI",
+  "sourceCode": "NDLS",
+  "destination": "LUCKNOW",
+  "destinationCode": "LKO",
+  "departureTime": "23:30:00",
+  "arrivalTime": "07:10:00",
+  "duration": "7h 40m",
+  "distance": "493 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

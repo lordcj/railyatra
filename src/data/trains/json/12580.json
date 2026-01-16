@@ -1,0 +1,31 @@
+{
+  "number": "12580",
+  "name": "Puri Digha Samudra Kanya Super Fast Express",
+  "type": "SF",
+  "source": "PURI",
+  "sourceCode": "PURI",
+  "destination": "Digha Flag Station",
+  "destinationCode": "DGHA",
+  "departureTime": "23:35:00",
+  "arrivalTime": "09:30:00",
+  "duration": "9h 55m",
+  "distance": "549 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

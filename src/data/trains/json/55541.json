@@ -1,0 +1,30 @@
+{
+  "number": "55541",
+  "name": "Hajipur-Fulwaria Passenger",
+  "type": "Pass",
+  "source": "HAJIPUR JN",
+  "sourceCode": "HJP",
+  "destination": "SIWAN JN",
+  "destinationCode": "SV",
+  "departureTime": "16:00:00",
+  "arrivalTime": "20:00:00",
+  "duration": "4h 0m",
+  "distance": "120 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,32 @@
+{
+  "number": "11471",
+  "name": "Indore-Jabalpur Overnight Express",
+  "type": "Exp",
+  "source": "INDORE JN BG",
+  "sourceCode": "INDB",
+  "destination": "JABALPUR",
+  "destinationCode": "JBP",
+  "departureTime": "17:45:00",
+  "arrivalTime": "05:40:00",
+  "duration": "11h 55m",
+  "distance": "555 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

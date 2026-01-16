@@ -1,0 +1,30 @@
+{
+  "number": "58416",
+  "name": "Cuttack Puri Passenger",
+  "type": "Pass",
+  "source": "PURI",
+  "sourceCode": "PURI",
+  "destination": "CUTTACK",
+  "destinationCode": "CTC",
+  "departureTime": "08:05:00",
+  "arrivalTime": "11:10:00",
+  "duration": "3h 5m",
+  "distance": "91 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

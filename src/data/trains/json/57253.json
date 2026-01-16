@@ -1,0 +1,30 @@
+{
+  "number": "57253",
+  "name": "Bhadrachalam Vijayawada Passenger",
+  "type": "Pass",
+  "source": "Bhadrachalam Road",
+  "sourceCode": "BDCR",
+  "destination": "VIJAYAWADA JN",
+  "destinationCode": "BZA",
+  "departureTime": "13:45:00",
+  "arrivalTime": "19:20:00",
+  "duration": "5h 35m",
+  "distance": "177 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

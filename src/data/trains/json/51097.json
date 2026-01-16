@@ -1,0 +1,30 @@
+{
+  "number": "51097",
+  "name": "Diva Panvel Passenger",
+  "type": "Pass",
+  "source": "DIVA",
+  "sourceCode": "DIVA",
+  "destination": "PANVEL",
+  "destinationCode": "PNVL",
+  "departureTime": "00:20:00",
+  "arrivalTime": "01:10:00",
+  "duration": "0h 50m",
+  "distance": "26 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

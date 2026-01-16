@@ -1,0 +1,37 @@
+{
+  "number": "22221",
+  "name": "Mumbai CSMT Rajdhani Express",
+  "type": "Rajdhani",
+  "source": "Hazrat Nizamuddin",
+  "sourceCode": "NZM",
+  "destination": "Mumbai CSMT",
+  "destinationCode": "CSMT",
+  "departureTime": "16:00",
+  "arrivalTime": "08:15",
+  "duration": "16h 15m",
+  "distance": "1542 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "1A",
+    "2A",
+    "3A"
+  ],
+  "stops": 5,
+  "majorStops": [
+    "Bhopal",
+    "Nagpur",
+    "Manmad",
+    "Nashik",
+    "Mumbai CSMT"
+  ],
+  "frequency": "Daily"
+}

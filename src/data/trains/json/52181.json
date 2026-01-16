@@ -1,0 +1,30 @@
+{
+  "number": "52181",
+  "name": "Dhaulpur Tantpur Passenger",
+  "type": "Pass",
+  "source": "DHAULPUR",
+  "sourceCode": "DHO",
+  "destination": "Tantpur",
+  "destinationCode": "TPO",
+  "departureTime": "10:40:00",
+  "arrivalTime": "13:05:00",
+  "duration": "2h 25m",
+  "distance": "58 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

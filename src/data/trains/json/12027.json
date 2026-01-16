@@ -1,0 +1,30 @@
+{
+  "number": "12027",
+  "name": "CHENNAI CENT - BANGALORE CITY Shatabdi Exp",
+  "type": "Shtb",
+  "source": "CHENNAI CENTRAL",
+  "sourceCode": "MAS",
+  "destination": "BANGALORE CITY JN",
+  "destinationCode": "SBC",
+  "departureTime": "17:30:00",
+  "arrivalTime": "22:30:00",
+  "duration": "5h 0m",
+  "distance": "362 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "1A",
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

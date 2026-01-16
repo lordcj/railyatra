@@ -1,0 +1,30 @@
+{
+  "number": "59721",
+  "name": "Jaipur Hisar Passenger",
+  "type": "Pass",
+  "source": "JAIPUR",
+  "sourceCode": "JP",
+  "destination": "Hisar",
+  "destinationCode": "HSR",
+  "departureTime": "05:15:00",
+  "arrivalTime": "13:40:00",
+  "duration": "8h 25m",
+  "distance": "369 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

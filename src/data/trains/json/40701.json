@@ -1,0 +1,30 @@
+{
+  "number": "40701",
+  "name": "Chennai Beach Tirumalpur EMU",
+  "type": "MEMU",
+  "source": "CHENNAI BEACH",
+  "sourceCode": "MSB",
+  "destination": "TIRUMALPUR",
+  "destinationCode": "TMLP",
+  "departureTime": "07:05:00",
+  "arrivalTime": "10:05:00",
+  "duration": "3h 0m",
+  "distance": "112 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,31 @@
+{
+  "number": "12144",
+  "name": "Sultanpur-LTT Weekly SF Express",
+  "type": "SF",
+  "source": "SULTANPUR",
+  "sourceCode": "SLN",
+  "destination": "LOKMANYA TILAK TERM",
+  "destinationCode": "LTT",
+  "departureTime": "23:55:00",
+  "arrivalTime": "04:10:00",
+  "duration": "28h 15m",
+  "distance": "1550 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

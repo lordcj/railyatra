@@ -1,0 +1,29 @@
+{
+  "number": "11026",
+  "name": "Pune Manmad Express",
+  "type": "Exp",
+  "source": "PUNE JN",
+  "sourceCode": "PUNE",
+  "destination": "MANMAD JN",
+  "destinationCode": "MMR",
+  "departureTime": "12:50:00",
+  "arrivalTime": "21:30:00",
+  "duration": "8h 40m",
+  "distance": "364 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

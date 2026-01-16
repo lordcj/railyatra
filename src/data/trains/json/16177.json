@@ -1,0 +1,32 @@
+{
+  "number": "16177",
+  "name": "Rock Fort Express",
+  "type": "Exp",
+  "source": "CHENNAI EGMORE",
+  "sourceCode": "MS",
+  "destination": "KUMBAKONAM",
+  "destinationCode": "KMU",
+  "departureTime": "22:30:00",
+  "arrivalTime": "07:40:00",
+  "duration": "9h 10m",
+  "distance": "425 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

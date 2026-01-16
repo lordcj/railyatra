@@ -1,0 +1,30 @@
+{
+  "number": "54401",
+  "name": "Khurja Meerut Passenger",
+  "type": "Pass",
+  "source": "KHURJA JN",
+  "sourceCode": "KRJ",
+  "destination": "MEERUT CITY",
+  "destinationCode": "MTC",
+  "departureTime": "06:15:00",
+  "arrivalTime": "09:35:00",
+  "duration": "3h 20m",
+  "distance": "94 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "23112",
+  "name": "Giridih Kolkata Express",
+  "type": "Exp",
+  "source": "Giridih",
+  "sourceCode": "GRD",
+  "destination": "KOLKATA CHITPUR",
+  "destinationCode": "KOAA",
+  "departureTime": "22:50:00",
+  "arrivalTime": "07:30:00",
+  "duration": "8h 40m",
+  "distance": "335 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

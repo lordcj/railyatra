@@ -1,0 +1,30 @@
+{
+  "number": "52330",
+  "name": "Saharsa-Forbesganj Passenger",
+  "type": "Pass",
+  "source": "SAHARSA JN",
+  "sourceCode": "SHC",
+  "destination": "FORBESGANJ",
+  "destinationCode": "FBG",
+  "departureTime": "18:15:00",
+  "arrivalTime": "01:10:00",
+  "duration": "6h 55m",
+  "distance": "112 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

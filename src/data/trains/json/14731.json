@@ -1,0 +1,29 @@
+{
+  "number": "14731",
+  "name": "Delhi Bhatinda Intercity Express",
+  "type": "Exp",
+  "source": "OLD DELHI",
+  "sourceCode": "DLI",
+  "destination": "BHATINDA JN",
+  "destinationCode": "BTI",
+  "departureTime": "14:15:00",
+  "arrivalTime": "22:15:00",
+  "duration": "8h 0m",
+  "distance": "399 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

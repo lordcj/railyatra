@@ -1,0 +1,29 @@
+{
+  "number": "19324",
+  "name": "Habibganj Indore InterCity Express",
+  "type": "Exp",
+  "source": "HABIBGANJ",
+  "sourceCode": "HBJ",
+  "destination": "INDORE JN BG",
+  "destinationCode": "INDB",
+  "departureTime": "17:10:00",
+  "arrivalTime": "21:20:00",
+  "duration": "4h 10m",
+  "distance": "224 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

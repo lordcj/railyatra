@@ -1,0 +1,30 @@
+{
+  "number": "40519",
+  "name": "Chennai Beach Chengulpet EMU",
+  "type": "MEMU",
+  "source": "CHENNAI BEACH",
+  "sourceCode": "MSB",
+  "destination": "CHENGALPATTU",
+  "destinationCode": "CGL",
+  "departureTime": "07:38:00",
+  "arrivalTime": "09:30:00",
+  "duration": "1h 52m",
+  "distance": "59 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,31 @@
+{
+  "number": "15028",
+  "name": "Maurya Express",
+  "type": "Exp",
+  "source": "GORAKHPUR JN",
+  "sourceCode": "GKP",
+  "destination": "HATIA",
+  "destinationCode": "HTE",
+  "departureTime": "07:25:00",
+  "arrivalTime": "08:10:00",
+  "duration": "24h 45m",
+  "distance": "864 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

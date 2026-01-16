@@ -1,0 +1,30 @@
+{
+  "number": "51974",
+  "name": "Bandikui Mathura Passenger",
+  "type": "Pass",
+  "source": "BANDIKUI JN",
+  "sourceCode": "BKI",
+  "destination": "MATHURA JN",
+  "destinationCode": "MTJ",
+  "departureTime": "15:45:00",
+  "arrivalTime": "20:05:00",
+  "duration": "4h 20m",
+  "distance": "183 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

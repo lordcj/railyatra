@@ -1,0 +1,31 @@
+{
+  "number": "12588",
+  "name": "Amarnath Express",
+  "type": "SF",
+  "source": "JAMMU TAWI",
+  "sourceCode": "JAT",
+  "destination": "GORAKHPUR JN",
+  "destinationCode": "GKP",
+  "departureTime": "22:45:00",
+  "arrivalTime": "20:50:00",
+  "duration": "22h 5m",
+  "distance": "1248 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "57121",
+  "name": "Kazipet Balharshah Passenger",
+  "type": "Pass",
+  "source": "KAZIPET JN",
+  "sourceCode": "KZJ",
+  "destination": "BALHARSHAH",
+  "destinationCode": "BPQ",
+  "departureTime": "05:00:00",
+  "arrivalTime": "10:30:00",
+  "duration": "5h 30m",
+  "distance": "235 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

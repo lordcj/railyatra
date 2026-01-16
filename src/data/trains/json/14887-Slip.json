@@ -1,0 +1,31 @@
+{
+  "number": "14887-Slip",
+  "name": "Kalka - Sriganganar Express (Slip)",
+  "type": "Exp",
+  "source": "Kalka",
+  "sourceCode": "KLK",
+  "destination": "SHRI GANGANAGAR",
+  "destinationCode": "SGNR",
+  "departureTime": "21:45:00",
+  "arrivalTime": "07:10:00",
+  "duration": "9h 25m",
+  "distance": "433 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

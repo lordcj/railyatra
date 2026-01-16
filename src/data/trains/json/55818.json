@@ -1,0 +1,30 @@
+{
+  "number": "55818",
+  "name": "Silghat Town- Chaparmukh Passenger",
+  "type": "Pass",
+  "source": "Silghat Town",
+  "sourceCode": "SHTT",
+  "destination": "CHAPARMUKH JN",
+  "destinationCode": "CPK",
+  "departureTime": "18:25:00",
+  "arrivalTime": "21:25:00",
+  "duration": "3h 0m",
+  "distance": "81 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

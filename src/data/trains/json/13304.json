@@ -1,0 +1,30 @@
+{
+  "number": "13304",
+  "name": "Dhanbad InterCity Express",
+  "type": "Exp",
+  "source": "RANCHI",
+  "sourceCode": "RNC",
+  "destination": "DHANBAD JN",
+  "destinationCode": "DHN",
+  "departureTime": "18:15:00",
+  "arrivalTime": "22:25:00",
+  "duration": "4h 10m",
+  "distance": "162 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

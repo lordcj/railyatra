@@ -1,0 +1,30 @@
+{
+  "number": "52991",
+  "name": "Ujjain Khandwa Passenger",
+  "type": "Pass",
+  "source": "UJJAIN JN",
+  "sourceCode": "UJN",
+  "destination": "KHANDWA",
+  "destinationCode": "KNW",
+  "departureTime": "13:35:00",
+  "arrivalTime": "21:30:00",
+  "duration": "7h 55m",
+  "distance": "204 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

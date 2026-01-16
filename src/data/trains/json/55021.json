@@ -1,0 +1,30 @@
+{
+  "number": "55021",
+  "name": "Samastipur Siwan InterCity Fast Passenger",
+  "type": "Pass",
+  "source": "SAMASTIPUR JN",
+  "sourceCode": "SPJ",
+  "destination": "SIWAN JN",
+  "destinationCode": "SV",
+  "departureTime": "16:00:00",
+  "arrivalTime": "23:10:00",
+  "duration": "7h 10m",
+  "distance": "226 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

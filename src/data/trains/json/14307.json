@@ -1,0 +1,29 @@
+{
+  "number": "14307",
+  "name": "Bareilly Express",
+  "type": "Exp",
+  "source": "PRAYAG",
+  "sourceCode": "PRG",
+  "destination": "BAREILLY",
+  "destinationCode": "BE",
+  "departureTime": "22:15:00",
+  "arrivalTime": "10:55:00",
+  "duration": "12h 40m",
+  "distance": "461 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

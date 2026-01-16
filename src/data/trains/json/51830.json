@@ -1,0 +1,30 @@
+{
+  "number": "51830",
+  "name": "Itarsi Nagpur Passenger",
+  "type": "Pass",
+  "source": "ITARSI JN",
+  "sourceCode": "ET",
+  "destination": "NAGPUR",
+  "destinationCode": "NGP",
+  "departureTime": "12:00:00",
+  "arrivalTime": "20:35:00",
+  "duration": "8h 35m",
+  "distance": "298 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

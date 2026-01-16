@@ -1,0 +1,29 @@
+{
+  "number": "12893",
+  "name": "BHUBANESWAR - BALANGIR SF Exp",
+  "type": "SF",
+  "source": "BHUBANESWAR",
+  "sourceCode": "BBS",
+  "destination": "BALANGIR",
+  "destinationCode": "BLGR",
+  "departureTime": "06:45:00",
+  "arrivalTime": "13:40:00",
+  "duration": "6h 55m",
+  "distance": "397 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

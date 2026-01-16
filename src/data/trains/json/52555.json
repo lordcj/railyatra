@@ -1,0 +1,30 @@
+{
+  "number": "52555",
+  "name": "Purnia Murliganj Passenger",
+  "type": "Pass",
+  "source": "PURNIA JN",
+  "sourceCode": "PRNA",
+  "destination": "Murliganj",
+  "destinationCode": "MRIJ",
+  "departureTime": "18:10:00",
+  "arrivalTime": "20:35:00",
+  "duration": "2h 25m",
+  "distance": "56 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

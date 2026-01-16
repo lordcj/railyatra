@@ -1,0 +1,30 @@
+{
+  "number": "13013",
+  "name": "Barddhaman Rampurhat Tri-Weekly Express",
+  "type": "Exp",
+  "source": "BARDDHAMAN JN",
+  "sourceCode": "BWN",
+  "destination": "RAMPUR HAT",
+  "destinationCode": "RPH",
+  "departureTime": "07:15:00",
+  "arrivalTime": "09:35:00",
+  "duration": "2h 20m",
+  "distance": "112 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

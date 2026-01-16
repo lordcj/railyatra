@@ -1,0 +1,30 @@
+{
+  "number": "55721",
+  "name": "Malda Town Balurghat Passenger",
+  "type": "Pass",
+  "source": "MALDA TOWN",
+  "sourceCode": "MLDT",
+  "destination": "BALURGHAT",
+  "destinationCode": "BLGT",
+  "departureTime": "06:50:00",
+  "arrivalTime": "09:40:00",
+  "duration": "2h 50m",
+  "distance": "104 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

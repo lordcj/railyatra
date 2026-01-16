@@ -1,0 +1,29 @@
+{
+  "number": "18304",
+  "name": "PURI - SAMBALPUR Intercity Exp",
+  "type": "Exp",
+  "source": "PURI",
+  "sourceCode": "PURI",
+  "destination": "SAMBALPUR",
+  "destinationCode": "SBP",
+  "departureTime": "15:45:00",
+  "arrivalTime": "22:15:00",
+  "duration": "6h 30m",
+  "distance": "341 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

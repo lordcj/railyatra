@@ -1,0 +1,30 @@
+{
+  "number": "54466",
+  "name": "TUNDLA - FARRUKHABAD PASSENGER",
+  "type": "Pass",
+  "source": "TUNDLA JN",
+  "sourceCode": "TDL",
+  "destination": "FARRUKHABAD",
+  "destinationCode": "FBD",
+  "departureTime": "20:25:00",
+  "arrivalTime": "10:50:00",
+  "duration": "14h 25m",
+  "distance": "389 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "51137",
+  "name": "Badnera Amravati Passenger",
+  "type": "Pass",
+  "source": "BADNERA JN",
+  "sourceCode": "BD",
+  "destination": "Amravati",
+  "destinationCode": "AMI",
+  "departureTime": "03:20:00",
+  "arrivalTime": "03:35:00",
+  "duration": "0h 15m",
+  "distance": "9 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

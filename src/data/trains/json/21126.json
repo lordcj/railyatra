@@ -1,0 +1,31 @@
+{
+  "number": "21126",
+  "name": "Bhind Indore Express",
+  "type": "Exp",
+  "source": "BHIND",
+  "sourceCode": "BIX",
+  "destination": "INDORE JN BG",
+  "destinationCode": "INDB",
+  "departureTime": "17:10:00",
+  "arrivalTime": "07:50:00",
+  "duration": "14h 40m",
+  "distance": "644 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

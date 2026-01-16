@@ -1,0 +1,30 @@
+{
+  "number": "56011",
+  "name": "Arakkonam Nandalur Passenger",
+  "type": "Pass",
+  "source": "ARAKKONAM",
+  "sourceCode": "AJJ",
+  "destination": "NANDALUR",
+  "destinationCode": "NRE",
+  "departureTime": "07:05:00",
+  "arrivalTime": "12:45:00",
+  "duration": "5h 40m",
+  "distance": "155 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

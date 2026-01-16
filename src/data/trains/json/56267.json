@@ -1,0 +1,30 @@
+{
+  "number": "56267",
+  "name": "Arsikere Mysore Passenger",
+  "type": "Pass",
+  "source": "ARSIKERE JN",
+  "sourceCode": "ASK",
+  "destination": "MYSORE JN",
+  "destinationCode": "MYS",
+  "departureTime": "05:15:00",
+  "arrivalTime": "09:25:00",
+  "duration": "4h 10m",
+  "distance": "167 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

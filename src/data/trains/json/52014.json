@@ -1,0 +1,30 @@
+{
+  "number": "52014",
+  "name": "Waghai Bilimora Pass",
+  "type": "Pass",
+  "source": "Waghai",
+  "sourceCode": "WGI",
+  "destination": "BILIMORA JN",
+  "destinationCode": "BIM",
+  "departureTime": "06:00:00",
+  "arrivalTime": "09:20:00",
+  "duration": "3h 20m",
+  "distance": "63 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

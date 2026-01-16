@@ -1,0 +1,30 @@
+{
+  "number": "55313",
+  "name": "Kashipur Ramnagar Passenger",
+  "type": "Pass",
+  "source": "KASHIPUR",
+  "sourceCode": "KPV",
+  "destination": "RAMNAGAR",
+  "destinationCode": "RMR",
+  "departureTime": "15:40:00",
+  "arrivalTime": "16:15:00",
+  "duration": "0h 35m",
+  "distance": "27 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

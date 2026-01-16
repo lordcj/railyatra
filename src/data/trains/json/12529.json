@@ -1,0 +1,29 @@
+{
+  "number": "12529",
+  "name": "Bhopal-Jabalpur Intercity Express",
+  "type": "SF",
+  "source": "HABIBGANJ",
+  "sourceCode": "HBJ",
+  "destination": "JABALPUR",
+  "destinationCode": "JBP",
+  "departureTime": "05:30:00",
+  "arrivalTime": "10:50:00",
+  "duration": "5h 20m",
+  "distance": "331 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WCR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "24369",
+  "name": "Triveni Express",
+  "type": "Exp",
+  "source": "Shakti Nagar",
+  "sourceCode": "SKTN",
+  "destination": "BAREILLY",
+  "destinationCode": "BE",
+  "departureTime": "17:55:00",
+  "arrivalTime": "12:30:00",
+  "duration": "18h 35m",
+  "distance": "742 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

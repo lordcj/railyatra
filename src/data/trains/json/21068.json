@@ -1,0 +1,30 @@
+{
+  "number": "21068",
+  "name": "Rai Bareli-Mumbai LTT Saket Express",
+  "type": "Exp",
+  "source": "RAE BARELI JN",
+  "sourceCode": "RBL",
+  "destination": "LOKMANYA TILAK TERM",
+  "destinationCode": "LTT",
+  "departureTime": "16:15:00",
+  "arrivalTime": "21:40:00",
+  "duration": "29h 25m",
+  "distance": "1502 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

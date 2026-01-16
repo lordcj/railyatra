@@ -1,0 +1,30 @@
+{
+  "number": "56507",
+  "name": "Swarna passenger Marikuppam Bangalore",
+  "type": "Pass",
+  "source": "Marikuppam",
+  "sourceCode": "MKM",
+  "destination": "BANGALORE CITY JN",
+  "destinationCode": "SBC",
+  "departureTime": "06:20:00",
+  "arrivalTime": "09:15:00",
+  "duration": "2h 55m",
+  "distance": "86 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

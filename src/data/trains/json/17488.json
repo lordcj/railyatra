@@ -1,0 +1,31 @@
+{
+  "number": "17488",
+  "name": "Tirumala Express",
+  "type": "Exp",
+  "source": "VISHAKAPATNAM",
+  "sourceCode": "VSKP",
+  "destination": "TIRUPATI MAIN",
+  "destinationCode": "TPTY",
+  "departureTime": "14:00:00",
+  "arrivalTime": "05:00:00",
+  "duration": "15h 0m",
+  "distance": "736 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

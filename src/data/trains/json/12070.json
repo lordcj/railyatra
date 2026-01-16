@@ -1,0 +1,29 @@
+{
+  "number": "12070",
+  "name": "Gondia-Raigarh Jan Shatabdi",
+  "type": "JShtb",
+  "source": "GONDIA JN",
+  "sourceCode": "G",
+  "destination": "RAIGARH",
+  "destinationCode": "RIG",
+  "departureTime": "15:00:00",
+  "arrivalTime": "22:00:00",
+  "duration": "7h 0m",
+  "distance": "414 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

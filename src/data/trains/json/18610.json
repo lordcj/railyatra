@@ -1,0 +1,31 @@
+{
+  "number": "18610",
+  "name": "MUMBAI LTT - RANCHI Exp",
+  "type": "Exp",
+  "source": "LOKMANYA TILAK TERM",
+  "sourceCode": "LTT",
+  "destination": "RANCHI",
+  "destinationCode": "RNC",
+  "departureTime": "15:50:00",
+  "arrivalTime": "07:25:00",
+  "duration": "39h 35m",
+  "distance": "2012 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

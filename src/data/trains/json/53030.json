@@ -1,0 +1,30 @@
+{
+  "number": "53030",
+  "name": "Bhagalpur Azimganj Passenger",
+  "type": "Pass",
+  "source": "BHAGALPUR",
+  "sourceCode": "BGP",
+  "destination": "AZIMGANJ JN",
+  "destinationCode": "AZ",
+  "departureTime": "04:50:00",
+  "arrivalTime": "13:25:00",
+  "duration": "8h 35m",
+  "distance": "226 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

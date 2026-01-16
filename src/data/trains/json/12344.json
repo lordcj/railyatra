@@ -1,0 +1,32 @@
+{
+  "number": "12344",
+  "name": "Darjeeling Mail",
+  "type": "SF",
+  "source": "HALDIBARI",
+  "sourceCode": "HDB",
+  "destination": "KOLKATA SEALDAH",
+  "destinationCode": "SDAH",
+  "departureTime": "16:45:00",
+  "arrivalTime": "06:00:00",
+  "duration": "13h 15m",
+  "distance": "624 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

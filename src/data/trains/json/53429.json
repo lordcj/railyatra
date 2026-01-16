@@ -1,0 +1,30 @@
+{
+  "number": "53429",
+  "name": "Bhagalpur Jamalpur Passenger",
+  "type": "Pass",
+  "source": "BHAGALPUR",
+  "sourceCode": "BGP",
+  "destination": "JAMALPUR JN",
+  "destinationCode": "JMP",
+  "departureTime": "12:25:00",
+  "arrivalTime": "13:50:00",
+  "duration": "1h 25m",
+  "distance": "60 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

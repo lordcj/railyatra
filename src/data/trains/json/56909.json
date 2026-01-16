@@ -1,0 +1,29 @@
+{
+  "number": "56909",
+  "name": "Bangalore Hospet Passenger",
+  "type": "Pass",
+  "source": "BANGALORE CITY JN",
+  "sourceCode": "SBC",
+  "destination": "HUBLI JN",
+  "destinationCode": "UBL",
+  "departureTime": "22:15:00",
+  "arrivalTime": "10:45:00",
+  "duration": "12h 30m",
+  "distance": "469 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

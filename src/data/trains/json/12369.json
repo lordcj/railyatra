@@ -1,0 +1,31 @@
+{
+  "number": "12369",
+  "name": "Kumbh Express",
+  "type": "SF",
+  "source": "HOWRAH JN",
+  "sourceCode": "HWH",
+  "destination": "HARIDWAR JN",
+  "destinationCode": "HW",
+  "departureTime": "13:10:00",
+  "arrivalTime": "16:15:00",
+  "duration": "27h 5m",
+  "distance": "1536 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,29 @@
+{
+  "number": "28181",
+  "name": "Barauni-Katihar Slip Express",
+  "type": "Exp",
+  "source": "BARAUNI JN",
+  "sourceCode": "BJU",
+  "destination": "KATIHAR JN",
+  "destinationCode": "KIR",
+  "departureTime": "09:15:00",
+  "arrivalTime": "14:20:00",
+  "duration": "5h 5m",
+  "distance": "180 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

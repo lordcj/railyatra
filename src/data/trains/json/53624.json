@@ -1,0 +1,30 @@
+{
+  "number": "53624",
+  "name": "GAYA - JHAJHA Passenger",
+  "type": "Pass",
+  "source": "GAYA JN",
+  "sourceCode": "GAYA",
+  "destination": "JHAJHA",
+  "destinationCode": "JAJ",
+  "departureTime": "05:15:00",
+  "arrivalTime": "12:20:00",
+  "duration": "7h 5m",
+  "distance": "182 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

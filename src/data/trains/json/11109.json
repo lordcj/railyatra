@@ -1,0 +1,29 @@
+{
+  "number": "11109",
+  "name": "Jhansi-Lucknow Intercity Express",
+  "type": "Exp",
+  "source": "JHANSI JN",
+  "sourceCode": "JHS",
+  "destination": "LUCKNOW",
+  "destinationCode": "LKO",
+  "departureTime": "06:10:00",
+  "arrivalTime": "12:00:00",
+  "duration": "5h 50m",
+  "distance": "292 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

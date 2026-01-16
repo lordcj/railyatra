@@ -1,0 +1,30 @@
+{
+  "number": "25202",
+  "name": "Narkatiaganj Sugauli InterCity Link Express",
+  "type": "Exp",
+  "source": "NARKATIAGANJ JN",
+  "sourceCode": "NKE",
+  "destination": "SAGAULI JN",
+  "destinationCode": "SGL",
+  "departureTime": "04:45:00",
+  "arrivalTime": "06:00:00",
+  "duration": "1h 15m",
+  "distance": "59 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

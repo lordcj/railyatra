@@ -1,0 +1,30 @@
+{
+  "number": "55029",
+  "name": "Muzaffarpur Gorakhpur Passenger",
+  "type": "Pass",
+  "source": "MUZAFFARPUR JN",
+  "sourceCode": "MFP",
+  "destination": "GORAKHPUR JN",
+  "destinationCode": "GKP",
+  "departureTime": "13:00:00",
+  "arrivalTime": "23:40:00",
+  "duration": "10h 40m",
+  "distance": "310 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

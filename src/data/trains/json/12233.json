@@ -1,0 +1,31 @@
+{
+  "number": "12233",
+  "name": "Lucknow New Delhi AC Express",
+  "type": "SF",
+  "source": "LUCKNOW",
+  "sourceCode": "LKO",
+  "destination": "NEW DELHI",
+  "destinationCode": "NDLS",
+  "departureTime": "23:30:00",
+  "arrivalTime": "07:30:00",
+  "duration": "8h 0m",
+  "distance": "493 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

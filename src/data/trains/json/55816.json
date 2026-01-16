@@ -1,0 +1,30 @@
+{
+  "number": "55816",
+  "name": "Kapali Fast Passenger",
+  "type": "Pass",
+  "source": "CHAPARMUKH JN",
+  "sourceCode": "CPK",
+  "destination": "GUWAHATI",
+  "destinationCode": "GHY",
+  "departureTime": "14:02:00",
+  "arrivalTime": "16:00:00",
+  "duration": "1h 58m",
+  "distance": "91 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

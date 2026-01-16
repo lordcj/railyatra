@@ -1,0 +1,30 @@
+{
+  "number": "02090",
+  "name": "Sikar - Churu Passenger Spl (MG)",
+  "type": "Pass",
+  "source": "Churu",
+  "sourceCode": "CUR",
+  "destination": "Sikar Junction",
+  "destinationCode": "SIKR",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:05:00",
+  "duration": "2h 5m",
+  "distance": "90 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

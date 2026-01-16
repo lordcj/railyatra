@@ -1,0 +1,30 @@
+{
+  "number": "12018",
+  "name": "Dehradun-New Delhi Shatabdi",
+  "type": "Shtb",
+  "source": "DEHRADUN",
+  "sourceCode": "DDN",
+  "destination": "NEW DELHI",
+  "destinationCode": "NDLS",
+  "departureTime": "17:00:00",
+  "arrivalTime": "22:45:00",
+  "duration": "5h 45m",
+  "distance": "315 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "1A",
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

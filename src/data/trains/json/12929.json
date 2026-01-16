@@ -1,0 +1,30 @@
+{
+  "number": "12929",
+  "name": "Valsad Dahod InterCity Express",
+  "type": "SF",
+  "source": "VALSAD",
+  "sourceCode": "BL",
+  "destination": "DAHOD",
+  "destinationCode": "DHD",
+  "departureTime": "07:15:00",
+  "arrivalTime": "13:15:00",
+  "duration": "6h 0m",
+  "distance": "344 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

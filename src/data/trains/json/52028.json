@@ -1,0 +1,30 @@
+{
+  "number": "52028",
+  "name": "Dabhoi Choranda Mix Passenger",
+  "type": "Pass",
+  "source": "Dabhoi Junction",
+  "sourceCode": "DB",
+  "destination": "Choranda Junction",
+  "destinationCode": "CRND",
+  "departureTime": "09:55:00",
+  "arrivalTime": "12:55:00",
+  "duration": "3h 0m",
+  "distance": "41 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

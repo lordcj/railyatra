@@ -1,0 +1,30 @@
+{
+  "number": "34557",
+  "name": "Canning Sealdah Local",
+  "type": "MEMU",
+  "source": "Canning",
+  "sourceCode": "CG",
+  "destination": "KOLKATA SEALDAH",
+  "destinationCode": "SDAH",
+  "departureTime": "15:40:00",
+  "arrivalTime": "17:02:00",
+  "duration": "1h 22m",
+  "distance": "45 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "51412",
+  "name": "Hubli Bellary Passenger",
+  "type": "Pass",
+  "source": "HUBLI JN",
+  "sourceCode": "UBL",
+  "destination": "BELLARY JN",
+  "destinationCode": "BAY",
+  "departureTime": "08:00:00",
+  "arrivalTime": "13:55:00",
+  "duration": "5h 55m",
+  "distance": "208 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

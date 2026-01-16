@@ -1,0 +1,31 @@
+{
+  "number": "15632-Slip",
+  "name": "Guwahati Barmer Express Slip",
+  "type": "Exp",
+  "source": "GUWAHATI",
+  "sourceCode": "GHY",
+  "destination": "BIKANER JN",
+  "destinationCode": "BKN",
+  "departureTime": "10:45:00",
+  "arrivalTime": "07:00:00",
+  "duration": "44h 15m",
+  "distance": "2333 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

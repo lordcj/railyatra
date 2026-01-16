@@ -1,0 +1,31 @@
+{
+  "number": "12662",
+  "name": "SENGOTTAI - CHENNAI EGMORE Pothigai SF Exp",
+  "type": "SF",
+  "source": "SENGOTTAI",
+  "sourceCode": "SCT",
+  "destination": "CHENNAI EGMORE",
+  "destinationCode": "MS",
+  "departureTime": "19:00:00",
+  "arrivalTime": "07:05:00",
+  "duration": "12h 5m",
+  "distance": "670 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

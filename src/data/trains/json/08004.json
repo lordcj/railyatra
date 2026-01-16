@@ -1,0 +1,31 @@
+{
+  "number": "08004",
+  "name": "Mysore - Howrah Special",
+  "type": "Exp",
+  "source": "MYSORE JN",
+  "sourceCode": "MYS",
+  "destination": "HOWRAH JN",
+  "destinationCode": "HWH",
+  "departureTime": "00:30:00",
+  "arrivalTime": "14:50:00",
+  "duration": "38h 20m",
+  "distance": "2111 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

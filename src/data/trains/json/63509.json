@@ -1,0 +1,30 @@
+{
+  "number": "63509",
+  "name": "Barddhaman Asansol mEMU",
+  "type": "MEMU",
+  "source": "BARDDHAMAN JN",
+  "sourceCode": "BWN",
+  "destination": "ASANSOL JN",
+  "destinationCode": "ASN",
+  "departureTime": "07:25:00",
+  "arrivalTime": "09:15:00",
+  "duration": "1h 50m",
+  "distance": "106 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

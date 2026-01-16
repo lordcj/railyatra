@@ -1,0 +1,29 @@
+{
+  "number": "58501",
+  "name": "Visakhapatnam Kirandul Passenger",
+  "type": "Pass",
+  "source": "VISHAKAPATNAM",
+  "sourceCode": "VSKP",
+  "destination": "Kirandul",
+  "destinationCode": "KRDL",
+  "departureTime": "06:50:00",
+  "arrivalTime": "21:35:00",
+  "duration": "14h 45m",
+  "distance": "472 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

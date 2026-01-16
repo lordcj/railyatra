@@ -1,0 +1,30 @@
+{
+  "number": "53630",
+  "name": "Gaya Kiul Passenger",
+  "type": "Pass",
+  "source": "GAYA JN",
+  "sourceCode": "GAYA",
+  "destination": "KIUL JN",
+  "destinationCode": "KIUL",
+  "departureTime": "19:00:00",
+  "arrivalTime": "23:43:00",
+  "duration": "4h 43m",
+  "distance": "129 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

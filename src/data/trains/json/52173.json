@@ -1,0 +1,30 @@
+{
+  "number": "52173",
+  "name": "Gwalior Sabalgarh Passenger",
+  "type": "Pass",
+  "source": "GWALIOR JN",
+  "sourceCode": "GWL",
+  "destination": "Sabalgarh",
+  "destinationCode": "SBL",
+  "departureTime": "15:40:00",
+  "arrivalTime": "20:20:00",
+  "duration": "4h 40m",
+  "distance": "92 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

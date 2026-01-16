@@ -1,0 +1,30 @@
+{
+  "number": "63591",
+  "name": "Bokaro Steel City-Asansol Memu",
+  "type": "MEMU",
+  "source": "BOKARO STEEL CITY",
+  "sourceCode": "BKSC",
+  "destination": "ASANSOL JN",
+  "destinationCode": "ASN",
+  "departureTime": "15:40:00",
+  "arrivalTime": "18:50:00",
+  "duration": "3h 10m",
+  "distance": "140 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

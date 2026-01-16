@@ -1,0 +1,30 @@
+{
+  "number": "54783",
+  "name": "Fazilka Rewari Passenger",
+  "type": "Pass",
+  "source": "Fazilka",
+  "sourceCode": "FKA",
+  "destination": "REWARI",
+  "destinationCode": "RE",
+  "departureTime": "08:30:00",
+  "arrivalTime": "21:10:00",
+  "duration": "12h 40m",
+  "distance": "423 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

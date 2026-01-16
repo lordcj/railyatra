@@ -1,0 +1,31 @@
+{
+  "number": "13146",
+  "name": "Radhikapur Express",
+  "type": "Exp",
+  "source": "Radhikapur",
+  "sourceCode": "RDP",
+  "destination": "KOLKATA CHITPUR",
+  "destinationCode": "KOAA",
+  "departureTime": "17:50:00",
+  "arrivalTime": "05:35:00",
+  "duration": "11h 45m",
+  "distance": "476 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

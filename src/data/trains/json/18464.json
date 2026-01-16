@@ -1,0 +1,31 @@
+{
+  "number": "18464",
+  "name": "Prasanti Express",
+  "type": "Exp",
+  "source": "BANGALORE CITY JN",
+  "sourceCode": "SBC",
+  "destination": "BHUBANESWAR",
+  "destinationCode": "BBS",
+  "departureTime": "14:00:00",
+  "arrivalTime": "20:45:00",
+  "duration": "30h 45m",
+  "distance": "1546 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

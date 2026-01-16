@@ -1,0 +1,31 @@
+{
+  "number": "12787",
+  "name": "Bilaspur Tirunelveli SF Express",
+  "type": "SF",
+  "source": "BILASPUR JN",
+  "sourceCode": "BSP",
+  "destination": "TIRUNELVELI",
+  "destinationCode": "TEN",
+  "departureTime": "08:10:00",
+  "arrivalTime": "05:05:00",
+  "duration": "44h 55m",
+  "distance": "2493 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

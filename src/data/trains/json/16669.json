@@ -1,0 +1,32 @@
+{
+  "number": "16669",
+  "name": "Yercaud Express",
+  "type": "Exp",
+  "source": "CHENNAI CENTRAL",
+  "sourceCode": "MAS",
+  "destination": "ERODE JN",
+  "destinationCode": "ED",
+  "departureTime": "22:40:00",
+  "arrivalTime": "06:25:00",
+  "duration": "7h 45m",
+  "distance": "396 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

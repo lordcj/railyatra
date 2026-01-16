@@ -1,0 +1,30 @@
+{
+  "number": "53601",
+  "name": "Gaya Dehri On Sone Passenger",
+  "type": "Pass",
+  "source": "GAYA JN",
+  "sourceCode": "GAYA",
+  "destination": "DEHRI ON SONE",
+  "destinationCode": "DOS",
+  "departureTime": "11:55:00",
+  "arrivalTime": "14:15:00",
+  "duration": "2h 20m",
+  "distance": "85 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

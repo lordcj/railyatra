@@ -1,0 +1,30 @@
+{
+  "number": "12790",
+  "name": "Kanyakumari Rameswaram SF Express",
+  "type": "SF",
+  "source": "KANYAKUMARI",
+  "sourceCode": "CAPE",
+  "destination": "RAMESWARAM",
+  "destinationCode": "RMM",
+  "departureTime": "22:00:00",
+  "arrivalTime": "05:20:00",
+  "duration": "7h 20m",
+  "distance": "407 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

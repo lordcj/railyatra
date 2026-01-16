@@ -1,0 +1,31 @@
+{
+  "number": "16734",
+  "name": "Okha-Rameswaram Express",
+  "type": "Exp",
+  "source": "OKHA",
+  "sourceCode": "OKHA",
+  "destination": "RAMESWARAM",
+  "destinationCode": "RMM",
+  "departureTime": "06:05:00",
+  "arrivalTime": "19:50:00",
+  "duration": "61h 45m",
+  "distance": "3196 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

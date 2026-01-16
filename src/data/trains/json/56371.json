@@ -1,0 +1,30 @@
+{
+  "number": "56371",
+  "name": "Guruvayur Ernakulam Passenger",
+  "type": "Pass",
+  "source": "GURUVAYUR",
+  "sourceCode": "GUV",
+  "destination": "ERNAKULAM JN",
+  "destinationCode": "ERS",
+  "departureTime": "06:45:00",
+  "arrivalTime": "09:20:00",
+  "duration": "2h 35m",
+  "distance": "97 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

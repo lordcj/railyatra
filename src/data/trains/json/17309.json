@@ -1,0 +1,31 @@
+{
+  "number": "17309",
+  "name": "YESVANTPUR - VASCO DA GAMA Exp",
+  "type": "Exp",
+  "source": "YESVANTPUR JN",
+  "sourceCode": "YPR",
+  "destination": "VASCO DA GAMA",
+  "destinationCode": "VSG",
+  "departureTime": "15:15:00",
+  "arrivalTime": "06:00:00",
+  "duration": "14h 45m",
+  "distance": "700 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

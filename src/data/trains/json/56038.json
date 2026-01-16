@@ -1,0 +1,30 @@
+{
+  "number": "56038",
+  "name": "Pondicherry Chennai Passenger",
+  "type": "Pass",
+  "source": "Puducherry",
+  "sourceCode": "PDY",
+  "destination": "CHENNAI EGMORE",
+  "destinationCode": "MS",
+  "departureTime": "14:40:00",
+  "arrivalTime": "19:45:00",
+  "duration": "5h 5m",
+  "distance": "196 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

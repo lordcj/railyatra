@@ -1,0 +1,29 @@
+{
+  "number": "14681",
+  "name": "New Delhi-Jalandhar Express",
+  "type": "Exp",
+  "source": "NEW DELHI",
+  "sourceCode": "NDLS",
+  "destination": "JALANDHAR CITY",
+  "destinationCode": "JUC",
+  "departureTime": "14:50:00",
+  "arrivalTime": "23:30:00",
+  "duration": "8h 40m",
+  "distance": "439 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "57451",
+  "name": "Chikjajur Guntakal Passenger",
+  "type": "Pass",
+  "source": "CHIKJAJUR JN",
+  "sourceCode": "JRU",
+  "destination": "GUNTAKAL JN",
+  "destinationCode": "GTL",
+  "departureTime": "15:00:00",
+  "arrivalTime": "21:35:00",
+  "duration": "6h 35m",
+  "distance": "233 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,31 @@
+{
+  "number": "14212",
+  "name": "NewDelhi-Agra InterCity Express",
+  "type": "Exp",
+  "source": "NEW DELHI",
+  "sourceCode": "NDLS",
+  "destination": "AGRA CANTT",
+  "destinationCode": "AGC",
+  "departureTime": "17:40:00",
+  "arrivalTime": "21:50:00",
+  "duration": "4h 10m",
+  "distance": "195 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "2A",
+    "1A",
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

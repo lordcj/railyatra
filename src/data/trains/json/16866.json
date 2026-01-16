@@ -1,0 +1,32 @@
+{
+  "number": "16866",
+  "name": "Tea Garden Express",
+  "type": "Exp",
+  "source": "ERNAKULAM JN",
+  "sourceCode": "ERS",
+  "destination": "Nagore",
+  "destinationCode": "NCR",
+  "departureTime": "22:05:00",
+  "arrivalTime": "11:45:00",
+  "duration": "13h 40m",
+  "distance": "582 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

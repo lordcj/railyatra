@@ -1,0 +1,30 @@
+{
+  "number": "56147",
+  "name": "Mettupalayam-Coimbatore Passenger",
+  "type": "Pass",
+  "source": "Mettupalayam",
+  "sourceCode": "MTP",
+  "destination": "COIMBATORE JN",
+  "destinationCode": "CBE",
+  "departureTime": "10:40:00",
+  "arrivalTime": "11:30:00",
+  "duration": "0h 50m",
+  "distance": "35 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

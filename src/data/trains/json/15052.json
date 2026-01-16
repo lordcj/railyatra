@@ -1,0 +1,31 @@
+{
+  "number": "15052",
+  "name": "Gorakhpur Kolkata Express",
+  "type": "Exp",
+  "source": "GORAKHPUR JN",
+  "sourceCode": "GKP",
+  "destination": "KOLKATA CHITPUR",
+  "destinationCode": "KOAA",
+  "departureTime": "10:10:00",
+  "arrivalTime": "04:15:00",
+  "duration": "18h 5m",
+  "distance": "876 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

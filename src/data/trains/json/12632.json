@@ -1,0 +1,31 @@
+{
+  "number": "12632",
+  "name": "TIRUNELVELI - CHENNAI EGMORE Nellai SF Exp",
+  "type": "SF",
+  "source": "TIRUNELVELI",
+  "sourceCode": "TEN",
+  "destination": "CHENNAI EGMORE",
+  "destinationCode": "MS",
+  "departureTime": "18:50:00",
+  "arrivalTime": "06:40:00",
+  "duration": "11h 50m",
+  "distance": "653 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

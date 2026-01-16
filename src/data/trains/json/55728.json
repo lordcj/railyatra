@@ -1,0 +1,30 @@
+{
+  "number": "55728",
+  "name": "Radhikapur Katihar Passenger",
+  "type": "Pass",
+  "source": "Radhikapur",
+  "sourceCode": "RDP",
+  "destination": "KATIHAR JN",
+  "destinationCode": "KIR",
+  "departureTime": "10:45:00",
+  "arrivalTime": "13:45:00",
+  "duration": "3h 0m",
+  "distance": "93 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

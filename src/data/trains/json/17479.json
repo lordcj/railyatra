@@ -1,0 +1,30 @@
+{
+  "number": "17479",
+  "name": "Puri-Tirupati Express",
+  "type": "Exp",
+  "source": "PURI",
+  "sourceCode": "PURI",
+  "destination": "TIRUPATI MAIN",
+  "destinationCode": "TPTY",
+  "departureTime": "13:00:00",
+  "arrivalTime": "16:15:00",
+  "duration": "27h 15m",
+  "distance": "1232 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

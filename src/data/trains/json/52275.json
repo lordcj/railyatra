@@ -1,0 +1,30 @@
+{
+  "number": "52275",
+  "name": "Anand Nagar Gonda Passenger",
+  "type": "Pass",
+  "source": "Anand Nagar",
+  "sourceCode": "ANDN",
+  "destination": "GONDA JN",
+  "destinationCode": "GD",
+  "departureTime": "21:00:00",
+  "arrivalTime": "03:00:00",
+  "duration": "6h 0m",
+  "distance": "179 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

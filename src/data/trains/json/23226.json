@@ -1,0 +1,29 @@
+{
+  "number": "23226",
+  "name": "InterCity Link Express",
+  "type": "Exp",
+  "source": "DANAPUR",
+  "sourceCode": "DNR",
+  "destination": "SAHARSA JN",
+  "destinationCode": "SHC",
+  "departureTime": "06:45:00",
+  "arrivalTime": "13:45:00",
+  "duration": "7h 0m",
+  "distance": "229 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

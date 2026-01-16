@@ -1,0 +1,30 @@
+{
+  "number": "63157",
+  "name": "Jasidih Baidyanathdham Passenger",
+  "type": "MEMU",
+  "source": "JASIDIH JN",
+  "sourceCode": "JSME",
+  "destination": "Baidyanathdham Deoghar",
+  "destinationCode": "BDME",
+  "departureTime": "12:26:00",
+  "arrivalTime": "12:45:00",
+  "duration": "0h 19m",
+  "distance": "6 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

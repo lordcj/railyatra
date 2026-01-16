@@ -1,0 +1,31 @@
+{
+  "number": "17203",
+  "name": "Bhavnagar(T)-Kakinada Town Express",
+  "type": "Exp",
+  "source": "BHAVNAGAR TERMINUS",
+  "sourceCode": "BVC",
+  "destination": "KAKINADA TOWN",
+  "destinationCode": "CCT",
+  "departureTime": "04:10:00",
+  "arrivalTime": "21:00:00",
+  "duration": "40h 50m",
+  "distance": "2053 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "55754",
+  "name": "GUWAHATI - ALIPUR DUAR SIFUNG Pass",
+  "type": "Pass",
+  "source": "GUWAHATI",
+  "sourceCode": "GHY",
+  "destination": "ALIPUR DUAR JN",
+  "destinationCode": "APDJ",
+  "departureTime": "14:30:00",
+  "arrivalTime": "22:00:00",
+  "duration": "7h 30m",
+  "distance": "285 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

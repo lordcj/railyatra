@@ -1,0 +1,31 @@
+{
+  "number": "12581",
+  "name": "Pune Bhubaneshwar Express",
+  "type": "SF",
+  "source": "PUNE JN",
+  "sourceCode": "PUNE",
+  "destination": "BHUBANESWAR",
+  "destinationCode": "BBS",
+  "departureTime": "11:15:00",
+  "arrivalTime": "17:35:00",
+  "duration": "30h 20m",
+  "distance": "1689 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

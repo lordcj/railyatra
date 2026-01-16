@@ -1,0 +1,30 @@
+{
+  "number": "51442",
+  "name": "C Shahu Maharaj Pune Passenger",
+  "type": "Pass",
+  "source": "C SHAHU M RAJ KOLHAPUR TERM",
+  "sourceCode": "KOP",
+  "destination": "SATARA",
+  "destinationCode": "STR",
+  "departureTime": "16:50:00",
+  "arrivalTime": "21:50:00",
+  "duration": "5h 0m",
+  "distance": "181 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

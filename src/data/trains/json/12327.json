@@ -1,0 +1,31 @@
+{
+  "number": "12327",
+  "name": "Upasana Express",
+  "type": "SF",
+  "source": "HOWRAH JN",
+  "sourceCode": "HWH",
+  "destination": "DEHRADUN",
+  "destinationCode": "DDN",
+  "departureTime": "13:10:00",
+  "arrivalTime": "18:00:00",
+  "duration": "28h 50m",
+  "distance": "1587 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

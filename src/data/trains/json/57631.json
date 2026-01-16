@@ -1,0 +1,30 @@
+{
+  "number": "57631",
+  "name": "Solapur-Raichur Passenger",
+  "type": "Pass",
+  "source": "SOLAPUR JN",
+  "sourceCode": "SUR",
+  "destination": "RAICHUR",
+  "destinationCode": "RC",
+  "departureTime": "04:25:00",
+  "arrivalTime": "10:15:00",
+  "duration": "5h 50m",
+  "distance": "257 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

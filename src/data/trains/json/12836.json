@@ -1,0 +1,31 @@
+{
+  "number": "12836",
+  "name": "YESVANTPUR - HATIA SF Exp",
+  "type": "SF",
+  "source": "YESVANTPUR JN",
+  "sourceCode": "YPR",
+  "destination": "HATIA",
+  "destinationCode": "HTE",
+  "departureTime": "08:30:00",
+  "arrivalTime": "19:15:00",
+  "duration": "34h 45m",
+  "distance": "1904 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

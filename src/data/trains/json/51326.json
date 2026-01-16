@@ -1,0 +1,30 @@
+{
+  "number": "51326",
+  "name": "Baramati-Daund- Pune Shutte",
+  "type": "Pass",
+  "source": "Baramati",
+  "sourceCode": "BRMT",
+  "destination": "PUNE JN",
+  "destinationCode": "PUNE",
+  "departureTime": "16:20:00",
+  "arrivalTime": "19:40:00",
+  "duration": "3h 20m",
+  "distance": "120 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

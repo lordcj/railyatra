@@ -1,0 +1,30 @@
+{
+  "number": "11046",
+  "name": "DHANBAD - KOLHAPUR CSMT Deekshabhoomi Exp",
+  "type": "Exp",
+  "source": "DHANBAD JN",
+  "sourceCode": "DHN",
+  "destination": "C SHAHU M RAJ KOLHAPUR TERM",
+  "destinationCode": "KOP",
+  "departureTime": "13:45:00",
+  "arrivalTime": "04:00:00",
+  "duration": "62h 15m",
+  "distance": "2968 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

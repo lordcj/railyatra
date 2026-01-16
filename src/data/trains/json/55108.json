@@ -1,0 +1,30 @@
+{
+  "number": "55108",
+  "name": "Thawe Siwan Passenger",
+  "type": "Pass",
+  "source": "Thawe Junction",
+  "sourceCode": "THE",
+  "destination": "SIWAN JN",
+  "destinationCode": "SV",
+  "departureTime": "08:00:00",
+  "arrivalTime": "08:50:00",
+  "duration": "0h 50m",
+  "distance": "32 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

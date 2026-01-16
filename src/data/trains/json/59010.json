@@ -1,0 +1,30 @@
+{
+  "number": "59010",
+  "name": "Bharuch Virar Passenger",
+  "type": "Pass",
+  "source": "BHARUCH JN",
+  "sourceCode": "BH",
+  "destination": "VIRAR",
+  "destinationCode": "VR",
+  "departureTime": "14:05:00",
+  "arrivalTime": "21:30:00",
+  "duration": "7h 25m",
+  "distance": "267 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

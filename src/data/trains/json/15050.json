@@ -1,0 +1,31 @@
+{
+  "number": "15050",
+  "name": "Poorvanchal Express",
+  "type": "Exp",
+  "source": "GORAKHPUR JN",
+  "sourceCode": "GKP",
+  "destination": "KOLKATA CHITPUR",
+  "destinationCode": "KOAA",
+  "departureTime": "08:00:00",
+  "arrivalTime": "04:15:00",
+  "duration": "20h 15m",
+  "distance": "883 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

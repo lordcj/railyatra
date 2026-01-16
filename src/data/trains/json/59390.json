@@ -1,0 +1,29 @@
+{
+  "number": "59390",
+  "name": "Bhopal-Indore Fast Passenger",
+  "type": "Pass",
+  "source": "BHOPAL JN",
+  "sourceCode": "BPL",
+  "destination": "INDORE JN BG",
+  "destinationCode": "INDB",
+  "departureTime": "22:50:00",
+  "arrivalTime": "04:35:00",
+  "duration": "5h 45m",
+  "distance": "263 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

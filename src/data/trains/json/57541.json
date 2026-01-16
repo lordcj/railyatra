@@ -1,0 +1,30 @@
+{
+  "number": "57541",
+  "name": "Nagarsol Nanded Passenger",
+  "type": "Pass",
+  "source": "NAGARSOL",
+  "sourceCode": "NSL",
+  "destination": "HUZUR SAHIB NANDED",
+  "destinationCode": "NED",
+  "departureTime": "07:30:00",
+  "arrivalTime": "15:15:00",
+  "duration": "7h 45m",
+  "distance": "325 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

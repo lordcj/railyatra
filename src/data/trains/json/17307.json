@@ -1,0 +1,31 @@
+{
+  "number": "17307",
+  "name": "Basava Express",
+  "type": "Exp",
+  "source": "YESVANTPUR JN",
+  "sourceCode": "YPR",
+  "destination": "BAGALKOT",
+  "destinationCode": "BGK",
+  "departureTime": "17:40:00",
+  "arrivalTime": "12:10:00",
+  "duration": "18h 30m",
+  "distance": "860 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

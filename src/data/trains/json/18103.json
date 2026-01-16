@@ -1,0 +1,31 @@
+{
+  "number": "18103",
+  "name": "Jallianwalabagh Express",
+  "type": "Exp",
+  "source": "TATANAGAR JN",
+  "sourceCode": "TATA",
+  "destination": "AMRITSAR JN",
+  "destinationCode": "ASR",
+  "departureTime": "21:15:00",
+  "arrivalTime": "06:30:00",
+  "duration": "33h 15m",
+  "distance": "1749 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

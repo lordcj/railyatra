@@ -1,0 +1,14 @@
+{
+  "code": "DLI",
+  "name": "Old Delhi",
+  "fullName": "Old Delhi Railway Station",
+  "zone": "NR",
+  "state": "Delhi",
+  "category": "A1",
+  "platforms": 16,
+  "connectivity": [
+    "Metro",
+    "Bus",
+    "Taxi"
+  ]
+}

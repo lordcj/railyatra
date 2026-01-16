@@ -1,0 +1,30 @@
+{
+  "number": "54264",
+  "name": "Sultanpur Varanasi Passenger",
+  "type": "Pass",
+  "source": "SULTANPUR",
+  "sourceCode": "SLN",
+  "destination": "VARANASI JN",
+  "destinationCode": "BSB",
+  "departureTime": "06:35:00",
+  "arrivalTime": "10:15:00",
+  "duration": "3h 40m",
+  "distance": "155 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

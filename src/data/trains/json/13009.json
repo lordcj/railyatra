@@ -1,0 +1,31 @@
+{
+  "number": "13009",
+  "name": "Doon Express",
+  "type": "Exp",
+  "source": "HOWRAH JN",
+  "sourceCode": "HWH",
+  "destination": "DEHRADUN",
+  "destinationCode": "DDN",
+  "departureTime": "20:35:00",
+  "arrivalTime": "07:10:00",
+  "duration": "34h 35m",
+  "distance": "1557 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

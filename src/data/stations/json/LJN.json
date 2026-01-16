@@ -1,0 +1,14 @@
+{
+  "code": "LJN",
+  "name": "Lucknow Junction",
+  "fullName": "Lucknow Junction NER",
+  "zone": "NER",
+  "state": "Uttar Pradesh",
+  "category": "A",
+  "platforms": 5,
+  "connectivity": [
+    "Metro",
+    "Bus",
+    "Taxi"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "number": "59032",
+  "name": "Bharuch Surat Passenger",
+  "type": "Pass",
+  "source": "BHARUCH JN",
+  "sourceCode": "BH",
+  "destination": "SURAT",
+  "destinationCode": "ST",
+  "departureTime": "06:45:00",
+  "arrivalTime": "08:20:00",
+  "duration": "1h 35m",
+  "distance": "60 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

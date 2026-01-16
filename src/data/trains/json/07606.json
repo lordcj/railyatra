@@ -1,0 +1,30 @@
+{
+  "number": "07606",
+  "name": "Nizamabad-Kamareddi Special",
+  "type": "Pass",
+  "source": "NIZAMABAD",
+  "sourceCode": "NZB",
+  "destination": "KAMAREDDI",
+  "destinationCode": "KMC",
+  "departureTime": "14:20:00",
+  "arrivalTime": "15:15:00",
+  "duration": "0h 55m",
+  "distance": "52 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "58817",
+  "name": "Tumsar Road Tirodi Passenger",
+  "type": "Pass",
+  "source": "TUMSAR ROAD",
+  "sourceCode": "TMR",
+  "destination": "Tirodi",
+  "destinationCode": "TRDI",
+  "departureTime": "05:45:00",
+  "arrivalTime": "07:20:00",
+  "duration": "1h 35m",
+  "distance": "48 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

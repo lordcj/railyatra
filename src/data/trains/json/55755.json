@@ -1,0 +1,30 @@
+{
+  "number": "55755",
+  "name": "Manihari Katihar Pass",
+  "type": "Pass",
+  "source": "Manihari",
+  "sourceCode": "MHI",
+  "destination": "KATIHAR JN",
+  "destinationCode": "KIR",
+  "departureTime": "08:30:00",
+  "arrivalTime": "09:35:00",
+  "duration": "1h 5m",
+  "distance": "24 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

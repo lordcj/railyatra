@@ -1,0 +1,30 @@
+{
+  "number": "54818",
+  "name": "Jodhpur Jaisalmer Passenger",
+  "type": "Pass",
+  "source": "BARMER",
+  "sourceCode": "BME",
+  "destination": "JODHPUR JN",
+  "destinationCode": "JU",
+  "departureTime": "23:30:00",
+  "arrivalTime": "04:00:00",
+  "duration": "4h 30m",
+  "distance": "209 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

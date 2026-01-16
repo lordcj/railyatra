@@ -1,0 +1,32 @@
+{
+  "number": "19105",
+  "name": "Ahmedabad-Haridwar Mail",
+  "type": "Mail",
+  "source": "AHMEDABAD JN",
+  "sourceCode": "ADI",
+  "destination": "HARIDWAR JN",
+  "destinationCode": "HW",
+  "departureTime": "10:05:00",
+  "arrivalTime": "12:15:00",
+  "duration": "26h 10m",
+  "distance": "1208 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

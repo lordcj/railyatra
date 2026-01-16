@@ -1,0 +1,30 @@
+{
+  "number": "51614",
+  "name": "KATNI - KOTA Passenger",
+  "type": "Pass",
+  "source": "KATNI MURWARA",
+  "sourceCode": "KMZ",
+  "destination": "KOTA JN",
+  "destinationCode": "KOTA",
+  "departureTime": "17:20:00",
+  "arrivalTime": "06:50:00",
+  "duration": "13h 30m",
+  "distance": "455 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

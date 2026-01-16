@@ -1,0 +1,30 @@
+{
+  "number": "15211",
+  "name": "DARBHANGA - AMRITSAR Jan Nayak Exp",
+  "type": "Exp",
+  "source": "DARBHANGA JN",
+  "sourceCode": "DBG",
+  "destination": "AMRITSAR JN",
+  "destinationCode": "ASR",
+  "departureTime": "17:20:00",
+  "arrivalTime": "01:45:00",
+  "duration": "32h 25m",
+  "distance": "1499 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

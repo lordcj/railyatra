@@ -1,0 +1,29 @@
+{
+  "number": "12612",
+  "name": "H Nizamuddin-Chennai Garib Rath Express",
+  "type": "GR",
+  "source": "DELHI H NIZAMUDDIN",
+  "sourceCode": "NZM",
+  "destination": "CHENNAI CENTRAL",
+  "destinationCode": "MAS",
+  "departureTime": "16:00:00",
+  "arrivalTime": "20:15:00",
+  "duration": "28h 15m",
+  "distance": "2176 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

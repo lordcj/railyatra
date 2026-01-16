@@ -1,0 +1,30 @@
+{
+  "number": "52287",
+  "name": "Thawe Chhapra Passenger",
+  "type": "Pass",
+  "source": "BAREILLY",
+  "sourceCode": "BRY",
+  "destination": "Lal Kuan",
+  "destinationCode": "LKKA",
+  "departureTime": "05:30:00",
+  "arrivalTime": "08:25:00",
+  "duration": "2h 55m",
+  "distance": "84 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,32 @@
+{
+  "number": "15003",
+  "name": "Chauri Chaura Express",
+  "type": "Exp",
+  "source": "KANPUR ANWARGANJ",
+  "sourceCode": "CPA",
+  "destination": "GORAKHPUR JN",
+  "destinationCode": "GKP",
+  "departureTime": "16:45:00",
+  "arrivalTime": "06:50:00",
+  "duration": "14h 5m",
+  "distance": "552 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

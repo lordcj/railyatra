@@ -1,0 +1,29 @@
+{
+  "number": "14096",
+  "name": "Himalayan Queen",
+  "type": "Exp",
+  "source": "Kalka",
+  "sourceCode": "KLK",
+  "destination": "DELHI SARAI ROHILLA",
+  "destinationCode": "DEE",
+  "departureTime": "16:50:00",
+  "arrivalTime": "22:40:00",
+  "duration": "5h 50m",
+  "distance": "305 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

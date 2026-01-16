@@ -1,0 +1,31 @@
+{
+  "number": "19039",
+  "name": "Awadh Express",
+  "type": "Exp",
+  "source": "MUMBAI BANDRA TERMINUS",
+  "sourceCode": "BDTS",
+  "destination": "MUZAFFARPUR JN",
+  "destinationCode": "MFP",
+  "departureTime": "22:40:00",
+  "arrivalTime": "21:50:00",
+  "duration": "47h 10m",
+  "distance": "2153 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

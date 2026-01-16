@@ -1,0 +1,31 @@
+{
+  "number": "12193",
+  "name": "Bhopal Partapgarh Express",
+  "type": "SF",
+  "source": "BHOPAL JN",
+  "sourceCode": "BPL",
+  "destination": "PARTAPGARH JN",
+  "destinationCode": "PBH",
+  "departureTime": "19:20:00",
+  "arrivalTime": "09:00:00",
+  "duration": "13h 40m",
+  "distance": "756 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

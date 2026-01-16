@@ -1,0 +1,30 @@
+{
+  "number": "54273",
+  "name": "Arrah Sasaram Passenger",
+  "type": "Pass",
+  "source": "ARA",
+  "sourceCode": "ARA",
+  "destination": "SASARAM",
+  "destinationCode": "SSM",
+  "departureTime": "04:30:00",
+  "arrivalTime": "08:00:00",
+  "duration": "3h 30m",
+  "distance": "98 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

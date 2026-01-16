@@ -1,0 +1,29 @@
+{
+  "number": "13226",
+  "name": "Danapur-Jaynagar Intercity",
+  "type": "Exp",
+  "source": "DANAPUR",
+  "sourceCode": "DNR",
+  "destination": "JAYNAGAR",
+  "destinationCode": "JYG",
+  "departureTime": "06:45:00",
+  "arrivalTime": "15:00:00",
+  "duration": "8h 15m",
+  "distance": "277 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

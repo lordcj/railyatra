@@ -1,0 +1,30 @@
+{
+  "number": "54752",
+  "name": "Shri Ganganagar Rewari",
+  "type": "Pass",
+  "source": "SHRI GANGANAGAR",
+  "sourceCode": "SGNR",
+  "destination": "REWARI",
+  "destinationCode": "RE",
+  "departureTime": "01:30:00",
+  "arrivalTime": "12:30:00",
+  "duration": "11h 0m",
+  "distance": "427 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

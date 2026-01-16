@@ -1,0 +1,30 @@
+{
+  "number": "56646",
+  "name": "Subramanya Road Mangalore Passenger",
+  "type": "Pass",
+  "source": "Subrahmanya Road",
+  "sourceCode": "SBHR",
+  "destination": "MANGALORE CNTL",
+  "destinationCode": "MAQ",
+  "departureTime": "13:25:00",
+  "arrivalTime": "15:55:00",
+  "duration": "2h 30m",
+  "distance": "92 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,31 @@
+{
+  "number": "09222",
+  "name": "Secunderabad-Porbandar Weekly Special",
+  "type": "Exp",
+  "source": "SECUNDERABAD JN",
+  "sourceCode": "SC",
+  "destination": "PORBANDAR",
+  "destinationCode": "PBR",
+  "departureTime": "14:50:00",
+  "arrivalTime": "01:30:00",
+  "duration": "34h 40m",
+  "distance": "1683 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

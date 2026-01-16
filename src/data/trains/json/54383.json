@@ -1,0 +1,30 @@
+{
+  "number": "54383",
+  "name": "Gajraula Najibabad Passenger",
+  "type": "Pass",
+  "source": "GAJRAULA JN",
+  "sourceCode": "GJL",
+  "destination": "NAJIBABAD JN",
+  "destinationCode": "NBD",
+  "departureTime": "15:15:00",
+  "arrivalTime": "19:20:00",
+  "duration": "4h 5m",
+  "distance": "107 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

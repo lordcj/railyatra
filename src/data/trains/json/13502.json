@@ -1,0 +1,30 @@
+{
+  "number": "13502",
+  "name": "Asansol Haldia Express",
+  "type": "Exp",
+  "source": "ASANSOL JN",
+  "sourceCode": "ASN",
+  "destination": "Haldia",
+  "destinationCode": "HLZ",
+  "departureTime": "05:40:00",
+  "arrivalTime": "12:10:00",
+  "duration": "6h 30m",
+  "distance": "322 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,29 @@
+{
+  "number": "17036",
+  "name": "Telangana Express",
+  "type": "Exp",
+  "source": "SIRPUR KAGAZNAGAR",
+  "sourceCode": "SKZR",
+  "destination": "SECUNDERABAD JN",
+  "destinationCode": "SC",
+  "departureTime": "14:50:00",
+  "arrivalTime": "20:20:00",
+  "duration": "5h 30m",
+  "distance": "297 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

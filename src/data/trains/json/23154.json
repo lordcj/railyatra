@@ -1,0 +1,30 @@
+{
+  "number": "23154",
+  "name": "Gour Express",
+  "type": "Exp",
+  "source": "BALURGHAT",
+  "sourceCode": "BLGT",
+  "destination": "KOLKATA SEALDAH",
+  "destinationCode": "SDAH",
+  "departureTime": "17:05:00",
+  "arrivalTime": "05:20:00",
+  "duration": "12h 15m",
+  "distance": "454 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

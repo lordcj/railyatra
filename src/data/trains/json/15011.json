@@ -1,0 +1,30 @@
+{
+  "number": "15011",
+  "name": "LUCKNOW - CHANDIGARH Exp",
+  "type": "Exp",
+  "source": "LUCKNOW JN",
+  "sourceCode": "LJN",
+  "destination": "CHANDIGARH",
+  "destinationCode": "CDG",
+  "departureTime": "22:55:00",
+  "arrivalTime": "14:50:00",
+  "duration": "15h 55m",
+  "distance": "724 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

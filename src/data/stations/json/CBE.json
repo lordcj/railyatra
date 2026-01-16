@@ -1,0 +1,13 @@
+{
+  "code": "CBE",
+  "name": "Coimbatore",
+  "fullName": "Coimbatore Junction",
+  "zone": "SR",
+  "state": "Tamil Nadu",
+  "category": "A1",
+  "platforms": 6,
+  "connectivity": [
+    "Bus",
+    "Taxi"
+  ]
+}

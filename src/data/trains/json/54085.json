@@ -1,0 +1,30 @@
+{
+  "number": "54085",
+  "name": "Delhi Rewari Pass",
+  "type": "Pass",
+  "source": "OLD DELHI",
+  "sourceCode": "DLI",
+  "destination": "REWARI",
+  "destinationCode": "RE",
+  "departureTime": "07:00:00",
+  "arrivalTime": "09:35:00",
+  "duration": "2h 35m",
+  "distance": "82 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

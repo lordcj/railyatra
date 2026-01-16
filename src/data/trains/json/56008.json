@@ -1,0 +1,30 @@
+{
+  "number": "56008",
+  "name": "Katpadi Arakkonam Passenger",
+  "type": "Pass",
+  "source": "KATPADI JN",
+  "sourceCode": "KPD",
+  "destination": "ARAKKONAM",
+  "destinationCode": "AJJ",
+  "departureTime": "04:30:00",
+  "arrivalTime": "06:15:00",
+  "duration": "1h 45m",
+  "distance": "61 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

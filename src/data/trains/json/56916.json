@@ -1,0 +1,30 @@
+{
+  "number": "56916",
+  "name": "Hubli Chikjajur Passenger",
+  "type": "Pass",
+  "source": "HUBLI JN",
+  "sourceCode": "UBL",
+  "destination": "CHIKJAJUR JN",
+  "destinationCode": "JRU",
+  "departureTime": "18:50:00",
+  "arrivalTime": "23:25:00",
+  "duration": "4h 35m",
+  "distance": "189 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

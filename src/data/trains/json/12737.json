@@ -1,0 +1,32 @@
+{
+  "number": "12737",
+  "name": "Gowthami SF Express",
+  "type": "SF",
+  "source": "Kakinada Port",
+  "sourceCode": "COA",
+  "destination": "SECUNDERABAD JN",
+  "destinationCode": "SC",
+  "departureTime": "20:20:00",
+  "arrivalTime": "06:35:00",
+  "duration": "10h 15m",
+  "distance": "566 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

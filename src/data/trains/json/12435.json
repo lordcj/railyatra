@@ -1,0 +1,31 @@
+{
+  "number": "12435",
+  "name": "DIBRUGARH TOWN - NEW DELHI Rajdhani Exp",
+  "type": "Raj",
+  "source": "DIBRUGARH TOWN",
+  "sourceCode": "DBRT",
+  "destination": "NEW DELHI",
+  "destinationCode": "NDLS",
+  "departureTime": "19:00:00",
+  "arrivalTime": "13:45:00",
+  "duration": "42h 45m",
+  "distance": "2463 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

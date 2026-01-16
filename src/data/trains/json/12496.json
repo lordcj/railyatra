@@ -1,0 +1,31 @@
+{
+  "number": "12496",
+  "name": "KOLKATA CHITPUR - BIKANER Pratap Exp",
+  "type": "SF",
+  "source": "KOLKATA CHITPUR",
+  "sourceCode": "KOAA",
+  "destination": "BIKANER JN",
+  "destinationCode": "BKN",
+  "departureTime": "22:40:00",
+  "arrivalTime": "05:40:00",
+  "duration": "31h 0m",
+  "distance": "1885 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

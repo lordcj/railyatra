@@ -1,0 +1,31 @@
+{
+  "number": "59802",
+  "name": "Jaipur Nagda Fast Passenger",
+  "type": "Pass",
+  "source": "JAIPUR",
+  "sourceCode": "JP",
+  "destination": "NAGDA JN",
+  "destinationCode": "NAD",
+  "departureTime": "23:30:00",
+  "arrivalTime": "11:15:00",
+  "duration": "11h 45m",
+  "distance": "465 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

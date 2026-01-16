@@ -1,0 +1,30 @@
+{
+  "number": "57226",
+  "name": "Visakhapatnam Vijayawada Passenger",
+  "type": "Pass",
+  "source": "VISHAKAPATNAM",
+  "sourceCode": "VSKP",
+  "destination": "VIJAYAWADA JN",
+  "destinationCode": "BZA",
+  "departureTime": "09:15:00",
+  "arrivalTime": "18:55:00",
+  "duration": "9h 40m",
+  "distance": "350 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "53449",
+  "name": "Banka Bhagalpur Passenger",
+  "type": "Pass",
+  "source": "Banka",
+  "sourceCode": "BAKA",
+  "destination": "BHAGALPUR",
+  "destinationCode": "BGP",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:45:00",
+  "duration": "2h 15m",
+  "distance": "53 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

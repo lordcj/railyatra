@@ -1,0 +1,30 @@
+{
+  "number": "08113",
+  "name": "Tatanagar Bilaspur Passenger",
+  "type": "Pass",
+  "source": "TATANAGAR JN",
+  "sourceCode": "TATA",
+  "destination": "BILASPUR JN",
+  "destinationCode": "BSP",
+  "departureTime": "16:30:00",
+  "arrivalTime": "06:45:00",
+  "duration": "14h 15m",
+  "distance": "470 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

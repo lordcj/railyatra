@@ -1,0 +1,32 @@
+{
+  "number": "22120",
+  "name": "Ahmedabad - Mumbai Tejas Express",
+  "type": "Tejas",
+  "source": "Ahmedabad",
+  "sourceCode": "ADI",
+  "destination": "Mumbai Central",
+  "destinationCode": "BCT",
+  "departureTime": "15:25",
+  "arrivalTime": "21:55",
+  "duration": "6h 30m",
+  "distance": "493 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+  ],
+  "zone": "WR",
+  "classes": [
+    "CC",
+    "EC"
+  ],
+  "stops": 3,
+  "majorStops": [
+    "Vadodara",
+    "Mumbai Central"
+  ],
+  "frequency": "Daily"
+}

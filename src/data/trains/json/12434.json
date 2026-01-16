@@ -1,0 +1,31 @@
+{
+  "number": "12434",
+  "name": "Delhi H.Nizamuddin-Chennai Central Rajdhani Expres",
+  "type": "Raj",
+  "source": "DELHI H NIZAMUDDIN",
+  "sourceCode": "NZM",
+  "destination": "CHENNAI CENTRAL",
+  "destinationCode": "MAS",
+  "departureTime": "16:00:00",
+  "arrivalTime": "20:15:00",
+  "duration": "28h 15m",
+  "distance": "2176 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

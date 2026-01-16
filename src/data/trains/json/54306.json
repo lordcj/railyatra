@@ -1,0 +1,30 @@
+{
+  "number": "54306",
+  "name": "Hapur Moradabad Passenger",
+  "type": "Pass",
+  "source": "HAPUR",
+  "sourceCode": "HPU",
+  "destination": "MORADABAD",
+  "destinationCode": "MB",
+  "departureTime": "19:30:00",
+  "arrivalTime": "22:15:00",
+  "duration": "2h 45m",
+  "distance": "118 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

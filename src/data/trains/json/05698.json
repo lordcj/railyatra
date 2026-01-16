@@ -1,0 +1,29 @@
+{
+  "number": "05698",
+  "name": "Hill Queen Express",
+  "type": "JShtb",
+  "source": "Lower Haflong",
+  "sourceCode": "LFG",
+  "destination": "LUMDING JN",
+  "destinationCode": "LMG",
+  "departureTime": "13:45:00",
+  "arrivalTime": "17:30:00",
+  "duration": "3h 45m",
+  "distance": "104 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

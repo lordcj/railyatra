@@ -1,0 +1,30 @@
+{
+  "number": "54055",
+  "name": "Moradabad Delhi Passenger",
+  "type": "Pass",
+  "source": "MORADABAD",
+  "sourceCode": "MB",
+  "destination": "OLD DELHI",
+  "destinationCode": "DLI",
+  "departureTime": "15:00:00",
+  "arrivalTime": "19:45:00",
+  "duration": "4h 45m",
+  "distance": "164 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

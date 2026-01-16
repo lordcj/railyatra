@@ -1,0 +1,29 @@
+{
+  "number": "09622",
+  "name": "Jaipur Ajmer SF Special",
+  "type": "SF",
+  "source": "JAIPUR",
+  "sourceCode": "JP",
+  "destination": "AJMER JN",
+  "destinationCode": "AII",
+  "departureTime": "14:15:00",
+  "arrivalTime": "16:10:00",
+  "duration": "1h 55m",
+  "distance": "135 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

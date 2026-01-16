@@ -1,0 +1,30 @@
+{
+  "number": "55128",
+  "name": "Allahabad Manduadih Passenger",
+  "type": "Pass",
+  "source": "ALLAHABAD CITY",
+  "sourceCode": "ALY",
+  "destination": "MANDUADIH",
+  "destinationCode": "MUV",
+  "departureTime": "10:25:00",
+  "arrivalTime": "14:50:00",
+  "duration": "4h 25m",
+  "distance": "126 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

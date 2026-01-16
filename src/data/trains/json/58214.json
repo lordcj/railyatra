@@ -1,0 +1,30 @@
+{
+  "number": "58214",
+  "name": "Bilaspur Jharsuguda Passenger",
+  "type": "Pass",
+  "source": "BILASPUR JN",
+  "sourceCode": "BSP",
+  "destination": "JHARSUGUDA JN",
+  "destinationCode": "JSG",
+  "departureTime": "06:45:00",
+  "arrivalTime": "11:50:00",
+  "duration": "5h 5m",
+  "distance": "205 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

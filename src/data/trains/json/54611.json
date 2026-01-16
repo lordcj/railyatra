@@ -1,0 +1,30 @@
+{
+  "number": "54611",
+  "name": "Amritsar Batala Pathankot DMU",
+  "type": "Pass",
+  "source": "AMRITSAR JN",
+  "sourceCode": "ASR",
+  "destination": "PATHANKOT",
+  "destinationCode": "PTK",
+  "departureTime": "04:40:00",
+  "arrivalTime": "07:35:00",
+  "duration": "2h 55m",
+  "distance": "107 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

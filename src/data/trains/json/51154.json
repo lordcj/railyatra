@@ -1,0 +1,30 @@
+{
+  "number": "51154",
+  "name": "Bhusaval Mumbai Passenger",
+  "type": "Pass",
+  "source": "BHUSAVAL JN",
+  "sourceCode": "BSL",
+  "destination": "MUMBAI CST",
+  "destinationCode": "CSTM",
+  "departureTime": "07:05:00",
+  "arrivalTime": "20:15:00",
+  "duration": "13h 10m",
+  "distance": "442 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

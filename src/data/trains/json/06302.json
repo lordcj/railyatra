@@ -1,0 +1,31 @@
+{
+  "number": "06302",
+  "name": "Mangalore-Nagercoil Special",
+  "type": "Exp",
+  "source": "MANGALORE JN",
+  "sourceCode": "MAJN",
+  "destination": "NAGERCOIL JN",
+  "destinationCode": "NCJ",
+  "departureTime": "16:15:00",
+  "arrivalTime": "07:50:00",
+  "duration": "15h 35m",
+  "distance": "711 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

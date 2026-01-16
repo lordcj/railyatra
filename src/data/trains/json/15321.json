@@ -1,0 +1,30 @@
+{
+  "number": "15321",
+  "name": "Kapilavastu Express",
+  "type": "Exp",
+  "source": "Anand Nagar",
+  "sourceCode": "ANDN",
+  "destination": "GONDA JN",
+  "destinationCode": "GD",
+  "departureTime": "16:30:00",
+  "arrivalTime": "21:45:00",
+  "duration": "5h 15m",
+  "distance": "179 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

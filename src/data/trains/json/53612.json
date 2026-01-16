@@ -1,0 +1,30 @@
+{
+  "number": "53612",
+  "name": "Dehri on Sone Barwadih Passenger",
+  "type": "Pass",
+  "source": "DEHRI ON SONE",
+  "sourceCode": "DOS",
+  "destination": "BARWADIH JN",
+  "destinationCode": "BRWD",
+  "departureTime": "19:05:00",
+  "arrivalTime": "23:50:00",
+  "duration": "4h 45m",
+  "distance": "164 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

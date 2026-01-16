@@ -1,0 +1,30 @@
+{
+  "number": "51239",
+  "name": "Amla Betul Passenger",
+  "type": "Pass",
+  "source": "AMLA JN",
+  "sourceCode": "AMLA",
+  "destination": "BETUL",
+  "destinationCode": "BZU",
+  "departureTime": "07:05:00",
+  "arrivalTime": "07:40:00",
+  "duration": "0h 35m",
+  "distance": "23 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

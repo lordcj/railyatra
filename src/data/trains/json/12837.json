@@ -1,0 +1,32 @@
+{
+  "number": "12837",
+  "name": "Howrah-Puri Express",
+  "type": "SF",
+  "source": "HOWRAH JN",
+  "sourceCode": "HWH",
+  "destination": "PURI",
+  "destinationCode": "PURI",
+  "departureTime": "22:35:00",
+  "arrivalTime": "07:30:00",
+  "duration": "8h 55m",
+  "distance": "502 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

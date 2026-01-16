@@ -1,0 +1,31 @@
+{
+  "number": "15658",
+  "name": "GUWAHATI - KOLKATA SEALDAH KanchanJungha Exp",
+  "type": "Exp",
+  "source": "GUWAHATI",
+  "sourceCode": "GHY",
+  "destination": "KOLKATA SEALDAH",
+  "destinationCode": "SDAH",
+  "departureTime": "22:30:00",
+  "arrivalTime": "19:25:00",
+  "duration": "20h 55m",
+  "distance": "975 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

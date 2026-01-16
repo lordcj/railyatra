@@ -1,0 +1,30 @@
+{
+  "number": "51456",
+  "name": "Sholapur Pune Passenger",
+  "type": "Pass",
+  "source": "SOLAPUR JN",
+  "sourceCode": "SUR",
+  "destination": "PUNE JN",
+  "destinationCode": "PUNE",
+  "departureTime": "12:10:00",
+  "arrivalTime": "19:05:00",
+  "duration": "6h 55m",
+  "distance": "263 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

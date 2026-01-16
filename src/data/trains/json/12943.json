@@ -1,0 +1,31 @@
+{
+  "number": "12943",
+  "name": "Valsad-Kanpur Udyogkarmi Express",
+  "type": "SF",
+  "source": "VALSAD",
+  "sourceCode": "BL",
+  "destination": "KANPUR CENTRAL",
+  "destinationCode": "CNB",
+  "departureTime": "19:40:00",
+  "arrivalTime": "19:30:00",
+  "duration": "23h 50m",
+  "distance": "1305 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

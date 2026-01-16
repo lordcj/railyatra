@@ -1,0 +1,30 @@
+{
+  "number": "51609",
+  "name": "Bina Guna Passenger",
+  "type": "Pass",
+  "source": "BINA JN",
+  "sourceCode": "BINA",
+  "destination": "GUNA",
+  "destinationCode": "GUNA",
+  "departureTime": "15:10:00",
+  "arrivalTime": "18:10:00",
+  "duration": "3h 0m",
+  "distance": "118 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

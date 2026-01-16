@@ -1,0 +1,30 @@
+{
+  "number": "59211",
+  "name": "Rajkot Porbandar Fast Passenger",
+  "type": "Pass",
+  "source": "RAJKOT JN",
+  "sourceCode": "RJT",
+  "destination": "PORBANDAR",
+  "destinationCode": "PBR",
+  "departureTime": "14:10:00",
+  "arrivalTime": "20:00:00",
+  "duration": "5h 50m",
+  "distance": "213 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

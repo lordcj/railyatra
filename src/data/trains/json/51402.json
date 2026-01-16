@@ -1,0 +1,29 @@
+{
+  "number": "51402",
+  "name": "Manmad-Pune Passenger(Via Daund)",
+  "type": "Pass",
+  "source": "MANMAD JN",
+  "sourceCode": "MMR",
+  "destination": "PUNE JN",
+  "destinationCode": "PUNE",
+  "departureTime": "21:55:00",
+  "arrivalTime": "07:35:00",
+  "duration": "9h 40m",
+  "distance": "313 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

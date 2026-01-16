@@ -1,0 +1,30 @@
+{
+  "number": "12063",
+  "name": "Haridwar Chandigarh Una Link Jan Shatabdi Express",
+  "type": "JShtb",
+  "source": "HARIDWAR JN",
+  "sourceCode": "HW",
+  "destination": "Una Himachal",
+  "destinationCode": "UHL",
+  "departureTime": "14:35:00",
+  "arrivalTime": "22:10:00",
+  "duration": "7h 35m",
+  "distance": "368 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

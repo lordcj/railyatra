@@ -1,0 +1,31 @@
+{
+  "number": "12854",
+  "name": "BHOPAL - DURG Amarkantak SF Exp",
+  "type": "SF",
+  "source": "BHOPAL JN",
+  "sourceCode": "BPL",
+  "destination": "DURG",
+  "destinationCode": "DURG",
+  "departureTime": "15:45:00",
+  "arrivalTime": "07:55:00",
+  "duration": "16h 10m",
+  "distance": "894 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

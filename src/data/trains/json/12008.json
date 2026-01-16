@@ -1,0 +1,30 @@
+{
+  "number": "12008",
+  "name": "MYSORE - CHENNAI CENT Shatabdi Express",
+  "type": "Shtb",
+  "source": "MYSORE JN",
+  "sourceCode": "MYS",
+  "destination": "CHENNAI CENTRAL",
+  "destinationCode": "MAS",
+  "departureTime": "14:15:00",
+  "arrivalTime": "21:25:00",
+  "duration": "7h 10m",
+  "distance": "500 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "1A",
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

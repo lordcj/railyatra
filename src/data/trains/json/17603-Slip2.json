@@ -1,0 +1,30 @@
+{
+  "number": "17603-Slip2",
+  "name": "Kacheguda-Vasco Prashanti Nilayam Slip",
+  "type": "Exp",
+  "source": "KACHEGUDA",
+  "sourceCode": "KCG",
+  "destination": "VASCO DA GAMA",
+  "destinationCode": "VSG",
+  "departureTime": "21:00:00",
+  "arrivalTime": "15:00:00",
+  "duration": "18h 0m",
+  "distance": "853 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

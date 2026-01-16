@@ -1,0 +1,30 @@
+{
+  "number": "54152",
+  "name": "Kanpur Fatehpur Passenger",
+  "type": "Pass",
+  "source": "KANPUR CENTRAL",
+  "sourceCode": "CNB",
+  "destination": "FATEHPUR",
+  "destinationCode": "FTP",
+  "departureTime": "18:15:00",
+  "arrivalTime": "20:55:00",
+  "duration": "2h 40m",
+  "distance": "77 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,32 @@
+{
+  "number": "12265",
+  "name": "Delhi Sarai Rohilla Jammu Tawi Duronto Express",
+  "type": "Drnt",
+  "source": "DELHI SARAI ROHILLA",
+  "sourceCode": "DEE",
+  "destination": "JAMMU TAWI",
+  "destinationCode": "JAT",
+  "departureTime": "22:15:00",
+  "arrivalTime": "07:10:00",
+  "duration": "8h 55m",
+  "distance": "578 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

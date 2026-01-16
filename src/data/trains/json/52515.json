@@ -1,0 +1,30 @@
+{
+  "number": "52515",
+  "name": "Jhanjharpur Laukaha Bazar Passenger",
+  "type": "Pass",
+  "source": "Jhanjharpur",
+  "sourceCode": "JJP",
+  "destination": "Laukaha Bazar",
+  "destinationCode": "LKQ",
+  "departureTime": "03:30:00",
+  "arrivalTime": "06:15:00",
+  "duration": "2h 45m",
+  "distance": "43 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

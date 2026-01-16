@@ -1,0 +1,30 @@
+{
+  "number": "56392",
+  "name": "Kollam Ernakulam Passenger",
+  "type": "Pass",
+  "source": "KOLLAM JN",
+  "sourceCode": "QLN",
+  "destination": "ERNAKULAM JN",
+  "destinationCode": "ERS",
+  "departureTime": "04:20:00",
+  "arrivalTime": "08:40:00",
+  "duration": "4h 20m",
+  "distance": "156 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,31 @@
+{
+  "number": "12129",
+  "name": "PUNE - HOWRAH Azad Hind SF Exp",
+  "type": "SF",
+  "source": "PUNE JN",
+  "sourceCode": "PUNE",
+  "destination": "HOWRAH JN",
+  "destinationCode": "HWH",
+  "departureTime": "18:25:00",
+  "arrivalTime": "03:50:00",
+  "duration": "33h 25m",
+  "distance": "2020 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

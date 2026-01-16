@@ -1,0 +1,31 @@
+{
+  "number": "12547",
+  "name": "Agra Fort Ahmedabad Tri Weekly Express",
+  "type": "SF",
+  "source": "AGRA FORT",
+  "sourceCode": "AF",
+  "destination": "AHMEDABAD JN",
+  "destinationCode": "ADI",
+  "departureTime": "22:25:00",
+  "arrivalTime": "13:35:00",
+  "duration": "15h 10m",
+  "distance": "867 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

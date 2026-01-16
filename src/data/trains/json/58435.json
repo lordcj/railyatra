@@ -1,0 +1,30 @@
+{
+  "number": "58435",
+  "name": "Bhadrakh Cuttack Fast Passenger",
+  "type": "Pass",
+  "source": "BHADRAKH",
+  "sourceCode": "BHC",
+  "destination": "CUTTACK",
+  "destinationCode": "CTC",
+  "departureTime": "15:45:00",
+  "arrivalTime": "18:45:00",
+  "duration": "3h 0m",
+  "distance": "116 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

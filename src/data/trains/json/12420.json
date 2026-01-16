@@ -1,0 +1,31 @@
+{
+  "number": "12420",
+  "name": "Gomti Express",
+  "type": "SF",
+  "source": "NEW DELHI",
+  "sourceCode": "NDLS",
+  "destination": "LUCKNOW",
+  "destinationCode": "LKO",
+  "departureTime": "12:40:00",
+  "arrivalTime": "21:25:00",
+  "duration": "8h 45m",
+  "distance": "511 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "2A",
+    "1A",
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

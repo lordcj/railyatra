@@ -1,0 +1,29 @@
+{
+  "number": "51187",
+  "name": "BHUSAVAL - KATNI Passenger",
+  "type": "Pass",
+  "source": "BHUSAVAL JN",
+  "sourceCode": "BSL",
+  "destination": "KATNI",
+  "destinationCode": "KTE",
+  "departureTime": "09:30:00",
+  "arrivalTime": "03:25:00",
+  "duration": "17h 55m",
+  "distance": "657 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

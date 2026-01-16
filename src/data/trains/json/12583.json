@@ -1,0 +1,31 @@
+{
+  "number": "12583",
+  "name": "LUCKNOW - DELHI ANAND VIHAR T DOUBLE DECKER",
+  "type": "SF",
+  "source": "LUCKNOW JN",
+  "sourceCode": "LJN",
+  "destination": "ANAND VIHAR TRM",
+  "destinationCode": "ANVT",
+  "departureTime": "19:40:00",
+  "arrivalTime": "10:15:00",
+  "duration": "38h 35m",
+  "distance": "2071 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

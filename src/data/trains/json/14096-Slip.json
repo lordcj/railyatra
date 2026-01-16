@@ -1,0 +1,30 @@
+{
+  "number": "14096-Slip",
+  "name": "Himalayan Queen Slip",
+  "type": "Exp",
+  "source": "Kalka",
+  "sourceCode": "KLK",
+  "destination": "Bhiwani",
+  "destinationCode": "BNW",
+  "departureTime": "16:50:00",
+  "arrivalTime": "23:20:00",
+  "duration": "6h 30m",
+  "distance": "335 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

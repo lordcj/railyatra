@@ -1,0 +1,30 @@
+{
+  "number": "55751",
+  "name": "New Jalpaiguri Haldibari Passenger",
+  "type": "Pass",
+  "source": "NEW JALPAIGURI",
+  "sourceCode": "NJP",
+  "destination": "HALDIBARI",
+  "destinationCode": "HDB",
+  "departureTime": "13:20:00",
+  "arrivalTime": "15:25:00",
+  "duration": "2h 5m",
+  "distance": "56 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "52557",
+  "name": "Banmankhi Budhma Passenger",
+  "type": "Pass",
+  "source": "Banmankhi Junction",
+  "sourceCode": "BNKI",
+  "destination": "Budhma",
+  "destinationCode": "BDMA",
+  "departureTime": "04:00:00",
+  "arrivalTime": "05:55:00",
+  "duration": "1h 55m",
+  "distance": "34 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

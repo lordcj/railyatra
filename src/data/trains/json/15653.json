@@ -1,0 +1,31 @@
+{
+  "number": "15653",
+  "name": "GUWAHATI - JAMMU TAWI Amarnath Exp",
+  "type": "Exp",
+  "source": "GUWAHATI",
+  "sourceCode": "GHY",
+  "destination": "JAMMU TAWI",
+  "destinationCode": "JAT",
+  "departureTime": "13:15:00",
+  "arrivalTime": "12:20:00",
+  "duration": "47h 5m",
+  "distance": "2431 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

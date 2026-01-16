@@ -1,0 +1,30 @@
+{
+  "number": "15279",
+  "name": "Poorbiya Express",
+  "type": "Exp",
+  "source": "SAHARSA JN",
+  "sourceCode": "SHC",
+  "destination": "ADARSH NAGAR DELHI",
+  "destinationCode": "ANDI",
+  "departureTime": "11:00:00",
+  "arrivalTime": "14:15:00",
+  "duration": "27h 15m",
+  "distance": "1210 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

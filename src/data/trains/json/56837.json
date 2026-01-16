@@ -1,0 +1,30 @@
+{
+  "number": "56837",
+  "name": "Vriddhachalam Salem Passenger",
+  "type": "Pass",
+  "source": "VRIDHACHALAM JN",
+  "sourceCode": "VRI",
+  "destination": "SALEM JN",
+  "destinationCode": "SA",
+  "departureTime": "13:15:00",
+  "arrivalTime": "17:00:00",
+  "duration": "3h 45m",
+  "distance": "145 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

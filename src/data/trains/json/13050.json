@@ -1,0 +1,30 @@
+{
+  "number": "13050",
+  "name": "Amritsar Howrah Express",
+  "type": "Exp",
+  "source": "AMRITSAR JN",
+  "sourceCode": "ASR",
+  "destination": "HOWRAH JN",
+  "destinationCode": "HWH",
+  "departureTime": "18:10:00",
+  "arrivalTime": "15:45:00",
+  "duration": "45h 35m",
+  "distance": "1922 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

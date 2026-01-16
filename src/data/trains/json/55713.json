@@ -1,0 +1,30 @@
+{
+  "number": "55713",
+  "name": "NEW JALPAIGURI - DEKARGAON Pass",
+  "type": "Pass",
+  "source": "NEW JALPAIGURI",
+  "sourceCode": "NJP",
+  "destination": "DEKARGAON",
+  "destinationCode": "DKGN",
+  "departureTime": "07:30:00",
+  "arrivalTime": "17:50:00",
+  "duration": "10h 20m",
+  "distance": "252 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

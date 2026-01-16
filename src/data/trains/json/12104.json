@@ -1,0 +1,31 @@
+{
+  "number": "12104",
+  "name": "Lucknow Jn - Pune Express",
+  "type": "SF",
+  "source": "LUCKNOW JN",
+  "sourceCode": "LJN",
+  "destination": "PUNE JN",
+  "destinationCode": "PUNE",
+  "departureTime": "06:30:00",
+  "arrivalTime": "08:05:00",
+  "duration": "25h 35m",
+  "distance": "1477 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

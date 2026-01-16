@@ -1,0 +1,30 @@
+{
+  "number": "12016",
+  "name": "Ajmer-New Delhi Shatabdi",
+  "type": "Shtb",
+  "source": "AJMER JN",
+  "sourceCode": "AII",
+  "destination": "NEW DELHI",
+  "destinationCode": "NDLS",
+  "departureTime": "15:50:00",
+  "arrivalTime": "22:40:00",
+  "duration": "6h 50m",
+  "distance": "443 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "1A",
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

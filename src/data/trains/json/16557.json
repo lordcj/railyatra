@@ -1,0 +1,30 @@
+{
+  "number": "16557",
+  "name": "Rajya Rani Express",
+  "type": "Exp",
+  "source": "MYSORE JN",
+  "sourceCode": "MYS",
+  "destination": "BANGALORE CITY JN",
+  "destinationCode": "SBC",
+  "departureTime": "16:15:00",
+  "arrivalTime": "19:40:00",
+  "duration": "3h 25m",
+  "distance": "137 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

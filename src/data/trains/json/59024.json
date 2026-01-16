@@ -1,0 +1,30 @@
+{
+  "number": "59024",
+  "name": "Valsad Mumbai Passenger",
+  "type": "Pass",
+  "source": "VALSAD",
+  "sourceCode": "BL",
+  "destination": "Mumbai Central",
+  "destinationCode": "BCT",
+  "departureTime": "04:50:00",
+  "arrivalTime": "09:15:00",
+  "duration": "4h 25m",
+  "distance": "195 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

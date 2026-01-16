@@ -1,0 +1,30 @@
+{
+  "number": "17241",
+  "name": "Simhadri Link Express",
+  "type": "Exp",
+  "source": "Narasapur",
+  "sourceCode": "NS",
+  "destination": "NIDADAVOLU JN",
+  "destinationCode": "NDD",
+  "departureTime": "10:00:00",
+  "arrivalTime": "12:00:00",
+  "duration": "2h 0m",
+  "distance": "76 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

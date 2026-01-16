@@ -1,0 +1,31 @@
+{
+  "number": "03283",
+  "name": "Rajendra Nagar-Tatanagar Special",
+  "type": "Exp",
+  "source": "RAJENDRA NAGAR BIHAR",
+  "sourceCode": "RJPB",
+  "destination": "TATANAGAR JN",
+  "destinationCode": "TATA",
+  "departureTime": "23:15:00",
+  "arrivalTime": "10:05:00",
+  "duration": "10h 50m",
+  "distance": "496 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

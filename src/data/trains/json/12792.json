@@ -1,0 +1,31 @@
+{
+  "number": "12792",
+  "name": "DANAPUR - SECUNDERABAD SF EXP",
+  "type": "SF",
+  "source": "DANAPUR",
+  "sourceCode": "DNR",
+  "destination": "SECUNDERABAD JN",
+  "destinationCode": "SC",
+  "departureTime": "12:05:00",
+  "arrivalTime": "21:30:00",
+  "duration": "33h 25m",
+  "distance": "1840 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

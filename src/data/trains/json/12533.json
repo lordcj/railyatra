@@ -1,0 +1,32 @@
+{
+  "number": "12533",
+  "name": "Pushpak Express",
+  "type": "SF",
+  "source": "LUCKNOW JN",
+  "sourceCode": "LJN",
+  "destination": "MUMBAI CST",
+  "destinationCode": "CSTM",
+  "departureTime": "19:45:00",
+  "arrivalTime": "20:05:00",
+  "duration": "24h 20m",
+  "distance": "1426 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

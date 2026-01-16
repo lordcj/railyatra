@@ -1,0 +1,30 @@
+{
+  "number": "34794",
+  "name": "Sealdah-Namkhana Local",
+  "type": "MEMU",
+  "source": "KOLKATA SEALDAH",
+  "sourceCode": "SDAH",
+  "destination": "Namkhana",
+  "destinationCode": "NMKA",
+  "departureTime": "21:25:00",
+  "arrivalTime": "00:10:00",
+  "duration": "2h 45m",
+  "distance": "108 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

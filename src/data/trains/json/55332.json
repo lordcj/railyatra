@@ -1,0 +1,30 @@
+{
+  "number": "55332",
+  "name": "Kasganj Farrukhabad Passenger",
+  "type": "Pass",
+  "source": "KASGANJ",
+  "sourceCode": "KSJ",
+  "destination": "FARRUKHABAD",
+  "destinationCode": "FBD",
+  "departureTime": "17:30:00",
+  "arrivalTime": "20:10:00",
+  "duration": "2h 40m",
+  "distance": "107 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

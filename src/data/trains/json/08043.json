@@ -1,0 +1,31 @@
+{
+  "number": "08043",
+  "name": "Kolkata Shalimar-Haridwar Puja Special",
+  "type": "Exp",
+  "source": "KOLKATA SHALIMAR",
+  "sourceCode": "SHM",
+  "destination": "HARIDWAR JN",
+  "destinationCode": "HW",
+  "departureTime": "17:20:00",
+  "arrivalTime": "23:05:00",
+  "duration": "29h 45m",
+  "distance": "1595 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

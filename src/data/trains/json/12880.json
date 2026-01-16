@@ -1,0 +1,31 @@
+{
+  "number": "12880",
+  "name": "BHUBANESWAR - MUMBAI LTT SF Exp",
+  "type": "SF",
+  "source": "BHUBANESWAR",
+  "sourceCode": "BBS",
+  "destination": "LOKMANYA TILAK TERM",
+  "destinationCode": "LTT",
+  "departureTime": "07:10:00",
+  "arrivalTime": "13:35:00",
+  "duration": "30h 25m",
+  "distance": "1789 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

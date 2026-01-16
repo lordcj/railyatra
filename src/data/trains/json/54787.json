@@ -1,0 +1,30 @@
+{
+  "number": "54787",
+  "name": "Bhiwani Rewari Passenger",
+  "type": "Pass",
+  "source": "Bhiwani",
+  "sourceCode": "BNW",
+  "destination": "REWARI",
+  "destinationCode": "RE",
+  "departureTime": "06:45:00",
+  "arrivalTime": "08:40:00",
+  "duration": "1h 55m",
+  "distance": "83 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

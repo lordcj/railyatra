@@ -1,0 +1,30 @@
+{
+  "number": "52022",
+  "name": "Miyagam Moti Koral Mix Passenger",
+  "type": "Pass",
+  "source": "MIYAGAM KARJAN",
+  "sourceCode": "MYG",
+  "destination": "Moti Koral",
+  "destinationCode": "MKRL",
+  "departureTime": "17:10:00",
+  "arrivalTime": "19:35:00",
+  "duration": "2h 25m",
+  "distance": "28 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

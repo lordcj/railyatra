@@ -1,0 +1,30 @@
+{
+  "number": "51976",
+  "name": "Mathura-KasGanj Passenger",
+  "type": "Pass",
+  "source": "MATHURA JN",
+  "sourceCode": "MTJ",
+  "destination": "KASGANJ",
+  "destinationCode": "KSJ",
+  "departureTime": "06:05:00",
+  "arrivalTime": "08:20:00",
+  "duration": "2h 15m",
+  "distance": "105 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

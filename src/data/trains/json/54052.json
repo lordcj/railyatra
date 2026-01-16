@@ -1,0 +1,30 @@
+{
+  "number": "54052",
+  "name": "Ludhiana Firozpur Passenger",
+  "type": "Pass",
+  "source": "FIROZPUR CANT",
+  "sourceCode": "FZR",
+  "destination": "LUDHIANA JN",
+  "destinationCode": "LDH",
+  "departureTime": "13:45:00",
+  "arrivalTime": "16:35:00",
+  "duration": "2h 50m",
+  "distance": "124 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

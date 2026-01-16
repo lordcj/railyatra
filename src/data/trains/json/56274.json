@@ -1,0 +1,30 @@
+{
+  "number": "56274",
+  "name": "Hubli Arsikere Passenger",
+  "type": "Pass",
+  "source": "HUBLI JN",
+  "sourceCode": "UBL",
+  "destination": "ARSIKERE JN",
+  "destinationCode": "ASK",
+  "departureTime": "15:05:00",
+  "arrivalTime": "22:25:00",
+  "duration": "7h 20m",
+  "distance": "304 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

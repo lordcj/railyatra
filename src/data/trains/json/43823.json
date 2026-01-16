@@ -1,0 +1,30 @@
+{
+  "number": "43823",
+  "name": "Chennai Beach Tiruttani Fast",
+  "type": "MEMU",
+  "source": "CHENNAI BEACH",
+  "sourceCode": "MSB",
+  "destination": "TIRUTTANI",
+  "destinationCode": "TRT",
+  "departureTime": "18:20:00",
+  "arrivalTime": "20:25:00",
+  "duration": "2h 5m",
+  "distance": "83 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

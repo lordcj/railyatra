@@ -1,0 +1,30 @@
+{
+  "number": "56513",
+  "name": "Salem Bangalore passenger",
+  "type": "Pass",
+  "source": "SALEM JN",
+  "sourceCode": "SA",
+  "destination": "BANGALORE CITY JN",
+  "destinationCode": "SBC",
+  "departureTime": "13:30:00",
+  "arrivalTime": "19:00:00",
+  "duration": "5h 30m",
+  "distance": "218 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "22308",
+  "name": "Bikaner-Howrah SF Express",
+  "type": "SF",
+  "source": "BIKANER JN",
+  "sourceCode": "BKN",
+  "destination": "HOWRAH JN",
+  "destinationCode": "HWH",
+  "departureTime": "18:45:00",
+  "arrivalTime": "04:00:00",
+  "duration": "33h 15m",
+  "distance": "1882 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

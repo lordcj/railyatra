@@ -1,0 +1,30 @@
+{
+  "number": "15643",
+  "name": "PURI - KAMAKHYA Weekly Express",
+  "type": "Exp",
+  "source": "PURI",
+  "sourceCode": "PURI",
+  "destination": "KAMAKHYA",
+  "destinationCode": "KYQ",
+  "departureTime": "22:15:00",
+  "arrivalTime": "04:20:00",
+  "duration": "30h 5m",
+  "distance": "1572 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

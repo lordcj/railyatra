@@ -1,0 +1,30 @@
+{
+  "number": "51182",
+  "name": "Bhusaval Devlali Passenger",
+  "type": "Pass",
+  "source": "BHUSAVAL JN",
+  "sourceCode": "BSL",
+  "destination": "DEVLALI",
+  "destinationCode": "DVL",
+  "departureTime": "17:15:00",
+  "arrivalTime": "23:00:00",
+  "duration": "5h 45m",
+  "distance": "262 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

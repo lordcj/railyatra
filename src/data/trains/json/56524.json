@@ -1,0 +1,30 @@
+{
+  "number": "56524",
+  "name": "HINDUPUR - KSR BENGALURU CITY Passenger",
+  "type": "Pass",
+  "source": "HINDUPUR",
+  "sourceCode": "HUP",
+  "destination": "BANGALORE CITY JN",
+  "destinationCode": "SBC",
+  "departureTime": "06:30:00",
+  "arrivalTime": "09:25:00",
+  "duration": "2h 55m",
+  "distance": "88 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

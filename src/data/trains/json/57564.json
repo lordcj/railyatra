@@ -1,0 +1,30 @@
+{
+  "number": "57564",
+  "name": "Nanded Hyderabad Passenger",
+  "type": "Pass",
+  "source": "HUZUR SAHIB NANDED",
+  "sourceCode": "NED",
+  "destination": "HYDERABAD DECCAN",
+  "destinationCode": "HYB",
+  "departureTime": "22:30:00",
+  "arrivalTime": "06:30:00",
+  "duration": "8h 0m",
+  "distance": "281 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

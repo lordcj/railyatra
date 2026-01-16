@@ -1,0 +1,29 @@
+{
+  "number": "58220",
+  "name": "Chirmiri Bilaspur Passenger",
+  "type": "Pass",
+  "source": "Chirmiri",
+  "sourceCode": "CHRM",
+  "destination": "BILASPUR JN",
+  "destinationCode": "BSP",
+  "departureTime": "20:05:00",
+  "arrivalTime": "06:45:00",
+  "duration": "10h 40m",
+  "distance": "238 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

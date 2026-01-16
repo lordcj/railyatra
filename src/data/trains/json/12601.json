@@ -1,0 +1,31 @@
+{
+  "number": "12601",
+  "name": "Chennai Mangalore Mail",
+  "type": "SF",
+  "source": "CHENNAI CENTRAL",
+  "sourceCode": "MAS",
+  "destination": "MANGALORE CNTL",
+  "destinationCode": "MAQ",
+  "departureTime": "20:25:00",
+  "arrivalTime": "12:25:00",
+  "duration": "16h 0m",
+  "distance": "889 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

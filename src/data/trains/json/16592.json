@@ -1,0 +1,32 @@
+{
+  "number": "16592",
+  "name": "Hampi Express",
+  "type": "Exp",
+  "source": "BANGALORE CITY JN",
+  "sourceCode": "SBC",
+  "destination": "HUBLI JN",
+  "destinationCode": "UBL",
+  "departureTime": "22:00:00",
+  "arrivalTime": "11:00:00",
+  "duration": "13h 0m",
+  "distance": "567 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

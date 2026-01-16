@@ -1,0 +1,30 @@
+{
+  "number": "56656",
+  "name": "Kannur Passenger",
+  "type": "Pass",
+  "source": "MANGALORE CNTL",
+  "sourceCode": "MAQ",
+  "destination": "KANNUR",
+  "destinationCode": "CAN",
+  "departureTime": "16:35:00",
+  "arrivalTime": "20:35:00",
+  "duration": "4h 0m",
+  "distance": "132 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

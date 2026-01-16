@@ -1,0 +1,31 @@
+{
+  "number": "12134",
+  "name": "MANGALORE - MUMBAI CST Exp",
+  "type": "SF",
+  "source": "MANGALORE JN",
+  "sourceCode": "MAJN",
+  "destination": "MUMBAI CST",
+  "destinationCode": "CSTM",
+  "departureTime": "14:00:00",
+  "arrivalTime": "04:25:00",
+  "duration": "14h 25m",
+  "distance": "1195 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

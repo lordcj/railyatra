@@ -1,0 +1,31 @@
+{
+  "number": "16381",
+  "name": "Mumbai CST - Kanyakumari Express",
+  "type": "Exp",
+  "source": "MUMBAI CST",
+  "sourceCode": "CSTM",
+  "destination": "KANYAKUMARI",
+  "destinationCode": "CAPE",
+  "departureTime": "15:45:00",
+  "arrivalTime": "12:45:00",
+  "duration": "45h 0m",
+  "distance": "2135 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

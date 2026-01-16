@@ -1,0 +1,31 @@
+{
+  "number": "18309",
+  "name": "Nagavali Express",
+  "type": "Exp",
+  "source": "SAMBALPUR",
+  "sourceCode": "SBP",
+  "destination": "HUZUR SAHIB NANDED",
+  "destinationCode": "NED",
+  "departureTime": "09:00:00",
+  "arrivalTime": "14:35:00",
+  "duration": "29h 35m",
+  "distance": "1479 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

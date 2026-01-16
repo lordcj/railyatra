@@ -1,0 +1,30 @@
+{
+  "number": "57547",
+  "name": "Hyderabad Purna Passenger",
+  "type": "Pass",
+  "source": "HYDERABAD DECCAN",
+  "sourceCode": "HYB",
+  "destination": "PURNA JN",
+  "destinationCode": "PAU",
+  "departureTime": "07:55:00",
+  "arrivalTime": "20:35:00",
+  "duration": "12h 40m",
+  "distance": "434 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

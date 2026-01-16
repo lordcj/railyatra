@@ -1,0 +1,30 @@
+{
+  "number": "52003",
+  "name": "Bilimora Waghai Mix Passenger",
+  "type": "Pass",
+  "source": "BILIMORA JN",
+  "sourceCode": "BIM",
+  "destination": "Waghai",
+  "destinationCode": "WGI",
+  "departureTime": "19:40:00",
+  "arrivalTime": "22:40:00",
+  "duration": "3h 0m",
+  "distance": "63 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

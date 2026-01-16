@@ -1,0 +1,30 @@
+{
+  "number": "58718",
+  "name": "RAJIM TELIBANDHA PASS",
+  "type": "Pass",
+  "source": "Rajim",
+  "sourceCode": "RIM",
+  "destination": "Telibandha",
+  "destinationCode": "TBD",
+  "departureTime": "09:35:00",
+  "arrivalTime": "11:35:00",
+  "duration": "2h 0m",
+  "distance": "39 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

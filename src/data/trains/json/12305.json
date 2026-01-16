@@ -1,0 +1,31 @@
+{
+  "number": "12305",
+  "name": "Howrah-New Delhi Rajdhani Express",
+  "type": "Raj",
+  "source": "HOWRAH JN",
+  "sourceCode": "HWH",
+  "destination": "NEW DELHI",
+  "destinationCode": "NDLS",
+  "departureTime": "14:05:00",
+  "arrivalTime": "09:55:00",
+  "duration": "19h 50m",
+  "distance": "1530 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "3A",
+    "2A",
+    "1A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

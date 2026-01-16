@@ -1,0 +1,30 @@
+{
+  "number": "58812",
+  "name": "Itwari Ramtek Passenger",
+  "type": "Pass",
+  "source": "ITWARI",
+  "sourceCode": "ITR",
+  "destination": "Ramtek",
+  "destinationCode": "RTK",
+  "departureTime": "19:10:00",
+  "arrivalTime": "20:30:00",
+  "duration": "1h 20m",
+  "distance": "38 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

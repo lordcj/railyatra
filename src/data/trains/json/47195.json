@@ -1,0 +1,30 @@
+{
+  "number": "47195",
+  "name": "Lingampalli Secunderabad MMTS",
+  "type": "Hyd",
+  "source": "LINGAMPALLI",
+  "sourceCode": "LPI",
+  "destination": "SECUNDERABAD JN",
+  "destinationCode": "SC",
+  "departureTime": "22:30:00",
+  "arrivalTime": "23:15:00",
+  "duration": "0h 45m",
+  "distance": "23 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

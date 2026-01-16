@@ -1,0 +1,30 @@
+{
+  "number": "51420",
+  "name": "Hubli Miraj Passenger",
+  "type": "Pass",
+  "source": "HUBLI JN",
+  "sourceCode": "UBL",
+  "destination": "MIRAJ JN",
+  "destinationCode": "MRJ",
+  "departureTime": "12:50:00",
+  "arrivalTime": "20:05:00",
+  "duration": "7h 15m",
+  "distance": "280 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

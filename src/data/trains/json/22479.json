@@ -1,0 +1,32 @@
+{
+  "number": "22479",
+  "name": "New Delhi - Jaipur Vande Bharat Express",
+  "type": "Vande Bharat",
+  "source": "New Delhi",
+  "sourceCode": "NDLS",
+  "destination": "Jaipur",
+  "destinationCode": "JP",
+  "departureTime": "06:00",
+  "arrivalTime": "10:15",
+  "duration": "4h 15m",
+  "distance": "309 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "CC",
+    "EC"
+  ],
+  "stops": 2,
+  "majorStops": [
+    "Gurgaon",
+    "Jaipur"
+  ],
+  "frequency": "Daily"
+}

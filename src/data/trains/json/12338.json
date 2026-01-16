@@ -1,0 +1,29 @@
+{
+  "number": "12338",
+  "name": "Shantiniketan Express",
+  "type": "SF",
+  "source": "BOLPUR SHANTINIKETAN",
+  "sourceCode": "BHP",
+  "destination": "HOWRAH JN",
+  "destinationCode": "HWH",
+  "departureTime": "13:10:00",
+  "arrivalTime": "15:40:00",
+  "duration": "2h 30m",
+  "distance": "146 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

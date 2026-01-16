@@ -1,0 +1,30 @@
+{
+  "number": "31581",
+  "name": "Sealdah-Shantipur-Krishnanagar City Local",
+  "type": "MEMU",
+  "source": "KOLKATA SEALDAH",
+  "sourceCode": "SDAH",
+  "destination": "Krishnanagar City Junction",
+  "destinationCode": "KNJ",
+  "departureTime": "20:00:00",
+  "arrivalTime": "22:50:00",
+  "duration": "2h 50m",
+  "distance": "108 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

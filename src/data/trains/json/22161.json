@@ -1,0 +1,29 @@
+{
+  "number": "22161",
+  "name": "Bhopal Damoh Rajya Rani exp",
+  "type": "SF",
+  "source": "BHOPAL JN",
+  "sourceCode": "BPL",
+  "destination": "DAMOH",
+  "destinationCode": "DMO",
+  "departureTime": "17:30:00",
+  "arrivalTime": "22:45:00",
+  "duration": "5h 15m",
+  "distance": "291 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WCR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

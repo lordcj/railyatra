@@ -1,0 +1,30 @@
+{
+  "number": "56873",
+  "name": "Villupuram Mayiladuthurai Passenger",
+  "type": "Pass",
+  "source": "VILLUPURAM JN",
+  "sourceCode": "VM",
+  "destination": "MAYILADUTURAI JN",
+  "destinationCode": "MV",
+  "departureTime": "05:30:00",
+  "arrivalTime": "09:10:00",
+  "duration": "3h 40m",
+  "distance": "123 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

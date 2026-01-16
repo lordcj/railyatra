@@ -1,0 +1,30 @@
+{
+  "number": "54653",
+  "name": "Jammu Udhampur Passenger",
+  "type": "Pass",
+  "source": "JAMMU TAWI",
+  "sourceCode": "JAT",
+  "destination": "UDHAMPUR",
+  "destinationCode": "UHP",
+  "departureTime": "16:05:00",
+  "arrivalTime": "17:30:00",
+  "duration": "1h 25m",
+  "distance": "53 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "54398",
+  "name": "Moradabad Sambahal Hatim Sarai Pass",
+  "type": "Pass",
+  "source": "MORADABAD",
+  "sourceCode": "MB",
+  "destination": "Sambhal Hatim Sarai",
+  "destinationCode": "SHTS",
+  "departureTime": "12:20:00",
+  "arrivalTime": "14:20:00",
+  "duration": "2h 0m",
+  "distance": "45 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

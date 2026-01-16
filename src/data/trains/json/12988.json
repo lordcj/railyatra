@@ -1,0 +1,31 @@
+{
+  "number": "12988",
+  "name": "Ajmer Sealdah Express",
+  "type": "SF",
+  "source": "AJMER JN",
+  "sourceCode": "AII",
+  "destination": "KOLKATA SEALDAH",
+  "destinationCode": "SDAH",
+  "departureTime": "12:45:00",
+  "arrivalTime": "15:55:00",
+  "duration": "27h 10m",
+  "distance": "1642 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

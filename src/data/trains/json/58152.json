@@ -1,0 +1,30 @@
+{
+  "number": "58152",
+  "name": "Barsuan Birmitrapur Passenger",
+  "type": "Pass",
+  "source": "Barsuan",
+  "sourceCode": "BXF",
+  "destination": "Biramitrapur",
+  "destinationCode": "BRMP",
+  "departureTime": "14:30:00",
+  "arrivalTime": "18:00:00",
+  "duration": "3h 30m",
+  "distance": "103 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

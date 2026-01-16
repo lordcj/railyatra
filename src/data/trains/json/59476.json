@@ -1,0 +1,30 @@
+{
+  "number": "59476",
+  "name": "Patan Mehsana Passenger",
+  "type": "Pass",
+  "source": "PATAN",
+  "sourceCode": "PTN",
+  "destination": "MAHESANA JN",
+  "destinationCode": "MSH",
+  "departureTime": "12:05:00",
+  "arrivalTime": "13:05:00",
+  "duration": "1h 0m",
+  "distance": "40 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

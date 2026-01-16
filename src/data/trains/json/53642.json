@@ -1,0 +1,30 @@
+{
+  "number": "53642",
+  "name": "Mughal Sarai Dildarnagar Passenger",
+  "type": "Pass",
+  "source": "MUGHAL SARAI JN",
+  "sourceCode": "MGS",
+  "destination": "DILDARNAGAR JN",
+  "destinationCode": "DLN",
+  "departureTime": "06:15:00",
+  "arrivalTime": "07:50:00",
+  "duration": "1h 35m",
+  "distance": "58 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "16558",
+  "name": "Bangalore Mysore Rajya Rani Express",
+  "type": "Exp",
+  "source": "BANGALORE CITY JN",
+  "sourceCode": "SBC",
+  "destination": "MYSORE JN",
+  "destinationCode": "MYS",
+  "departureTime": "08:15:00",
+  "arrivalTime": "11:15:00",
+  "duration": "3h 0m",
+  "distance": "137 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

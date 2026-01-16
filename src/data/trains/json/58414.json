@@ -1,0 +1,30 @@
+{
+  "number": "58414",
+  "name": "Puri Talcher Passenger",
+  "type": "Pass",
+  "source": "PURI",
+  "sourceCode": "PURI",
+  "destination": "TALCHER",
+  "destinationCode": "TLHR",
+  "departureTime": "16:35:00",
+  "arrivalTime": "23:45:00",
+  "duration": "7h 10m",
+  "distance": "200 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

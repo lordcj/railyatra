@@ -1,0 +1,30 @@
+{
+  "number": "57502",
+  "name": "Bodhan Nizamabad Passenger",
+  "type": "Pass",
+  "source": "Bodhan",
+  "sourceCode": "BDHN",
+  "destination": "NIZAMABAD",
+  "destinationCode": "NZB",
+  "departureTime": "07:45:00",
+  "arrivalTime": "08:40:00",
+  "duration": "0h 55m",
+  "distance": "26 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

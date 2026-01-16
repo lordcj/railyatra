@@ -1,0 +1,31 @@
+{
+  "number": "16603",
+  "name": "Maveli Express",
+  "type": "Exp",
+  "source": "MANGALORE CNTL",
+  "sourceCode": "MAQ",
+  "destination": "TRIVANDRUM CENTRAL",
+  "destinationCode": "TVC",
+  "departureTime": "17:45:00",
+  "arrivalTime": "07:15:00",
+  "duration": "13h 30m",
+  "distance": "619 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "17613",
+  "name": "Pune Nanded Exp",
+  "type": "Exp",
+  "source": "PUNE JN",
+  "sourceCode": "PUNE",
+  "destination": "HUZUR SAHIB NANDED",
+  "destinationCode": "NED",
+  "departureTime": "22:00:00",
+  "arrivalTime": "10:00:00",
+  "duration": "12h 0m",
+  "distance": "557 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

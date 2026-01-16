@@ -1,0 +1,32 @@
+{
+  "number": "12462",
+  "name": "Mandore Express",
+  "type": "SF",
+  "source": "JODHPUR JN",
+  "sourceCode": "JU",
+  "destination": "OLD DELHI",
+  "destinationCode": "DLI",
+  "departureTime": "20:00:00",
+  "arrivalTime": "06:25:00",
+  "duration": "10h 25m",
+  "distance": "620 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "54256",
+  "name": "LUCKNOW - VARANASI PASSENGER",
+  "type": "Pass",
+  "source": "LUCKNOW",
+  "sourceCode": "LKO",
+  "destination": "VARANASI JN",
+  "destinationCode": "BSB",
+  "departureTime": "11:15:00",
+  "arrivalTime": "20:45:00",
+  "duration": "9h 30m",
+  "distance": "301 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

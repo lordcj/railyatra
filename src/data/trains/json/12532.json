@@ -1,0 +1,29 @@
+{
+  "number": "12532",
+  "name": "Lucknow Gorakhpur Inter City Express",
+  "type": "SF",
+  "source": "LUCKNOW JN",
+  "sourceCode": "LJN",
+  "destination": "GORAKHPUR JN",
+  "destinationCode": "GKP",
+  "departureTime": "16:35:00",
+  "arrivalTime": "21:30:00",
+  "duration": "4h 55m",
+  "distance": "279 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

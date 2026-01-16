@@ -1,0 +1,29 @@
+{
+  "number": "12073",
+  "name": "Howrah-Bhubaneswar Jan Shatabdi Express",
+  "type": "JShtb",
+  "source": "HOWRAH JN",
+  "sourceCode": "HWH",
+  "destination": "BHUBANESWAR",
+  "destinationCode": "BBS",
+  "departureTime": "13:35:00",
+  "arrivalTime": "20:20:00",
+  "duration": "6h 45m",
+  "distance": "439 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

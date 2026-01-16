@@ -1,0 +1,31 @@
+{
+  "number": "12779",
+  "name": "VASCO DA GAMA - DELHI H NIZAMUDDIN Goa Exp",
+  "type": "SF",
+  "source": "VASCO DA GAMA",
+  "sourceCode": "VSG",
+  "destination": "DELHI H NIZAMUDDIN",
+  "destinationCode": "NZM",
+  "departureTime": "15:10:00",
+  "arrivalTime": "06:15:00",
+  "duration": "39h 5m",
+  "distance": "2202 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

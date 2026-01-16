@@ -1,0 +1,32 @@
+{
+  "number": "12616",
+  "name": "GrandTrunk Express",
+  "type": "SF",
+  "source": "NEW DELHI",
+  "sourceCode": "NDLS",
+  "destination": "CHENNAI CENTRAL",
+  "destinationCode": "MAS",
+  "departureTime": "18:40:00",
+  "arrivalTime": "06:15:00",
+  "duration": "35h 35m",
+  "distance": "2184 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

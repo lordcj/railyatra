@@ -1,0 +1,30 @@
+{
+  "number": "52549",
+  "name": "Darjeeling Himalayan Toy Train",
+  "type": "Toy",
+  "source": "Darjeeling",
+  "sourceCode": "DJ",
+  "destination": "To Darjeeling",
+  "destinationCode": "DJRZ",
+  "departureTime": "15:16:00",
+  "arrivalTime": "15:30:00",
+  "duration": "0h 14m",
+  "distance": "2 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

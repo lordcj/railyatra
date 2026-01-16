@@ -1,0 +1,30 @@
+{
+  "number": "17401-Slip",
+  "name": "Tirupati-Narsapur Express Slip",
+  "type": "Exp",
+  "source": "TIRUPATI MAIN",
+  "sourceCode": "TPTY",
+  "destination": "Narasapur",
+  "destinationCode": "NS",
+  "departureTime": "19:40:00",
+  "arrivalTime": "06:00:00",
+  "duration": "10h 20m",
+  "distance": "525 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

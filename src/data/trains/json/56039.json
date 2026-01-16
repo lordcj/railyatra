@@ -1,0 +1,30 @@
+{
+  "number": "56039",
+  "name": "Kumbakonam Thanjavur Passenger",
+  "type": "Pass",
+  "source": "KUMBAKONAM",
+  "sourceCode": "KMU",
+  "destination": "THANJAVUR",
+  "destinationCode": "TJ",
+  "departureTime": "08:05:00",
+  "arrivalTime": "09:15:00",
+  "duration": "1h 10m",
+  "distance": "39 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

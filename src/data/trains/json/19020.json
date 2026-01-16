@@ -1,0 +1,31 @@
+{
+  "number": "19020",
+  "name": "Dehradun - Bandra Terminus Express",
+  "type": "Exp",
+  "source": "DEHRADUN",
+  "sourceCode": "DDN",
+  "destination": "MUMBAI BANDRA TERMINUS",
+  "destinationCode": "BDTS",
+  "departureTime": "10:40:00",
+  "arrivalTime": "04:25:00",
+  "duration": "41h 45m",
+  "distance": "1682 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

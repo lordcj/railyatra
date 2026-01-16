@@ -1,0 +1,30 @@
+{
+  "number": "14002",
+  "name": "ATARI SHYAM SINGH - OLD DELHI Samjhauta Exp",
+  "type": "Exp",
+  "source": "ATARI",
+  "sourceCode": "ATT",
+  "destination": "OLD DELHI",
+  "destinationCode": "DLI",
+  "departureTime": "20:15:00",
+  "arrivalTime": "03:20:00",
+  "duration": "7h 5m",
+  "distance": "472 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

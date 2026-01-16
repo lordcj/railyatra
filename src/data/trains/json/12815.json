@@ -1,0 +1,31 @@
+{
+  "number": "12815",
+  "name": "Puri New Delhi Superfast Express",
+  "type": "SF",
+  "source": "PURI",
+  "sourceCode": "PURI",
+  "destination": "NEW DELHI",
+  "destinationCode": "NDLS",
+  "departureTime": "10:55:00",
+  "arrivalTime": "17:00:00",
+  "duration": "30h 5m",
+  "distance": "1804 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

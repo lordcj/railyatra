@@ -1,0 +1,30 @@
+{
+  "number": "12203",
+  "name": "Saharsa Amritsar Garib Rath",
+  "type": "GR",
+  "source": "SAHARSA JN",
+  "sourceCode": "SHC",
+  "destination": "AMRITSAR JN",
+  "destinationCode": "ASR",
+  "departureTime": "15:00:00",
+  "arrivalTime": "20:45:00",
+  "duration": "29h 45m",
+  "distance": "1723 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

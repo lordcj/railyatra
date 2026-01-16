@@ -1,0 +1,30 @@
+{
+  "number": "52915",
+  "name": "Nandol Dehegam Ahmedabad Passenger",
+  "type": "Pass",
+  "source": "NANDOL DEHEGAM",
+  "sourceCode": "NHM",
+  "destination": "AHMEDABAD JN",
+  "destinationCode": "ADI",
+  "departureTime": "13:50:00",
+  "arrivalTime": "15:10:00",
+  "duration": "1h 20m",
+  "distance": "73 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

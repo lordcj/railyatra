@@ -1,0 +1,29 @@
+{
+  "number": "13236",
+  "name": "Danapur-Sahibganj InterCity",
+  "type": "Exp",
+  "source": "DANAPUR",
+  "sourceCode": "DNR",
+  "destination": "SAHIBGANJ JN",
+  "destinationCode": "SBG",
+  "departureTime": "05:05:00",
+  "arrivalTime": "13:05:00",
+  "duration": "8h 0m",
+  "distance": "306 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,31 @@
+{
+  "number": "07105",
+  "name": "Ajmer - Hyderabad Special",
+  "type": "Exp",
+  "source": "AJMER JN",
+  "sourceCode": "AII",
+  "destination": "HYDERABAD DECCAN",
+  "destinationCode": "HYB",
+  "departureTime": "22:45:00",
+  "arrivalTime": "14:00:00",
+  "duration": "39h 15m",
+  "distance": "2033 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

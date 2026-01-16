@@ -1,0 +1,29 @@
+{
+  "number": "17239",
+  "name": "Simhadri Express",
+  "type": "Exp",
+  "source": "GUNTUR JN",
+  "sourceCode": "GNT",
+  "destination": "VISHAKAPATNAM",
+  "destinationCode": "VSKP",
+  "departureTime": "08:00:00",
+  "arrivalTime": "17:50:00",
+  "duration": "9h 50m",
+  "distance": "383 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

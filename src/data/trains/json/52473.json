@@ -1,0 +1,30 @@
+{
+  "number": "52473",
+  "name": "PATHANKOT - JOGINDER NAGAR PASSENGER",
+  "type": "Pass",
+  "source": "PATHANKOT",
+  "sourceCode": "PTK",
+  "destination": "JOGINDER NAGAR",
+  "destinationCode": "JDNX",
+  "departureTime": "10:00:00",
+  "arrivalTime": "19:45:00",
+  "duration": "9h 45m",
+  "distance": "170 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

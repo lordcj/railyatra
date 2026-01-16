@@ -1,0 +1,30 @@
+{
+  "number": "52212",
+  "name": "Lal Kuan Bareilly Passenger",
+  "type": "Pass",
+  "source": "Lal Kuan",
+  "sourceCode": "LKKA",
+  "destination": "BAREILLY",
+  "destinationCode": "BRY",
+  "departureTime": "10:00:00",
+  "arrivalTime": "13:00:00",
+  "duration": "3h 0m",
+  "distance": "84 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

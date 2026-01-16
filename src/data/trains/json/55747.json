@@ -1,0 +1,30 @@
+{
+  "number": "55747",
+  "name": "Siliguri Haldibari Passenger",
+  "type": "Pass",
+  "source": "SILIGURI JN",
+  "sourceCode": "SGUJ",
+  "destination": "HALDIBARI",
+  "destinationCode": "HDB",
+  "departureTime": "16:50:00",
+  "arrivalTime": "19:35:00",
+  "duration": "2h 45m",
+  "distance": "63 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

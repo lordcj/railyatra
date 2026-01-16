@@ -1,0 +1,29 @@
+{
+  "number": "12518",
+  "name": "GUWAHATI - KOLKATA Garib Rath Exp",
+  "type": "GR",
+  "source": "GUWAHATI",
+  "sourceCode": "GHY",
+  "destination": "KOLKATA CHITPUR",
+  "destinationCode": "KOAA",
+  "departureTime": "21:00:00",
+  "arrivalTime": "15:00:00",
+  "duration": "18h 0m",
+  "distance": "1027 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "3A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "59484",
+  "name": "Patan Mahesana DMU",
+  "type": "Pass",
+  "source": "PATAN",
+  "sourceCode": "PTN",
+  "destination": "MAHESANA JN",
+  "destinationCode": "MSH",
+  "departureTime": "20:25:00",
+  "arrivalTime": "21:20:00",
+  "duration": "0h 55m",
+  "distance": "40 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

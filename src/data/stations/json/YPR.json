@@ -1,0 +1,14 @@
+{
+  "code": "YPR",
+  "name": "Yesvantpur",
+  "fullName": "Yesvantpur Junction",
+  "zone": "SWR",
+  "state": "Karnataka",
+  "category": "A",
+  "platforms": 8,
+  "connectivity": [
+    "Metro",
+    "Bus",
+    "Taxi"
+  ]
+}

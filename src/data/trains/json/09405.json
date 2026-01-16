@@ -1,0 +1,30 @@
+{
+  "number": "09405",
+  "name": "Ahmedabad Yesvantpur (Weekly) Special",
+  "type": "Exp",
+  "source": "AHMEDABAD JN",
+  "sourceCode": "ADI",
+  "destination": "YESVANTPUR JN",
+  "destinationCode": "YPR",
+  "departureTime": "19:30:00",
+  "arrivalTime": "04:00:00",
+  "duration": "32h 30m",
+  "distance": "1556 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

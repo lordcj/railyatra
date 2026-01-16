@@ -1,0 +1,29 @@
+{
+  "number": "12257",
+  "name": "Yesvantapur Kochuveli Garib Rath Express",
+  "type": "GR",
+  "source": "YESVANTPUR JN",
+  "sourceCode": "YPR",
+  "destination": "KOCHUVELI",
+  "destinationCode": "KCVL",
+  "departureTime": "21:00:00",
+  "arrivalTime": "12:40:00",
+  "duration": "15h 40m",
+  "distance": "808 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "3A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

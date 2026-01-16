@@ -1,0 +1,31 @@
+{
+  "number": "14259",
+  "name": "MUGHAL SARAI - LUCKNOW Ekatmata Exp",
+  "type": "Exp",
+  "source": "MUGHAL SARAI JN",
+  "sourceCode": "MGS",
+  "destination": "LUCKNOW",
+  "destinationCode": "LKO",
+  "departureTime": "23:00:00",
+  "arrivalTime": "04:40:00",
+  "duration": "53h 40m",
+  "distance": "2796 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,29 @@
+{
+  "number": "51751",
+  "name": "Rewa Bilaspur Fast Passenger",
+  "type": "Pass",
+  "source": "REWA",
+  "sourceCode": "REWA",
+  "destination": "BILASPUR JN",
+  "destinationCode": "BSP",
+  "departureTime": "21:00:00",
+  "arrivalTime": "10:15:00",
+  "duration": "13h 15m",
+  "distance": "466 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WCR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

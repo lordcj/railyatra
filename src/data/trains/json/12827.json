@@ -1,0 +1,29 @@
+{
+  "number": "12827",
+  "name": "Howrah Purulia Express",
+  "type": "SF",
+  "source": "HOWRAH JN",
+  "sourceCode": "HWH",
+  "destination": "PURULIA JN",
+  "destinationCode": "PRR",
+  "departureTime": "16:50:00",
+  "arrivalTime": "22:20:00",
+  "duration": "5h 30m",
+  "distance": "323 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "05306",
+  "name": "KanpurAnwarganj-Farrukhabad Special",
+  "type": "Exp",
+  "source": "KANPUR ANWARGANJ",
+  "sourceCode": "CPA",
+  "destination": "FARRUKHABAD",
+  "destinationCode": "FBD",
+  "departureTime": "14:55:00",
+  "arrivalTime": "18:20:00",
+  "duration": "3h 25m",
+  "distance": "138 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

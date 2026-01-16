@@ -1,0 +1,30 @@
+{
+  "number": "51911",
+  "name": "Delhi Shamli Saharanpur Passenger",
+  "type": "Pass",
+  "source": "OLD DELHI",
+  "sourceCode": "DLI",
+  "destination": "SAHARANPUR",
+  "destinationCode": "SRE",
+  "departureTime": "12:45:00",
+  "arrivalTime": "17:45:00",
+  "duration": "5h 0m",
+  "distance": "164 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

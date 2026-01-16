@@ -1,0 +1,30 @@
+{
+  "number": "52042",
+  "name": "Dabhoi Jn Miyagam Jn NG Passenger",
+  "type": "Pass",
+  "source": "Dabhoi Junction",
+  "sourceCode": "DB",
+  "destination": "MIYAGAM KARJAN JUNCTION NG",
+  "destinationCode": "MYGL",
+  "departureTime": "12:05:00",
+  "arrivalTime": "13:40:00",
+  "duration": "1h 35m",
+  "distance": "32 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

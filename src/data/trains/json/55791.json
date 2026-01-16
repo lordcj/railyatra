@@ -1,0 +1,30 @@
+{
+  "number": "55791",
+  "name": "Alipur Dwar Bamanhat Passenger",
+  "type": "Pass",
+  "source": "ALIPUR DUAR JN",
+  "sourceCode": "APDJ",
+  "destination": "NEW COOCH BEHAR",
+  "destinationCode": "NCB",
+  "departureTime": "06:30:00",
+  "arrivalTime": "07:17:00",
+  "duration": "0h 47m",
+  "distance": "22 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

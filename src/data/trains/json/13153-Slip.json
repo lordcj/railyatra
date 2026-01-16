@@ -1,0 +1,30 @@
+{
+  "number": "13153-Slip",
+  "name": "Gour Express Slip",
+  "type": "Exp",
+  "source": "KOLKATA SEALDAH",
+  "sourceCode": "SDAH",
+  "destination": "BALURGHAT",
+  "destinationCode": "BLGT",
+  "departureTime": "22:15:00",
+  "arrivalTime": "09:40:00",
+  "duration": "11h 25m",
+  "distance": "454 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

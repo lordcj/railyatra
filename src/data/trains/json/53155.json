@@ -1,0 +1,30 @@
+{
+  "number": "53155",
+  "name": "Ranaghat Lalgola Passenger",
+  "type": "Pass",
+  "source": "Ranaghat Junction",
+  "sourceCode": "RHA",
+  "destination": "Lalgola",
+  "destinationCode": "LGL",
+  "departureTime": "17:00:00",
+  "arrivalTime": "20:45:00",
+  "duration": "3h 45m",
+  "distance": "154 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,31 @@
+{
+  "number": "15905",
+  "name": "KANNIYAKUMARI - DIBRUGARH Vivek Exp",
+  "type": "Exp",
+  "source": "KANYAKUMARI",
+  "sourceCode": "CAPE",
+  "destination": "DIBRUGARH",
+  "destinationCode": "DBRG",
+  "departureTime": "14:00:00",
+  "arrivalTime": "03:30:00",
+  "duration": "85h 30m",
+  "distance": "4279 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

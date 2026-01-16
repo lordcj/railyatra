@@ -1,0 +1,30 @@
+{
+  "number": "54793",
+  "name": "Sawai Madhopur Mathura Passenger",
+  "type": "Pass",
+  "source": "BAYANA JN",
+  "sourceCode": "BXN",
+  "destination": "MATHURA JN",
+  "destinationCode": "MTJ",
+  "departureTime": "08:25:00",
+  "arrivalTime": "10:45:00",
+  "duration": "2h 20m",
+  "distance": "76 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

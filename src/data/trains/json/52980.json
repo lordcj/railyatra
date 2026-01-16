@@ -1,0 +1,30 @@
+{
+  "number": "52980",
+  "name": "MHOW - INDM Passenger",
+  "type": "Pass",
+  "source": "Mhow",
+  "sourceCode": "MHOW",
+  "destination": "INDORE JN BG",
+  "destinationCode": "INDB",
+  "departureTime": "13:30:00",
+  "arrivalTime": "14:25:00",
+  "duration": "0h 55m",
+  "distance": "29 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

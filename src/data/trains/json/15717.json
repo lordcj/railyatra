@@ -1,0 +1,30 @@
+{
+  "number": "15717",
+  "name": "Guwahati Mariani Intercity Express",
+  "type": "Exp",
+  "source": "GUWAHATI",
+  "sourceCode": "GHY",
+  "destination": "MARIANI JN",
+  "destinationCode": "MXN",
+  "departureTime": "11:45:00",
+  "arrivalTime": "22:30:00",
+  "duration": "10h 45m",
+  "distance": "404 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

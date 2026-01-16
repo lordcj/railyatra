@@ -1,0 +1,30 @@
+{
+  "number": "51421",
+  "name": "Pune-Nizamabad Pass",
+  "type": "Pass",
+  "source": "PUNE JN",
+  "sourceCode": "PUNE",
+  "destination": "NIZAMABAD",
+  "destinationCode": "NZB",
+  "departureTime": "14:25:00",
+  "arrivalTime": "10:20:00",
+  "duration": "19h 55m",
+  "distance": "771 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

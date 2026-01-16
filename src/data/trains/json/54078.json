@@ -1,0 +1,29 @@
+{
+  "number": "54078",
+  "name": "Shajahanpur Passenger Slip Ex Bareilly",
+  "type": "Pass",
+  "source": "OLD DELHI",
+  "sourceCode": "DLI",
+  "destination": "BAREILLY",
+  "destinationCode": "BE",
+  "departureTime": "23:40:00",
+  "arrivalTime": "08:55:00",
+  "duration": "9h 15m",
+  "distance": "274 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

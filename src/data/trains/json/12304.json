@@ -1,0 +1,32 @@
+{
+  "number": "12304",
+  "name": "Poorva Express",
+  "type": "SF",
+  "source": "NEW DELHI",
+  "sourceCode": "NDLS",
+  "destination": "HOWRAH JN",
+  "destinationCode": "HWH",
+  "departureTime": "16:20:00",
+  "arrivalTime": "16:45:00",
+  "duration": "24h 25m",
+  "distance": "1530 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

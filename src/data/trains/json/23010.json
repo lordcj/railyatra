@@ -1,0 +1,29 @@
+{
+  "number": "23010",
+  "name": "Doon Express",
+  "type": "Exp",
+  "source": "KOTDWARA",
+  "sourceCode": "KTW",
+  "destination": "HOWRAH JN",
+  "destinationCode": "HWH",
+  "departureTime": "22:00:00",
+  "arrivalTime": "06:55:00",
+  "duration": "32h 55m",
+  "distance": "1461 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

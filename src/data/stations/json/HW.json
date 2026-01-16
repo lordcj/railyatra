@@ -1,0 +1,13 @@
+{
+  "code": "HW",
+  "name": "Haridwar",
+  "fullName": "Haridwar Junction",
+  "zone": "NR",
+  "state": "Uttarakhand",
+  "category": "A",
+  "platforms": 7,
+  "connectivity": [
+    "Bus",
+    "Taxi"
+  ]
+}

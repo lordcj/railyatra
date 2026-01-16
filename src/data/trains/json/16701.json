@@ -1,0 +1,32 @@
+{
+  "number": "16701",
+  "name": "Chennai Egmore-Rameshwaram Express",
+  "type": "Exp",
+  "source": "CHENNAI EGMORE",
+  "sourceCode": "MS",
+  "destination": "RAMESWARAM",
+  "destinationCode": "RMM",
+  "departureTime": "21:40:00",
+  "arrivalTime": "11:45:00",
+  "duration": "14h 5m",
+  "distance": "665 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

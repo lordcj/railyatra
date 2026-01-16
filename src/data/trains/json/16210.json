@@ -1,0 +1,31 @@
+{
+  "number": "16210",
+  "name": "Mysore-Ajmer Express",
+  "type": "Exp",
+  "source": "MYSORE JN",
+  "sourceCode": "MYS",
+  "destination": "AJMER JN",
+  "destinationCode": "AII",
+  "departureTime": "18:15:00",
+  "arrivalTime": "17:30:00",
+  "duration": "47h 15m",
+  "distance": "2290 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

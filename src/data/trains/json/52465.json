@@ -1,0 +1,30 @@
+{
+  "number": "52465",
+  "name": "PATHANKOT - PATHANKOT PASSENGER",
+  "type": "Pass",
+  "source": "PATHANKOT",
+  "sourceCode": "PTK",
+  "destination": "BAIJNATH PAPROLA",
+  "destinationCode": "BJPL",
+  "departureTime": "07:00:00",
+  "arrivalTime": "14:00:00",
+  "duration": "7h 0m",
+  "distance": "147 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

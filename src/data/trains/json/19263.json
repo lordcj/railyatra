@@ -1,0 +1,31 @@
+{
+  "number": "19263",
+  "name": "Porbandar-Delhi Sarai Rohilla (Biweekly) Express",
+  "type": "Exp",
+  "source": "PORBANDAR",
+  "sourceCode": "PBR",
+  "destination": "DELHI SARAI ROHILLA",
+  "destinationCode": "DEE",
+  "departureTime": "15:05:00",
+  "arrivalTime": "19:35:00",
+  "duration": "28h 30m",
+  "distance": "1392 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

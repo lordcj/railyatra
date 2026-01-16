@@ -1,0 +1,32 @@
+{
+  "number": "12652",
+  "name": "DELHI H NIZAMUDDIN - MADURAI Tamil Nadu S Kranti",
+  "type": "SKr",
+  "source": "DELHI H NIZAMUDDIN",
+  "sourceCode": "NZM",
+  "destination": "MADURAI JN",
+  "destinationCode": "MDU",
+  "departureTime": "07:25:00",
+  "arrivalTime": "03:45:00",
+  "duration": "44h 20m",
+  "distance": "2677 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

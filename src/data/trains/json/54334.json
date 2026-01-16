@@ -1,0 +1,30 @@
+{
+  "number": "54334",
+  "name": "Lucknow Varanasi Passenger",
+  "type": "Pass",
+  "source": "LUCKNOW",
+  "sourceCode": "LKO",
+  "destination": "VARANASI JN",
+  "destinationCode": "BSB",
+  "departureTime": "12:45:00",
+  "arrivalTime": "22:55:00",
+  "duration": "10h 10m",
+  "distance": "347 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "54106",
+  "name": "Allahabad Mughal Sarai Passenger",
+  "type": "Pass",
+  "source": "ALLAHABAD JN",
+  "sourceCode": "ALD",
+  "destination": "MUGHAL SARAI JN",
+  "destinationCode": "MGS",
+  "departureTime": "07:10:00",
+  "arrivalTime": "11:10:00",
+  "duration": "4h 0m",
+  "distance": "152 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,13 @@
+{
+  "code": "AGC",
+  "name": "Agra Cantt",
+  "fullName": "Agra Cantonment Railway Station",
+  "zone": "NCR",
+  "state": "Uttar Pradesh",
+  "category": "A",
+  "platforms": 6,
+  "connectivity": [
+    "Bus",
+    "Taxi"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "number": "14370",
+  "name": "Triveni Express",
+  "type": "Exp",
+  "source": "BAREILLY",
+  "sourceCode": "BE",
+  "destination": "SINGRAULI",
+  "destinationCode": "SGRL",
+  "departureTime": "12:00:00",
+  "arrivalTime": "07:15:00",
+  "duration": "19h 15m",
+  "distance": "723 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

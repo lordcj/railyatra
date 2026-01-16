@@ -1,0 +1,30 @@
+{
+  "number": "56237",
+  "name": "Mysore Bangalore (PUSH-PULL) Passenger",
+  "type": "Pass",
+  "source": "MYSORE JN",
+  "sourceCode": "MYS",
+  "destination": "BANGALORE CITY JN",
+  "destinationCode": "SBC",
+  "departureTime": "14:25:00",
+  "arrivalTime": "18:00:00",
+  "duration": "3h 35m",
+  "distance": "137 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "56010",
+  "name": "Vellore Cantt. Arakkonam Passenger",
+  "type": "Pass",
+  "source": "VELLORE CANT",
+  "sourceCode": "VLR",
+  "destination": "ARAKKONAM",
+  "destinationCode": "AJJ",
+  "departureTime": "16:10:00",
+  "arrivalTime": "18:45:00",
+  "duration": "2h 35m",
+  "distance": "71 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

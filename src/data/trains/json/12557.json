@@ -1,0 +1,32 @@
+{
+  "number": "12557",
+  "name": "Sapt Kranti SF Express",
+  "type": "SF",
+  "source": "MUZAFFARPUR JN",
+  "sourceCode": "MFP",
+  "destination": "ANAND VIHAR TRM",
+  "destinationCode": "ANVT",
+  "departureTime": "09:10:00",
+  "arrivalTime": "04:05:00",
+  "duration": "18h 55m",
+  "distance": "1060 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

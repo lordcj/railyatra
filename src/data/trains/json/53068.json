@@ -1,0 +1,30 @@
+{
+  "number": "53068",
+  "name": "Rampurhat Barddhaman Passenger",
+  "type": "Pass",
+  "source": "RAMPUR HAT",
+  "sourceCode": "RPH",
+  "destination": "BARDDHAMAN JN",
+  "destinationCode": "BWN",
+  "departureTime": "09:30:00",
+  "arrivalTime": "12:15:00",
+  "duration": "2h 45m",
+  "distance": "112 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

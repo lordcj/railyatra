@@ -1,0 +1,30 @@
+{
+  "number": "55232",
+  "name": "Mokama Begusarai Passenger",
+  "type": "Pass",
+  "source": "MOKAMEH JN",
+  "sourceCode": "MKA",
+  "destination": "BEGU SARAI",
+  "destinationCode": "BGS",
+  "departureTime": "17:25:00",
+  "arrivalTime": "19:05:00",
+  "duration": "1h 40m",
+  "distance": "35 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

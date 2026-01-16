@@ -1,0 +1,30 @@
+{
+  "number": "16203",
+  "name": "Garudadri Express",
+  "type": "Exp",
+  "source": "CHENNAI CENTRAL",
+  "sourceCode": "MAS",
+  "destination": "TIRUPATI MAIN",
+  "destinationCode": "TPTY",
+  "departureTime": "16:35:00",
+  "arrivalTime": "20:05:00",
+  "duration": "3h 30m",
+  "distance": "151 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

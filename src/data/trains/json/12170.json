@@ -1,0 +1,29 @@
+{
+  "number": "12170",
+  "name": "Solapur Pune Intercity Express",
+  "type": "SF",
+  "source": "SOLAPUR JN",
+  "sourceCode": "SUR",
+  "destination": "PUNE JN",
+  "destinationCode": "PUNE",
+  "departureTime": "14:00:00",
+  "arrivalTime": "18:05:00",
+  "duration": "4h 5m",
+  "distance": "264 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

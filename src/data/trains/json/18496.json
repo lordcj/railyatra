@@ -1,0 +1,31 @@
+{
+  "number": "18496",
+  "name": "Bhubaneswar-Rameswaram Weekly Express",
+  "type": "Exp",
+  "source": "BHUBANESWAR",
+  "sourceCode": "BBS",
+  "destination": "RAMESWARAM",
+  "destinationCode": "RMM",
+  "departureTime": "12:00:00",
+  "arrivalTime": "23:55:00",
+  "duration": "35h 55m",
+  "distance": "1892 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

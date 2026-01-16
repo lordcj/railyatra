@@ -1,0 +1,30 @@
+{
+  "number": "16093",
+  "name": "Chennai Lucknow Express",
+  "type": "Exp",
+  "source": "CHENNAI CENTRAL",
+  "sourceCode": "MAS",
+  "destination": "LUCKNOW",
+  "destinationCode": "LKO",
+  "departureTime": "05:15:00",
+  "arrivalTime": "20:35:00",
+  "duration": "39h 20m",
+  "distance": "2088 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

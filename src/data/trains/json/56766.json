@@ -1,0 +1,30 @@
+{
+  "number": "56766",
+  "name": "Tiruchendur Tirunelveli Passenger",
+  "type": "Pass",
+  "source": "Tiruchendur",
+  "sourceCode": "TCN",
+  "destination": "TIRUNELVELI",
+  "destinationCode": "TEN",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:45:00",
+  "duration": "1h 45m",
+  "distance": "61 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

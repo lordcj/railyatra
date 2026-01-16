@@ -1,0 +1,30 @@
+{
+  "number": "57207",
+  "name": "Tenali Markapur Road Passenger",
+  "type": "Pass",
+  "source": "TENALI JN",
+  "sourceCode": "TEL",
+  "destination": "MARKAPUR ROAD",
+  "destinationCode": "MRK",
+  "departureTime": "05:10:00",
+  "arrivalTime": "09:35:00",
+  "duration": "4h 25m",
+  "distance": "170 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

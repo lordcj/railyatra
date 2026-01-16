@@ -1,0 +1,29 @@
+{
+  "number": "12071",
+  "name": "Mumbai Aurangabad Jan Shatabdi",
+  "type": "JShtb",
+  "source": "MUMBAI CST",
+  "sourceCode": "CSTM",
+  "destination": "AURANGABAD",
+  "destinationCode": "AWB",
+  "departureTime": "13:50:00",
+  "arrivalTime": "20:35:00",
+  "duration": "6h 45m",
+  "distance": "374 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

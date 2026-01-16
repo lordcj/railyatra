@@ -1,0 +1,30 @@
+{
+  "number": "13422",
+  "name": "Malda Nabadwipdham Express",
+  "type": "Exp",
+  "source": "MALDA TOWN",
+  "sourceCode": "MLDT",
+  "destination": "NABADWIP DHAM",
+  "destinationCode": "NDAE",
+  "departureTime": "15:50:00",
+  "arrivalTime": "21:00:00",
+  "duration": "5h 10m",
+  "distance": "226 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

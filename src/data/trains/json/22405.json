@@ -1,0 +1,30 @@
+{
+  "number": "22405",
+  "name": "Bhagalpur - Delhi AnandVihar T. Garib Rath Express",
+  "type": "GR",
+  "source": "BHAGALPUR",
+  "sourceCode": "BGP",
+  "destination": "ANAND VIHAR TRM",
+  "destinationCode": "ANVT",
+  "departureTime": "13:30:00",
+  "arrivalTime": "08:25:00",
+  "duration": "18h 55m",
+  "distance": "1207 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

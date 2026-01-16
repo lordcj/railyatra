@@ -1,0 +1,30 @@
+{
+  "number": "59046",
+  "name": "Valsad-Bandra Passenger",
+  "type": "Pass",
+  "source": "VALSAD",
+  "sourceCode": "BL",
+  "destination": "MUMBAI BANDRA TERMINUS",
+  "destinationCode": "BDTS",
+  "departureTime": "16:30:00",
+  "arrivalTime": "21:10:00",
+  "duration": "4h 40m",
+  "distance": "184 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

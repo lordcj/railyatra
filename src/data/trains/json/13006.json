@@ -1,0 +1,32 @@
+{
+  "number": "13006",
+  "name": "Amritsar Howrah Mail",
+  "type": "Mail",
+  "source": "AMRITSAR JN",
+  "sourceCode": "ASR",
+  "destination": "HOWRAH JN",
+  "destinationCode": "HWH",
+  "departureTime": "18:45:00",
+  "arrivalTime": "07:20:00",
+  "duration": "36h 35m",
+  "distance": "1910 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

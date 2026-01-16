@@ -1,0 +1,31 @@
+{
+  "number": "12719",
+  "name": "AJMER - HYDERABAD DECCAN SF Exp",
+  "type": "SF",
+  "source": "AJMER JN",
+  "sourceCode": "AII",
+  "destination": "HYDERABAD DECCAN",
+  "destinationCode": "HYB",
+  "departureTime": "17:40:00",
+  "arrivalTime": "00:30:00",
+  "duration": "30h 50m",
+  "distance": "1711 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

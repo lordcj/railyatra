@@ -1,0 +1,29 @@
+{
+  "number": "13027",
+  "name": "Kaviguru Express",
+  "type": "Exp",
+  "source": "HOWRAH JN",
+  "sourceCode": "HWH",
+  "destination": "AZIMGANJ JN",
+  "destinationCode": "AZ",
+  "departureTime": "22:40:00",
+  "arrivalTime": "04:30:00",
+  "duration": "5h 50m",
+  "distance": "278 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,31 @@
+{
+  "number": "12223",
+  "name": "MUM LTT - ERNAKULAM AC Duronto",
+  "type": "Drnt",
+  "source": "LOKMANYA TILAK TERM",
+  "sourceCode": "LTT",
+  "destination": "ERNAKULAM JN",
+  "destinationCode": "ERS",
+  "departureTime": "20:50:00",
+  "arrivalTime": "17:45:00",
+  "duration": "20h 55m",
+  "distance": "1599 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

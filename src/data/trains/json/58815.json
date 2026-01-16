@@ -1,0 +1,30 @@
+{
+  "number": "58815",
+  "name": "Itwari Tirodi Passenger",
+  "type": "Pass",
+  "source": "ITWARI",
+  "sourceCode": "ITR",
+  "destination": "Tirodi",
+  "destinationCode": "TRDI",
+  "departureTime": "13:05:00",
+  "arrivalTime": "17:10:00",
+  "duration": "4h 5m",
+  "distance": "124 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

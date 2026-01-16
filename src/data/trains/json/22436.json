@@ -1,0 +1,33 @@
+{
+  "number": "22436",
+  "name": "Varanasi - New Delhi Vande Bharat Express",
+  "type": "Vande Bharat",
+  "source": "Varanasi",
+  "sourceCode": "BSB",
+  "destination": "New Delhi",
+  "destinationCode": "NDLS",
+  "departureTime": "15:00",
+  "arrivalTime": "23:00",
+  "duration": "8h 00m",
+  "distance": "759 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+  ],
+  "zone": "NR",
+  "classes": [
+    "CC",
+    "EC"
+  ],
+  "stops": 6,
+  "majorStops": [
+    "Prayagraj Jn",
+    "Kanpur Central",
+    "New Delhi"
+  ],
+  "frequency": "Daily"
+}

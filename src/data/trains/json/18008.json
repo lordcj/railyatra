@@ -1,0 +1,30 @@
+{
+  "number": "18008",
+  "name": "Baripada-Shalimar Express",
+  "type": "Exp",
+  "source": "Baripada",
+  "sourceCode": "BPO",
+  "destination": "KOLKATA SHALIMAR",
+  "destinationCode": "SHM",
+  "departureTime": "12:50:00",
+  "arrivalTime": "18:00:00",
+  "duration": "5h 10m",
+  "distance": "265 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

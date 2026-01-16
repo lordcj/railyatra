@@ -1,0 +1,14 @@
+{
+  "code": "ADI",
+  "name": "Ahmedabad",
+  "fullName": "Ahmedabad Junction",
+  "zone": "WR",
+  "state": "Gujarat",
+  "category": "A1",
+  "platforms": 12,
+  "connectivity": [
+    "Metro",
+    "Bus",
+    "Taxi"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "number": "12077",
+  "name": "Chennai Vijayawada Jan Shatabdi Express",
+  "type": "JShtb",
+  "source": "CHENNAI CENTRAL",
+  "sourceCode": "MAS",
+  "destination": "VIJAYAWADA JN",
+  "destinationCode": "BZA",
+  "departureTime": "07:00:00",
+  "arrivalTime": "13:35:00",
+  "duration": "6h 35m",
+  "distance": "431 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

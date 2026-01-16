@@ -1,0 +1,30 @@
+{
+  "number": "56604",
+  "name": "Shoranur Coimbatore Passenger",
+  "type": "Pass",
+  "source": "SHORANUR JN",
+  "sourceCode": "SRR",
+  "destination": "COIMBATORE JN",
+  "destinationCode": "CBE",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:45:00",
+  "duration": "2h 45m",
+  "distance": "101 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

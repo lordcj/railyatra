@@ -1,0 +1,30 @@
+{
+  "number": "54606",
+  "name": "Ludhiana Hisar Passenger",
+  "type": "Pass",
+  "source": "LUDHIANA JN",
+  "sourceCode": "LDH",
+  "destination": "Hisar",
+  "destinationCode": "HSR",
+  "departureTime": "17:00:00",
+  "arrivalTime": "23:00:00",
+  "duration": "6h 0m",
+  "distance": "210 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

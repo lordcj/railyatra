@@ -1,0 +1,30 @@
+{
+  "number": "52244",
+  "name": "AISHBAGH - PILIBHIT PASSENGER",
+  "type": "Pass",
+  "source": "AISHBAGH",
+  "sourceCode": "ASSH",
+  "destination": "PILIBHIT JN",
+  "destinationCode": "PBE",
+  "departureTime": "11:40:00",
+  "arrivalTime": "23:20:00",
+  "duration": "11h 40m",
+  "distance": "316 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "55517",
+  "name": "Darbhanga Jaynagar Passenger",
+  "type": "Pass",
+  "source": "DARBHANGA JN",
+  "sourceCode": "DBG",
+  "destination": "JAYNAGAR",
+  "destinationCode": "JYG",
+  "departureTime": "18:15:00",
+  "arrivalTime": "20:45:00",
+  "duration": "2h 30m",
+  "distance": "79 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

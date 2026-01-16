@@ -1,0 +1,30 @@
+{
+  "number": "55303",
+  "name": "MORADABAD - KATHGODAM Pass",
+  "type": "Pass",
+  "source": "MORADABAD",
+  "sourceCode": "MB",
+  "destination": "KATHGODAM",
+  "destinationCode": "KGM",
+  "departureTime": "06:30:00",
+  "arrivalTime": "11:10:00",
+  "duration": "4h 40m",
+  "distance": "131 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

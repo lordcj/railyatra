@@ -1,0 +1,29 @@
+{
+  "number": "54805",
+  "name": "Ahmedabad Ajmer Passenger",
+  "type": "Pass",
+  "source": "AHMEDABAD JN",
+  "sourceCode": "ADI",
+  "destination": "AJMER JN",
+  "destinationCode": "AII",
+  "departureTime": "23:15:00",
+  "arrivalTime": "15:25:00",
+  "duration": "16h 10m",
+  "distance": "496 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

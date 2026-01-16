@@ -1,0 +1,29 @@
+{
+  "number": "24370-Slip",
+  "name": "Triveni Express Slip",
+  "type": "Exp",
+  "source": "BAREILLY",
+  "sourceCode": "BE",
+  "destination": "BARWADIH JN",
+  "destinationCode": "BRWD",
+  "departureTime": "12:00:00",
+  "arrivalTime": "10:45:00",
+  "duration": "22h 45m",
+  "distance": "862 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

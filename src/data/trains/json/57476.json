@@ -1,0 +1,30 @@
+{
+  "number": "57476",
+  "name": "Guntakal Tirupati Passenger",
+  "type": "Pass",
+  "source": "GUNTAKAL JN",
+  "sourceCode": "GTL",
+  "destination": "TIRUPATI MAIN",
+  "destinationCode": "TPTY",
+  "departureTime": "07:00:00",
+  "arrivalTime": "17:55:00",
+  "duration": "10h 55m",
+  "distance": "370 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

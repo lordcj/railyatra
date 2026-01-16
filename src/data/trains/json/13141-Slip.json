@@ -1,0 +1,31 @@
+{
+  "number": "13141-Slip",
+  "name": "Testa Torsa Express Slip",
+  "type": "Exp",
+  "source": "KOLKATA SEALDAH",
+  "sourceCode": "SDAH",
+  "destination": "HALDIBARI",
+  "destinationCode": "HDB",
+  "departureTime": "13:40:00",
+  "arrivalTime": "05:05:00",
+  "duration": "15h 25m",
+  "distance": "628 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

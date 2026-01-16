@@ -1,0 +1,30 @@
+{
+  "number": "51189",
+  "name": "ITARSI - ALLAHABAD Passenger",
+  "type": "Pass",
+  "source": "ITARSI JN",
+  "sourceCode": "ET",
+  "destination": "ALLAHABAD JN",
+  "destinationCode": "ALD",
+  "departureTime": "08:30:00",
+  "arrivalTime": "10:05:00",
+  "duration": "25h 35m",
+  "distance": "612 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

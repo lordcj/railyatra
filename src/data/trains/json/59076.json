@@ -1,0 +1,29 @@
+{
+  "number": "59076",
+  "name": "Surat Passenger",
+  "type": "Pass",
+  "source": "BHUSAVAL JN",
+  "sourceCode": "BSL",
+  "destination": "SURAT",
+  "destinationCode": "ST",
+  "departureTime": "08:45:00",
+  "arrivalTime": "19:55:00",
+  "duration": "11h 10m",
+  "distance": "336 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

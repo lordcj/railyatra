@@ -1,0 +1,29 @@
+{
+  "number": "11272",
+  "name": "BHOPAL - ITARSI Vindhyachal Exp",
+  "type": "Exp",
+  "source": "BHOPAL JN",
+  "sourceCode": "BPL",
+  "destination": "ITARSI JN",
+  "destinationCode": "ET",
+  "departureTime": "18:00:00",
+  "arrivalTime": "12:20:00",
+  "duration": "18h 20m",
+  "distance": "738 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WCR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

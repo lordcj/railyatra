@@ -1,0 +1,30 @@
+{
+  "number": "54411",
+  "name": "Rewari Meerut Cantt. Passenger",
+  "type": "Pass",
+  "source": "REWARI",
+  "sourceCode": "RE",
+  "destination": "MEERUT CANT",
+  "destinationCode": "MUT",
+  "departureTime": "14:50:00",
+  "arrivalTime": "20:30:00",
+  "duration": "5h 40m",
+  "distance": "167 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

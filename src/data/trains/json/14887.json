@@ -1,0 +1,31 @@
+{
+  "number": "14887",
+  "name": "Kalka - Barmer Chandigarh Express",
+  "type": "Exp",
+  "source": "Kalka",
+  "sourceCode": "KLK",
+  "destination": "BARMER",
+  "destinationCode": "BME",
+  "departureTime": "21:45:00",
+  "arrivalTime": "20:00:00",
+  "duration": "22h 15m",
+  "distance": "1117 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

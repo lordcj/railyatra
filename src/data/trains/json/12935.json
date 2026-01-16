@@ -1,0 +1,29 @@
+{
+  "number": "12935",
+  "name": "Bandra Surat InterCity Express",
+  "type": "SF",
+  "source": "MUMBAI BANDRA TERMINUS",
+  "sourceCode": "BDTS",
+  "destination": "SURAT",
+  "destinationCode": "ST",
+  "departureTime": "06:50:00",
+  "arrivalTime": "11:10:00",
+  "duration": "4h 20m",
+  "distance": "252 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

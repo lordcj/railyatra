@@ -1,0 +1,30 @@
+{
+  "number": "55914",
+  "name": "Tinsukia Jorhat Town Passenger",
+  "type": "Pass",
+  "source": "Tinsukia Junction",
+  "sourceCode": "TSK",
+  "destination": "Jorhat Town",
+  "destinationCode": "JTTN",
+  "departureTime": "14:15:00",
+  "arrivalTime": "20:25:00",
+  "duration": "6h 10m",
+  "distance": "176 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

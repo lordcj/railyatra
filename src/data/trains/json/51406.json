@@ -1,0 +1,30 @@
+{
+  "number": "51406",
+  "name": "Castle Rock Miraj Passenge",
+  "type": "Pass",
+  "source": "CASTLE ROCK",
+  "sourceCode": "CLR",
+  "destination": "MIRAJ JN",
+  "destinationCode": "MRJ",
+  "departureTime": "05:50:00",
+  "arrivalTime": "11:30:00",
+  "duration": "5h 40m",
+  "distance": "213 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

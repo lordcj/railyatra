@@ -1,0 +1,30 @@
+{
+  "number": "14511-Slip",
+  "name": "Allahabad-Saharanpur Nauchandi Express Slip",
+  "type": "Exp",
+  "source": "ALLAHABAD JN",
+  "sourceCode": "ALD",
+  "destination": "KHURJA JN",
+  "destinationCode": "KRJ",
+  "departureTime": "17:40:00",
+  "arrivalTime": "09:15:00",
+  "duration": "15h 35m",
+  "distance": "695 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

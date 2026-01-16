@@ -1,0 +1,30 @@
+{
+  "number": "51779",
+  "name": "Gwalior Bhind Passenger",
+  "type": "Pass",
+  "source": "GWALIOR JN",
+  "sourceCode": "GWL",
+  "destination": "BHIND",
+  "destinationCode": "BIX",
+  "departureTime": "14:15:00",
+  "arrivalTime": "16:40:00",
+  "duration": "2h 25m",
+  "distance": "79 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

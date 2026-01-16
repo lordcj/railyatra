@@ -1,0 +1,31 @@
+{
+  "number": "11024",
+  "name": "Sahyadri Express",
+  "type": "Exp",
+  "source": "C SHAHU M RAJ KOLHAPUR TERM",
+  "sourceCode": "KOP",
+  "destination": "MUMBAI CST",
+  "destinationCode": "CSTM",
+  "departureTime": "22:50:00",
+  "arrivalTime": "11:55:00",
+  "duration": "13h 5m",
+  "distance": "518 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

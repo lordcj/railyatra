@@ -1,0 +1,31 @@
+{
+  "number": "14116",
+  "name": "Allahabad Express",
+  "type": "Exp",
+  "source": "HARIDWAR JN",
+  "sourceCode": "HW",
+  "destination": "ALLAHABAD JN",
+  "destinationCode": "ALD",
+  "departureTime": "16:20:00",
+  "arrivalTime": "07:45:00",
+  "duration": "15h 25m",
+  "distance": "725 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

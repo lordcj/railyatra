@@ -1,0 +1,31 @@
+{
+  "number": "11096",
+  "name": "Ahimsa Express",
+  "type": "Exp",
+  "source": "PUNE JN",
+  "sourceCode": "PUNE",
+  "destination": "AHMEDABAD JN",
+  "destinationCode": "ADI",
+  "departureTime": "19:50:00",
+  "arrivalTime": "07:45:00",
+  "duration": "11h 55m",
+  "distance": "635 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

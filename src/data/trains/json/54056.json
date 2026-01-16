@@ -1,0 +1,30 @@
+{
+  "number": "54056",
+  "name": "Delhi Moradabad Passenger",
+  "type": "Pass",
+  "source": "OLD DELHI",
+  "sourceCode": "DLI",
+  "destination": "MORADABAD",
+  "destinationCode": "MB",
+  "departureTime": "09:40:00",
+  "arrivalTime": "14:35:00",
+  "duration": "4h 55m",
+  "distance": "175 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "56833",
+  "name": "Cuddalore Vriddhachalam Passenger",
+  "type": "Pass",
+  "source": "CUDDALORE PORT",
+  "sourceCode": "CUPJ",
+  "destination": "VRIDHACHALAM JN",
+  "destinationCode": "VRI",
+  "departureTime": "20:50:00",
+  "arrivalTime": "22:05:00",
+  "duration": "1h 15m",
+  "distance": "57 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

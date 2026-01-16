@@ -1,0 +1,13 @@
+{
+  "code": "ASR",
+  "name": "Amritsar",
+  "fullName": "Amritsar Junction",
+  "zone": "NR",
+  "state": "Punjab",
+  "category": "A1",
+  "platforms": 6,
+  "connectivity": [
+    "Bus",
+    "Taxi"
+  ]
+}

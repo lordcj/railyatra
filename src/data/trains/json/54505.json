@@ -1,0 +1,30 @@
+{
+  "number": "54505",
+  "name": "Delhi Ambala Passenger",
+  "type": "Pass",
+  "source": "OLD DELHI",
+  "sourceCode": "DLI",
+  "destination": "AMBALA CANT JN",
+  "destinationCode": "UMB",
+  "departureTime": "10:20:00",
+  "arrivalTime": "20:25:00",
+  "duration": "10h 5m",
+  "distance": "268 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

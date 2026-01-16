@@ -1,0 +1,30 @@
+{
+  "number": "55123",
+  "name": "Bhatani Manduadih Passenger",
+  "type": "Pass",
+  "source": "BHATNI JN",
+  "sourceCode": "BTT",
+  "destination": "MANDUADIH",
+  "destinationCode": "MUV",
+  "departureTime": "14:05:00",
+  "arrivalTime": "20:00:00",
+  "duration": "5h 55m",
+  "distance": "165 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

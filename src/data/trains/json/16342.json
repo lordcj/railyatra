@@ -1,0 +1,29 @@
+{
+  "number": "16342",
+  "name": "Trivandrum-Ernakulam-Guruvayur Intercity Express",
+  "type": "Exp",
+  "source": "TRIVANDRUM CENTRAL",
+  "sourceCode": "TVC",
+  "destination": "GURUVAYUR",
+  "destinationCode": "GUV",
+  "departureTime": "17:25:00",
+  "arrivalTime": "00:15:00",
+  "duration": "6h 50m",
+  "distance": "303 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

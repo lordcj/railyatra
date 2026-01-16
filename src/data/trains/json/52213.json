@@ -1,0 +1,30 @@
+{
+  "number": "52213",
+  "name": "Bareilly Mailani Passenger",
+  "type": "Pass",
+  "source": "BAREILLY",
+  "sourceCode": "BRY",
+  "destination": "MAILANI",
+  "destinationCode": "MLN",
+  "departureTime": "06:50:00",
+  "arrivalTime": "11:40:00",
+  "duration": "4h 50m",
+  "distance": "125 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

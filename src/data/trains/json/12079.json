@@ -1,0 +1,29 @@
+{
+  "number": "12079",
+  "name": "Bangalore City-Hubli Jan Shatabdi",
+  "type": "JShtb",
+  "source": "BANGALORE CITY JN",
+  "sourceCode": "SBC",
+  "destination": "HUBLI JN",
+  "destinationCode": "UBL",
+  "departureTime": "06:00:00",
+  "arrivalTime": "13:25:00",
+  "duration": "7h 25m",
+  "distance": "469 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

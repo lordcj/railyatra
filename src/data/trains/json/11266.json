@@ -1,0 +1,29 @@
+{
+  "number": "11266",
+  "name": "AMBIKAPUR - JABALPUR Exp",
+  "type": "Exp",
+  "source": "AMBIKAPUR",
+  "sourceCode": "ABKP",
+  "destination": "JABALPUR",
+  "destinationCode": "JBP",
+  "departureTime": "06:05:00",
+  "arrivalTime": "14:55:00",
+  "duration": "8h 50m",
+  "distance": "433 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WCR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "12064",
+  "name": "Una Chandigarh Haridwar Link Jan Shatabdi",
+  "type": "JShtb",
+  "source": "Una Himachal",
+  "sourceCode": "UHL",
+  "destination": "HARIDWAR JN",
+  "destinationCode": "HW",
+  "departureTime": "05:00:00",
+  "arrivalTime": "13:55:00",
+  "duration": "8h 55m",
+  "distance": "368 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

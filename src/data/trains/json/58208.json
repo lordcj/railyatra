@@ -1,0 +1,30 @@
+{
+  "number": "58208",
+  "name": "Khariar Raipur Passenger",
+  "type": "Pass",
+  "source": "KESINGA",
+  "sourceCode": "KSNG",
+  "destination": "RAIPUR JN",
+  "destinationCode": "R",
+  "departureTime": "04:30:00",
+  "arrivalTime": "10:00:00",
+  "duration": "5h 30m",
+  "distance": "216 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

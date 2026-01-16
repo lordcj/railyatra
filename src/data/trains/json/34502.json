@@ -1,0 +1,30 @@
+{
+  "number": "34502",
+  "name": "Sealdah Canning ladies special EMU",
+  "type": "Klkt",
+  "source": "KOLKATA SEALDAH",
+  "sourceCode": "SDAH",
+  "destination": "Canning",
+  "destinationCode": "CG",
+  "departureTime": "18:30:00",
+  "arrivalTime": "19:40:00",
+  "duration": "1h 10m",
+  "distance": "45 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

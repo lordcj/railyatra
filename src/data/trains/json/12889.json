@@ -1,0 +1,31 @@
+{
+  "number": "12889",
+  "name": "TATANAGAR - YESVANTPUR SF Exp",
+  "type": "Express",
+  "source": "TATANAGAR JN",
+  "sourceCode": "TATA",
+  "destination": "YESVANTPUR JN",
+  "destinationCode": "YPR",
+  "departureTime": "None",
+  "arrivalTime": "None",
+  "duration": "0h 0m",
+  "distance": "0 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "IR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

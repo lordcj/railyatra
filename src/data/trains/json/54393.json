@@ -1,0 +1,30 @@
+{
+  "number": "54393",
+  "name": "Moradabad Gajraula Passenger",
+  "type": "Pass",
+  "source": "MORADABAD",
+  "sourceCode": "MB",
+  "destination": "GAJRAULA JN",
+  "destinationCode": "GJL",
+  "departureTime": "09:55:00",
+  "arrivalTime": "11:35:00",
+  "duration": "1h 40m",
+  "distance": "54 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

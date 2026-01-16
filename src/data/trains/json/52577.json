@@ -1,0 +1,30 @@
+{
+  "number": "52577",
+  "name": "Dharmanagar Silchar Passenger",
+  "type": "Pass",
+  "source": "Dharmanagar",
+  "sourceCode": "DMR",
+  "destination": "SILCHAR",
+  "destinationCode": "SCL",
+  "departureTime": "07:30:00",
+  "arrivalTime": "12:10:00",
+  "duration": "4h 40m",
+  "distance": "116 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

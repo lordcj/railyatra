@@ -1,0 +1,30 @@
+{
+  "number": "02451",
+  "name": "Kalka Shimla Holiday Special",
+  "type": "Pass",
+  "source": "Kalka",
+  "sourceCode": "KLK",
+  "destination": "Shimla",
+  "destinationCode": "SML",
+  "departureTime": "07:00:00",
+  "arrivalTime": "12:10:00",
+  "duration": "5h 10m",
+  "distance": "95 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

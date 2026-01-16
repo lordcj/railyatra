@@ -1,0 +1,30 @@
+{
+  "number": "57146",
+  "name": "Bhadrachalam Dornakal Passenger",
+  "type": "Pass",
+  "source": "Bhadrachalam Road",
+  "sourceCode": "BDCR",
+  "destination": "DORNAKAL JN",
+  "destinationCode": "DKJ",
+  "departureTime": "17:00:00",
+  "arrivalTime": "18:40:00",
+  "duration": "1h 40m",
+  "distance": "54 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

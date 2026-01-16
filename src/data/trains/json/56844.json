@@ -1,0 +1,30 @@
+{
+  "number": "56844",
+  "name": "Erode-Tiruchchirapalli Passenger",
+  "type": "Pass",
+  "source": "ERODE JN",
+  "sourceCode": "ED",
+  "destination": "TIRUCHIRAPPALLI",
+  "destinationCode": "TPJ",
+  "departureTime": "07:50:00",
+  "arrivalTime": "11:40:00",
+  "duration": "3h 50m",
+  "distance": "141 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

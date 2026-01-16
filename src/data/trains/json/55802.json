@@ -1,0 +1,30 @@
+{
+  "number": "55802",
+  "name": "Manas Rhino Passenger",
+  "type": "Pass",
+  "source": "GUWAHATI",
+  "sourceCode": "GHY",
+  "destination": "NEW BONGAIGAON",
+  "destinationCode": "NBQ",
+  "departureTime": "17:30:00",
+  "arrivalTime": "21:50:00",
+  "duration": "4h 20m",
+  "distance": "157 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

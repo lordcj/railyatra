@@ -1,0 +1,31 @@
+{
+  "number": "12688",
+  "name": "Dehradun Chennai Express",
+  "type": "SF",
+  "source": "DEHRADUN",
+  "sourceCode": "DDN",
+  "destination": "CHENNAI CENTRAL",
+  "destinationCode": "MAS",
+  "departureTime": "07:20:00",
+  "arrivalTime": "02:15:00",
+  "duration": "42h 55m",
+  "distance": "2488 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

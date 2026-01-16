@@ -1,0 +1,32 @@
+{
+  "number": "12904",
+  "name": "Golden Temple Mail",
+  "type": "SF",
+  "source": "AMRITSAR JN",
+  "sourceCode": "ASR",
+  "destination": "Mumbai Central",
+  "destinationCode": "BCT",
+  "departureTime": "21:25:00",
+  "arrivalTime": "05:35:00",
+  "duration": "32h 10m",
+  "distance": "1891 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

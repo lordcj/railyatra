@@ -1,0 +1,30 @@
+{
+  "number": "54101",
+  "name": "Allahabad Kanpur Passenger",
+  "type": "Pass",
+  "source": "ALLAHABAD JN",
+  "sourceCode": "ALD",
+  "destination": "KANPUR CENTRAL",
+  "destinationCode": "CNB",
+  "departureTime": "16:45:00",
+  "arrivalTime": "23:05:00",
+  "duration": "6h 20m",
+  "distance": "214 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

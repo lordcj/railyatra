@@ -1,0 +1,30 @@
+{
+  "number": "51808",
+  "name": "Manikpur Banda Passenger",
+  "type": "Pass",
+  "source": "MANIKPUR JN",
+  "sourceCode": "MKP",
+  "destination": "BANDA JN",
+  "destinationCode": "BNDA",
+  "departureTime": "01:00:00",
+  "arrivalTime": "03:50:00",
+  "duration": "2h 50m",
+  "distance": "99 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "58006",
+  "name": "Kurdha road Kharagpur passenger",
+  "type": "Pass",
+  "source": "KHURDA ROAD JN",
+  "sourceCode": "KUR",
+  "destination": "KHARAGPUR JN",
+  "destinationCode": "KGP",
+  "departureTime": "16:20:00",
+  "arrivalTime": "23:45:00",
+  "duration": "7h 25m",
+  "distance": "341 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

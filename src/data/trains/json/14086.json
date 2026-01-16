@@ -1,0 +1,30 @@
+{
+  "number": "14086",
+  "name": "Haryana Express",
+  "type": "Exp",
+  "source": "Sirsa",
+  "sourceCode": "SSA",
+  "destination": "TILAK BRIDGE",
+  "destinationCode": "TKJ",
+  "departureTime": "03:35:00",
+  "arrivalTime": "10:00:00",
+  "duration": "6h 25m",
+  "distance": "264 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

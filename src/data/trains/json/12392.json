@@ -1,0 +1,32 @@
+{
+  "number": "12392",
+  "name": "Shramjeevi Express",
+  "type": "SF",
+  "source": "NEW DELHI",
+  "sourceCode": "NDLS",
+  "destination": "Rajgir",
+  "destinationCode": "RGD",
+  "departureTime": "13:15:00",
+  "arrivalTime": "10:10:00",
+  "duration": "20h 55m",
+  "distance": "1103 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

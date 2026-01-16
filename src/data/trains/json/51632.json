@@ -1,0 +1,30 @@
+{
+  "number": "51632",
+  "name": "Bina Bhopal Passenger",
+  "type": "Pass",
+  "source": "BINA JN",
+  "sourceCode": "BINA",
+  "destination": "BHOPAL JN",
+  "destinationCode": "BPL",
+  "departureTime": "17:00:00",
+  "arrivalTime": "21:05:00",
+  "duration": "4h 5m",
+  "distance": "138 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

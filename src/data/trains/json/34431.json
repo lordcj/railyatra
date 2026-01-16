@@ -1,0 +1,30 @@
+{
+  "number": "34431",
+  "name": "Sonarpur Sealdah Local",
+  "type": "MEMU",
+  "source": "Sonarpur Junction",
+  "sourceCode": "SPR",
+  "destination": "KOLKATA SEALDAH",
+  "destinationCode": "SDAH",
+  "departureTime": "18:04:00",
+  "arrivalTime": "18:35:00",
+  "duration": "0h 31m",
+  "distance": "16 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

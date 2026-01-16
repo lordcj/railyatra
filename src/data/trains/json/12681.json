@@ -1,0 +1,31 @@
+{
+  "number": "12681",
+  "name": "Chennai-Coimbatore Express",
+  "type": "SF",
+  "source": "CHENNAI CENTRAL",
+  "sourceCode": "MAS",
+  "destination": "COIMBATORE JN",
+  "destinationCode": "CBE",
+  "departureTime": "22:30:00",
+  "arrivalTime": "06:50:00",
+  "duration": "8h 20m",
+  "distance": "497 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

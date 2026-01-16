@@ -1,0 +1,30 @@
+{
+  "number": "54108",
+  "name": "Allahabad Jaunpur Passenger",
+  "type": "Pass",
+  "source": "JAUNPUR JN",
+  "sourceCode": "JNU",
+  "destination": "ALLAHABAD JN",
+  "destinationCode": "ALD",
+  "departureTime": "05:45:00",
+  "arrivalTime": "10:45:00",
+  "duration": "5h 0m",
+  "distance": "113 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

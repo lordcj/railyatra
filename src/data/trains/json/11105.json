@@ -1,0 +1,30 @@
+{
+  "number": "11105",
+  "name": "Pratham Swatantrata Sangram Express",
+  "type": "Exp",
+  "source": "KOLKATA CHITPUR",
+  "sourceCode": "KOAA",
+  "destination": "JHANSI JN",
+  "destinationCode": "JHS",
+  "departureTime": "07:25:00",
+  "arrivalTime": "08:50:00",
+  "duration": "25h 25m",
+  "distance": "1326 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,29 @@
+{
+  "number": "57306",
+  "name": "Guntur Secunderabad Passenger",
+  "type": "Pass",
+  "source": "GUNTUR JN",
+  "sourceCode": "GNT",
+  "destination": "SECUNDERABAD JN",
+  "destinationCode": "SC",
+  "departureTime": "17:30:00",
+  "arrivalTime": "10:30:00",
+  "duration": "17h 0m",
+  "distance": "630 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

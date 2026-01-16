@@ -1,0 +1,30 @@
+{
+  "number": "51902",
+  "name": "Delhi Agra Passenger",
+  "type": "Pass",
+  "source": "OLD DELHI",
+  "sourceCode": "DLI",
+  "destination": "AGRA CANTT",
+  "destinationCode": "AGC",
+  "departureTime": "06:45:00",
+  "arrivalTime": "13:25:00",
+  "duration": "6h 40m",
+  "distance": "197 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,29 @@
+{
+  "number": "12636",
+  "name": "MADURAI - CHENNAI EGMORE Vaigai SF Exp",
+  "type": "SF",
+  "source": "MADURAI JN",
+  "sourceCode": "MDU",
+  "destination": "CHENNAI EGMORE",
+  "destinationCode": "MS",
+  "departureTime": "06:45:00",
+  "arrivalTime": "14:35:00",
+  "duration": "7h 50m",
+  "distance": "497 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

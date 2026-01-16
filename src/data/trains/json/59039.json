@@ -1,0 +1,30 @@
+{
+  "number": "59039",
+  "name": "Virar Valsad Shuttle",
+  "type": "Pass",
+  "source": "VIRAR",
+  "sourceCode": "VR",
+  "destination": "VALSAD",
+  "destinationCode": "BL",
+  "departureTime": "11:30:00",
+  "arrivalTime": "14:25:00",
+  "duration": "2h 55m",
+  "distance": "139 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

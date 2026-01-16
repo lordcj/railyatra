@@ -1,0 +1,30 @@
+{
+  "number": "55201",
+  "name": "Narkatiaganj Gorakhpur Passenger",
+  "type": "Pass",
+  "source": "NARKATIAGANJ JN",
+  "sourceCode": "NKE",
+  "destination": "GORAKHPUR JN",
+  "destinationCode": "GKP",
+  "departureTime": "04:50:00",
+  "arrivalTime": "09:15:00",
+  "duration": "4h 25m",
+  "distance": "150 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

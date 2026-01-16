@@ -1,0 +1,29 @@
+{
+  "number": "14711",
+  "name": "Haridwar Shri Ganganagar InterCity Express",
+  "type": "Exp",
+  "source": "HARIDWAR JN",
+  "sourceCode": "HW",
+  "destination": "SHRI GANGANAGAR",
+  "destinationCode": "SGNR",
+  "departureTime": "14:05:00",
+  "arrivalTime": "23:55:00",
+  "duration": "9h 50m",
+  "distance": "485 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

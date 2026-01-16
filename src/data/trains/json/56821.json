@@ -1,0 +1,30 @@
+{
+  "number": "56821",
+  "name": "MAYILADUTURAI  - DINDIGUL PASSENGER",
+  "type": "Pass",
+  "source": "MAYILADUTURAI JN",
+  "sourceCode": "MV",
+  "destination": "DINDIGUL JN",
+  "destinationCode": "DG",
+  "departureTime": "11:00:00",
+  "arrivalTime": "22:20:00",
+  "duration": "11h 20m",
+  "distance": "437 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

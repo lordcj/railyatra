@@ -1,0 +1,32 @@
+{
+  "number": "12282",
+  "name": "New Delhi-Bhubaneswar Duronto Express",
+  "type": "Drnt",
+  "source": "NEW DELHI",
+  "sourceCode": "NDLS",
+  "destination": "BHUBANESWAR",
+  "destinationCode": "BBS",
+  "departureTime": "13:00:00",
+  "arrivalTime": "11:05:00",
+  "duration": "22h 5m",
+  "distance": "1724 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "14369",
+  "name": "Tribeni Express",
+  "type": "Exp",
+  "source": "SINGRAULI",
+  "sourceCode": "SGRL",
+  "destination": "BAREILLY",
+  "destinationCode": "BE",
+  "departureTime": "18:25:00",
+  "arrivalTime": "12:30:00",
+  "duration": "18h 5m",
+  "distance": "723 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

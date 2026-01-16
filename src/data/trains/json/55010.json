@@ -1,0 +1,30 @@
+{
+  "number": "55010",
+  "name": "Chhapra Bhatni Passenger",
+  "type": "Pass",
+  "source": "CHHAPRA",
+  "sourceCode": "CPR",
+  "destination": "BHATNI JN",
+  "destinationCode": "BTT",
+  "departureTime": "17:25:00",
+  "arrivalTime": "20:35:00",
+  "duration": "3h 10m",
+  "distance": "110 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "31929",
+  "name": "Sealdah-Gede Local",
+  "type": "MEMU",
+  "source": "KOLKATA SEALDAH",
+  "sourceCode": "SDAH",
+  "destination": "Gede",
+  "destinationCode": "GEDE",
+  "departureTime": "20:32:00",
+  "arrivalTime": "23:15:00",
+  "duration": "2h 43m",
+  "distance": "116 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,31 @@
+{
+  "number": "15631",
+  "name": "BARMER - GUWAHATI Exp",
+  "type": "Exp",
+  "source": "BARMER",
+  "sourceCode": "BME",
+  "destination": "GUWAHATI",
+  "destinationCode": "GHY",
+  "departureTime": "23:00:00",
+  "arrivalTime": "23:15:00",
+  "duration": "48h 15m",
+  "distance": "2473 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

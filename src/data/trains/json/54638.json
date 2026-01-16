@@ -1,0 +1,30 @@
+{
+  "number": "54638",
+  "name": "Jalandhar City Hoshiarpur DMU",
+  "type": "Pass",
+  "source": "JALANDHAR CITY",
+  "sourceCode": "JUC",
+  "destination": "Hoshiarpur",
+  "destinationCode": "HSX",
+  "departureTime": "10:25:00",
+  "arrivalTime": "11:25:00",
+  "duration": "1h 0m",
+  "distance": "43 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

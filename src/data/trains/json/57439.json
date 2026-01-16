@@ -1,0 +1,30 @@
+{
+  "number": "57439",
+  "name": "Gooty Dhone Passenger",
+  "type": "Pass",
+  "source": "GOOTY JN",
+  "sourceCode": "GY",
+  "destination": "DHONE",
+  "destinationCode": "DHNE",
+  "departureTime": "15:30:00",
+  "arrivalTime": "16:50:00",
+  "duration": "1h 20m",
+  "distance": "55 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

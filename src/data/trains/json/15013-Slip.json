@@ -1,0 +1,30 @@
+{
+  "number": "15013-Slip",
+  "name": "Ranikhet Express Slip",
+  "type": "Exp",
+  "source": "OLD DELHI",
+  "sourceCode": "DLI",
+  "destination": "RAMNAGAR",
+  "destinationCode": "RMR",
+  "departureTime": "22:40:00",
+  "arrivalTime": "04:55:00",
+  "duration": "6h 15m",
+  "distance": "239 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

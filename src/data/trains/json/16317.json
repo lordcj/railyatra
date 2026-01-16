@@ -1,0 +1,30 @@
+{
+  "number": "16317",
+  "name": "Himsagar Express",
+  "type": "Exp",
+  "source": "KANYAKUMARI",
+  "sourceCode": "CAPE",
+  "destination": "JAMMU TAWI",
+  "destinationCode": "JAT",
+  "departureTime": "14:00:00",
+  "arrivalTime": "13:10:00",
+  "duration": "71h 10m",
+  "distance": "3715 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

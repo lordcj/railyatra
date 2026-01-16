@@ -1,0 +1,30 @@
+{
+  "number": "54482",
+  "name": "Rishikesh Haridwar Passenger",
+  "type": "Pass",
+  "source": "RISHIKESH",
+  "sourceCode": "RKSH",
+  "destination": "HARIDWAR JN",
+  "destinationCode": "HW",
+  "departureTime": "08:10:00",
+  "arrivalTime": "09:10:00",
+  "duration": "1h 0m",
+  "distance": "23 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

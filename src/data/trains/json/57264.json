@@ -1,0 +1,29 @@
+{
+  "number": "57264",
+  "name": "Narasapur Visakhapatnam (LINK) Passenger",
+  "type": "Pass",
+  "source": "Narasapur",
+  "sourceCode": "NS",
+  "destination": "VISHAKAPATNAM",
+  "destinationCode": "VSKP",
+  "departureTime": "23:05:00",
+  "arrivalTime": "07:00:00",
+  "duration": "7h 55m",
+  "distance": "300 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

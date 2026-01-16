@@ -1,0 +1,31 @@
+{
+  "number": "11087",
+  "name": "Veraval Pune Express",
+  "type": "Exp",
+  "source": "VERAVAL",
+  "sourceCode": "VRL",
+  "destination": "PUNE JN",
+  "destinationCode": "PUNE",
+  "departureTime": "06:25:00",
+  "arrivalTime": "04:45:00",
+  "duration": "22h 20m",
+  "distance": "1066 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

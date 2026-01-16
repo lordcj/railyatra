@@ -1,0 +1,30 @@
+{
+  "number": "64001",
+  "name": "Delhi Panipat EMU",
+  "type": "MEMU",
+  "source": "OLD DELHI",
+  "sourceCode": "DLI",
+  "destination": "PANIPAT JN",
+  "destinationCode": "PNP",
+  "departureTime": "19:30:00",
+  "arrivalTime": "21:45:00",
+  "duration": "2h 15m",
+  "distance": "88 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

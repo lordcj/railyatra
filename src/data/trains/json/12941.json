@@ -1,0 +1,30 @@
+{
+  "number": "12941",
+  "name": "Ahmedabad-Asansol (Weekly) SF Parasnath Express",
+  "type": "SF",
+  "source": "AHMEDABAD JN",
+  "sourceCode": "ADI",
+  "destination": "ASANSOL JN",
+  "destinationCode": "ASN",
+  "departureTime": "23:25:00",
+  "arrivalTime": "10:20:00",
+  "duration": "34h 55m",
+  "distance": "2021 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

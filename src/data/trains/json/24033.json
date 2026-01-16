@@ -1,0 +1,29 @@
+{
+  "number": "24033",
+  "name": "Jammu Mail",
+  "type": "Mail",
+  "source": "OLD DELHI",
+  "sourceCode": "DLI",
+  "destination": "Hoshiarpur",
+  "destinationCode": "HSX",
+  "departureTime": "20:20:00",
+  "arrivalTime": "06:25:00",
+  "duration": "10h 5m",
+  "distance": "411 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

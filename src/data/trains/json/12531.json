@@ -1,0 +1,29 @@
+{
+  "number": "12531",
+  "name": "Gorakhpur Lucknow InterCity Express",
+  "type": "SF",
+  "source": "GORAKHPUR JN",
+  "sourceCode": "GKP",
+  "destination": "LUCKNOW JN",
+  "destinationCode": "LJN",
+  "departureTime": "06:05:00",
+  "arrivalTime": "11:00:00",
+  "duration": "4h 55m",
+  "distance": "279 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

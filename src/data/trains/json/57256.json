@@ -1,0 +1,30 @@
+{
+  "number": "57256",
+  "name": "Visakhapatnam Kakinada Port passenger",
+  "type": "Pass",
+  "source": "VISHAKAPATNAM",
+  "sourceCode": "VSKP",
+  "destination": "Kakinada Port",
+  "destinationCode": "COA",
+  "departureTime": "17:00:00",
+  "arrivalTime": "21:05:00",
+  "duration": "4h 5m",
+  "distance": "164 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

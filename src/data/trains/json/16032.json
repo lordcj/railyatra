@@ -1,0 +1,30 @@
+{
+  "number": "16032",
+  "name": "Andaman Express",
+  "type": "Exp",
+  "source": "JAMMU TAWI",
+  "sourceCode": "JAT",
+  "destination": "CHENNAI CENTRAL",
+  "destinationCode": "MAS",
+  "departureTime": "23:45:00",
+  "arrivalTime": "10:10:00",
+  "duration": "58h 25m",
+  "distance": "2800 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

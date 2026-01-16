@@ -1,0 +1,31 @@
+{
+  "number": "16338",
+  "name": "ERNAKULAM - OKHA Exp",
+  "type": "Exp",
+  "source": "ERNAKULAM JN",
+  "sourceCode": "ERS",
+  "destination": "OKHA",
+  "destinationCode": "OKHA",
+  "departureTime": "19:50:00",
+  "arrivalTime": "17:25:00",
+  "duration": "45h 35m",
+  "distance": "2557 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "51817",
+  "name": "Agra Fort Bandikui Pass",
+  "type": "Pass",
+  "source": "AGRA FORT",
+  "sourceCode": "AF",
+  "destination": "BANDIKUI JN",
+  "destinationCode": "BKI",
+  "departureTime": "17:00:00",
+  "arrivalTime": "20:30:00",
+  "duration": "3h 30m",
+  "distance": "150 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

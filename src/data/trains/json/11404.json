@@ -1,0 +1,31 @@
+{
+  "number": "11404",
+  "name": "KOLHAPUR - NAGPUR EXP",
+  "type": "Exp",
+  "source": "C SHAHU M RAJ KOLHAPUR TERM",
+  "sourceCode": "KOP",
+  "destination": "NAGPUR",
+  "destinationCode": "NGP",
+  "departureTime": "12:50:00",
+  "arrivalTime": "12:35:00",
+  "duration": "23h 45m",
+  "distance": "1038 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

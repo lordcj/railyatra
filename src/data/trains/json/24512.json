@@ -1,0 +1,30 @@
+{
+  "number": "24512",
+  "name": "Khurja Allahabad Link Express",
+  "type": "Exp",
+  "source": "Bulandshahr",
+  "sourceCode": "BSC",
+  "destination": "ALLAHABAD JN",
+  "destinationCode": "ALD",
+  "departureTime": "18:15:00",
+  "arrivalTime": "09:55:00",
+  "duration": "15h 40m",
+  "distance": "672 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

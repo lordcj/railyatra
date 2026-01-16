@@ -1,0 +1,30 @@
+{
+  "number": "56847",
+  "name": "Trichy Palakkad Town Passenger",
+  "type": "Pass",
+  "source": "TIRUCHIRAPPALLI",
+  "sourceCode": "TPJ",
+  "destination": "PALGHAT TOWN",
+  "destinationCode": "PGTN",
+  "departureTime": "13:00:00",
+  "arrivalTime": "20:40:00",
+  "duration": "7h 40m",
+  "distance": "301 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

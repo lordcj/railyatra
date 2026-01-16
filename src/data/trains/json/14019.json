@@ -1,0 +1,30 @@
+{
+  "number": "14019",
+  "name": "Chhindwara Delhi SR (Biweekly) Kanhan valley Express",
+  "type": "Exp",
+  "source": "Chhindwara Junction",
+  "sourceCode": "CWA",
+  "destination": "DELHI SARAI ROHILLA",
+  "destinationCode": "DEE",
+  "departureTime": "10:15:00",
+  "arrivalTime": "06:15:00",
+  "duration": "20h 0m",
+  "distance": "1050 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

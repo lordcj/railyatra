@@ -1,0 +1,30 @@
+{
+  "number": "14604",
+  "name": "AMRITSAR - SAHARSA Jan Sadharan Exp",
+  "type": "Exp",
+  "source": "AMRITSAR JN",
+  "sourceCode": "ASR",
+  "destination": "SAHARSA JN",
+  "destinationCode": "SHC",
+  "departureTime": "13:05:00",
+  "arrivalTime": "20:00:00",
+  "duration": "30h 55m",
+  "distance": "1580 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

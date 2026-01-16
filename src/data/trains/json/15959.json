@@ -1,0 +1,31 @@
+{
+  "number": "15959",
+  "name": "HOWRAH - DIBRUGARH Kamrup Exp",
+  "type": "Exp",
+  "source": "HOWRAH JN",
+  "sourceCode": "HWH",
+  "destination": "DIBRUGARH",
+  "destinationCode": "DBRG",
+  "departureTime": "17:35:00",
+  "arrivalTime": "05:45:00",
+  "duration": "36h 10m",
+  "distance": "1528 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

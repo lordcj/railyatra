@@ -1,0 +1,31 @@
+{
+  "number": "14708",
+  "name": "MUMBAI BANDRA - BIKANER Ranakpur Exp",
+  "type": "Exp",
+  "source": "MUMBAI BANDRA TERMINUS",
+  "sourceCode": "BDTS",
+  "destination": "BIKANER JN",
+  "destinationCode": "BKN",
+  "departureTime": "15:00:00",
+  "arrivalTime": "15:35:00",
+  "duration": "24h 35m",
+  "distance": "1212 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

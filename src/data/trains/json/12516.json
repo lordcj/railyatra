@@ -1,0 +1,31 @@
+{
+  "number": "12516",
+  "name": "GUWAHATI - TRIVANDRUM CENTRAL EXP",
+  "type": "SF",
+  "source": "GUWAHATI",
+  "sourceCode": "GHY",
+  "destination": "TRIVANDRUM CENTRAL",
+  "destinationCode": "TVC",
+  "departureTime": "06:30:00",
+  "arrivalTime": "22:55:00",
+  "duration": "64h 25m",
+  "distance": "3552 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "51464",
+  "name": "Belgaum Miraj Passenger",
+  "type": "Pass",
+  "source": "BELGAUM",
+  "sourceCode": "BGM",
+  "destination": "MIRAJ JN",
+  "destinationCode": "MRJ",
+  "departureTime": "14:30:00",
+  "arrivalTime": "18:00:00",
+  "duration": "3h 30m",
+  "distance": "137 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

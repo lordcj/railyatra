@@ -1,0 +1,32 @@
+{
+  "number": "12417",
+  "name": "Prayagraj Express",
+  "type": "SF",
+  "source": "ALLAHABAD JN",
+  "sourceCode": "ALD",
+  "destination": "NEW DELHI",
+  "destinationCode": "NDLS",
+  "departureTime": "21:30:00",
+  "arrivalTime": "06:55:00",
+  "duration": "9h 25m",
+  "distance": "634 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

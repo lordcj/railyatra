@@ -1,0 +1,31 @@
+{
+  "number": "13247",
+  "name": "GUWAHATI - RAJENDRA NAGAR Capital Exp",
+  "type": "Exp",
+  "source": "GUWAHATI",
+  "sourceCode": "GHY",
+  "destination": "RAJENDRA NAGAR BIHAR",
+  "destinationCode": "RJPB",
+  "departureTime": "05:00:00",
+  "arrivalTime": "04:50:00",
+  "duration": "23h 50m",
+  "distance": "980 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

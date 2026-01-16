@@ -1,0 +1,13 @@
+{
+  "code": "INDB",
+  "name": "Indore",
+  "fullName": "Indore Junction",
+  "zone": "WR",
+  "state": "Madhya Pradesh",
+  "category": "A1",
+  "platforms": 5,
+  "connectivity": [
+    "Bus",
+    "Taxi"
+  ]
+}

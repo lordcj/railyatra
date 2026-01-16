@@ -1,0 +1,30 @@
+{
+  "number": "56806",
+  "name": "Tiruchchirapalli Cuddalore Port Passenger",
+  "type": "Pass",
+  "source": "TIRUCHIRAPPALLI",
+  "sourceCode": "TPJ",
+  "destination": "CUDDALORE PORT",
+  "destinationCode": "CUPJ",
+  "departureTime": "15:05:00",
+  "arrivalTime": "20:30:00",
+  "duration": "5h 25m",
+  "distance": "180 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "59421",
+  "name": "Rajkot Veraval Passenger",
+  "type": "Pass",
+  "source": "RAJKOT JN",
+  "sourceCode": "RJT",
+  "destination": "VERAVAL",
+  "destinationCode": "VRL",
+  "departureTime": "07:50:00",
+  "arrivalTime": "12:20:00",
+  "duration": "4h 30m",
+  "distance": "185 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

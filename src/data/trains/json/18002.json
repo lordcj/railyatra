@@ -1,0 +1,29 @@
+{
+  "number": "18002",
+  "name": "Kandari Express",
+  "type": "Exp",
+  "source": "Digha Flag Station",
+  "sourceCode": "DGHA",
+  "destination": "HOWRAH JN",
+  "destinationCode": "HWH",
+  "departureTime": "18:20:00",
+  "arrivalTime": "21:50:00",
+  "duration": "3h 30m",
+  "distance": "189 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

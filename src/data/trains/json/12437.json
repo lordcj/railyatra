@@ -1,0 +1,31 @@
+{
+  "number": "12437",
+  "name": "Secunderabad Rajdhani Express",
+  "type": "Raj",
+  "source": "SECUNDERABAD JN",
+  "sourceCode": "SC",
+  "destination": "DELHI H NIZAMUDDIN",
+  "destinationCode": "NZM",
+  "departureTime": "12:45:00",
+  "arrivalTime": "10:20:00",
+  "duration": "21h 35m",
+  "distance": "1660 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

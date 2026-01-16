@@ -1,0 +1,30 @@
+{
+  "number": "13305",
+  "name": "Dhanbad-Gaya InterCity",
+  "type": "Exp",
+  "source": "DHANBAD JN",
+  "sourceCode": "DHN",
+  "destination": "GAYA JN",
+  "destinationCode": "GAYA",
+  "departureTime": "06:10:00",
+  "arrivalTime": "09:35:00",
+  "duration": "3h 25m",
+  "distance": "199 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

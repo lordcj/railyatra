@@ -1,0 +1,31 @@
+{
+  "number": "14260",
+  "name": "LUCKNOW CHARBAGH - MUGHAL SARAI Ekatmata Exp",
+  "type": "Exp",
+  "source": "LUCKNOW",
+  "sourceCode": "LKO",
+  "destination": "MUGHAL SARAI JN",
+  "destinationCode": "MGS",
+  "departureTime": "21:15:00",
+  "arrivalTime": "01:15:00",
+  "duration": "52h 0m",
+  "distance": "2796 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

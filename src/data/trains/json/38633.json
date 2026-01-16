@@ -1,0 +1,30 @@
+{
+  "number": "38633",
+  "name": "Howrah Kharagpur Ladies Special",
+  "type": "Klkt",
+  "source": "HOWRAH JN",
+  "sourceCode": "HWH",
+  "destination": "KHARAGPUR JN",
+  "destinationCode": "KGP",
+  "departureTime": "18:25:00",
+  "arrivalTime": "21:10:00",
+  "duration": "2h 45m",
+  "distance": "115 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

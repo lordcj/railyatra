@@ -1,0 +1,31 @@
+{
+  "number": "12539",
+  "name": "YESVANTPUR - LUCKNOW SF Exp",
+  "type": "SF",
+  "source": "YESVANTPUR JN",
+  "sourceCode": "YPR",
+  "destination": "LUCKNOW",
+  "destinationCode": "LKO",
+  "departureTime": "10:50:00",
+  "arrivalTime": "08:50:00",
+  "duration": "46h 0m",
+  "distance": "2554 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

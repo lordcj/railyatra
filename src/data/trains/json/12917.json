@@ -1,0 +1,31 @@
+{
+  "number": "12917",
+  "name": "Gujarat Sampark Kranti Express",
+  "type": "SKr",
+  "source": "AHMEDABAD JN",
+  "sourceCode": "ADI",
+  "destination": "DELHI H NIZAMUDDIN",
+  "destinationCode": "NZM",
+  "departureTime": "17:20:00",
+  "arrivalTime": "10:40:00",
+  "duration": "17h 20m",
+  "distance": "1085 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

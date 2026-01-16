@@ -1,0 +1,30 @@
+{
+  "number": "56661",
+  "name": "Charvattur Mangalore Passenger",
+  "type": "Pass",
+  "source": "CHARVATTUR",
+  "sourceCode": "CHV",
+  "destination": "MANGALORE CNTL",
+  "destinationCode": "MAQ",
+  "departureTime": "06:30:00",
+  "arrivalTime": "08:35:00",
+  "duration": "2h 5m",
+  "distance": "83 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

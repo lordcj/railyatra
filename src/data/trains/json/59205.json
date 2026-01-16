@@ -1,0 +1,30 @@
+{
+  "number": "59205",
+  "name": "Wansjaliya Porbandar Passenger",
+  "type": "Pass",
+  "source": "KANALAS JN",
+  "sourceCode": "KNLS",
+  "destination": "PORBANDAR",
+  "destinationCode": "PBR",
+  "departureTime": "14:05:00",
+  "arrivalTime": "16:45:00",
+  "duration": "2h 40m",
+  "distance": "105 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

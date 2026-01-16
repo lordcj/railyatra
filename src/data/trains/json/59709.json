@@ -1,0 +1,30 @@
+{
+  "number": "59709",
+  "name": "APH-SOG  PASSANGER",
+  "type": "Pass",
+  "source": "ANUPGARH",
+  "sourceCode": "APH",
+  "destination": "SURATGARH JN",
+  "destinationCode": "SOG",
+  "departureTime": "17:00:00",
+  "arrivalTime": "18:40:00",
+  "duration": "1h 40m",
+  "distance": "76 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

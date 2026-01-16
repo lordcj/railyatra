@@ -1,0 +1,31 @@
+{
+  "number": "12511",
+  "name": "Rapti Sagar Express",
+  "type": "SF",
+  "source": "GORAKHPUR JN",
+  "sourceCode": "GKP",
+  "destination": "TRIVANDRUM CENTRAL",
+  "destinationCode": "TVC",
+  "departureTime": "06:45:00",
+  "arrivalTime": "17:50:00",
+  "duration": "59h 5m",
+  "distance": "3251 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

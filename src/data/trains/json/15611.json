@@ -1,0 +1,30 @@
+{
+  "number": "15611",
+  "name": "Lokmanya Tilak (T)-Kamakhya Karmabhoomi Express",
+  "type": "Exp",
+  "source": "LOKMANYA TILAK TERM",
+  "sourceCode": "LTT",
+  "destination": "KAMAKHYA",
+  "destinationCode": "KYQ",
+  "departureTime": "11:25:00",
+  "arrivalTime": "19:15:00",
+  "duration": "55h 50m",
+  "distance": "2942 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

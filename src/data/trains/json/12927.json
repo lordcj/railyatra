@@ -1,0 +1,32 @@
+{
+  "number": "12927",
+  "name": "Mumbai Central -Vadodara Express",
+  "type": "SF",
+  "source": "Mumbai Central",
+  "sourceCode": "BCT",
+  "destination": "VADODARA JN",
+  "destinationCode": "BRC",
+  "departureTime": "23:40:00",
+  "arrivalTime": "06:05:00",
+  "duration": "6h 25m",
+  "distance": "392 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

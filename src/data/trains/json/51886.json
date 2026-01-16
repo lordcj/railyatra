@@ -1,0 +1,30 @@
+{
+  "number": "51886",
+  "name": "DAMOH BINA PASS",
+  "type": "Pass",
+  "source": "DAMOH",
+  "sourceCode": "DMO",
+  "destination": "BINA JN",
+  "destinationCode": "BINA",
+  "departureTime": "05:45:00",
+  "arrivalTime": "09:20:00",
+  "duration": "3h 35m",
+  "distance": "152 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

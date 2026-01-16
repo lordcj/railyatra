@@ -1,0 +1,31 @@
+{
+  "number": "12132",
+  "name": "Sainagar Shirdi-Mumbai Dadar Express",
+  "type": "SF",
+  "source": "SAINAGAR SHIRDI",
+  "sourceCode": "SNSI",
+  "destination": "MUMBAI DADAR CENTRAL",
+  "destinationCode": "DR",
+  "departureTime": "10:00:00",
+  "arrivalTime": "16:05:00",
+  "duration": "6h 5m",
+  "distance": "336 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

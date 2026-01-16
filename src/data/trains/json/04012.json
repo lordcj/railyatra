@@ -1,0 +1,31 @@
+{
+  "number": "04012",
+  "name": "H. Nizamuddin - Sainagar Shirdi (Weekly) Special",
+  "type": "Exp",
+  "source": "DELHI H NIZAMUDDIN",
+  "sourceCode": "NZM",
+  "destination": "SAINAGAR SHIRDI",
+  "destinationCode": "SNSI",
+  "departureTime": "00:20:00",
+  "arrivalTime": "22:15:00",
+  "duration": "21h 55m",
+  "distance": "1360 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

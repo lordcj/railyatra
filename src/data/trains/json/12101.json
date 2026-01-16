@@ -1,0 +1,32 @@
+{
+  "number": "12101",
+  "name": "MUMBAI LTT - HOWRAH Janeswari Super Deluxe Exp",
+  "type": "SF",
+  "source": "LOKMANYA TILAK TERM",
+  "sourceCode": "LTT",
+  "destination": "HOWRAH JN",
+  "destinationCode": "HWH",
+  "departureTime": "20:35:00",
+  "arrivalTime": "03:35:00",
+  "duration": "31h 0m",
+  "distance": "1952 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

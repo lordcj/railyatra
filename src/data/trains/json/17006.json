@@ -1,0 +1,31 @@
+{
+  "number": "17006",
+  "name": "RAXAUL - HYDERABAD Deccan Exp",
+  "type": "Exp",
+  "source": "RAXAUL JN",
+  "sourceCode": "RXL",
+  "destination": "HYDERABAD DECCAN",
+  "destinationCode": "HYB",
+  "departureTime": "07:00:00",
+  "arrivalTime": "23:10:00",
+  "duration": "40h 10m",
+  "distance": "2015 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

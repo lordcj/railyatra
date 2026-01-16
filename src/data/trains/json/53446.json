@@ -1,0 +1,30 @@
+{
+  "number": "53446",
+  "name": "Bhagalpur Mandar Hill Passenger",
+  "type": "Pass",
+  "source": "BHAGALPUR",
+  "sourceCode": "BGP",
+  "destination": "Mandar Hill",
+  "destinationCode": "MDLE",
+  "departureTime": "18:30:00",
+  "arrivalTime": "20:35:00",
+  "duration": "2h 5m",
+  "distance": "0 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

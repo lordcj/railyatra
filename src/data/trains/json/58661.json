@@ -1,0 +1,30 @@
+{
+  "number": "58661",
+  "name": "Tatanagar Hatia Passenger",
+  "type": "Pass",
+  "source": "TATANAGAR JN",
+  "sourceCode": "TATA",
+  "destination": "HATIA",
+  "destinationCode": "HTE",
+  "departureTime": "11:30:00",
+  "arrivalTime": "18:45:00",
+  "duration": "7h 15m",
+  "distance": "218 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

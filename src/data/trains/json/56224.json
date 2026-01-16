@@ -1,0 +1,30 @@
+{
+  "number": "56224",
+  "name": "Arisikere Bangalore Passenger",
+  "type": "Pass",
+  "source": "ARSIKERE JN",
+  "sourceCode": "ASK",
+  "destination": "BANGALORE CITY JN",
+  "destinationCode": "SBC",
+  "departureTime": "05:00:00",
+  "arrivalTime": "09:10:00",
+  "duration": "4h 10m",
+  "distance": "167 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

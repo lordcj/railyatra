@@ -1,0 +1,31 @@
+{
+  "number": "04032",
+  "name": "Panipat Delhi Special",
+  "type": "Exp",
+  "source": "PANIPAT JN",
+  "sourceCode": "PNP",
+  "destination": "OLD DELHI",
+  "destinationCode": "DLI",
+  "departureTime": "18:30:00",
+  "arrivalTime": "21:00:00",
+  "duration": "2h 30m",
+  "distance": "89 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "52023",
+  "name": "Malsar Dabhoi Mix Passenger",
+  "type": "Pass",
+  "source": "Malsar",
+  "sourceCode": "MLSR",
+  "destination": "Dabhoi Junction",
+  "destinationCode": "DB",
+  "departureTime": "04:50:00",
+  "arrivalTime": "09:30:00",
+  "duration": "4h 40m",
+  "distance": "70 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

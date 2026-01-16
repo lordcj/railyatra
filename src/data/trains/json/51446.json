@@ -1,0 +1,30 @@
+{
+  "number": "51446",
+  "name": "Miraj Pandharpur Passenger",
+  "type": "Pass",
+  "source": "MIRAJ JN",
+  "sourceCode": "MRJ",
+  "destination": "PANDHARPUR",
+  "destinationCode": "PVR",
+  "departureTime": "18:15:00",
+  "arrivalTime": "20:55:00",
+  "duration": "2h 40m",
+  "distance": "137 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

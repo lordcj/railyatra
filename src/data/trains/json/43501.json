@@ -1,0 +1,30 @@
+{
+  "number": "43501",
+  "name": "Chennai tiruttani EMU",
+  "type": "MEMU",
+  "source": "CHENNAI CENTRAL",
+  "sourceCode": "MAS",
+  "destination": "TIRUTTANI",
+  "destinationCode": "TRT",
+  "departureTime": "04:00:00",
+  "arrivalTime": "06:15:00",
+  "duration": "2h 15m",
+  "distance": "82 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

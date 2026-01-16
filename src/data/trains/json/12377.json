@@ -1,0 +1,32 @@
+{
+  "number": "12377",
+  "name": "Padatik Express",
+  "type": "SF",
+  "source": "KOLKATA SEALDAH",
+  "sourceCode": "SDAH",
+  "destination": "NEW JALPAIGURI",
+  "destinationCode": "NJP",
+  "departureTime": "22:55:00",
+  "arrivalTime": "09:05:00",
+  "duration": "10h 10m",
+  "distance": "567 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

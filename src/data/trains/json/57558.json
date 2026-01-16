@@ -1,0 +1,30 @@
+{
+  "number": "57558",
+  "name": "Nanded Nizamabad Passenger",
+  "type": "Pass",
+  "source": "HUZUR SAHIB NANDED",
+  "sourceCode": "NED",
+  "destination": "NIZAMABAD",
+  "destinationCode": "NZB",
+  "departureTime": "18:15:00",
+  "arrivalTime": "21:05:00",
+  "duration": "2h 50m",
+  "distance": "110 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

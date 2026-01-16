@@ -1,0 +1,30 @@
+{
+  "number": "55124",
+  "name": "Varanasi City- Bhatni Passenger",
+  "type": "Pass",
+  "source": "VARANASI CITY",
+  "sourceCode": "BCY",
+  "destination": "BHATNI JN",
+  "destinationCode": "BTT",
+  "departureTime": "14:00:00",
+  "arrivalTime": "19:45:00",
+  "duration": "5h 45m",
+  "distance": "158 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

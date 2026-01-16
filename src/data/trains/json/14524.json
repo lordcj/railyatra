@@ -1,0 +1,30 @@
+{
+  "number": "14524",
+  "name": "Harihar Express",
+  "type": "Exp",
+  "source": "AMBALA CANT JN",
+  "sourceCode": "UMB",
+  "destination": "MUZAFFARPUR JN",
+  "destinationCode": "MFP",
+  "departureTime": "22:35:00",
+  "arrivalTime": "23:50:00",
+  "duration": "25h 15m",
+  "distance": "1201 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

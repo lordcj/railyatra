@@ -1,0 +1,31 @@
+{
+  "number": "17609",
+  "name": "PATNA - PURNA Exp",
+  "type": "Exp",
+  "source": "PATNA JN",
+  "sourceCode": "PNBE",
+  "destination": "PURNA JN",
+  "destinationCode": "PAU",
+  "departureTime": "23:10:00",
+  "arrivalTime": "07:05:00",
+  "duration": "31h 55m",
+  "distance": "1819 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

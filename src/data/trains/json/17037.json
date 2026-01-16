@@ -1,0 +1,31 @@
+{
+  "number": "17037",
+  "name": "SECUNDERABAD - BIKANER Express",
+  "type": "Exp",
+  "source": "SECUNDERABAD JN",
+  "sourceCode": "SC",
+  "destination": "BIKANER JN",
+  "destinationCode": "BKN",
+  "departureTime": "23:15:00",
+  "arrivalTime": "17:00:00",
+  "duration": "41h 45m",
+  "distance": "2113 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

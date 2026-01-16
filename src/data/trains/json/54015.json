@@ -1,0 +1,30 @@
+{
+  "number": "54015",
+  "name": "Rohtak Bhiwani Passenger",
+  "type": "Pass",
+  "source": "ROHTAK JN",
+  "sourceCode": "ROK",
+  "destination": "Bhiwani",
+  "destinationCode": "BNW",
+  "departureTime": "17:40:00",
+  "arrivalTime": "19:05:00",
+  "duration": "1h 25m",
+  "distance": "49 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

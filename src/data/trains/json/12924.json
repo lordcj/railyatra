@@ -1,0 +1,31 @@
+{
+  "number": "12924",
+  "name": "Indore Express",
+  "type": "SF",
+  "source": "NAGPUR",
+  "sourceCode": "NGP",
+  "destination": "INDORE JN BG",
+  "destinationCode": "INDB",
+  "departureTime": "19:15:00",
+  "arrivalTime": "05:40:00",
+  "duration": "10h 25m",
+  "distance": "607 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

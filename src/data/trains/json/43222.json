@@ -1,0 +1,30 @@
+{
+  "number": "43222",
+  "name": "Tiruvallur Chennai Central Fast",
+  "type": "MEMU",
+  "source": "TIRUVALLUR",
+  "sourceCode": "TRL",
+  "destination": "CHENNAI CENTRAL",
+  "destinationCode": "MAS",
+  "departureTime": "09:25:00",
+  "arrivalTime": "10:15:00",
+  "duration": "0h 50m",
+  "distance": "41 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

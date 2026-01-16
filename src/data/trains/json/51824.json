@@ -1,0 +1,30 @@
+{
+  "number": "51824",
+  "name": "Farrukhabad Allahabad Passenger",
+  "type": "Pass",
+  "source": "FARRUKHABAD",
+  "sourceCode": "FBD",
+  "destination": "ALLAHABAD JN",
+  "destinationCode": "ALD",
+  "departureTime": "10:00:00",
+  "arrivalTime": "20:05:00",
+  "duration": "10h 5m",
+  "distance": "334 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

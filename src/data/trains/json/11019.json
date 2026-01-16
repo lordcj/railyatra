@@ -1,0 +1,31 @@
+{
+  "number": "11019",
+  "name": "Konark Express",
+  "type": "Exp",
+  "source": "MUMBAI CST",
+  "sourceCode": "CSTM",
+  "destination": "BHUBANESWAR",
+  "destinationCode": "BBS",
+  "departureTime": "15:10:00",
+  "arrivalTime": "04:25:00",
+  "duration": "37h 15m",
+  "distance": "1932 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

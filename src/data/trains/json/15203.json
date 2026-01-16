@@ -1,0 +1,30 @@
+{
+  "number": "15203",
+  "name": "Barauni-Lucknow Express",
+  "type": "Exp",
+  "source": "BARAUNI JN",
+  "sourceCode": "BJU",
+  "destination": "LUCKNOW JN",
+  "destinationCode": "LJN",
+  "departureTime": "20:30:00",
+  "arrivalTime": "12:45:00",
+  "duration": "16h 15m",
+  "distance": "674 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

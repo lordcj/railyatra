@@ -1,0 +1,32 @@
+{
+  "number": "12925",
+  "name": "Paschim Express",
+  "type": "SF",
+  "source": "MUMBAI BANDRA TERMINUS",
+  "sourceCode": "BDTS",
+  "destination": "AMRITSAR JN",
+  "destinationCode": "ASR",
+  "departureTime": "11:35:00",
+  "arrivalTime": "19:15:00",
+  "duration": "31h 40m",
+  "distance": "1821 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

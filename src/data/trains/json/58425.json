@@ -1,0 +1,30 @@
+{
+  "number": "58425",
+  "name": "Kendujhargarh-Bhubaneswar Fast Passenger",
+  "type": "Pass",
+  "source": "Kendujhargarh",
+  "sourceCode": "KDJR",
+  "destination": "BHUBANESWAR",
+  "destinationCode": "BBS",
+  "departureTime": "06:30:00",
+  "arrivalTime": "12:25:00",
+  "duration": "5h 55m",
+  "distance": "215 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

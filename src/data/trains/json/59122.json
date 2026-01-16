@@ -1,0 +1,30 @@
+{
+  "number": "59122",
+  "name": "Bodeli Pratapnagar Passenger",
+  "type": "Pass",
+  "source": "Bodeli",
+  "sourceCode": "BDE",
+  "destination": "Pratapnagar",
+  "destinationCode": "PRTN",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:40:00",
+  "duration": "2h 10m",
+  "distance": "63 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

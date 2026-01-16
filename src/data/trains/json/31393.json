@@ -1,0 +1,30 @@
+{
+  "number": "31393",
+  "name": "Sealdah-Kalyani Local",
+  "type": "MEMU",
+  "source": "KOLKATA SEALDAH",
+  "sourceCode": "SDAH",
+  "destination": "Kalyani",
+  "destinationCode": "KYI",
+  "departureTime": "08:52:00",
+  "arrivalTime": "10:08:00",
+  "duration": "1h 16m",
+  "distance": "48 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

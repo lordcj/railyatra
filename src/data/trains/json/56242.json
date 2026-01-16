@@ -1,0 +1,30 @@
+{
+  "number": "56242",
+  "name": "Yesvantpur Salem passenger",
+  "type": "Pass",
+  "source": "YESVANTPUR JN",
+  "sourceCode": "YPR",
+  "destination": "SALEM JN",
+  "destinationCode": "SA",
+  "departureTime": "16:05:00",
+  "arrivalTime": "21:25:00",
+  "duration": "5h 20m",
+  "distance": "225 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

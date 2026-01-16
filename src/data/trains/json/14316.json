@@ -1,0 +1,29 @@
+{
+  "number": "14316",
+  "name": "NewDelhi-Bareilly InterCity",
+  "type": "Exp",
+  "source": "NEW DELHI",
+  "sourceCode": "NDLS",
+  "destination": "BAREILLY",
+  "destinationCode": "BE",
+  "departureTime": "16:35:00",
+  "arrivalTime": "21:55:00",
+  "duration": "5h 20m",
+  "distance": "258 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

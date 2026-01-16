@@ -1,0 +1,30 @@
+{
+  "number": "53547",
+  "name": "Andal-Jasidih Passenger",
+  "type": "Pass",
+  "source": "ANDAL JN",
+  "sourceCode": "UDL",
+  "destination": "SITARAMPUR",
+  "destinationCode": "STN",
+  "departureTime": "06:35:00",
+  "arrivalTime": "08:10:00",
+  "duration": "1h 35m",
+  "distance": "34 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

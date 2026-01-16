@@ -1,0 +1,30 @@
+{
+  "number": "53432",
+  "name": "JAMALPUR RAMPURHAT PASS",
+  "type": "Pass",
+  "source": "JAMALPUR JN",
+  "sourceCode": "JMP",
+  "destination": "SAHIBGANJ JN",
+  "destinationCode": "SBG",
+  "departureTime": "15:25:00",
+  "arrivalTime": "19:15:00",
+  "duration": "3h 50m",
+  "distance": "127 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

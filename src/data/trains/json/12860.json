@@ -1,0 +1,31 @@
+{
+  "number": "12860",
+  "name": "HOWRAH - MUMBAI CST Gitanjali Exp",
+  "type": "SF",
+  "source": "HOWRAH JN",
+  "sourceCode": "HWH",
+  "destination": "MUMBAI CST",
+  "destinationCode": "CSTM",
+  "departureTime": "13:50:00",
+  "arrivalTime": "21:20:00",
+  "duration": "31h 30m",
+  "distance": "1968 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

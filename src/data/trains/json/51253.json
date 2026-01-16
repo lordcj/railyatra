@@ -1,0 +1,30 @@
+{
+  "number": "51253",
+  "name": "Amla Chhindwara Passenger",
+  "type": "Pass",
+  "source": "AMLA JN",
+  "sourceCode": "AMLA",
+  "destination": "Chhindwara Junction",
+  "destinationCode": "CWA",
+  "departureTime": "08:00:00",
+  "arrivalTime": "12:00:00",
+  "duration": "4h 0m",
+  "distance": "115 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

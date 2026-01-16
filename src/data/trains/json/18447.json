@@ -1,0 +1,31 @@
+{
+  "number": "18447",
+  "name": "Hirakhand Express",
+  "type": "Exp",
+  "source": "BHUBANESWAR",
+  "sourceCode": "BBS",
+  "destination": "JAGDALPUR",
+  "destinationCode": "JDB",
+  "departureTime": "19:35:00",
+  "arrivalTime": "12:40:00",
+  "duration": "17h 5m",
+  "distance": "785 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

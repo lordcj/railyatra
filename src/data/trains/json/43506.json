@@ -1,0 +1,30 @@
+{
+  "number": "43506",
+  "name": "Tiruttani Chennai Central Local",
+  "type": "Pass",
+  "source": "TIRUTTANI",
+  "sourceCode": "TRT",
+  "destination": "CHENNAI CENTRAL",
+  "destinationCode": "MAS",
+  "departureTime": "09:40:00",
+  "arrivalTime": "12:05:00",
+  "duration": "2h 25m",
+  "distance": "83 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

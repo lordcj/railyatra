@@ -1,0 +1,30 @@
+{
+  "number": "53351",
+  "name": "Barwadih-Chunar Passenger",
+  "type": "Pass",
+  "source": "BARWADIH JN",
+  "sourceCode": "BRWD",
+  "destination": "CHUNAR",
+  "destinationCode": "CAR",
+  "departureTime": "03:00:00",
+  "arrivalTime": "11:55:00",
+  "duration": "8h 55m",
+  "distance": "303 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,13 @@
+{
+  "code": "KCG",
+  "name": "Kacheguda",
+  "fullName": "Kacheguda Railway Station",
+  "zone": "SCR",
+  "state": "Telangana",
+  "category": "A",
+  "platforms": 8,
+  "connectivity": [
+    "Bus",
+    "Taxi"
+  ]
+}

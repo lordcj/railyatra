@@ -1,0 +1,30 @@
+{
+  "number": "59243",
+  "name": "Rajula Mahuva Passenger",
+  "type": "Pass",
+  "source": "Rajula City",
+  "sourceCode": "RJU",
+  "destination": "MAHUVA JN",
+  "destinationCode": "MHV",
+  "departureTime": "12:05:00",
+  "arrivalTime": "13:30:00",
+  "duration": "1h 25m",
+  "distance": "38 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

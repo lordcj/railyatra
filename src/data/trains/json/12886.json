@@ -1,0 +1,30 @@
+{
+  "number": "12886",
+  "name": "Aranyak Express",
+  "type": "SF",
+  "source": "Bhojudih Junction",
+  "sourceCode": "BJE",
+  "destination": "KOLKATA SHALIMAR",
+  "destinationCode": "SHM",
+  "departureTime": "13:25:00",
+  "arrivalTime": "19:00:00",
+  "duration": "5h 35m",
+  "distance": "311 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

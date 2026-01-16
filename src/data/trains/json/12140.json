@@ -1,0 +1,31 @@
+{
+  "number": "12140",
+  "name": "Sevagram Express",
+  "type": "SF",
+  "source": "NAGPUR",
+  "sourceCode": "NGP",
+  "destination": "MUMBAI CST",
+  "destinationCode": "CSTM",
+  "departureTime": "21:00:00",
+  "arrivalTime": "12:00:00",
+  "duration": "15h 0m",
+  "distance": "838 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

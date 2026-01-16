@@ -1,0 +1,30 @@
+{
+  "number": "58422",
+  "name": "Puri Angul Fast Passenger",
+  "type": "Pass",
+  "source": "PURI",
+  "sourceCode": "PURI",
+  "destination": "ANGUL",
+  "destinationCode": "ANGL",
+  "departureTime": "16:20:00",
+  "arrivalTime": "21:35:00",
+  "duration": "5h 15m",
+  "distance": "195 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

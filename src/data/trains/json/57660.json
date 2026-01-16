@@ -1,0 +1,30 @@
+{
+  "number": "57660",
+  "name": "Falaknuma Gulbarga Passenger",
+  "type": "Pass",
+  "source": "KACHEGUDA FALAKNUMA",
+  "sourceCode": "FM",
+  "destination": "GULBARGA",
+  "destinationCode": "GR",
+  "departureTime": "05:05:00",
+  "arrivalTime": "12:40:00",
+  "duration": "7h 35m",
+  "distance": "235 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

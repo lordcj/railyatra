@@ -1,0 +1,30 @@
+{
+  "number": "55326",
+  "name": "KASGANJ LUCKNOW PASS",
+  "type": "Pass",
+  "source": "KASGANJ",
+  "sourceCode": "KSJ",
+  "destination": "LUCKNOW JN",
+  "destinationCode": "LJN",
+  "departureTime": "14:55:00",
+  "arrivalTime": "23:45:00",
+  "duration": "8h 50m",
+  "distance": "319 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "57563",
+  "name": "Hyderabad-Parbhani PASS",
+  "type": "Pass",
+  "source": "HYDERABAD DECCAN",
+  "sourceCode": "HYB",
+  "destination": "PARBHANI JN",
+  "destinationCode": "PBN",
+  "departureTime": "22:40:00",
+  "arrivalTime": "08:55:00",
+  "duration": "10h 15m",
+  "distance": "340 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "07404",
+  "name": "Nanded-Adilabad Special",
+  "type": "Pass",
+  "source": "HUZUR SAHIB NANDED",
+  "sourceCode": "NED",
+  "destination": "ADILABAD",
+  "destinationCode": "ADB",
+  "departureTime": "15:00:00",
+  "arrivalTime": "19:30:00",
+  "duration": "4h 30m",
+  "distance": "185 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

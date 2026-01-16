@@ -1,0 +1,30 @@
+{
+  "number": "12238",
+  "name": "Jammu-Varanasi SF Express",
+  "type": "SF",
+  "source": "JAMMU TAWI",
+  "sourceCode": "JAT",
+  "destination": "VARANASI JN",
+  "destinationCode": "BSB",
+  "departureTime": "14:00:00",
+  "arrivalTime": "13:00:00",
+  "duration": "23h 0m",
+  "distance": "1261 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

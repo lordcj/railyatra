@@ -1,0 +1,31 @@
+{
+  "number": "18645",
+  "name": "East Coast Express",
+  "type": "Exp",
+  "source": "HOWRAH JN",
+  "sourceCode": "HWH",
+  "destination": "HYDERABAD DECCAN",
+  "destinationCode": "HYB",
+  "departureTime": "11:45:00",
+  "arrivalTime": "18:30:00",
+  "duration": "30h 45m",
+  "distance": "1592 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

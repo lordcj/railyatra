@@ -1,0 +1,31 @@
+{
+  "number": "18048",
+  "name": "VASCO-DA-GAMA - HOWRAH Amaravati Exp",
+  "type": "Exp",
+  "source": "VASCO DA GAMA",
+  "sourceCode": "VSG",
+  "destination": "HOWRAH JN",
+  "destinationCode": "HWH",
+  "departureTime": "07:10:00",
+  "arrivalTime": "22:25:00",
+  "duration": "39h 15m",
+  "distance": "2147 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

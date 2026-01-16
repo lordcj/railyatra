@@ -1,0 +1,30 @@
+{
+  "number": "54581",
+  "name": "Nangal Dam Una Himachal Passenger",
+  "type": "Pass",
+  "source": "NANGAL DAM",
+  "sourceCode": "NLDM",
+  "destination": "Una Himachal",
+  "destinationCode": "UHL",
+  "departureTime": "19:45:00",
+  "arrivalTime": "20:20:00",
+  "duration": "0h 35m",
+  "distance": "17 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

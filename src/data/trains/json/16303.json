@@ -1,0 +1,29 @@
+{
+  "number": "16303",
+  "name": "Vanchinad Express",
+  "type": "Exp",
+  "source": "ERNAKULAM JN",
+  "sourceCode": "ERS",
+  "destination": "TRIVANDRUM CENTRAL",
+  "destinationCode": "TVC",
+  "departureTime": "05:00:00",
+  "arrivalTime": "09:40:00",
+  "duration": "4h 40m",
+  "distance": "220 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

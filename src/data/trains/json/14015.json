@@ -1,0 +1,30 @@
+{
+  "number": "14015",
+  "name": "Sadbhavna Express",
+  "type": "Exp",
+  "source": "RAXAUL JN",
+  "sourceCode": "RXL",
+  "destination": "OLD DELHI",
+  "destinationCode": "DLI",
+  "departureTime": "00:35:00",
+  "arrivalTime": "04:50:00",
+  "duration": "28h 15m",
+  "distance": "1236 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

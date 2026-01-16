@@ -1,0 +1,29 @@
+{
+  "number": "12022",
+  "name": "Barbil Howrah Janshatabdi",
+  "type": "JShtb",
+  "source": "Barbil",
+  "sourceCode": "BBN",
+  "destination": "HOWRAH JN",
+  "destinationCode": "HWH",
+  "departureTime": "13:45:00",
+  "arrivalTime": "20:50:00",
+  "duration": "7h 5m",
+  "distance": "398 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "55552",
+  "name": "Hajipur-Barauni Passenger",
+  "type": "Pass",
+  "source": "HAJIPUR JN",
+  "sourceCode": "HJP",
+  "destination": "BARAUNI JN",
+  "destinationCode": "BJU",
+  "departureTime": "18:45:00",
+  "arrivalTime": "22:25:00",
+  "duration": "3h 40m",
+  "distance": "88 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

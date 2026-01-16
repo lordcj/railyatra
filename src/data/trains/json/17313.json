@@ -1,0 +1,31 @@
+{
+  "number": "17313",
+  "name": "CHENNAI CENT - HUBLI Weekly Exp",
+  "type": "Exp",
+  "source": "CHENNAI CENTRAL",
+  "sourceCode": "MAS",
+  "destination": "HUBLI JN",
+  "destinationCode": "UBL",
+  "departureTime": "14:10:00",
+  "arrivalTime": "06:45:00",
+  "duration": "16h 35m",
+  "distance": "834 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

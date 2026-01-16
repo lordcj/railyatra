@@ -1,0 +1,29 @@
+{
+  "number": "12871",
+  "name": "HOWRAH - TITLAGARH Ispat Exp",
+  "type": "SF",
+  "source": "HOWRAH JN",
+  "sourceCode": "HWH",
+  "destination": "TITLAGARH",
+  "destinationCode": "TIG",
+  "departureTime": "06:55:00",
+  "arrivalTime": "20:20:00",
+  "duration": "13h 25m",
+  "distance": "745 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

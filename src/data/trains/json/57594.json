@@ -1,0 +1,29 @@
+{
+  "number": "57594",
+  "name": "Nanded Kacheguda Passenger",
+  "type": "Pass",
+  "source": "HUZUR SAHIB NANDED",
+  "sourceCode": "NED",
+  "destination": "KACHEGUDA",
+  "destinationCode": "KCG",
+  "departureTime": "04:55:00",
+  "arrivalTime": "13:30:00",
+  "duration": "8h 35m",
+  "distance": "276 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

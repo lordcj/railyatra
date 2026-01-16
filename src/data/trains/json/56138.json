@@ -1,0 +1,30 @@
+{
+  "number": "56138",
+  "name": "Coonoor Udagamandalam Passenger",
+  "type": "Pass",
+  "source": "Coonoor",
+  "sourceCode": "ONR",
+  "destination": "Udagamandalam",
+  "destinationCode": "UAM",
+  "departureTime": "16:30:00",
+  "arrivalTime": "17:45:00",
+  "duration": "1h 15m",
+  "distance": "19 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

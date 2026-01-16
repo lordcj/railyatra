@@ -1,0 +1,31 @@
+{
+  "number": "14318",
+  "name": "DEHRADUN - INDORE Exp",
+  "type": "Exp",
+  "source": "DEHRADUN",
+  "sourceCode": "DDN",
+  "destination": "INDORE JN BG",
+  "destinationCode": "INDB",
+  "departureTime": "06:00:00",
+  "arrivalTime": "06:35:00",
+  "duration": "24h 35m",
+  "distance": "1179 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

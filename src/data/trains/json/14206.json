@@ -1,0 +1,31 @@
+{
+  "number": "14206",
+  "name": "Delhi-Faizabad Express",
+  "type": "Exp",
+  "source": "OLD DELHI",
+  "sourceCode": "DLI",
+  "destination": "FAIZABAD JN",
+  "destinationCode": "FD",
+  "departureTime": "18:40:00",
+  "arrivalTime": "07:20:00",
+  "duration": "12h 40m",
+  "distance": "615 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

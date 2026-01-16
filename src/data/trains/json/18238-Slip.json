@@ -1,0 +1,32 @@
+{
+  "number": "18238-Slip",
+  "name": "Chhattisgarh Express Slip",
+  "type": "Exp",
+  "source": "AMRITSAR JN",
+  "sourceCode": "ASR",
+  "destination": "Chhindwara Junction",
+  "destinationCode": "CWA",
+  "departureTime": "16:15:00",
+  "arrivalTime": "04:30:00",
+  "duration": "36h 15m",
+  "distance": "1557 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "52302",
+  "name": "Katwa Balgona Local",
+  "type": "Pass",
+  "source": "Katwa",
+  "sourceCode": "KWF",
+  "destination": "Balgona",
+  "destinationCode": "BGNA",
+  "departureTime": "03:50:00",
+  "arrivalTime": "05:50:00",
+  "duration": "2h 0m",
+  "distance": "27 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

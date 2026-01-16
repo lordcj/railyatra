@@ -1,0 +1,31 @@
+{
+  "number": "13252",
+  "name": "Rajendra Nagar Islampur Express",
+  "type": "Exp",
+  "source": "RAJENDRA NAGAR BIHAR",
+  "sourceCode": "RJPB",
+  "destination": "Islampur",
+  "destinationCode": "IPR",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "duration": "2h 0m",
+  "distance": "63 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

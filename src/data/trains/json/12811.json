@@ -1,0 +1,31 @@
+{
+  "number": "12811",
+  "name": "MUMBAI - HATIA LTT SF Exp",
+  "type": "SF",
+  "source": "LOKMANYA TILAK TERM",
+  "sourceCode": "LTT",
+  "destination": "HATIA",
+  "destinationCode": "HTE",
+  "departureTime": "00:15:00",
+  "arrivalTime": "03:45:00",
+  "duration": "27h 30m",
+  "distance": "1706 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

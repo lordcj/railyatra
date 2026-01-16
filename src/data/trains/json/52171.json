@@ -1,0 +1,30 @@
+{
+  "number": "52171",
+  "name": "Gwalior Sheopur Passenger",
+  "type": "Pass",
+  "source": "Gwalior NG",
+  "sourceCode": "GWO",
+  "destination": "Sheopur Kalan",
+  "destinationCode": "SOE",
+  "departureTime": "06:25:00",
+  "arrivalTime": "16:25:00",
+  "duration": "10h 0m",
+  "distance": "200 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

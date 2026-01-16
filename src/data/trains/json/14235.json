@@ -1,0 +1,30 @@
+{
+  "number": "14235",
+  "name": "Varanasi Bareilly Express",
+  "type": "Exp",
+  "source": "VARANASI JN",
+  "sourceCode": "BSB",
+  "destination": "BAREILLY",
+  "destinationCode": "BE",
+  "departureTime": "23:45:00",
+  "arrivalTime": "13:50:00",
+  "duration": "14h 5m",
+  "distance": "559 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

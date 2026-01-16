@@ -1,0 +1,32 @@
+{
+  "number": "12559",
+  "name": "Shiv Ganga Express",
+  "type": "SF",
+  "source": "VARANASI JN",
+  "sourceCode": "BSB",
+  "destination": "NEW DELHI",
+  "destinationCode": "NDLS",
+  "departureTime": "19:15:00",
+  "arrivalTime": "07:40:00",
+  "duration": "12h 25m",
+  "distance": "758 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

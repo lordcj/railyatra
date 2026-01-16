@@ -1,0 +1,29 @@
+{
+  "number": "15109",
+  "name": "Budhpurnima Express",
+  "type": "Exp",
+  "source": "Rajgir",
+  "sourceCode": "RGD",
+  "destination": "VARANASI JN",
+  "destinationCode": "BSB",
+  "departureTime": "23:30:00",
+  "arrivalTime": "08:40:00",
+  "duration": "9h 10m",
+  "distance": "410 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

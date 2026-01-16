@@ -1,0 +1,30 @@
+{
+  "number": "22861",
+  "name": "Rajya Rani Express",
+  "type": "SF",
+  "source": "KOLKATA SHALIMAR",
+  "sourceCode": "SHM",
+  "destination": "BANKURA",
+  "destinationCode": "BQA",
+  "departureTime": "06:40:00",
+  "arrivalTime": "10:55:00",
+  "duration": "4h 15m",
+  "distance": "229 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

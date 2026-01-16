@@ -1,0 +1,29 @@
+{
+  "number": "12705",
+  "name": "Guntur-Secunderabad SF Intercity",
+  "type": "SF",
+  "source": "GUNTUR JN",
+  "sourceCode": "GNT",
+  "destination": "SECUNDERABAD JN",
+  "destinationCode": "SC",
+  "departureTime": "15:00:00",
+  "arrivalTime": "21:50:00",
+  "duration": "6h 50m",
+  "distance": "383 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

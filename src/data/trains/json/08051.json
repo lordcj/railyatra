@@ -1,0 +1,30 @@
+{
+  "number": "08051",
+  "name": "Kharagpur- Jhargram MEMU Special",
+  "type": "MEMU",
+  "source": "KHARAGPUR JN",
+  "sourceCode": "KGP",
+  "destination": "JHARGRAM",
+  "destinationCode": "JGM",
+  "departureTime": "06:07:00",
+  "arrivalTime": "06:45:00",
+  "duration": "0h 38m",
+  "distance": "38 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

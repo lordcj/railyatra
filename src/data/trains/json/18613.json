@@ -1,0 +1,30 @@
+{
+  "number": "18613",
+  "name": "Ranchi Chopan Express",
+  "type": "Exp",
+  "source": "RANCHI",
+  "sourceCode": "RNC",
+  "destination": "CHOPAN",
+  "destinationCode": "CPU",
+  "departureTime": "07:50:00",
+  "arrivalTime": "17:25:00",
+  "duration": "9h 35m",
+  "distance": "480 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "55012",
+  "name": "Gorakhpur Siwan Passenger",
+  "type": "Pass",
+  "source": "GORAKHPUR JN",
+  "sourceCode": "GKP",
+  "destination": "SIWAN JN",
+  "destinationCode": "SV",
+  "departureTime": "18:30:00",
+  "arrivalTime": "22:20:00",
+  "duration": "3h 50m",
+  "distance": "119 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

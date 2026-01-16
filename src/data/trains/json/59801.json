@@ -1,0 +1,31 @@
+{
+  "number": "59801",
+  "name": "Kota Jaipur Passenger",
+  "type": "Pass",
+  "source": "KOTA JN",
+  "sourceCode": "KOTA",
+  "destination": "JAIPUR",
+  "destinationCode": "JP",
+  "departureTime": "23:45:00",
+  "arrivalTime": "04:30:00",
+  "duration": "4h 45m",
+  "distance": "240 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

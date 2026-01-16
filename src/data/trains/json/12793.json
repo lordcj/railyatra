@@ -1,0 +1,32 @@
+{
+  "number": "12793",
+  "name": "Chennai Egmore Madurai BI-Weekly Superfast Express",
+  "type": "SF",
+  "source": "CHENNAI EGMORE",
+  "sourceCode": "MS",
+  "destination": "MADURAI JN",
+  "destinationCode": "MDU",
+  "departureTime": "22:45:00",
+  "arrivalTime": "08:50:00",
+  "duration": "10h 5m",
+  "distance": "561 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

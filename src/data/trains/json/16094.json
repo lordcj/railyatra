@@ -1,0 +1,30 @@
+{
+  "number": "16094",
+  "name": "Lucknow Chennai Express",
+  "type": "Exp",
+  "source": "LUCKNOW JN",
+  "sourceCode": "LJN",
+  "destination": "CHENNAI CENTRAL",
+  "destinationCode": "MAS",
+  "departureTime": "16:20:00",
+  "arrivalTime": "10:10:00",
+  "duration": "41h 50m",
+  "distance": "2088 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

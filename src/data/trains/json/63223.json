@@ -1,0 +1,30 @@
+{
+  "number": "63223",
+  "name": "Patna Ara Passenger DEMU",
+  "type": "MEMU",
+  "source": "PATNA JN",
+  "sourceCode": "PNBE",
+  "destination": "ARA",
+  "destinationCode": "ARA",
+  "departureTime": "20:30:00",
+  "arrivalTime": "22:20:00",
+  "duration": "1h 50m",
+  "distance": "49 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

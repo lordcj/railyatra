@@ -1,0 +1,31 @@
+{
+  "number": "18621",
+  "name": "Patliputra Express",
+  "type": "Exp",
+  "source": "PATNA JN",
+  "sourceCode": "PNBE",
+  "destination": "HATIA",
+  "destinationCode": "HTE",
+  "departureTime": "15:25:00",
+  "arrivalTime": "05:05:00",
+  "duration": "13h 40m",
+  "distance": "547 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

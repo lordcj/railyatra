@@ -1,0 +1,30 @@
+{
+  "number": "55794",
+  "name": "Bamanhat New Jalpaiguri Passenger",
+  "type": "Pass",
+  "source": "Bamanhat",
+  "sourceCode": "BXT",
+  "destination": "NEW JALPAIGURI",
+  "destinationCode": "NJP",
+  "departureTime": "09:40:00",
+  "arrivalTime": "18:05:00",
+  "duration": "8h 25m",
+  "distance": "240 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

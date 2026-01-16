@@ -1,0 +1,30 @@
+{
+  "number": "55042",
+  "name": "Gorakhpur Hajipur Passenger",
+  "type": "Pass",
+  "source": "GORAKHPUR JN",
+  "sourceCode": "GKP",
+  "destination": "SONPUR JN",
+  "destinationCode": "SEE",
+  "departureTime": "02:50:00",
+  "arrivalTime": "15:45:00",
+  "duration": "12h 55m",
+  "distance": "369 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

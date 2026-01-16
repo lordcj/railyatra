@@ -1,0 +1,30 @@
+{
+  "number": "56640",
+  "name": "Mangalore-Verna Passenger",
+  "type": "Pass",
+  "source": "MANGALORE CNTL",
+  "sourceCode": "MAQ",
+  "destination": "VERNA",
+  "destinationCode": "VEN",
+  "departureTime": "06:20:00",
+  "arrivalTime": "13:20:00",
+  "duration": "7h 0m",
+  "distance": "454 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "KR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

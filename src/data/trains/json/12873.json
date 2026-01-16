@@ -1,0 +1,31 @@
+{
+  "number": "12873",
+  "name": "Jharkhand Swarna Jayanti Express",
+  "type": "SF",
+  "source": "HATIA",
+  "sourceCode": "HTE",
+  "destination": "ANAND VIHAR TRM",
+  "destinationCode": "ANVT",
+  "departureTime": "13:40:00",
+  "arrivalTime": "13:50:00",
+  "duration": "24h 10m",
+  "distance": "1334 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

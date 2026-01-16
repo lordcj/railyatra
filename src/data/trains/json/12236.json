@@ -1,0 +1,31 @@
+{
+  "number": "12236",
+  "name": "NEW DELHI - DIBRUGARH Rajdhani Exp",
+  "type": "Raj",
+  "source": "NEW DELHI",
+  "sourceCode": "NDLS",
+  "destination": "DIBRUGARH",
+  "destinationCode": "DBRG",
+  "departureTime": "09:30:00",
+  "arrivalTime": "05:45:00",
+  "duration": "44h 15m",
+  "distance": "2474 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

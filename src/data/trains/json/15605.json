@@ -1,0 +1,30 @@
+{
+  "number": "15605",
+  "name": "Jorhat Town InterCity Express",
+  "type": "Exp",
+  "source": "GUWAHATI",
+  "sourceCode": "GHY",
+  "destination": "MARIANI JN",
+  "destinationCode": "MXN",
+  "departureTime": "22:30:00",
+  "arrivalTime": "09:30:00",
+  "duration": "11h 0m",
+  "distance": "405 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

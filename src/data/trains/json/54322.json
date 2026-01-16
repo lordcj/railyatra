@@ -1,0 +1,30 @@
+{
+  "number": "54322",
+  "name": "Sitapur Cantt Balamau Passenger",
+  "type": "Pass",
+  "source": "SITAPUR CANT",
+  "sourceCode": "SCC",
+  "destination": "BALAMU JN",
+  "destinationCode": "BLM",
+  "departureTime": "18:15:00",
+  "arrivalTime": "20:50:00",
+  "duration": "2h 35m",
+  "distance": "69 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "14008",
+  "name": "Old Delhi-Muzaffarpur Sadbhavana Express",
+  "type": "Exp",
+  "source": "OLD DELHI",
+  "sourceCode": "DLI",
+  "destination": "MUZAFFARPUR JN",
+  "destinationCode": "MFP",
+  "departureTime": "16:20:00",
+  "arrivalTime": "18:00:00",
+  "duration": "25h 40m",
+  "distance": "1106 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

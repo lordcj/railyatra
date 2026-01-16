@@ -1,0 +1,32 @@
+{
+  "number": "12556",
+  "name": "Gorakhdham Express",
+  "type": "SF",
+  "source": "Hisar",
+  "sourceCode": "HSR",
+  "destination": "GORAKHPUR JN",
+  "destinationCode": "GKP",
+  "departureTime": "16:35:00",
+  "arrivalTime": "10:00:00",
+  "duration": "17h 25m",
+  "distance": "962 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

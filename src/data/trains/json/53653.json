@@ -1,0 +1,30 @@
+{
+  "number": "53653",
+  "name": "Patna Gaya Passenger",
+  "type": "Pass",
+  "source": "PATNA JN",
+  "sourceCode": "PNBE",
+  "destination": "GAYA JN",
+  "destinationCode": "GAYA",
+  "departureTime": "19:30:00",
+  "arrivalTime": "22:45:00",
+  "duration": "3h 15m",
+  "distance": "92 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

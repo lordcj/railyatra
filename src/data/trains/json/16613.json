@@ -1,0 +1,31 @@
+{
+  "number": "16613",
+  "name": "RAJKOT - COIMBATORE Exp",
+  "type": "Exp",
+  "source": "RAJKOT JN",
+  "sourceCode": "RJT",
+  "destination": "COIMBATORE JN",
+  "destinationCode": "CBE",
+  "departureTime": "05:00:00",
+  "arrivalTime": "02:00:00",
+  "duration": "45h 0m",
+  "distance": "2237 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

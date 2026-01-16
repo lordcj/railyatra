@@ -1,0 +1,13 @@
+{
+  "code": "BSBS",
+  "name": "Varanasi City",
+  "fullName": "Varanasi City Railway Station",
+  "zone": "NER",
+  "state": "Uttar Pradesh",
+  "category": "B",
+  "platforms": 4,
+  "connectivity": [
+    "Bus",
+    "Taxi"
+  ]
+}

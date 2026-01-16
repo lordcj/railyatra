@@ -1,0 +1,31 @@
+{
+  "number": "12162",
+  "name": "Lashkar Express",
+  "type": "SF",
+  "source": "AGRA CANTT",
+  "sourceCode": "AGC",
+  "destination": "LOKMANYA TILAK TERM",
+  "destinationCode": "LTT",
+  "departureTime": "23:50:00",
+  "arrivalTime": "22:45:00",
+  "duration": "22h 55m",
+  "distance": "1334 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

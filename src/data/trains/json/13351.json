@@ -1,0 +1,31 @@
+{
+  "number": "13351",
+  "name": "DHANBAD - ALAPPUZHA Exp",
+  "type": "Exp",
+  "source": "DHANBAD JN",
+  "sourceCode": "DHN",
+  "destination": "ALLEPPEY",
+  "destinationCode": "ALLP",
+  "departureTime": "10:50:00",
+  "arrivalTime": "20:25:00",
+  "duration": "57h 35m",
+  "distance": "2536 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

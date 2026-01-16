@@ -1,0 +1,30 @@
+{
+  "number": "59119",
+  "name": "Pratapnagar Chhota Udepur Passenger",
+  "type": "Pass",
+  "source": "Pratapnagar",
+  "sourceCode": "PRTN",
+  "destination": "Chhota Udepur",
+  "destinationCode": "CTD",
+  "departureTime": "18:15:00",
+  "arrivalTime": "21:10:00",
+  "duration": "2h 55m",
+  "distance": "99 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,31 @@
+{
+  "number": "12264",
+  "name": "Hazrat Nizamuddin-Pune AC Duronto Express",
+  "type": "Drnt",
+  "source": "DELHI H NIZAMUDDIN",
+  "sourceCode": "NZM",
+  "destination": "PUNE JN",
+  "destinationCode": "PUNE",
+  "departureTime": "11:00:00",
+  "arrivalTime": "07:00:00",
+  "duration": "20h 0m",
+  "distance": "1508 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

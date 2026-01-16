@@ -1,0 +1,29 @@
+{
+  "number": "18235-Slip",
+  "name": "Bilaspur Express Passenger Slip",
+  "type": "Pass",
+  "source": "BHOPAL JN",
+  "sourceCode": "BPL",
+  "destination": "Chirmiri",
+  "destinationCode": "CHRM",
+  "departureTime": "08:00:00",
+  "arrivalTime": "08:05:00",
+  "duration": "24h 5m",
+  "distance": "653 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "54006",
+  "name": "JIND - ROHTAK  Passenger (UnReserved)",
+  "type": "Pass",
+  "source": "JIND JN",
+  "sourceCode": "JIND",
+  "destination": "ROHTAK JN",
+  "destinationCode": "ROK",
+  "departureTime": "04:35:00",
+  "arrivalTime": "09:05:00",
+  "duration": "4h 30m",
+  "distance": "141 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

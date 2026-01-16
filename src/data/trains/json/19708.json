@@ -1,0 +1,31 @@
+{
+  "number": "19708",
+  "name": "Aravalli Express",
+  "type": "Exp",
+  "source": "JAIPUR",
+  "sourceCode": "JP",
+  "destination": "MUMBAI BANDRA TERMINUS",
+  "destinationCode": "BDTS",
+  "departureTime": "09:00:00",
+  "arrivalTime": "06:45:00",
+  "duration": "21h 45m",
+  "distance": "1106 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

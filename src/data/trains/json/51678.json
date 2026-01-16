@@ -1,0 +1,30 @@
+{
+  "number": "51678",
+  "name": "Shaktinagar Chopan Passenger",
+  "type": "Pass",
+  "source": "Shakti Nagar",
+  "sourceCode": "SKTN",
+  "destination": "CHOPAN",
+  "destinationCode": "CPU",
+  "departureTime": "13:10:00",
+  "arrivalTime": "15:50:00",
+  "duration": "2h 40m",
+  "distance": "83 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

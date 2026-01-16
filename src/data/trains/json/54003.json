@@ -1,0 +1,30 @@
+{
+  "number": "54003",
+  "name": "H Nizamuddin Kosi Kalan",
+  "type": "Pass",
+  "source": "KOSI KALAN",
+  "sourceCode": "KSV",
+  "destination": "DELHI H NIZAMUDDIN",
+  "destinationCode": "NZM",
+  "departureTime": "12:55:00",
+  "arrivalTime": "16:15:00",
+  "duration": "3h 20m",
+  "distance": "93 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

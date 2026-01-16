@@ -1,0 +1,30 @@
+{
+  "number": "52255",
+  "name": "Gonda Bareilly Passenger",
+  "type": "Pass",
+  "source": "GONDA JN",
+  "sourceCode": "GD",
+  "destination": "BAREILLY",
+  "destinationCode": "BRY",
+  "departureTime": "06:30:00",
+  "arrivalTime": "19:20:00",
+  "duration": "12h 50m",
+  "distance": "455 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "55348",
+  "name": "LAL KUAN - BAREILLY CITY  PASSENGER",
+  "type": "Pass",
+  "source": "LAL KUAN",
+  "sourceCode": "LKU",
+  "destination": "BAREILLY CITY",
+  "destinationCode": "BC",
+  "departureTime": "08:30:00",
+  "arrivalTime": "11:10:00",
+  "duration": "2h 40m",
+  "distance": "105 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

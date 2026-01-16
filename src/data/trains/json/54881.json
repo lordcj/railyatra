@@ -1,0 +1,30 @@
+{
+  "number": "54881",
+  "name": "Barmer Munabao Passenger",
+  "type": "Pass",
+  "source": "BARMER",
+  "sourceCode": "BME",
+  "destination": "Munabao",
+  "destinationCode": "MBF",
+  "departureTime": "07:30:00",
+  "arrivalTime": "09:40:00",
+  "duration": "2h 10m",
+  "distance": "119 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

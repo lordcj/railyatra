@@ -1,0 +1,30 @@
+{
+  "number": "55328",
+  "name": "Farrukhabad Kanpur Passenger",
+  "type": "Pass",
+  "source": "FARRUKHABAD",
+  "sourceCode": "FBD",
+  "destination": "KANPUR CENTRAL",
+  "destinationCode": "CNB",
+  "departureTime": "05:35:00",
+  "arrivalTime": "09:30:00",
+  "duration": "3h 55m",
+  "distance": "140 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

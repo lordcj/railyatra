@@ -1,0 +1,32 @@
+{
+  "number": "11012",
+  "name": "Mahalaxmi Express",
+  "type": "Exp",
+  "source": "C SHAHU M RAJ KOLHAPUR TERM",
+  "sourceCode": "KOP",
+  "destination": "MUMBAI CST",
+  "destinationCode": "CSTM",
+  "departureTime": "20:30:00",
+  "arrivalTime": "07:25:00",
+  "duration": "10h 55m",
+  "distance": "518 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

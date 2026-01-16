@@ -1,0 +1,30 @@
+{
+  "number": "52932",
+  "name": "Dhasa Jetalsar Passenger",
+  "type": "Pass",
+  "source": "DHASA JN",
+  "sourceCode": "DAS",
+  "destination": "JETALSAR JN",
+  "destinationCode": "JLR",
+  "departureTime": "17:30:00",
+  "arrivalTime": "19:55:00",
+  "duration": "2h 25m",
+  "distance": "105 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

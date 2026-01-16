@@ -1,0 +1,30 @@
+{
+  "number": "63227",
+  "name": "Patna Buxar Passenger MEMU",
+  "type": "MEMU",
+  "source": "PATNA JN",
+  "sourceCode": "PNBE",
+  "destination": "BUXAR",
+  "destinationCode": "BXR",
+  "departureTime": "07:40:00",
+  "arrivalTime": "11:00:00",
+  "duration": "3h 20m",
+  "distance": "117 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

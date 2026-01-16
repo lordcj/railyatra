@@ -1,0 +1,30 @@
+{
+  "number": "51034",
+  "name": "Sainagar Shirdi-Mumbai Fast Passenger(Via Daund)",
+  "type": "Pass",
+  "source": "SAINAGAR SHIRDI",
+  "sourceCode": "SNSI",
+  "destination": "MUMBAI CST",
+  "destinationCode": "CSTM",
+  "departureTime": "16:40:00",
+  "arrivalTime": "04:10:00",
+  "duration": "11h 30m",
+  "distance": "455 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,29 @@
+{
+  "number": "51030",
+  "name": "Bijapur Mumbai Fast Passenger",
+  "type": "Pass",
+  "source": "BIJAPUR",
+  "sourceCode": "BJP",
+  "destination": "MUMBAI CST",
+  "destinationCode": "CSTM",
+  "departureTime": "15:00:00",
+  "arrivalTime": "04:10:00",
+  "duration": "13h 10m",
+  "distance": "564 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

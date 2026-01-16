@@ -1,0 +1,29 @@
+{
+  "number": "12922",
+  "name": "Flying Rani Express",
+  "type": "SF",
+  "source": "SURAT",
+  "sourceCode": "ST",
+  "destination": "Mumbai Central",
+  "destinationCode": "BCT",
+  "departureTime": "05:25:00",
+  "arrivalTime": "10:10:00",
+  "duration": "4h 45m",
+  "distance": "263 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

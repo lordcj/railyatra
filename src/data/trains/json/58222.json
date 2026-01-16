@@ -1,0 +1,29 @@
+{
+  "number": "58222",
+  "name": "Chandia Chirmiri Passenger",
+  "type": "Pass",
+  "source": "CHANDIA ROAD",
+  "sourceCode": "CHD",
+  "destination": "Chirmiri",
+  "destinationCode": "CHRM",
+  "departureTime": "14:15:00",
+  "arrivalTime": "19:40:00",
+  "duration": "5h 25m",
+  "distance": "214 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

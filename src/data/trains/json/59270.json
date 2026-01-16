@@ -1,0 +1,30 @@
+{
+  "number": "59270",
+  "name": "Bhavnagar Palitana Passenger",
+  "type": "Pass",
+  "source": "BHAVNAGAR TERMINUS",
+  "sourceCode": "BVC",
+  "destination": "Palitana",
+  "destinationCode": "PIT",
+  "departureTime": "18:15:00",
+  "arrivalTime": "19:30:00",
+  "duration": "1h 15m",
+  "distance": "49 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

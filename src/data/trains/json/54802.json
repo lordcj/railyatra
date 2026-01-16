@@ -1,0 +1,30 @@
+{
+  "number": "54802",
+  "name": "AJMER - JODHPUR Fast Passenger",
+  "type": "Pass",
+  "source": "AJMER JN",
+  "sourceCode": "AII",
+  "destination": "JODHPUR JN",
+  "destinationCode": "JU",
+  "departureTime": "14:30:00",
+  "arrivalTime": "19:30:00",
+  "duration": "5h 0m",
+  "distance": "244 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

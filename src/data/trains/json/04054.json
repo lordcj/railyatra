@@ -1,0 +1,29 @@
+{
+  "number": "04054",
+  "name": "Jammu Tawi-Anand Vihar Special",
+  "type": "Exp",
+  "source": "JAMMU TAWI",
+  "sourceCode": "JAT",
+  "destination": "ANAND VIHAR TRM",
+  "destinationCode": "ANVT",
+  "departureTime": "17:30:00",
+  "arrivalTime": "05:40:00",
+  "duration": "12h 10m",
+  "distance": "633 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

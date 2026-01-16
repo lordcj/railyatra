@@ -1,0 +1,30 @@
+{
+  "number": "58610",
+  "name": "Chakradharpur Tatanagar Passenger",
+  "type": "Pass",
+  "source": "CHAKRADHARPUR",
+  "sourceCode": "CKP",
+  "destination": "TATANAGAR JN",
+  "destinationCode": "TATA",
+  "departureTime": "06:00:00",
+  "arrivalTime": "07:45:00",
+  "duration": "1h 45m",
+  "distance": "62 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

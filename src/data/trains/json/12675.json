@@ -1,0 +1,29 @@
+{
+  "number": "12675",
+  "name": "Kovai Express",
+  "type": "SF",
+  "source": "CHENNAI CENTRAL",
+  "sourceCode": "MAS",
+  "destination": "COIMBATORE JN",
+  "destinationCode": "CBE",
+  "departureTime": "06:15:00",
+  "arrivalTime": "13:55:00",
+  "duration": "7h 40m",
+  "distance": "497 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

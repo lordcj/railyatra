@@ -1,0 +1,30 @@
+{
+  "number": "19215",
+  "name": "Saurashtra Express",
+  "type": "Exp",
+  "source": "Mumbai Central",
+  "sourceCode": "BCT",
+  "destination": "PORBANDAR",
+  "destinationCode": "PBR",
+  "departureTime": "08:20:00",
+  "arrivalTime": "05:50:00",
+  "duration": "21h 30m",
+  "distance": "955 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

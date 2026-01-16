@@ -1,0 +1,30 @@
+{
+  "number": "57220",
+  "name": "Macherla Guntur Passenger",
+  "type": "Pass",
+  "source": "Macherla",
+  "sourceCode": "MCLA",
+  "destination": "GUNTUR JN",
+  "destinationCode": "GNT",
+  "departureTime": "16:30:00",
+  "arrivalTime": "19:40:00",
+  "duration": "3h 10m",
+  "distance": "130 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,32 @@
+{
+  "number": "12964",
+  "name": "Mewar Express",
+  "type": "SF",
+  "source": "UDAIPUR CITY",
+  "sourceCode": "UDZ",
+  "destination": "DELHI H NIZAMUDDIN",
+  "destinationCode": "NZM",
+  "departureTime": "18:15:00",
+  "arrivalTime": "06:30:00",
+  "duration": "12h 15m",
+  "distance": "743 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "56516",
+  "name": "HUBLI - BANGALORE CY Passenger",
+  "type": "Pass",
+  "source": "HUBLI JN",
+  "sourceCode": "UBL",
+  "destination": "BANGALORE CITY JN",
+  "destinationCode": "SBC",
+  "departureTime": "07:15:00",
+  "arrivalTime": "20:00:00",
+  "duration": "12h 45m",
+  "distance": "471 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

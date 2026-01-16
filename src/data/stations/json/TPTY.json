@@ -1,0 +1,13 @@
+{
+  "code": "TPTY",
+  "name": "Tirupati",
+  "fullName": "Tirupati Railway Station",
+  "zone": "SCR",
+  "state": "Andhra Pradesh",
+  "category": "A1",
+  "platforms": 5,
+  "connectivity": [
+    "Bus",
+    "Taxi"
+  ]
+}

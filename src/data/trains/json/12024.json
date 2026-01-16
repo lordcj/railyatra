@@ -1,0 +1,29 @@
+{
+  "number": "12024",
+  "name": "Patna-Howrah Jan Shatabdi",
+  "type": "JShtb",
+  "source": "PATNA JN",
+  "sourceCode": "PNBE",
+  "destination": "HOWRAH JN",
+  "destinationCode": "HWH",
+  "departureTime": "05:45:00",
+  "arrivalTime": "13:25:00",
+  "duration": "7h 40m",
+  "distance": "532 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

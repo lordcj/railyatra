@@ -1,0 +1,31 @@
+{
+  "number": "12145",
+  "name": "MUMBAI LTT - PURI SF Exp",
+  "type": "SF",
+  "source": "LOKMANYA TILAK TERM",
+  "sourceCode": "LTT",
+  "destination": "PURI",
+  "destinationCode": "PURI",
+  "departureTime": "20:35:00",
+  "arrivalTime": "05:30:00",
+  "duration": "32h 55m",
+  "distance": "1818 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

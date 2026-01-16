@@ -1,0 +1,30 @@
+{
+  "number": "59297",
+  "name": "Porbandar Veraval Passenger",
+  "type": "Pass",
+  "source": "PORBANDAR",
+  "sourceCode": "PBR",
+  "destination": "VERAVAL",
+  "destinationCode": "VRL",
+  "departureTime": "05:55:00",
+  "arrivalTime": "11:00:00",
+  "duration": "5h 5m",
+  "distance": "232 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

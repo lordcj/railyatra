@@ -1,0 +1,30 @@
+{
+  "number": "12687-Slip",
+  "name": "Chennai Chandigarh Express Slip",
+  "type": "SF",
+  "source": "CHENNAI CENTRAL",
+  "sourceCode": "MAS",
+  "destination": "DEHRADUN",
+  "destinationCode": "DDN",
+  "departureTime": "09:45:00",
+  "arrivalTime": "05:00:00",
+  "duration": "43h 15m",
+  "distance": "2488 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

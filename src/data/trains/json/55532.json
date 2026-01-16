@@ -1,0 +1,30 @@
+{
+  "number": "55532",
+  "name": "Barauni-Katihar Passenger",
+  "type": "Pass",
+  "source": "BARAUNI JN",
+  "sourceCode": "BJU",
+  "destination": "KATIHAR JN",
+  "destinationCode": "KIR",
+  "departureTime": "03:25:00",
+  "arrivalTime": "09:10:00",
+  "duration": "5h 45m",
+  "distance": "180 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

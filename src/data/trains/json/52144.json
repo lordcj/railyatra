@@ -1,0 +1,30 @@
+{
+  "number": "52144",
+  "name": "Arvi Pulgaon Passenger",
+  "type": "Pass",
+  "source": "Arvi",
+  "sourceCode": "ARVI",
+  "destination": "PULGAON JN",
+  "destinationCode": "PLO",
+  "departureTime": "12:10:00",
+  "arrivalTime": "15:30:00",
+  "duration": "3h 20m",
+  "distance": "39 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

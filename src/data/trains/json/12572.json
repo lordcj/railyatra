@@ -1,0 +1,31 @@
+{
+  "number": "12572",
+  "name": "Prashanti Nilayam Howrah SF Express",
+  "type": "SF",
+  "source": "SATYA SAI P NILAYAM",
+  "sourceCode": "SSPN",
+  "destination": "HOWRAH JN",
+  "destinationCode": "HWH",
+  "departureTime": "07:50:00",
+  "arrivalTime": "14:50:00",
+  "duration": "31h 0m",
+  "distance": "1763 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

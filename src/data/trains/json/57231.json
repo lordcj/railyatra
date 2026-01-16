@@ -1,0 +1,30 @@
+{
+  "number": "57231",
+  "name": "Vijayawada Kakinada Port Fast Passenger",
+  "type": "Pass",
+  "source": "VIJAYAWADA JN",
+  "sourceCode": "BZA",
+  "destination": "Kakinada Port",
+  "destinationCode": "COA",
+  "departureTime": "17:25:00",
+  "arrivalTime": "22:30:00",
+  "duration": "5h 5m",
+  "distance": "213 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

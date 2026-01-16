@@ -1,0 +1,32 @@
+{
+  "number": "16108",
+  "name": "Mangalore Chennai Egmore Express",
+  "type": "Exp",
+  "source": "MANGALORE CNTL",
+  "sourceCode": "MAQ",
+  "destination": "CHENNAI EGMORE",
+  "destinationCode": "MS",
+  "departureTime": "06:50:00",
+  "arrivalTime": "05:05:00",
+  "duration": "22h 15m",
+  "distance": "983 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

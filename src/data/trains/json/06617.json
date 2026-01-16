@@ -1,0 +1,31 @@
+{
+  "number": "06617",
+  "name": "Coimbatore-Nagercoil Special",
+  "type": "Exp",
+  "source": "COIMBATORE JN",
+  "sourceCode": "CBE",
+  "destination": "NAGERCOIL JN",
+  "destinationCode": "NCJ",
+  "departureTime": "20:20:00",
+  "arrivalTime": "06:40:00",
+  "duration": "10h 20m",
+  "distance": "497 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

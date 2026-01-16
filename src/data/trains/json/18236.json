@@ -1,0 +1,29 @@
+{
+  "number": "18236",
+  "name": "Bilaspur Express Cum Passenger",
+  "type": "Exp",
+  "source": "BILASPUR JN",
+  "sourceCode": "BSP",
+  "destination": "BHOPAL JN",
+  "destinationCode": "BPL",
+  "departureTime": "20:25:00",
+  "arrivalTime": "18:15:00",
+  "duration": "21h 50m",
+  "distance": "717 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

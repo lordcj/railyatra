@@ -1,0 +1,32 @@
+{
+  "number": "12710",
+  "name": "Simhapuri SF Express",
+  "type": "SF",
+  "source": "SECUNDERABAD JN",
+  "sourceCode": "SC",
+  "destination": "GUDUR JN",
+  "destinationCode": "GDR",
+  "departureTime": "22:30:00",
+  "arrivalTime": "08:50:00",
+  "duration": "10h 20m",
+  "distance": "644 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

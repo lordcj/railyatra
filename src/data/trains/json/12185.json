@@ -1,0 +1,32 @@
+{
+  "number": "12185",
+  "name": "BHOPAL HABIBGANJ - REWA Rewanchal Exp",
+  "type": "SF",
+  "source": "HABIBGANJ",
+  "sourceCode": "HBJ",
+  "destination": "REWA",
+  "destinationCode": "REWA",
+  "departureTime": "22:00:00",
+  "arrivalTime": "08:00:00",
+  "duration": "10h 0m",
+  "distance": "554 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

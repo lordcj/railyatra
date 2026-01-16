@@ -1,0 +1,31 @@
+{
+  "number": "09001",
+  "name": "Mumbai Central - Ahmedabad SF Special",
+  "type": "SF",
+  "source": "Mumbai Central",
+  "sourceCode": "BCT",
+  "destination": "AHMEDABAD JN",
+  "destinationCode": "ADI",
+  "departureTime": "22:50:00",
+  "arrivalTime": "06:55:00",
+  "duration": "8h 5m",
+  "distance": "491 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

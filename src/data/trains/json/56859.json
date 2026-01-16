@@ -1,0 +1,30 @@
+{
+  "number": "56859",
+  "name": "Tambaram Villupuram Passenger",
+  "type": "Pass",
+  "source": "TAMBARAM",
+  "sourceCode": "TBM",
+  "destination": "VILLUPURAM JN",
+  "destinationCode": "VM",
+  "departureTime": "18:05:00",
+  "arrivalTime": "21:05:00",
+  "duration": "3h 0m",
+  "distance": "133 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

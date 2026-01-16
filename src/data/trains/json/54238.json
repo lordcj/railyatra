@@ -1,0 +1,30 @@
+{
+  "number": "54238",
+  "name": "Faizabad Mankapur Passenger",
+  "type": "Pass",
+  "source": "FAIZABAD JN",
+  "sourceCode": "FD",
+  "destination": "MANKAPUR JN",
+  "destinationCode": "MUR",
+  "departureTime": "04:50:00",
+  "arrivalTime": "06:15:00",
+  "duration": "1h 25m",
+  "distance": "43 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

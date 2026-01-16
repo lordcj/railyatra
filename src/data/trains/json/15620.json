@@ -1,0 +1,30 @@
+{
+  "number": "15620",
+  "name": "KAMAKHYA - GAYA Weekly Exp",
+  "type": "Exp",
+  "source": "KAMAKHYA",
+  "sourceCode": "KYQ",
+  "destination": "GAYA JN",
+  "destinationCode": "GAYA",
+  "departureTime": "07:00:00",
+  "arrivalTime": "05:35:00",
+  "duration": "22h 35m",
+  "distance": "1091 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

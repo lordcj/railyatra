@@ -1,0 +1,30 @@
+{
+  "number": "63228",
+  "name": "Baxur Patna Passenger MEMU",
+  "type": "MEMU",
+  "source": "BUXAR",
+  "sourceCode": "BXR",
+  "destination": "PATNA JN",
+  "destinationCode": "PNBE",
+  "departureTime": "18:40:00",
+  "arrivalTime": "23:35:00",
+  "duration": "4h 55m",
+  "distance": "117 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,29 @@
+{
+  "number": "12677",
+  "name": "Bangalore City - Ernakulam Intercity SF Express",
+  "type": "SF",
+  "source": "BANGALORE CITY JN",
+  "sourceCode": "SBC",
+  "destination": "ERNAKULAM JN",
+  "destinationCode": "ERS",
+  "departureTime": "06:15:00",
+  "arrivalTime": "16:55:00",
+  "duration": "10h 40m",
+  "distance": "587 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

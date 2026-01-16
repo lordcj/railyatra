@@ -1,0 +1,30 @@
+{
+  "number": "54005",
+  "name": "Delhi Bhiwani Passenger",
+  "type": "Pass",
+  "source": "OLD DELHI",
+  "sourceCode": "DLI",
+  "destination": "Bhiwani",
+  "destinationCode": "BNW",
+  "departureTime": "04:40:00",
+  "arrivalTime": "08:15:00",
+  "duration": "3h 35m",
+  "distance": "119 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

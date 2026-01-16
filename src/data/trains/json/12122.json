@@ -1,0 +1,32 @@
+{
+  "number": "12122",
+  "name": "DELHI H NIZAMUDDIN - JABALPUR S Kranti Exp",
+  "type": "SKr",
+  "source": "DELHI H NIZAMUDDIN",
+  "sourceCode": "NZM",
+  "destination": "JABALPUR",
+  "destinationCode": "JBP",
+  "departureTime": "17:25:00",
+  "arrivalTime": "08:00:00",
+  "duration": "14h 35m",
+  "distance": "909 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WCR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

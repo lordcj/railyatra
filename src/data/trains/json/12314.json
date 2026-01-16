@@ -1,0 +1,31 @@
+{
+  "number": "12314",
+  "name": "NEW DELHI - KOL SEALDAH Rajdhani Exp",
+  "type": "Raj",
+  "source": "NEW DELHI",
+  "sourceCode": "NDLS",
+  "destination": "KOLKATA SEALDAH",
+  "destinationCode": "SDAH",
+  "departureTime": "16:30:00",
+  "arrivalTime": "10:15:00",
+  "duration": "17h 45m",
+  "distance": "1454 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "3A",
+    "2A",
+    "1A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

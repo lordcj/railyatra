@@ -1,0 +1,29 @@
+{
+  "number": "16216",
+  "name": "Chamundi Express",
+  "type": "Exp",
+  "source": "BANGALORE CITY JN",
+  "sourceCode": "SBC",
+  "destination": "MYSORE JN",
+  "destinationCode": "MYS",
+  "departureTime": "18:15:00",
+  "arrivalTime": "21:10:00",
+  "duration": "2h 55m",
+  "distance": "139 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

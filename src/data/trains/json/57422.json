@@ -1,0 +1,30 @@
+{
+  "number": "57422",
+  "name": "Guntakal Dronachellam Passenger",
+  "type": "Pass",
+  "source": "GUNTAKAL JN",
+  "sourceCode": "GTL",
+  "destination": "DHONE",
+  "destinationCode": "DHNE",
+  "departureTime": "11:40:00",
+  "arrivalTime": "13:25:00",
+  "duration": "1h 45m",
+  "distance": "68 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

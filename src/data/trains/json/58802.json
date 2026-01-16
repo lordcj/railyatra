@@ -1,0 +1,30 @@
+{
+  "number": "58802",
+  "name": "Gondia Nagbhir Ballarshah Passenger",
+  "type": "Pass",
+  "source": "GONDIA JN",
+  "sourceCode": "G",
+  "destination": "BALHARSHAH",
+  "destinationCode": "BPQ",
+  "departureTime": "07:30:00",
+  "arrivalTime": "13:40:00",
+  "duration": "6h 10m",
+  "distance": "252 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

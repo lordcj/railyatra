@@ -1,0 +1,30 @@
+{
+  "number": "55607",
+  "name": "Guwahati Silghat Town Passenger",
+  "type": "Pass",
+  "source": "GUWAHATI",
+  "sourceCode": "GHY",
+  "destination": "Silghat Town",
+  "destinationCode": "SHTT",
+  "departureTime": "15:45:00",
+  "arrivalTime": "19:50:00",
+  "duration": "4h 5m",
+  "distance": "172 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

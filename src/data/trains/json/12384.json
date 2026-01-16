@@ -1,0 +1,29 @@
+{
+  "number": "12384",
+  "name": "Dhanbad-Howrah AC DD Express",
+  "type": "SF",
+  "source": "DHANBAD JN",
+  "sourceCode": "DHN",
+  "destination": "HOWRAH JN",
+  "destinationCode": "HWH",
+  "departureTime": "05:00:00",
+  "arrivalTime": "09:15:00",
+  "duration": "4h 15m",
+  "distance": "259 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,32 @@
+{
+  "number": "12226",
+  "name": "Kaifiat Express",
+  "type": "SF",
+  "source": "OLD DELHI",
+  "sourceCode": "DLI",
+  "destination": "AZAMGARH",
+  "destinationCode": "AMH",
+  "departureTime": "19:20:00",
+  "arrivalTime": "09:30:00",
+  "duration": "14h 10m",
+  "distance": "803 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

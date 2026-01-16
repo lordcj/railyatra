@@ -1,0 +1,29 @@
+{
+  "number": "25715",
+  "name": "Radhikapur Delhi Link Express",
+  "type": "Exp",
+  "source": "Radhikapur",
+  "sourceCode": "RDP",
+  "destination": "OLD DELHI",
+  "destinationCode": "DLI",
+  "departureTime": "06:15:00",
+  "arrivalTime": "13:05:00",
+  "duration": "30h 50m",
+  "distance": "1372 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

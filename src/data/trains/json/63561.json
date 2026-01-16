@@ -1,0 +1,30 @@
+{
+  "number": "63561",
+  "name": "asansol jasidih mEMU",
+  "type": "MEMU",
+  "source": "ASANSOL JN",
+  "sourceCode": "ASN",
+  "destination": "JASIDIH JN",
+  "destinationCode": "JSME",
+  "departureTime": "07:30:00",
+  "arrivalTime": "09:40:00",
+  "duration": "2h 10m",
+  "distance": "111 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

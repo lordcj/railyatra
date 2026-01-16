@@ -1,0 +1,29 @@
+{
+  "number": "12884",
+  "name": "Rupashi Bangla Express",
+  "type": "SF",
+  "source": "PURULIA JN",
+  "sourceCode": "PRR",
+  "destination": "HOWRAH JN",
+  "destinationCode": "HWH",
+  "departureTime": "15:35:00",
+  "arrivalTime": "21:15:00",
+  "duration": "5h 40m",
+  "distance": "333 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

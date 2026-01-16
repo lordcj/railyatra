@@ -1,0 +1,30 @@
+{
+  "number": "14545",
+  "name": "Farukhnagar Saharanpur Express",
+  "type": "Exp",
+  "source": "Farukhnagar",
+  "sourceCode": "FN",
+  "destination": "SAHARANPUR",
+  "destinationCode": "SRE",
+  "departureTime": "13:10:00",
+  "arrivalTime": "21:20:00",
+  "duration": "8h 10m",
+  "distance": "216 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

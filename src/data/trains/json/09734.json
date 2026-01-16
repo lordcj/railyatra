@@ -1,0 +1,31 @@
+{
+  "number": "09734",
+  "name": "Kota Hanumangarh Special",
+  "type": "Exp",
+  "source": "KOTA JN",
+  "sourceCode": "KOTA",
+  "destination": "HANUMANGARH JN",
+  "destinationCode": "HMH",
+  "departureTime": "16:40:00",
+  "arrivalTime": "08:45:00",
+  "duration": "16h 5m",
+  "distance": "852 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

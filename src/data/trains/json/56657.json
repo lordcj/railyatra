@@ -1,0 +1,30 @@
+{
+  "number": "56657",
+  "name": "Calicut Kannur Passenger",
+  "type": "Pass",
+  "source": "KOZHIKODE",
+  "sourceCode": "CLT",
+  "destination": "KANNUR",
+  "destinationCode": "CAN",
+  "departureTime": "14:20:00",
+  "arrivalTime": "16:40:00",
+  "duration": "2h 20m",
+  "distance": "89 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

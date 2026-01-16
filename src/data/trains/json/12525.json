@@ -1,0 +1,29 @@
+{
+  "number": "12525",
+  "name": "Indrayani SF Express",
+  "type": "SF",
+  "source": "MUMBAI CST",
+  "sourceCode": "CSTM",
+  "destination": "PUNE JN",
+  "destinationCode": "PUNE",
+  "departureTime": "05:40:00",
+  "arrivalTime": "09:08:00",
+  "duration": "3h 28m",
+  "distance": "192 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "57412",
+  "name": "Gudur Tirupati Fast Passenger",
+  "type": "Pass",
+  "source": "GUDUR JN",
+  "sourceCode": "GDR",
+  "destination": "TIRUPATI MAIN",
+  "destinationCode": "TPTY",
+  "departureTime": "10:55:00",
+  "arrivalTime": "13:00:00",
+  "duration": "2h 5m",
+  "distance": "93 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

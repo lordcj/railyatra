@@ -1,0 +1,29 @@
+{
+  "number": "17202",
+  "name": "Golconda Express",
+  "type": "Exp",
+  "source": "SECUNDERABAD JN",
+  "sourceCode": "SC",
+  "destination": "GUNTUR JN",
+  "destinationCode": "GNT",
+  "departureTime": "13:05:00",
+  "arrivalTime": "21:20:00",
+  "duration": "8h 15m",
+  "distance": "383 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

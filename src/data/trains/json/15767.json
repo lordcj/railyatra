@@ -1,0 +1,30 @@
+{
+  "number": "15767",
+  "name": "New Jalpaiguri-Alipur Duar Intercity Express",
+  "type": "Exp",
+  "source": "NEW JALPAIGURI",
+  "sourceCode": "NJP",
+  "destination": "ALIPUR DUAR JN",
+  "destinationCode": "APDJ",
+  "departureTime": "16:50:00",
+  "arrivalTime": "21:10:00",
+  "duration": "4h 20m",
+  "distance": "169 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

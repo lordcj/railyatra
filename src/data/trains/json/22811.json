@@ -1,0 +1,31 @@
+{
+  "number": "22811",
+  "name": "Bhubaneshwar-New Delhi Rajdhani Express",
+  "type": "Raj",
+  "source": "BHUBANESWAR",
+  "sourceCode": "BBS",
+  "destination": "NEW DELHI",
+  "destinationCode": "NDLS",
+  "departureTime": "11:30:00",
+  "arrivalTime": "10:35:00",
+  "duration": "23h 5m",
+  "distance": "1724 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

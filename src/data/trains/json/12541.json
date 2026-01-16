@@ -1,0 +1,31 @@
+{
+  "number": "12541",
+  "name": "Gorakhpur-Mumbai LTT SF Express",
+  "type": "SF",
+  "source": "GORAKHPUR JN",
+  "sourceCode": "GKP",
+  "destination": "LOKMANYA TILAK TERM",
+  "destinationCode": "LTT",
+  "departureTime": "21:35:00",
+  "arrivalTime": "04:00:00",
+  "duration": "30h 25m",
+  "distance": "1680 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

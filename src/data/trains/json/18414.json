@@ -1,0 +1,29 @@
+{
+  "number": "18414",
+  "name": "Puri Paradip InterCity Express",
+  "type": "Exp",
+  "source": "PURI",
+  "sourceCode": "PURI",
+  "destination": "Paradip",
+  "destinationCode": "PRDP",
+  "departureTime": "06:00:00",
+  "arrivalTime": "10:10:00",
+  "duration": "4h 10m",
+  "distance": "174 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

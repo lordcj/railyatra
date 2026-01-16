@@ -1,0 +1,31 @@
+{
+  "number": "12177",
+  "name": "Chambal Express",
+  "type": "SF",
+  "source": "HOWRAH JN",
+  "sourceCode": "HWH",
+  "destination": "MATHURA JN",
+  "destinationCode": "MTJ",
+  "departureTime": "17:45:00",
+  "arrivalTime": "20:30:00",
+  "duration": "26h 45m",
+  "distance": "1475 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

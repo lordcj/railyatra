@@ -1,0 +1,30 @@
+{
+  "number": "54392",
+  "name": "MORADABAD  -  ALIGARH PASSENGER",
+  "type": "Pass",
+  "source": "MORADABAD",
+  "sourceCode": "MB",
+  "destination": "ALIGARH JN",
+  "destinationCode": "ALJN",
+  "departureTime": "17:25:00",
+  "arrivalTime": "23:15:00",
+  "duration": "5h 50m",
+  "distance": "172 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

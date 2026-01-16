@@ -1,0 +1,31 @@
+{
+  "number": "19569",
+  "name": "Okha Varanasi Express",
+  "type": "Exp",
+  "source": "OKHA",
+  "sourceCode": "OKHA",
+  "destination": "VARANASI JN",
+  "destinationCode": "BSB",
+  "departureTime": "13:45:00",
+  "arrivalTime": "05:00:00",
+  "duration": "39h 15m",
+  "distance": "2041 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

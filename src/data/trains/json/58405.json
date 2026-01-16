@@ -1,0 +1,30 @@
+{
+  "number": "58405",
+  "name": "Cuttack Paradip Passenger",
+  "type": "Pass",
+  "source": "CUTTACK",
+  "sourceCode": "CTC",
+  "destination": "Paradip",
+  "destinationCode": "PRDP",
+  "departureTime": "15:00:00",
+  "arrivalTime": "16:40:00",
+  "duration": "1h 40m",
+  "distance": "83 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

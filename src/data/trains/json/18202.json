@@ -1,0 +1,31 @@
+{
+  "number": "18202",
+  "name": "Nautanwa-Durg Nautanwa Express",
+  "type": "Exp",
+  "source": "Nautanwa",
+  "sourceCode": "NTV",
+  "destination": "DURG",
+  "destinationCode": "DURG",
+  "departureTime": "10:50:00",
+  "arrivalTime": "14:20:00",
+  "duration": "27h 30m",
+  "distance": "1224 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

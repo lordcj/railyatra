@@ -1,0 +1,29 @@
+{
+  "number": "28624",
+  "name": "Barkakana Rajendranagar Slip Express",
+  "type": "Exp",
+  "source": "BARKAKANA",
+  "sourceCode": "BRKA",
+  "destination": "RAJENDRA NAGAR BIHAR",
+  "destinationCode": "RJPB",
+  "departureTime": "16:15:00",
+  "arrivalTime": "06:55:00",
+  "duration": "14h 40m",
+  "distance": "365 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

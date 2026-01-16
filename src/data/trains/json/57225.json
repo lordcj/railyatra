@@ -1,0 +1,30 @@
+{
+  "number": "57225",
+  "name": "Vijayawada Visakhapatnam Passenger",
+  "type": "Pass",
+  "source": "VIJAYAWADA JN",
+  "sourceCode": "BZA",
+  "destination": "VISHAKAPATNAM",
+  "destinationCode": "VSKP",
+  "departureTime": "08:25:00",
+  "arrivalTime": "18:55:00",
+  "duration": "10h 30m",
+  "distance": "349 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

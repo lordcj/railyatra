@@ -1,0 +1,31 @@
+{
+  "number": "12953",
+  "name": "MumbaiCentral-H Nizamuddin August Kranti Rajdhani Express",
+  "type": "Raj",
+  "source": "Mumbai Central",
+  "sourceCode": "BCT",
+  "destination": "DELHI H NIZAMUDDIN",
+  "destinationCode": "NZM",
+  "departureTime": "17:40:00",
+  "arrivalTime": "10:55:00",
+  "duration": "17h 15m",
+  "distance": "1377 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

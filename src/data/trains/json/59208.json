@@ -1,0 +1,29 @@
+{
+  "number": "59208",
+  "name": "Bhavnagar Passenger",
+  "type": "Pass",
+  "source": "OKHA",
+  "sourceCode": "OKHA",
+  "destination": "BHAVNAGAR TERMINUS",
+  "destinationCode": "BVC",
+  "departureTime": "14:35:00",
+  "arrivalTime": "05:50:00",
+  "duration": "15h 15m",
+  "distance": "538 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

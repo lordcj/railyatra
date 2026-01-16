@@ -1,0 +1,30 @@
+{
+  "number": "63154",
+  "name": "BAIDYANATH JASIDIH PASS",
+  "type": "Pass",
+  "source": "Baidyanathdham Deoghar",
+  "sourceCode": "BDME",
+  "destination": "JASIDIH JN",
+  "destinationCode": "JSME",
+  "departureTime": "09:30:00",
+  "arrivalTime": "09:50:00",
+  "duration": "0h 20m",
+  "distance": "6 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

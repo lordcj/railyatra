@@ -1,0 +1,29 @@
+{
+  "number": "12342",
+  "name": "Agniveena Express",
+  "type": "SF",
+  "source": "ASANSOL JN",
+  "sourceCode": "ASN",
+  "destination": "HOWRAH JN",
+  "destinationCode": "HWH",
+  "departureTime": "05:30:00",
+  "arrivalTime": "08:45:00",
+  "duration": "3h 15m",
+  "distance": "200 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

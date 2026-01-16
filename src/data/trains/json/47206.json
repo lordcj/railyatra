@@ -1,0 +1,30 @@
+{
+  "number": "47206",
+  "name": "HYB Falaknuma Local",
+  "type": "Hyd",
+  "source": "HYDERABAD DECCAN",
+  "sourceCode": "HYB",
+  "destination": "KACHEGUDA FALAKNUMA",
+  "destinationCode": "FM",
+  "departureTime": "05:40:00",
+  "arrivalTime": "06:55:00",
+  "duration": "1h 15m",
+  "distance": "22 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

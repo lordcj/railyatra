@@ -1,0 +1,31 @@
+{
+  "number": "15635",
+  "name": "OKHA - GUWAHATI EXP",
+  "type": "Exp",
+  "source": "OKHA",
+  "sourceCode": "OKHA",
+  "destination": "GUWAHATI",
+  "destinationCode": "GHY",
+  "departureTime": "11:25:00",
+  "arrivalTime": "07:05:00",
+  "duration": "67h 40m",
+  "distance": "3237 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

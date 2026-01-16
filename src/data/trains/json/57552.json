@@ -1,0 +1,30 @@
+{
+  "number": "57552",
+  "name": "Adilabad Purna Passenger",
+  "type": "Pass",
+  "source": "ADILABAD",
+  "sourceCode": "ADB",
+  "destination": "PURNA JN",
+  "destinationCode": "PAU",
+  "departureTime": "15:15:00",
+  "arrivalTime": "20:55:00",
+  "duration": "5h 40m",
+  "distance": "216 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

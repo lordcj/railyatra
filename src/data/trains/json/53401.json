@@ -1,0 +1,30 @@
+{
+  "number": "53401",
+  "name": "Sahibganj- Malda Town Passenger",
+  "type": "Pass",
+  "source": "SAHIBGANJ JN",
+  "sourceCode": "SBG",
+  "destination": "MALDA TOWN",
+  "destinationCode": "MLDT",
+  "departureTime": "06:00:00",
+  "arrivalTime": "09:15:00",
+  "duration": "3h 15m",
+  "distance": "105 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

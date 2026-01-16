@@ -1,0 +1,30 @@
+{
+  "number": "51910",
+  "name": "Saharanpur Delhi Passenger",
+  "type": "Pass",
+  "source": "SAHARANPUR",
+  "sourceCode": "SRE",
+  "destination": "OLD DELHI",
+  "destinationCode": "DLI",
+  "departureTime": "06:55:00",
+  "arrivalTime": "12:20:00",
+  "duration": "5h 25m",
+  "distance": "164 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

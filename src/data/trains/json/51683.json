@@ -1,0 +1,30 @@
+{
+  "number": "51683",
+  "name": "Khandwa Bir Shuttle",
+  "type": "Pass",
+  "source": "KHANDWA",
+  "sourceCode": "KNW",
+  "destination": "Bir",
+  "destinationCode": "BIR",
+  "departureTime": "08:55:00",
+  "arrivalTime": "09:50:00",
+  "duration": "0h 55m",
+  "distance": "33 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

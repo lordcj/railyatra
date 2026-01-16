@@ -1,0 +1,31 @@
+{
+  "number": "22824",
+  "name": "NEW DELHI - BHUBANESWAR Rajdhani Exp (Via Bokaro)",
+  "type": "Raj",
+  "source": "NEW DELHI",
+  "sourceCode": "NDLS",
+  "destination": "BHUBANESWAR",
+  "destinationCode": "BBS",
+  "departureTime": "17:20:00",
+  "arrivalTime": "17:30:00",
+  "duration": "24h 10m",
+  "distance": "1800 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

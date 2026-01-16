@@ -1,0 +1,30 @@
+{
+  "number": "51261",
+  "name": "Amravati Wardha Passenger",
+  "type": "Pass",
+  "source": "Amravati",
+  "sourceCode": "AMI",
+  "destination": "WARDHA JN",
+  "destinationCode": "WR",
+  "departureTime": "15:15:00",
+  "arrivalTime": "18:05:00",
+  "duration": "2h 50m",
+  "distance": "101 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

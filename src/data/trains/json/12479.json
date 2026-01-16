@@ -1,0 +1,31 @@
+{
+  "number": "12479",
+  "name": "JODHPUR - MUMBAI BANDRA Suryanagari SF Exp",
+  "type": "SF",
+  "source": "JODHPUR JN",
+  "sourceCode": "JU",
+  "destination": "MUMBAI BANDRA TERMINUS",
+  "destinationCode": "BDTS",
+  "departureTime": "18:45:00",
+  "arrivalTime": "11:45:00",
+  "duration": "17h 0m",
+  "distance": "935 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

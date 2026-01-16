@@ -1,0 +1,30 @@
+{
+  "number": "58601",
+  "name": "Kharagpur Adra Passenger",
+  "type": "Pass",
+  "source": "KHARAGPUR JN",
+  "sourceCode": "KGP",
+  "destination": "ADRA JN",
+  "destinationCode": "ADRA",
+  "departureTime": "17:20:00",
+  "arrivalTime": "21:10:00",
+  "duration": "3h 50m",
+  "distance": "168 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

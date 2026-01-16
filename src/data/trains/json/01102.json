@@ -1,0 +1,30 @@
+{
+  "number": "01102",
+  "name": "Gwalior Mumbai LTT (Weekly) Special",
+  "type": "Exp",
+  "source": "GWALIOR JN",
+  "sourceCode": "GWL",
+  "destination": "LOKMANYA TILAK TERM",
+  "destinationCode": "LTT",
+  "departureTime": "15:00:00",
+  "arrivalTime": "12:05:00",
+  "duration": "21h 5m",
+  "distance": "1216 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "57218",
+  "name": "Macherla Bhimavaram Passenger",
+  "type": "Pass",
+  "source": "Macherla",
+  "sourceCode": "MCLA",
+  "destination": "Bhimavaram Junction",
+  "destinationCode": "BVRM",
+  "departureTime": "05:30:00",
+  "arrivalTime": "14:40:00",
+  "duration": "9h 10m",
+  "distance": "268 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

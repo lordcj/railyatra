@@ -1,0 +1,31 @@
+{
+  "number": "11450",
+  "name": "SHRI MATA VAISHNO DEVI KATRA - JABALPUR Express",
+  "type": "Exp",
+  "source": "S M V D KATRA",
+  "sourceCode": "SVDK",
+  "destination": "JABALPUR",
+  "destinationCode": "JBP",
+  "departureTime": "23:45:00",
+  "arrivalTime": "08:40:00",
+  "duration": "32h 55m",
+  "distance": "1509 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

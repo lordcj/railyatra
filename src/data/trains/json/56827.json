@@ -1,0 +1,30 @@
+{
+  "number": "56827",
+  "name": "Tuticorin Tirunelveli Passenger",
+  "type": "Pass",
+  "source": "TUTICORIN",
+  "sourceCode": "TN",
+  "destination": "TIRUNELVELI",
+  "destinationCode": "TEN",
+  "departureTime": "17:50:00",
+  "arrivalTime": "20:30:00",
+  "duration": "2h 40m",
+  "distance": "60 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

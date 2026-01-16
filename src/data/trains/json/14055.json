@@ -1,0 +1,31 @@
+{
+  "number": "14055",
+  "name": "DIBRUGARH - OLD DELHI Brahmaputra Exp",
+  "type": "Mail",
+  "source": "DIBRUGARH",
+  "sourceCode": "DBRG",
+  "destination": "OLD DELHI",
+  "destinationCode": "DLI",
+  "departureTime": "23:10:00",
+  "arrivalTime": "06:05:00",
+  "duration": "54h 55m",
+  "distance": "2589 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

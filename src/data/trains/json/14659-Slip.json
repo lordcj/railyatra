@@ -1,0 +1,31 @@
+{
+  "number": "14659-Slip",
+  "name": "Delhi-Jaisalmer Express Slip",
+  "type": "Exp",
+  "source": "OLD DELHI",
+  "sourceCode": "DLI",
+  "destination": "BARMER",
+  "destinationCode": "BME",
+  "departureTime": "17:30:00",
+  "arrivalTime": "09:45:00",
+  "duration": "16h 15m",
+  "distance": "829 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

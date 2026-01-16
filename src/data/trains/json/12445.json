@@ -1,0 +1,32 @@
+{
+  "number": "12445",
+  "name": "Uttar Sampark Kranti Express",
+  "type": "SKr",
+  "source": "NEW DELHI",
+  "sourceCode": "NDLS",
+  "destination": "UDHAMPUR",
+  "destinationCode": "UHP",
+  "departureTime": "20:50:00",
+  "arrivalTime": "08:05:00",
+  "duration": "11h 15m",
+  "distance": "630 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

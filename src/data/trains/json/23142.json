@@ -1,0 +1,29 @@
+{
+  "number": "23142",
+  "name": "Teesta Torsa Express",
+  "type": "Exp",
+  "source": "HALDIBARI",
+  "sourceCode": "HDB",
+  "destination": "KOLKATA SEALDAH",
+  "destinationCode": "SDAH",
+  "departureTime": "13:15:00",
+  "arrivalTime": "04:35:00",
+  "duration": "15h 20m",
+  "distance": "628 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

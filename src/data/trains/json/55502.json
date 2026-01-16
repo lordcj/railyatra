@@ -1,0 +1,30 @@
+{
+  "number": "55502",
+  "name": "Darbhanga-Samastipur Passenger",
+  "type": "Pass",
+  "source": "DARBHANGA JN",
+  "sourceCode": "DBG",
+  "destination": "SAMASTIPUR JN",
+  "destinationCode": "SPJ",
+  "departureTime": "18:40:00",
+  "arrivalTime": "20:10:00",
+  "duration": "1h 30m",
+  "distance": "36 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

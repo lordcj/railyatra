@@ -1,0 +1,30 @@
+{
+  "number": "51325",
+  "name": "Pune-Daund Shuttle",
+  "type": "Pass",
+  "source": "PUNE JN",
+  "sourceCode": "PUNE",
+  "destination": "DAUND JN",
+  "destinationCode": "DD",
+  "departureTime": "09:40:00",
+  "arrivalTime": "11:30:00",
+  "duration": "1h 50m",
+  "distance": "76 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

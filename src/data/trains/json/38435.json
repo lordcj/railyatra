@@ -1,0 +1,30 @@
+{
+  "number": "38435",
+  "name": "Howrah Panskura EMU",
+  "type": "MEMU",
+  "source": "HOWRAH JN",
+  "sourceCode": "HWH",
+  "destination": "PANSKURA",
+  "destinationCode": "PKU",
+  "departureTime": "13:55:00",
+  "arrivalTime": "15:45:00",
+  "duration": "1h 50m",
+  "distance": "71 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

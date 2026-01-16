@@ -1,0 +1,30 @@
+{
+  "number": "56229",
+  "name": "Mysore Bangalore Passenger",
+  "type": "Pass",
+  "source": "MYSORE JN",
+  "sourceCode": "MYS",
+  "destination": "BANGALORE CITY JN",
+  "destinationCode": "SBC",
+  "departureTime": "08:20:00",
+  "arrivalTime": "12:10:00",
+  "duration": "3h 50m",
+  "distance": "137 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

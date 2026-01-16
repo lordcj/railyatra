@@ -1,0 +1,30 @@
+{
+  "number": "58721",
+  "name": "ABHANPUR RAJIM PASS",
+  "type": "Pass",
+  "source": "Abhanpur Junction",
+  "sourceCode": "AVP",
+  "destination": "Rajim",
+  "destinationCode": "RIM",
+  "departureTime": "20:15:00",
+  "arrivalTime": "21:05:00",
+  "duration": "0h 50m",
+  "distance": "16 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

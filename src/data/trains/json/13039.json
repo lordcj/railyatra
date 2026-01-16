@@ -1,0 +1,29 @@
+{
+  "number": "13039",
+  "name": "Howrah-Rajgir Express Slip",
+  "type": "Exp",
+  "source": "HOWRAH JN",
+  "sourceCode": "HWH",
+  "destination": "Rajgir",
+  "destinationCode": "RGD",
+  "departureTime": "20:20:00",
+  "arrivalTime": "12:10:00",
+  "duration": "15h 50m",
+  "distance": "552 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

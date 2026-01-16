@@ -1,0 +1,30 @@
+{
+  "number": "52110",
+  "name": "Matheran Neral Passenger",
+  "type": "Toy",
+  "source": "Matheran",
+  "sourceCode": "MAE",
+  "destination": "NERAL",
+  "destinationCode": "NRL",
+  "departureTime": "16:30:00",
+  "arrivalTime": "18:10:00",
+  "duration": "1h 40m",
+  "distance": "126 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

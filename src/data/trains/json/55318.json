@@ -1,0 +1,30 @@
+{
+  "number": "55318",
+  "name": "Kashipur Lalkuan Passenger",
+  "type": "Pass",
+  "source": "KASHIPUR",
+  "sourceCode": "KPV",
+  "destination": "LAL KUAN",
+  "destinationCode": "LKU",
+  "departureTime": "11:35:00",
+  "arrivalTime": "13:00:00",
+  "duration": "1h 25m",
+  "distance": "59 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,29 @@
+{
+  "number": "13023",
+  "name": "Howrah-Gaya Express",
+  "type": "Exp",
+  "source": "HOWRAH JN",
+  "sourceCode": "HWH",
+  "destination": "GAYA JN",
+  "destinationCode": "GAYA",
+  "departureTime": "19:50:00",
+  "arrivalTime": "10:55:00",
+  "duration": "15h 5m",
+  "distance": "654 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

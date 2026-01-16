@@ -1,0 +1,30 @@
+{
+  "number": "54561",
+  "name": "Firozpur Bhatinda Passenger",
+  "type": "Pass",
+  "source": "BHATINDA JN",
+  "sourceCode": "BTI",
+  "destination": "FIROZPUR CANT",
+  "destinationCode": "FZR",
+  "departureTime": "06:45:00",
+  "arrivalTime": "08:55:00",
+  "duration": "2h 10m",
+  "distance": "88 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

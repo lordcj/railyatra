@@ -1,0 +1,30 @@
+{
+  "number": "54642",
+  "name": "FIROZPUR - DELHI Passenger",
+  "type": "Pass",
+  "source": "FIROZPUR CANT",
+  "sourceCode": "FZR",
+  "destination": "OLD DELHI",
+  "destinationCode": "DLI",
+  "departureTime": "11:30:00",
+  "arrivalTime": "22:50:00",
+  "duration": "11h 20m",
+  "distance": "385 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

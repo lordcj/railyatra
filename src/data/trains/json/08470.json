@@ -1,0 +1,29 @@
+{
+  "number": "08470",
+  "name": "Bangalore-Puri Garib Rath Special",
+  "type": "GR",
+  "source": "BANGALORE CITY JN",
+  "sourceCode": "SBC",
+  "destination": "PURI",
+  "destinationCode": "PURI",
+  "departureTime": "23:55:00",
+  "arrivalTime": "05:50:00",
+  "duration": "29h 55m",
+  "distance": "1529 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "3A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

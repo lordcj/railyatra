@@ -1,0 +1,29 @@
+{
+  "number": "12078",
+  "name": "Vijayawada Chennai Jan Shatabdi",
+  "type": "JShtb",
+  "source": "VIJAYAWADA JN",
+  "sourceCode": "BZA",
+  "destination": "CHENNAI CENTRAL",
+  "destinationCode": "MAS",
+  "departureTime": "14:35:00",
+  "arrivalTime": "21:10:00",
+  "duration": "6h 35m",
+  "distance": "431 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

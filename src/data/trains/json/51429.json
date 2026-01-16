@@ -1,0 +1,30 @@
+{
+  "number": "51429",
+  "name": "Sangli-Kolhapur Passenger",
+  "type": "Pass",
+  "source": "SANGLI",
+  "sourceCode": "SLI",
+  "destination": "C SHAHU M RAJ KOLHAPUR TERM",
+  "destinationCode": "KOP",
+  "departureTime": "20:35:00",
+  "arrivalTime": "22:20:00",
+  "duration": "1h 45m",
+  "distance": "54 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

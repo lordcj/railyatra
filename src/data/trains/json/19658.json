@@ -1,0 +1,31 @@
+{
+  "number": "19658",
+  "name": "Udaipur Indore Express",
+  "type": "Exp",
+  "source": "UDAIPUR CITY",
+  "sourceCode": "UDZ",
+  "destination": "INDORE JN BG",
+  "destinationCode": "INDB",
+  "departureTime": "20:35:00",
+  "arrivalTime": "08:35:00",
+  "duration": "12h 0m",
+  "distance": "479 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

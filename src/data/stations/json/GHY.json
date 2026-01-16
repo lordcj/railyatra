@@ -1,0 +1,13 @@
+{
+  "code": "GHY",
+  "name": "Guwahati",
+  "fullName": "Guwahati Railway Station",
+  "zone": "NFR",
+  "state": "Assam",
+  "category": "A1",
+  "platforms": 5,
+  "connectivity": [
+    "Bus",
+    "Taxi"
+  ]
+}

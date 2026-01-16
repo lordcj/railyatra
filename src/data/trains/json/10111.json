@@ -1,0 +1,32 @@
+{
+  "number": "10111",
+  "name": "MUMBAI CST - MADGAON Konkan Knaya Exp",
+  "type": "Exp",
+  "source": "MUMBAI CST",
+  "sourceCode": "CSTM",
+  "destination": "MADGAON",
+  "destinationCode": "MAO",
+  "departureTime": "23:05:00",
+  "arrivalTime": "10:45:00",
+  "duration": "11h 40m",
+  "distance": "765 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "KR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

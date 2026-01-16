@@ -1,0 +1,13 @@
+{
+  "code": "CNB",
+  "name": "Kanpur Central",
+  "fullName": "Kanpur Central Railway Station",
+  "zone": "NCR",
+  "state": "Uttar Pradesh",
+  "category": "A1",
+  "platforms": 10,
+  "connectivity": [
+    "Bus",
+    "Taxi"
+  ]
+}

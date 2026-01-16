@@ -1,0 +1,31 @@
+{
+  "number": "16714",
+  "name": "Setu Express",
+  "type": "Exp",
+  "source": "RAMESWARAM",
+  "sourceCode": "RMM",
+  "destination": "CHENNAI EGMORE",
+  "destinationCode": "MS",
+  "departureTime": "20:00:00",
+  "arrivalTime": "08:20:00",
+  "duration": "12h 20m",
+  "distance": "600 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

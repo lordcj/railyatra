@@ -1,0 +1,30 @@
+{
+  "number": "64089",
+  "name": "Nizamuddin Parikrama",
+  "type": "Del",
+  "source": "DELHI H NIZAMUDDIN",
+  "sourceCode": "NZM",
+  "destination": "PRAGATI MAIDAN",
+  "destinationCode": "PGMD",
+  "departureTime": "16:45:00",
+  "arrivalTime": "17:59:00",
+  "duration": "1h 14m",
+  "distance": "32 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

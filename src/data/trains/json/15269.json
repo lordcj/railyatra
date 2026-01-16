@@ -1,0 +1,30 @@
+{
+  "number": "15269",
+  "name": "MUZAFFARPUR - AHMEDABAD Jan Sadharan Exp",
+  "type": "Exp",
+  "source": "MUZAFFARPUR JN",
+  "sourceCode": "MFP",
+  "destination": "AHMEDABAD JN",
+  "destinationCode": "ADI",
+  "departureTime": "21:20:00",
+  "arrivalTime": "10:50:00",
+  "duration": "37h 30m",
+  "distance": "1752 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

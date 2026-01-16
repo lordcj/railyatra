@@ -1,0 +1,31 @@
+{
+  "number": "12380",
+  "name": "Amritsar - Sealdah Superfast Express",
+  "type": "SF",
+  "source": "AMRITSAR JN",
+  "sourceCode": "ASR",
+  "destination": "KOLKATA SEALDAH",
+  "destinationCode": "SDAH",
+  "departureTime": "10:50:00",
+  "arrivalTime": "17:25:00",
+  "duration": "30h 35m",
+  "distance": "1894 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

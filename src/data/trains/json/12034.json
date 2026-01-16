@@ -1,0 +1,30 @@
+{
+  "number": "12034",
+  "name": "New Delhi-Kanpur Shatabdi Express",
+  "type": "Shtb",
+  "source": "NEW DELHI",
+  "sourceCode": "NDLS",
+  "destination": "KANPUR CENTRAL",
+  "destinationCode": "CNB",
+  "departureTime": "15:55:00",
+  "arrivalTime": "20:50:00",
+  "duration": "4h 55m",
+  "distance": "437 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "1A",
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

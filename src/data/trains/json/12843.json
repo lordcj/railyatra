@@ -1,0 +1,31 @@
+{
+  "number": "12843",
+  "name": "Puri Ahmedabad Superfast Express",
+  "type": "SF",
+  "source": "PURI",
+  "sourceCode": "PURI",
+  "destination": "AHMEDABAD JN",
+  "destinationCode": "ADI",
+  "departureTime": "17:30:00",
+  "arrivalTime": "07:25:00",
+  "duration": "37h 55m",
+  "distance": "2130 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

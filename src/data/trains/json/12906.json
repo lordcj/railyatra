@@ -1,0 +1,31 @@
+{
+  "number": "12906",
+  "name": "HOWRAH - PORBANDAR SF Exp",
+  "type": "SF",
+  "source": "HOWRAH JN",
+  "sourceCode": "HWH",
+  "destination": "PORBANDAR",
+  "destinationCode": "PBR",
+  "departureTime": "22:55:00",
+  "arrivalTime": "19:00:00",
+  "duration": "44h 5m",
+  "distance": "2551 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

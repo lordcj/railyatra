@@ -1,0 +1,32 @@
+{
+  "number": "12623",
+  "name": "Chennai Tiruvananthapuram SF Mail",
+  "type": "SF",
+  "source": "CHENNAI CENTRAL",
+  "sourceCode": "MAS",
+  "destination": "TRIVANDRUM CENTRAL",
+  "destinationCode": "TVC",
+  "departureTime": "19:45:00",
+  "arrivalTime": "11:25:00",
+  "duration": "15h 40m",
+  "distance": "909 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

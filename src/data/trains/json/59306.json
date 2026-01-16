@@ -1,0 +1,29 @@
+{
+  "number": "59306",
+  "name": "Ujjain-Indore Passenger",
+  "type": "Pass",
+  "source": "UJJAIN JN",
+  "sourceCode": "UJN",
+  "destination": "INDORE JN BG",
+  "destinationCode": "INDB",
+  "departureTime": "08:15:00",
+  "arrivalTime": "10:15:00",
+  "duration": "2h 0m",
+  "distance": "79 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

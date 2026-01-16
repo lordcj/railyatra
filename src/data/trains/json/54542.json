@@ -1,0 +1,30 @@
+{
+  "number": "54542",
+  "name": "AMBALA MEERUT PASS",
+  "type": "Pass",
+  "source": "AMBALA CANT JN",
+  "sourceCode": "UMB",
+  "destination": "MEERUT CITY",
+  "destinationCode": "MTC",
+  "departureTime": "16:25:00",
+  "arrivalTime": "23:15:00",
+  "duration": "6h 50m",
+  "distance": "194 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

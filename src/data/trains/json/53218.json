@@ -1,0 +1,30 @@
+{
+  "number": "53218",
+  "name": "Mughal Sarai Buxar Passenger",
+  "type": "Pass",
+  "source": "MUGHAL SARAI JN",
+  "sourceCode": "MGS",
+  "destination": "BUXAR",
+  "destinationCode": "BXR",
+  "departureTime": "13:05:00",
+  "arrivalTime": "16:05:00",
+  "duration": "3h 0m",
+  "distance": "94 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

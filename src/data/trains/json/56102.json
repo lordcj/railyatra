@@ -1,0 +1,30 @@
+{
+  "number": "56102",
+  "name": "Salem Mtdm Passenger",
+  "type": "Pass",
+  "source": "SALEM JN",
+  "sourceCode": "SA",
+  "destination": "METUR DAM",
+  "destinationCode": "MTDM",
+  "departureTime": "17:30:00",
+  "arrivalTime": "18:45:00",
+  "duration": "1h 15m",
+  "distance": "39 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

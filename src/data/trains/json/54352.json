@@ -1,0 +1,30 @@
+{
+  "number": "54352",
+  "name": "Bareilly Aligarh Passenger",
+  "type": "Pass",
+  "source": "BAREILLY",
+  "sourceCode": "BE",
+  "destination": "ALIGARH JN",
+  "destinationCode": "ALJN",
+  "departureTime": "05:10:00",
+  "arrivalTime": "10:50:00",
+  "duration": "5h 40m",
+  "distance": "160 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

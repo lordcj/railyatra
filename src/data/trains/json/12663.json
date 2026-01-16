@@ -1,0 +1,31 @@
+{
+  "number": "12663",
+  "name": "Howrah-Tiruchirappalli Express",
+  "type": "SF",
+  "source": "HOWRAH JN",
+  "sourceCode": "HWH",
+  "destination": "TIRUCHIRAPPALLI",
+  "destinationCode": "TPJ",
+  "departureTime": "16:10:00",
+  "arrivalTime": "04:25:00",
+  "duration": "36h 15m",
+  "distance": "2025 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

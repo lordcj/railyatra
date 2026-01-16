@@ -1,0 +1,30 @@
+{
+  "number": "50104",
+  "name": "Ratnagiri Dadar Passenger",
+  "type": "Pass",
+  "source": "RATNAGIRI",
+  "sourceCode": "RN",
+  "destination": "MUMBAI DADAR CENTRAL",
+  "destinationCode": "DR",
+  "departureTime": "05:30:00",
+  "arrivalTime": "14:20:00",
+  "duration": "8h 50m",
+  "distance": "422 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "KR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

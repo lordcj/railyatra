@@ -1,0 +1,30 @@
+{
+  "number": "57232",
+  "name": "Kakinada Port Vijayawada Passenger",
+  "type": "Pass",
+  "source": "Kakinada Port",
+  "sourceCode": "COA",
+  "destination": "VIJAYAWADA JN",
+  "destinationCode": "BZA",
+  "departureTime": "04:40:00",
+  "arrivalTime": "09:45:00",
+  "duration": "5h 5m",
+  "distance": "213 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

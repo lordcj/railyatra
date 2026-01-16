@@ -1,0 +1,13 @@
+{
+  "code": "AII",
+  "name": "Ajmer",
+  "fullName": "Ajmer Junction",
+  "zone": "NWR",
+  "state": "Rajasthan",
+  "category": "A1",
+  "platforms": 5,
+  "connectivity": [
+    "Bus",
+    "Taxi"
+  ]
+}

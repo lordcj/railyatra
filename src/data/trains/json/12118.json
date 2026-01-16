@@ -1,0 +1,29 @@
+{
+  "number": "12118",
+  "name": "Manmad-Mumbai LTT Express",
+  "type": "SF",
+  "source": "MANMAD JN",
+  "sourceCode": "MMR",
+  "destination": "LOKMANYA TILAK TERM",
+  "destinationCode": "LTT",
+  "departureTime": "08:35:00",
+  "arrivalTime": "13:00:00",
+  "duration": "4h 25m",
+  "distance": "245 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

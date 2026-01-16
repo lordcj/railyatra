@@ -1,0 +1,30 @@
+{
+  "number": "59353",
+  "name": "Nagda Ujjain Passenger",
+  "type": "Pass",
+  "source": "NAGDA JN",
+  "sourceCode": "NAD",
+  "destination": "UJJAIN JN",
+  "destinationCode": "UJN",
+  "departureTime": "23:25:00",
+  "arrivalTime": "01:00:00",
+  "duration": "1h 35m",
+  "distance": "56 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

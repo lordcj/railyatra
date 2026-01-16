@@ -1,0 +1,32 @@
+{
+  "number": "12733",
+  "name": "Narayanadri Express",
+  "type": "SF",
+  "source": "TIRUPATI MAIN",
+  "sourceCode": "TPTY",
+  "destination": "SECUNDERABAD JN",
+  "destinationCode": "SC",
+  "departureTime": "18:25:00",
+  "arrivalTime": "06:25:00",
+  "duration": "12h 0m",
+  "distance": "661 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,29 @@
+{
+  "number": "15282",
+  "name": "Kosi Express",
+  "type": "Exp",
+  "source": "PATNA JN",
+  "sourceCode": "PNBE",
+  "destination": "SAHARSA JN",
+  "destinationCode": "SHC",
+  "departureTime": "16:55:00",
+  "arrivalTime": "22:30:00",
+  "duration": "5h 35m",
+  "distance": "224 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

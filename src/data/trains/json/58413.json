@@ -1,0 +1,30 @@
+{
+  "number": "58413",
+  "name": "Dhenkanal Puri Passenger",
+  "type": "Pass",
+  "source": "TALCHER",
+  "sourceCode": "TLHR",
+  "destination": "PURI",
+  "destinationCode": "PURI",
+  "departureTime": "05:15:00",
+  "arrivalTime": "11:45:00",
+  "duration": "6h 30m",
+  "distance": "200 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

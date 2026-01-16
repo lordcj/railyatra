@@ -1,0 +1,29 @@
+{
+  "number": "16650",
+  "name": "Parasuram Express",
+  "type": "Exp",
+  "source": "TRIVANDRUM CENTRAL",
+  "sourceCode": "TVC",
+  "destination": "MANGALORE CNTL",
+  "destinationCode": "MAQ",
+  "departureTime": "06:30:00",
+  "arrivalTime": "20:25:00",
+  "duration": "13h 55m",
+  "distance": "634 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

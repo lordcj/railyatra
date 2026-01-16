@@ -1,0 +1,30 @@
+{
+  "number": "59706",
+  "name": "Jaipur Suratgarh Passenger",
+  "type": "Pass",
+  "source": "JAIPUR",
+  "sourceCode": "JP",
+  "destination": "SURATGARH JN",
+  "destinationCode": "SOG",
+  "departureTime": "05:15:00",
+  "arrivalTime": "19:10:00",
+  "duration": "13h 55m",
+  "distance": "562 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

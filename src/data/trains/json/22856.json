@@ -1,0 +1,31 @@
+{
+  "number": "22856",
+  "name": "TirupatiSantragachi Superfast Express",
+  "type": "SF",
+  "source": "TIRUPATI MAIN",
+  "sourceCode": "TPTY",
+  "destination": "SANTRAGACHI JN",
+  "destinationCode": "SRC",
+  "departureTime": "19:55:00",
+  "arrivalTime": "22:10:00",
+  "duration": "26h 15m",
+  "distance": "1597 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

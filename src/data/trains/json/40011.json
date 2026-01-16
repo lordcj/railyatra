@@ -1,0 +1,30 @@
+{
+  "number": "40011",
+  "name": "Chennai Beach Tambaram EMU(12 Car)",
+  "type": "MEMU",
+  "source": "CHENNAI BEACH",
+  "sourceCode": "MSB",
+  "destination": "TAMBARAM",
+  "destinationCode": "TBM",
+  "departureTime": "07:30:00",
+  "arrivalTime": "08:25:00",
+  "duration": "0h 55m",
+  "distance": "33 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

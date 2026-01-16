@@ -1,0 +1,30 @@
+{
+  "number": "56708",
+  "name": "Madurai Dindigul Passenger",
+  "type": "Pass",
+  "source": "MADURAI JN",
+  "sourceCode": "MDU",
+  "destination": "DINDIGUL JN",
+  "destinationCode": "DG",
+  "departureTime": "18:10:00",
+  "arrivalTime": "19:40:00",
+  "duration": "1h 30m",
+  "distance": "62 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,32 @@
+{
+  "number": "12976",
+  "name": "Jaipur-Mysore SF Express",
+  "type": "SF",
+  "source": "JAIPUR",
+  "sourceCode": "JP",
+  "destination": "MYSORE JN",
+  "destinationCode": "MYS",
+  "departureTime": "19:40:00",
+  "arrivalTime": "16:20:00",
+  "duration": "44h 40m",
+  "distance": "2479 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

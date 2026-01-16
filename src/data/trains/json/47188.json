@@ -1,0 +1,30 @@
+{
+  "number": "47188",
+  "name": "Lingampalli Falaknuma Matrabhoomi Ladies MMTS",
+  "type": "Hyd",
+  "source": "LINGAMPALLI",
+  "sourceCode": "LPI",
+  "destination": "KACHEGUDA FALAKNUMA",
+  "destinationCode": "FM",
+  "departureTime": "17:55:00",
+  "arrivalTime": "19:10:00",
+  "duration": "1h 15m",
+  "distance": "37 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

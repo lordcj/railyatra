@@ -1,0 +1,30 @@
+{
+  "number": "58217",
+  "name": "Titlagarh Raipur Passenger",
+  "type": "Pass",
+  "source": "TITLAGARH",
+  "sourceCode": "TIG",
+  "destination": "RAIPUR JN",
+  "destinationCode": "R",
+  "departureTime": "19:40:00",
+  "arrivalTime": "23:55:00",
+  "duration": "4h 15m",
+  "distance": "202 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "15692",
+  "name": "Cachar Express",
+  "type": "Exp",
+  "source": "SILCHAR",
+  "sourceCode": "SCL",
+  "destination": "LUMDING JN",
+  "destinationCode": "LMG",
+  "departureTime": "19:00:00",
+  "arrivalTime": "06:10:00",
+  "duration": "11h 10m",
+  "distance": "215 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

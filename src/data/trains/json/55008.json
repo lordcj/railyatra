@@ -1,0 +1,30 @@
+{
+  "number": "55008",
+  "name": "Thawe Hajipur Passenger",
+  "type": "Pass",
+  "source": "Thawe Junction",
+  "sourceCode": "THE",
+  "destination": "SONPUR JN",
+  "destinationCode": "SEE",
+  "departureTime": "06:10:00",
+  "arrivalTime": "10:40:00",
+  "duration": "4h 30m",
+  "distance": "147 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

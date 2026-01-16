@@ -1,0 +1,29 @@
+{
+  "number": "12605",
+  "name": "Pallavan Superfast Express",
+  "type": "SF",
+  "source": "CHENNAI EGMORE",
+  "sourceCode": "MS",
+  "destination": "TIRUCHIRAPPALLI",
+  "destinationCode": "TPJ",
+  "departureTime": "15:45:00",
+  "arrivalTime": "21:20:00",
+  "duration": "5h 35m",
+  "distance": "336 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

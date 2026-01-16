@@ -1,0 +1,31 @@
+{
+  "number": "18602",
+  "name": "Jammu Tawi-Rourkela Express",
+  "type": "Exp",
+  "source": "MURI",
+  "sourceCode": "MURI",
+  "destination": "HATIA",
+  "destinationCode": "HTE",
+  "departureTime": "08:20:00",
+  "arrivalTime": "10:05:00",
+  "duration": "1h 45m",
+  "distance": "67 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

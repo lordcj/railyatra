@@ -1,0 +1,29 @@
+{
+  "number": "24227",
+  "name": "Varuna Express",
+  "type": "Exp",
+  "source": "VARANASI JN",
+  "sourceCode": "BSB",
+  "destination": "KANPUR CENTRAL",
+  "destinationCode": "CNB",
+  "departureTime": "04:55:00",
+  "arrivalTime": "11:35:00",
+  "duration": "6h 40m",
+  "distance": "355 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

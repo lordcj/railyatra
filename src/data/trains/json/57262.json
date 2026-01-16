@@ -1,0 +1,30 @@
+{
+  "number": "57262",
+  "name": "Nidadavolu Bhimavaram Passenger",
+  "type": "Pass",
+  "source": "NIDADAVOLU JN",
+  "sourceCode": "NDD",
+  "destination": "Bhimavaram Junction",
+  "destinationCode": "BVRM",
+  "departureTime": "07:30:00",
+  "arrivalTime": "08:50:00",
+  "duration": "1h 20m",
+  "distance": "46 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

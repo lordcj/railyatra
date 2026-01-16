@@ -1,0 +1,30 @@
+{
+  "number": "58206",
+  "name": "ITWARI RAIPUR MEMU Pass",
+  "type": "Pass",
+  "source": "ITWARI",
+  "sourceCode": "ITR",
+  "destination": "RAIPUR JN",
+  "destinationCode": "R",
+  "departureTime": "07:30:00",
+  "arrivalTime": "17:35:00",
+  "duration": "10h 5m",
+  "distance": "298 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

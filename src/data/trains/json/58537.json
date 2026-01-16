@@ -1,0 +1,30 @@
+{
+  "number": "58537",
+  "name": "Rayagada Vishakhapatnam Passenger",
+  "type": "Pass",
+  "source": "RAYAGADA",
+  "sourceCode": "RGDA",
+  "destination": "VISHAKAPATNAM",
+  "destinationCode": "VSKP",
+  "departureTime": "10:25:00",
+  "arrivalTime": "15:05:00",
+  "duration": "4h 40m",
+  "distance": "186 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

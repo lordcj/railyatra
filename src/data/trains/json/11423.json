@@ -1,0 +1,30 @@
+{
+  "number": "11423",
+  "name": "Solapur - Hubli Express",
+  "type": "Exp",
+  "source": "SOLAPUR JN",
+  "sourceCode": "SUR",
+  "destination": "HUBLI JN",
+  "destinationCode": "UBL",
+  "departureTime": "06:25:00",
+  "arrivalTime": "14:30:00",
+  "duration": "8h 5m",
+  "distance": "358 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

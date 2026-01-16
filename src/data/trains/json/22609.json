@@ -1,0 +1,29 @@
+{
+  "number": "22609",
+  "name": "Mangalore - Palghat Intercity Express",
+  "type": "SF",
+  "source": "MANGALORE CNTL",
+  "sourceCode": "MAQ",
+  "destination": "PALAKKAD",
+  "destinationCode": "PGT",
+  "departureTime": "12:00:00",
+  "arrivalTime": "18:15:00",
+  "duration": "6h 15m",
+  "distance": "352 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

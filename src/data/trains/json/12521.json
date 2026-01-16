@@ -1,0 +1,32 @@
+{
+  "number": "12521",
+  "name": "Raptisagar Express",
+  "type": "SF",
+  "source": "BARAUNI JN",
+  "sourceCode": "BJU",
+  "destination": "ERNAKULAM JN",
+  "destinationCode": "ERS",
+  "departureTime": "23:00:00",
+  "arrivalTime": "13:20:00",
+  "duration": "62h 20m",
+  "distance": "3441 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

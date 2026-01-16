@@ -1,0 +1,30 @@
+{
+  "number": "53063",
+  "name": "Barddhaman Barharwa Passenger",
+  "type": "Pass",
+  "source": "BARDDHAMAN JN",
+  "sourceCode": "BWN",
+  "destination": "BARHARWA JN",
+  "destinationCode": "BHW",
+  "departureTime": "06:30:00",
+  "arrivalTime": "11:40:00",
+  "duration": "5h 10m",
+  "distance": "212 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

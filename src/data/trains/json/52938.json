@@ -1,0 +1,30 @@
+{
+  "number": "52938",
+  "name": "Botad Ahmedabad Passenger",
+  "type": "Pass",
+  "source": "BOTAD JN",
+  "sourceCode": "BTD",
+  "destination": "GANDHIGRAM",
+  "destinationCode": "GG",
+  "departureTime": "17:05:00",
+  "arrivalTime": "20:55:00",
+  "duration": "3h 50m",
+  "distance": "155 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

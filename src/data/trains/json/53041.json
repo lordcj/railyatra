@@ -1,0 +1,30 @@
+{
+  "number": "53041",
+  "name": "HOWRAH - JAYNAGAR Passenger",
+  "type": "Pass",
+  "source": "HOWRAH JN",
+  "sourceCode": "HWH",
+  "destination": "JAYNAGAR",
+  "destinationCode": "JYG",
+  "departureTime": "07:15:00",
+  "arrivalTime": "14:20:00",
+  "duration": "31h 5m",
+  "distance": "727 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

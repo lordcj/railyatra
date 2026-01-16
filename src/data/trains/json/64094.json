@@ -1,0 +1,30 @@
+{
+  "number": "64094",
+  "name": "Nizamuddin Parikrama",
+  "type": "Del",
+  "source": "SHAKURBASTI",
+  "sourceCode": "SSB",
+  "destination": "DELHI H NIZAMUDDIN",
+  "destinationCode": "NZM",
+  "departureTime": "08:30:00",
+  "arrivalTime": "09:13:00",
+  "duration": "0h 43m",
+  "distance": "22 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

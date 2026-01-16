@@ -1,0 +1,14 @@
+{
+  "code": "SDAH",
+  "name": "Sealdah",
+  "fullName": "Sealdah Railway Station",
+  "zone": "ER",
+  "state": "West Bengal",
+  "category": "A1",
+  "platforms": 20,
+  "connectivity": [
+    "Metro",
+    "Bus",
+    "Taxi"
+  ]
+}

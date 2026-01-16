@@ -1,0 +1,31 @@
+{
+  "number": "12222",
+  "name": "HOWRAH - PUNE AC Duronto Exp",
+  "type": "Drnt",
+  "source": "HOWRAH JN",
+  "sourceCode": "HWH",
+  "destination": "PUNE JN",
+  "destinationCode": "PUNE",
+  "departureTime": "08:20:00",
+  "arrivalTime": "11:35:00",
+  "duration": "27h 15m",
+  "distance": "2020 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "3A",
+    "2A",
+    "1A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

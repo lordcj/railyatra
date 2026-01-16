@@ -1,0 +1,30 @@
+{
+  "number": "51811",
+  "name": "Bina Jhansi Passenger",
+  "type": "Pass",
+  "source": "BINA JN",
+  "sourceCode": "BINA",
+  "destination": "JHANSI JN",
+  "destinationCode": "JHS",
+  "departureTime": "15:00:00",
+  "arrivalTime": "18:55:00",
+  "duration": "3h 55m",
+  "distance": "153 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

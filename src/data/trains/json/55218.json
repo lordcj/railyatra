@@ -1,0 +1,30 @@
+{
+  "number": "55218",
+  "name": "Chhapra Sonpur Passenger",
+  "type": "Pass",
+  "source": "CHHAPRA",
+  "sourceCode": "CPR",
+  "destination": "SONPUR JN",
+  "destinationCode": "SEE",
+  "departureTime": "11:05:00",
+  "arrivalTime": "12:45:00",
+  "duration": "1h 40m",
+  "distance": "54 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

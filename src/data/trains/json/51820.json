@@ -1,0 +1,30 @@
+{
+  "number": "51820",
+  "name": "Allahabad Jhansi Passenger",
+  "type": "Pass",
+  "source": "ALLAHABAD JN",
+  "sourceCode": "ALD",
+  "destination": "JHANSI JN",
+  "destinationCode": "JHS",
+  "departureTime": "06:20:00",
+  "arrivalTime": "18:10:00",
+  "duration": "11h 50m",
+  "distance": "390 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

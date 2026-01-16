@@ -1,0 +1,31 @@
+{
+  "number": "14661",
+  "name": "Delhi Barmer Link Express",
+  "type": "Exp",
+  "source": "JODHPUR JN",
+  "sourceCode": "JU",
+  "destination": "BARMER",
+  "destinationCode": "BME",
+  "departureTime": "05:05:00",
+  "arrivalTime": "09:45:00",
+  "duration": "4h 40m",
+  "distance": "209 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

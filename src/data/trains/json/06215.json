@@ -1,0 +1,30 @@
+{
+  "number": "06215",
+  "name": "Mysore Nanjangud Town passenger",
+  "type": "Pass",
+  "source": "MYSORE JN",
+  "sourceCode": "MYS",
+  "destination": "NANJANGUD TOWN",
+  "destinationCode": "NTW",
+  "departureTime": "16:10:00",
+  "arrivalTime": "17:05:00",
+  "duration": "0h 55m",
+  "distance": "25 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

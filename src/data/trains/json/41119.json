@@ -1,0 +1,30 @@
+{
+  "number": "41119",
+  "name": "Chennai Beach Velachery EMU",
+  "type": "MEMU",
+  "source": "CHENNAI BEACH",
+  "sourceCode": "MSB",
+  "destination": "Velachery",
+  "destinationCode": "VLCY",
+  "departureTime": "19:15:00",
+  "arrivalTime": "19:55:00",
+  "duration": "0h 40m",
+  "distance": "18 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

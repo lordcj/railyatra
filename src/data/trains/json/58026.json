@@ -1,0 +1,30 @@
+{
+  "number": "58026",
+  "name": "Hatia Kharagpur Passenger",
+  "type": "Pass",
+  "source": "HATIA",
+  "sourceCode": "HTE",
+  "destination": "KHARAGPUR JN",
+  "destinationCode": "KGP",
+  "departureTime": "09:00:00",
+  "arrivalTime": "17:55:00",
+  "duration": "8h 55m",
+  "distance": "336 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

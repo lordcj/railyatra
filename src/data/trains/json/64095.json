@@ -1,0 +1,30 @@
+{
+  "number": "64095",
+  "name": "Shakurbasti New Delhi Parikrama",
+  "type": "Del",
+  "source": "NEW DELHI",
+  "sourceCode": "NDLS",
+  "destination": "SHAKURBASTI",
+  "destinationCode": "SSB",
+  "departureTime": "09:35:00",
+  "arrivalTime": "10:43:00",
+  "duration": "1h 8m",
+  "distance": "28 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "58845",
+  "name": "Itwari Nagbahir Passenger",
+  "type": "Pass",
+  "source": "ITWARI",
+  "sourceCode": "ITR",
+  "destination": "Nagbhir Junction",
+  "destinationCode": "NAB",
+  "departureTime": "11:00:00",
+  "arrivalTime": "15:25:00",
+  "duration": "4h 25m",
+  "distance": "106 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "57438",
+  "name": "Hindupur Guntakal Passenger",
+  "type": "Pass",
+  "source": "HINDUPUR",
+  "sourceCode": "HUP",
+  "destination": "GUNTAKAL JN",
+  "destinationCode": "GTL",
+  "departureTime": "06:30:00",
+  "arrivalTime": "11:35:00",
+  "duration": "5h 5m",
+  "distance": "197 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

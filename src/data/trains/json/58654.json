@@ -1,0 +1,30 @@
+{
+  "number": "58654",
+  "name": "Barkichampi - Lohardaga - Ranchi Passenger",
+  "type": "Pass",
+  "source": "Lohardaga",
+  "sourceCode": "LAD",
+  "destination": "RANCHI",
+  "destinationCode": "RNC",
+  "departureTime": "12:50:00",
+  "arrivalTime": "14:20:00",
+  "duration": "1h 30m",
+  "distance": "67 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

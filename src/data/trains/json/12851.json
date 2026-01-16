@@ -1,0 +1,31 @@
+{
+  "number": "12851",
+  "name": "Bilaspur-Chennai Express",
+  "type": "SF",
+  "source": "BILASPUR JN",
+  "sourceCode": "BSP",
+  "destination": "CHENNAI CENTRAL",
+  "destinationCode": "MAS",
+  "departureTime": "08:55:00",
+  "arrivalTime": "08:55:00",
+  "duration": "24h 0m",
+  "distance": "1413 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

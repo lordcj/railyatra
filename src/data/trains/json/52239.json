@@ -1,0 +1,30 @@
+{
+  "number": "52239",
+  "name": "TIKUNIA - AISHBAGH PASSENGER",
+  "type": "Pass",
+  "source": "TIKUNIA",
+  "sourceCode": "TQN",
+  "destination": "AISHBAGH",
+  "destinationCode": "ASSH",
+  "departureTime": "05:45:00",
+  "arrivalTime": "14:45:00",
+  "duration": "9h 0m",
+  "distance": "269 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

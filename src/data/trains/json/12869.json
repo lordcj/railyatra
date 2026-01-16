@@ -1,0 +1,31 @@
+{
+  "number": "12869",
+  "name": "MUMBAI CST - HOWRAH SF Exp",
+  "type": "SF",
+  "source": "MUMBAI CST",
+  "sourceCode": "CSTM",
+  "destination": "HOWRAH JN",
+  "destinationCode": "HWH",
+  "departureTime": "11:05:00",
+  "arrivalTime": "19:30:00",
+  "duration": "32h 25m",
+  "distance": "1968 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

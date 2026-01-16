@@ -1,0 +1,30 @@
+{
+  "number": "52205",
+  "name": "Kasganj Pilibhit Passenger",
+  "type": "Pass",
+  "source": "Kasganj Mg",
+  "sourceCode": "KSJF",
+  "destination": "PILIBHIT JN",
+  "destinationCode": "PBE",
+  "departureTime": "13:15:00",
+  "arrivalTime": "19:45:00",
+  "duration": "6h 30m",
+  "distance": "162 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

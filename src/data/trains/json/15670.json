@@ -1,0 +1,31 @@
+{
+  "number": "15670",
+  "name": "Nagaland Express",
+  "type": "Exp",
+  "source": "DIMAPUR",
+  "sourceCode": "DMV",
+  "destination": "KAMAKHYA",
+  "destinationCode": "KYQ",
+  "departureTime": "06:30:00",
+  "arrivalTime": "12:00:00",
+  "duration": "5h 30m",
+  "distance": "256 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

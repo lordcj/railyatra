@@ -1,0 +1,30 @@
+{
+  "number": "16688-Slip",
+  "name": "Navyug Express Slip",
+  "type": "Exp",
+  "source": "JAMMU TAWI",
+  "sourceCode": "JAT",
+  "destination": "TIRUNELVELI",
+  "destinationCode": "TEN",
+  "departureTime": "23:45:00",
+  "arrivalTime": "18:20:00",
+  "duration": "66h 35m",
+  "distance": "3601 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

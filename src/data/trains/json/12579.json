@@ -1,0 +1,31 @@
+{
+  "number": "12579",
+  "name": "Digha- Puri SamudraKanya Express",
+  "type": "SF",
+  "source": "Digha Flag Station",
+  "sourceCode": "DGHA",
+  "destination": "PURI",
+  "destinationCode": "PURI",
+  "departureTime": "17:15:00",
+  "arrivalTime": "03:20:00",
+  "duration": "10h 5m",
+  "distance": "549 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

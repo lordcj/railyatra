@@ -1,0 +1,30 @@
+{
+  "number": "54234",
+  "name": "Lucknow Faizabad Passenger",
+  "type": "Pass",
+  "source": "LUCKNOW",
+  "sourceCode": "LKO",
+  "destination": "FAIZABAD JN",
+  "destinationCode": "FD",
+  "departureTime": "17:05:00",
+  "arrivalTime": "20:40:00",
+  "duration": "3h 35m",
+  "distance": "127 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

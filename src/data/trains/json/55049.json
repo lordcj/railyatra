@@ -1,0 +1,30 @@
+{
+  "number": "55049",
+  "name": "Gonda Lucknow Passenger",
+  "type": "Pass",
+  "source": "GONDA JN",
+  "sourceCode": "GD",
+  "destination": "LUCKNOW JN",
+  "destinationCode": "LJN",
+  "departureTime": "05:30:00",
+  "arrivalTime": "09:45:00",
+  "duration": "4h 15m",
+  "distance": "126 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

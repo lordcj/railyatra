@@ -1,0 +1,31 @@
+{
+  "number": "22471",
+  "name": "Bikaner - Delhi Sarai Rohilla SF Intercity Express",
+  "type": "SF",
+  "source": "BIKANER JN",
+  "sourceCode": "BKN",
+  "destination": "DELHI SARAI ROHILLA",
+  "destinationCode": "DEE",
+  "departureTime": "09:15:00",
+  "arrivalTime": "17:25:00",
+  "duration": "8h 10m",
+  "distance": "458 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

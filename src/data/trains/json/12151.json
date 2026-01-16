@@ -1,0 +1,32 @@
+{
+  "number": "12151",
+  "name": "MUMBAI LTT - HOWRAH Samarsata SF Exp",
+  "type": "SF",
+  "source": "LOKMANYA TILAK TERM",
+  "sourceCode": "LTT",
+  "destination": "HOWRAH JN",
+  "destinationCode": "HWH",
+  "departureTime": "20:35:00",
+  "arrivalTime": "08:25:00",
+  "duration": "35h 50m",
+  "distance": "2082 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

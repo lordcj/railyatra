@@ -1,0 +1,31 @@
+{
+  "number": "12478",
+  "name": "Jammu Tawi - Jamnagar (Weekly) Sindhu SF Express",
+  "type": "SF",
+  "source": "JAMMU TAWI",
+  "sourceCode": "JAT",
+  "destination": "JAMNAGAR",
+  "destinationCode": "JAM",
+  "departureTime": "11:15:00",
+  "arrivalTime": "21:00:00",
+  "duration": "33h 45m",
+  "distance": "2000 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

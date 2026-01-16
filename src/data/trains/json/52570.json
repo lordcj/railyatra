@@ -1,0 +1,30 @@
+{
+  "number": "52570",
+  "name": "Dullabcherra Karimganj Passenger",
+  "type": "Pass",
+  "source": "Dullabcherra",
+  "sourceCode": "DLCR",
+  "destination": "Karimganj Junction",
+  "destinationCode": "KXJ",
+  "departureTime": "05:15:00",
+  "arrivalTime": "07:35:00",
+  "duration": "2h 20m",
+  "distance": "51 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

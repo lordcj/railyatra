@@ -1,0 +1,31 @@
+{
+  "number": "12307-Slip",
+  "name": "Howrah-Bikaner Express",
+  "type": "SF",
+  "source": "HOWRAH JN",
+  "sourceCode": "HWH",
+  "destination": "JODHPUR JN",
+  "destinationCode": "JU",
+  "departureTime": "23:30:00",
+  "arrivalTime": "06:00:00",
+  "duration": "30h 30m",
+  "distance": "1814 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

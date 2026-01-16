@@ -1,0 +1,30 @@
+{
+  "number": "59152",
+  "name": "Modasa Nadiad Passenger",
+  "type": "Pass",
+  "source": "Modasa",
+  "sourceCode": "MDSA",
+  "destination": "NADIAD JN",
+  "destinationCode": "ND",
+  "departureTime": "06:00:00",
+  "arrivalTime": "09:20:00",
+  "duration": "3h 20m",
+  "distance": "105 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

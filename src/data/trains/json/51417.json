@@ -1,0 +1,30 @@
+{
+  "number": "51417",
+  "name": "Karjat Pune Passenger",
+  "type": "Pass",
+  "source": "KARJAT",
+  "sourceCode": "KJT",
+  "destination": "PUNE JN",
+  "destinationCode": "PUNE",
+  "departureTime": "15:25:00",
+  "arrivalTime": "18:15:00",
+  "duration": "2h 50m",
+  "distance": "91 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

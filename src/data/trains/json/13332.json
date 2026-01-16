@@ -1,0 +1,31 @@
+{
+  "number": "13332",
+  "name": "Patna Dhanbad Express",
+  "type": "Exp",
+  "source": "PATNA JN",
+  "sourceCode": "PNBE",
+  "destination": "DHANBAD JN",
+  "destinationCode": "DHN",
+  "departureTime": "08:40:00",
+  "arrivalTime": "16:30:00",
+  "duration": "7h 50m",
+  "distance": "373 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

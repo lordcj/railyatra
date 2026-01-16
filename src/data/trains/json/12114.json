@@ -1,0 +1,29 @@
+{
+  "number": "12114",
+  "name": "Nagpur-Pune Garib Rath",
+  "type": "GR",
+  "source": "NAGPUR",
+  "sourceCode": "NGP",
+  "destination": "PUNE JN",
+  "destinationCode": "PUNE",
+  "departureTime": "18:35:00",
+  "arrivalTime": "09:45:00",
+  "duration": "15h 10m",
+  "distance": "890 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

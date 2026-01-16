@@ -1,0 +1,31 @@
+{
+  "number": "16324",
+  "name": "Shalimar Tiruvananthapuram Express",
+  "type": "Exp",
+  "source": "KOLKATA SHALIMAR",
+  "sourceCode": "SHM",
+  "destination": "TRIVANDRUM CENTRAL",
+  "destinationCode": "TVC",
+  "departureTime": "22:45:00",
+  "arrivalTime": "22:30:00",
+  "duration": "47h 45m",
+  "distance": "2566 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

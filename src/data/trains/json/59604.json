@@ -1,0 +1,30 @@
+{
+  "number": "59604",
+  "name": "Udaipur Ajmer Passenger",
+  "type": "Pass",
+  "source": "UDAIPUR CITY",
+  "sourceCode": "UDZ",
+  "destination": "AJMER JN",
+  "destinationCode": "AII",
+  "departureTime": "09:40:00",
+  "arrivalTime": "18:00:00",
+  "duration": "8h 20m",
+  "distance": "300 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "59342",
+  "name": "Bina Nagda Passenger",
+  "type": "Pass",
+  "source": "BINA JN",
+  "sourceCode": "BINA",
+  "destination": "NAGDA JN",
+  "destinationCode": "NAD",
+  "departureTime": "04:00:00",
+  "arrivalTime": "15:00:00",
+  "duration": "11h 0m",
+  "distance": "429 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

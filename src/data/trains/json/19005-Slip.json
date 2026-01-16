@@ -1,0 +1,32 @@
+{
+  "number": "19005-Slip",
+  "name": "Saurashtra Mail",
+  "type": "Mail",
+  "source": "Mumbai Central",
+  "sourceCode": "BCT",
+  "destination": "VERAVAL",
+  "destinationCode": "VRL",
+  "departureTime": "20:25:00",
+  "arrivalTime": "15:45:00",
+  "duration": "19h 20m",
+  "distance": "923 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

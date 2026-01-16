@@ -1,0 +1,29 @@
+{
+  "number": "18184",
+  "name": "Danapur-Tatanagar Express",
+  "type": "Exp",
+  "source": "DANAPUR",
+  "sourceCode": "DNR",
+  "destination": "TATANAGAR JN",
+  "destinationCode": "TATA",
+  "departureTime": "06:00:00",
+  "arrivalTime": "17:10:00",
+  "duration": "11h 10m",
+  "distance": "512 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

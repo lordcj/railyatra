@@ -1,0 +1,30 @@
+{
+  "number": "57642",
+  "name": "GADAG - SOLAPUR PASSENGER",
+  "type": "Pass",
+  "source": "GADAG JN",
+  "sourceCode": "GDG",
+  "destination": "SOLAPUR JN",
+  "destinationCode": "SUR",
+  "departureTime": "04:45:00",
+  "arrivalTime": "09:50:00",
+  "duration": "5h 5m",
+  "distance": "207 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

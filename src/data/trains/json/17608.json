@@ -1,0 +1,29 @@
+{
+  "number": "17608",
+  "name": "Tungabhadra Express",
+  "type": "Exp",
+  "source": "KURNOOL TOWN",
+  "sourceCode": "KRNT",
+  "destination": "SECUNDERABAD JN",
+  "destinationCode": "SC",
+  "departureTime": "15:00:00",
+  "arrivalTime": "19:55:00",
+  "duration": "4h 55m",
+  "distance": "244 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

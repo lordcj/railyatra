@@ -1,0 +1,30 @@
+{
+  "number": "52182",
+  "name": "Tantpur Mohari Bari Passenger",
+  "type": "Pass",
+  "source": "Tantpur",
+  "sourceCode": "TPO",
+  "destination": "Bari",
+  "destinationCode": "BARI",
+  "departureTime": "13:20:00",
+  "arrivalTime": "14:30:00",
+  "duration": "1h 10m",
+  "distance": "26 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

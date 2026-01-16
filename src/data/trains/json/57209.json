@@ -1,0 +1,30 @@
+{
+  "number": "57209",
+  "name": "Tenali Guntur Passenger",
+  "type": "Pass",
+  "source": "TENALI JN",
+  "sourceCode": "TEL",
+  "destination": "GUNTUR JN",
+  "destinationCode": "GNT",
+  "departureTime": "15:15:00",
+  "arrivalTime": "16:15:00",
+  "duration": "1h 0m",
+  "distance": "26 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

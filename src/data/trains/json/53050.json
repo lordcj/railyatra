@@ -1,0 +1,30 @@
+{
+  "number": "53050",
+  "name": "Mokameh Howrah Passenger",
+  "type": "Pass",
+  "source": "MOKAMEH JN",
+  "sourceCode": "MKA",
+  "destination": "HOWRAH JN",
+  "destinationCode": "HWH",
+  "departureTime": "12:10:00",
+  "arrivalTime": "03:00:00",
+  "duration": "14h 50m",
+  "distance": "455 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

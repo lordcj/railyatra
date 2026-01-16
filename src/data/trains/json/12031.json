@@ -1,0 +1,30 @@
+{
+  "number": "12031",
+  "name": "Amritsar Shatabdi Express",
+  "type": "Shtb",
+  "source": "NEW DELHI",
+  "sourceCode": "NDLS",
+  "destination": "AMRITSAR JN",
+  "destinationCode": "ASR",
+  "departureTime": "07:20:00",
+  "arrivalTime": "13:25:00",
+  "duration": "6h 5m",
+  "distance": "448 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "1A",
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

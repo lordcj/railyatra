@@ -1,0 +1,30 @@
+{
+  "number": "54311",
+  "name": "Bareilly Moradabad Passenger",
+  "type": "Pass",
+  "source": "BAREILLY",
+  "sourceCode": "BE",
+  "destination": "MORADABAD",
+  "destinationCode": "MB",
+  "departureTime": "12:00:00",
+  "arrivalTime": "15:25:00",
+  "duration": "3h 25m",
+  "distance": "113 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

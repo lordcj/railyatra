@@ -1,0 +1,32 @@
+{
+  "number": "12351",
+  "name": "Howrah- Danapur Express",
+  "type": "SF",
+  "source": "HOWRAH JN",
+  "sourceCode": "HWH",
+  "destination": "DANAPUR",
+  "destinationCode": "DNR",
+  "departureTime": "20:35:00",
+  "arrivalTime": "06:40:00",
+  "duration": "10h 5m",
+  "distance": "541 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

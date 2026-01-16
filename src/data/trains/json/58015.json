@@ -1,0 +1,30 @@
+{
+  "number": "58015",
+  "name": "Howrah Adra MEMU Passenger",
+  "type": "Pass",
+  "source": "HOWRAH JN",
+  "sourceCode": "HWH",
+  "destination": "ADRA JN",
+  "destinationCode": "ADRA",
+  "departureTime": "17:45:00",
+  "arrivalTime": "23:20:00",
+  "duration": "5h 35m",
+  "distance": "283 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

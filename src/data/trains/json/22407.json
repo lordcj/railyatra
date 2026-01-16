@@ -1,0 +1,29 @@
+{
+  "number": "22407",
+  "name": "Varanasi-Delhi Anand Vihar Terminus Garib Rath",
+  "type": "GR",
+  "source": "VARANASI JN",
+  "sourceCode": "BSB",
+  "destination": "ANAND VIHAR TRM",
+  "destinationCode": "ANVT",
+  "departureTime": "19:30:00",
+  "arrivalTime": "10:00:00",
+  "duration": "14h 30m",
+  "distance": "781 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

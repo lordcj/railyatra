@@ -1,0 +1,31 @@
+{
+  "number": "12390",
+  "name": "CHENNAI EGMORE - GAYA SF Exp",
+  "type": "SF",
+  "source": "CHENNAI EGMORE",
+  "sourceCode": "MS",
+  "destination": "GAYA JN",
+  "destinationCode": "GAYA",
+  "departureTime": "07:30:00",
+  "arrivalTime": "21:40:00",
+  "duration": "38h 10m",
+  "distance": "2346 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "15215",
+  "name": "Muzaffarpur-Narkatiaganj Express",
+  "type": "Exp",
+  "source": "MUZAFFARPUR JN",
+  "sourceCode": "MFP",
+  "destination": "NARKATIAGANJ JN",
+  "destinationCode": "NKE",
+  "departureTime": "08:40:00",
+  "arrivalTime": "12:35:00",
+  "duration": "3h 55m",
+  "distance": "160 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

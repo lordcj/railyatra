@@ -1,0 +1,14 @@
+{
+  "code": "LKO",
+  "name": "Lucknow",
+  "fullName": "Lucknow Charbagh",
+  "zone": "NER",
+  "state": "Uttar Pradesh",
+  "category": "A1",
+  "platforms": 9,
+  "connectivity": [
+    "Metro",
+    "Bus",
+    "Taxi"
+  ]
+}

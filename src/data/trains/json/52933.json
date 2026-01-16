@@ -1,0 +1,30 @@
+{
+  "number": "52933",
+  "name": "Veraval Dhasa Passenger",
+  "type": "Pass",
+  "source": "VERAVAL",
+  "sourceCode": "VRL",
+  "destination": "DHASA JN",
+  "destinationCode": "DAS",
+  "departureTime": "13:55:00",
+  "arrivalTime": "20:20:00",
+  "duration": "6h 25m",
+  "distance": "190 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

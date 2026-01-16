@@ -1,0 +1,32 @@
+{
+  "number": "11108",
+  "name": "Varanasi-Gwalior Bundelkhand Express",
+  "type": "Exp",
+  "source": "VARANASI JN",
+  "sourceCode": "BSB",
+  "destination": "GWALIOR JN",
+  "destinationCode": "GWL",
+  "departureTime": "18:05:00",
+  "arrivalTime": "08:55:00",
+  "duration": "14h 50m",
+  "distance": "624 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

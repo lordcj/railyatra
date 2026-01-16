@@ -1,0 +1,31 @@
+{
+  "number": "12849",
+  "name": "Bilaspur Pune SF Express",
+  "type": "SF",
+  "source": "BILASPUR JN",
+  "sourceCode": "BSP",
+  "destination": "PUNE JN",
+  "destinationCode": "PUNE",
+  "departureTime": "11:35:00",
+  "arrivalTime": "09:45:00",
+  "duration": "22h 10m",
+  "distance": "1301 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

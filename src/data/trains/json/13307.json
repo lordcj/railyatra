@@ -1,0 +1,31 @@
+{
+  "number": "13307",
+  "name": "Ganga Sutlej Express",
+  "type": "Exp",
+  "source": "DHANBAD JN",
+  "sourceCode": "DHN",
+  "destination": "FIROZPUR CANT",
+  "destinationCode": "FZR",
+  "departureTime": "21:20:00",
+  "arrivalTime": "10:20:00",
+  "duration": "37h 0m",
+  "distance": "1599 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

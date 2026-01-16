@@ -1,0 +1,29 @@
+{
+  "number": "12535",
+  "name": "Lucknow-Raipur Garib Rath Express",
+  "type": "GR",
+  "source": "LUCKNOW JN",
+  "sourceCode": "LJN",
+  "destination": "RAIPUR JN",
+  "destinationCode": "R",
+  "departureTime": "14:40:00",
+  "arrivalTime": "07:15:00",
+  "duration": "16h 35m",
+  "distance": "917 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "3A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

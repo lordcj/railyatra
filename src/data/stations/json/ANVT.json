@@ -1,0 +1,14 @@
+{
+  "code": "ANVT",
+  "name": "Anand Vihar Terminal",
+  "fullName": "Anand Vihar Terminal",
+  "zone": "NR",
+  "state": "Delhi",
+  "category": "A",
+  "platforms": 7,
+  "connectivity": [
+    "Metro",
+    "Bus",
+    "Taxi"
+  ]
+}

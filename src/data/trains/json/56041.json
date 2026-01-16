@@ -1,0 +1,30 @@
+{
+  "number": "56041",
+  "name": "Tirupati-Pondicherry Passenger",
+  "type": "Pass",
+  "source": "TIRUPATI MAIN",
+  "sourceCode": "TPTY",
+  "destination": "Puducherry",
+  "destinationCode": "PDY",
+  "departureTime": "04:25:00",
+  "arrivalTime": "13:15:00",
+  "duration": "8h 50m",
+  "distance": "284 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

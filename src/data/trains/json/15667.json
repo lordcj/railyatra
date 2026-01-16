@@ -1,0 +1,31 @@
+{
+  "number": "15667",
+  "name": "GANDHIDHAM - KAMAKHYA Exp",
+  "type": "Exp",
+  "source": "GANDHIDHAM BG",
+  "sourceCode": "GIMB",
+  "destination": "KAMAKHYA",
+  "destinationCode": "KYQ",
+  "departureTime": "13:15:00",
+  "arrivalTime": "06:00:00",
+  "duration": "64h 45m",
+  "distance": "3157 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

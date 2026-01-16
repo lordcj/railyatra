@@ -1,0 +1,30 @@
+{
+  "number": "16862",
+  "name": "Karaikkudi Tiruturaipudi Express",
+  "type": "Exp",
+  "source": "Karaikkudi Junction",
+  "sourceCode": "KKDI",
+  "destination": "Tiruturaipudi Junction",
+  "destinationCode": "TTP",
+  "departureTime": "17:45:00",
+  "arrivalTime": "21:15:00",
+  "duration": "3h 30m",
+  "distance": "123 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

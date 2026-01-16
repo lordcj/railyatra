@@ -1,0 +1,31 @@
+{
+  "number": "13484",
+  "name": "Farakka Express",
+  "type": "Exp",
+  "source": "OLD DELHI",
+  "sourceCode": "DLI",
+  "destination": "MALDA TOWN",
+  "destinationCode": "MLDT",
+  "departureTime": "21:50:00",
+  "arrivalTime": "07:20:00",
+  "duration": "33h 30m",
+  "distance": "1456 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

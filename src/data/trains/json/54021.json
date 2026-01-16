@@ -1,0 +1,30 @@
+{
+  "number": "54021",
+  "name": "Tilak Bridge Passenger",
+  "type": "Pass",
+  "source": "Bulandshahr",
+  "sourceCode": "BSC",
+  "destination": "NEW DELHI",
+  "destinationCode": "NDLS",
+  "departureTime": "05:25:00",
+  "arrivalTime": "08:58:00",
+  "duration": "3h 33m",
+  "distance": "101 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

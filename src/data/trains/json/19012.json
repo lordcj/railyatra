@@ -1,0 +1,29 @@
+{
+  "number": "19012",
+  "name": "Gujarat Express",
+  "type": "Exp",
+  "source": "AHMEDABAD JN",
+  "sourceCode": "ADI",
+  "destination": "Mumbai Central",
+  "destinationCode": "BCT",
+  "departureTime": "07:00:00",
+  "arrivalTime": "16:30:00",
+  "duration": "9h 30m",
+  "distance": "491 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

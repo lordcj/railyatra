@@ -1,0 +1,30 @@
+{
+  "number": "57241",
+  "name": "Bitragunta Vijayawada Passenger",
+  "type": "Pass",
+  "source": "BITRAGUNTA",
+  "sourceCode": "BTTR",
+  "destination": "VIJAYAWADA JN",
+  "destinationCode": "BZA",
+  "departureTime": "04:00:00",
+  "arrivalTime": "09:15:00",
+  "duration": "5h 15m",
+  "distance": "221 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "55576",
+  "name": "Biraul-Darbhanga Passenger",
+  "type": "Pass",
+  "source": "Biraul",
+  "sourceCode": "BIRL",
+  "destination": "DARBHANGA JN",
+  "destinationCode": "DBG",
+  "departureTime": "17:00:00",
+  "arrivalTime": "19:40:00",
+  "duration": "2h 40m",
+  "distance": "54 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,31 @@
+{
+  "number": "12135",
+  "name": "Pune -Nagpur SuperFast Express",
+  "type": "SF",
+  "source": "PUNE JN",
+  "sourceCode": "PUNE",
+  "destination": "NAGPUR",
+  "destinationCode": "NGP",
+  "departureTime": "17:40:00",
+  "arrivalTime": "09:25:00",
+  "duration": "15h 45m",
+  "distance": "890 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

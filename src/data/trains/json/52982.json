@@ -1,0 +1,30 @@
+{
+  "number": "52982",
+  "name": "Mhow Indore MG Fast Passenger",
+  "type": "Pass",
+  "source": "Mhow",
+  "sourceCode": "MHOW",
+  "destination": "INDORE JN BG",
+  "destinationCode": "INDB",
+  "departureTime": "16:20:00",
+  "arrivalTime": "17:10:00",
+  "duration": "0h 50m",
+  "distance": "29 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

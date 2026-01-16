@@ -1,0 +1,30 @@
+{
+  "number": "53567",
+  "name": "asansol jhajha mEMU",
+  "type": "Pass",
+  "source": "ASANSOL JN",
+  "sourceCode": "ASN",
+  "destination": "JHAJHA",
+  "destinationCode": "JAJ",
+  "departureTime": "09:35:00",
+  "arrivalTime": "12:55:00",
+  "duration": "3h 20m",
+  "distance": "155 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

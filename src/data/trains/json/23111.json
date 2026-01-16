@@ -1,0 +1,29 @@
+{
+  "number": "23111",
+  "name": "Danapur Express",
+  "type": "Exp",
+  "source": "Giridih",
+  "sourceCode": "GRD",
+  "destination": "DANAPUR",
+  "destinationCode": "DNR",
+  "departureTime": "22:50:00",
+  "arrivalTime": "07:15:00",
+  "duration": "8h 25m",
+  "distance": "298 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

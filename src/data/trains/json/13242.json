@@ -1,0 +1,30 @@
+{
+  "number": "13242",
+  "name": "Patna Banka Express",
+  "type": "Exp",
+  "source": "RAJENDRA NAGAR BIHAR",
+  "sourceCode": "RJPB",
+  "destination": "Banka",
+  "destinationCode": "BAKA",
+  "departureTime": "23:25:00",
+  "arrivalTime": "06:50:00",
+  "duration": "7h 25m",
+  "distance": "272 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "53609",
+  "name": "Dehri on Sone Mughal Sarai Passenger",
+  "type": "Pass",
+  "source": "DEHRI ON SONE",
+  "sourceCode": "DOS",
+  "destination": "MUGHAL SARAI JN",
+  "destinationCode": "MGS",
+  "departureTime": "09:50:00",
+  "arrivalTime": "12:50:00",
+  "duration": "3h 0m",
+  "distance": "120 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

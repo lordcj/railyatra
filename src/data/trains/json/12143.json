@@ -1,0 +1,31 @@
+{
+  "number": "12143",
+  "name": "LTT Sultanpur Superfast Weekly Express",
+  "type": "SF",
+  "source": "LOKMANYA TILAK TERM",
+  "sourceCode": "LTT",
+  "destination": "SULTANPUR",
+  "destinationCode": "SLN",
+  "departureTime": "16:40:00",
+  "arrivalTime": "19:45:00",
+  "duration": "27h 5m",
+  "distance": "1550 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

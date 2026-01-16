@@ -1,0 +1,30 @@
+{
+  "number": "18108",
+  "name": "KORAPUT - ROURKELA Exp",
+  "type": "Exp",
+  "source": "KORAPUT",
+  "sourceCode": "KRPU",
+  "destination": "ROURKELA",
+  "destinationCode": "ROU",
+  "departureTime": "17:00:00",
+  "arrivalTime": "06:50:00",
+  "duration": "13h 50m",
+  "distance": "645 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

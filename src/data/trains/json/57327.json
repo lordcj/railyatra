@@ -1,0 +1,30 @@
+{
+  "number": "57327",
+  "name": "Dronachellam Guntur Passenger",
+  "type": "Pass",
+  "source": "DHONE",
+  "sourceCode": "DHNE",
+  "destination": "GUNTUR JN",
+  "destinationCode": "GNT",
+  "departureTime": "05:30:00",
+  "arrivalTime": "14:40:00",
+  "duration": "9h 10m",
+  "distance": "333 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

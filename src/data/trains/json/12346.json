@@ -1,0 +1,32 @@
+{
+  "number": "12346",
+  "name": "GUWAHATI - HOWRAH Saraighat SF Exp",
+  "type": "SF",
+  "source": "GUWAHATI",
+  "sourceCode": "GHY",
+  "destination": "HOWRAH JN",
+  "destinationCode": "HWH",
+  "departureTime": "12:45:00",
+  "arrivalTime": "05:10:00",
+  "duration": "16h 25m",
+  "distance": "1020 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

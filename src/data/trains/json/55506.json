@@ -1,0 +1,30 @@
+{
+  "number": "55506",
+  "name": "Runnisaidpur-Samastipur Passenger",
+  "type": "Pass",
+  "source": "Runnisaidpur",
+  "sourceCode": "RUSD",
+  "destination": "SAMASTIPUR JN",
+  "destinationCode": "SPJ",
+  "departureTime": "11:05:00",
+  "arrivalTime": "17:30:00",
+  "duration": "6h 25m",
+  "distance": "120 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

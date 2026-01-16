@@ -1,0 +1,32 @@
+{
+  "number": "11064",
+  "name": "SALEM - CHENNAI EGMORE Exp",
+  "type": "Exp",
+  "source": "SALEM JN",
+  "sourceCode": "SA",
+  "destination": "CHENNAI EGMORE",
+  "destinationCode": "MS",
+  "departureTime": "21:00:00",
+  "arrivalTime": "04:50:00",
+  "duration": "7h 50m",
+  "distance": "353 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

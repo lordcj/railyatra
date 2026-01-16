@@ -1,0 +1,30 @@
+{
+  "number": "25610",
+  "name": "Jivachh Link Express",
+  "type": "Exp",
+  "source": "DARBHANGA JN",
+  "sourceCode": "DBG",
+  "destination": "GUWAHATI",
+  "destinationCode": "GHY",
+  "departureTime": "05:30:00",
+  "arrivalTime": "04:00:00",
+  "duration": "22h 30m",
+  "distance": "877 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

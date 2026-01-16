@@ -1,0 +1,29 @@
+{
+  "number": "13011",
+  "name": "InterCity Express",
+  "type": "Exp",
+  "source": "HOWRAH JN",
+  "sourceCode": "HWH",
+  "destination": "MALDA TOWN",
+  "destinationCode": "MLDT",
+  "departureTime": "15:25:00",
+  "arrivalTime": "22:50:00",
+  "duration": "7h 25m",
+  "distance": "340 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,29 @@
+{
+  "number": "13347",
+  "name": "Palamau Express",
+  "type": "Exp",
+  "source": "BARKAKANA",
+  "sourceCode": "BRKA",
+  "destination": "PATNA JN",
+  "destinationCode": "PNBE",
+  "departureTime": "17:20:00",
+  "arrivalTime": "04:40:00",
+  "duration": "11h 20m",
+  "distance": "494 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "13410",
+  "name": "InterCity Express",
+  "type": "Exp",
+  "source": "BHAGALPUR",
+  "sourceCode": "BGP",
+  "destination": "MALDA TOWN",
+  "destinationCode": "MLDT",
+  "departureTime": "16:40:00",
+  "arrivalTime": "21:00:00",
+  "duration": "4h 20m",
+  "distance": "178 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

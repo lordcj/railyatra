@@ -1,0 +1,29 @@
+{
+  "number": "22410",
+  "name": "Anand ViharT Delhi-Sasaram GaribRath Express",
+  "type": "GR",
+  "source": "ANAND VIHAR TRM",
+  "sourceCode": "ANVT",
+  "destination": "SASARAM",
+  "destinationCode": "SSM",
+  "departureTime": "19:15:00",
+  "arrivalTime": "08:15:00",
+  "duration": "13h 0m",
+  "distance": "874 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

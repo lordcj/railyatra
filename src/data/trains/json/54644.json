@@ -1,0 +1,30 @@
+{
+  "number": "54644",
+  "name": "FIROZPUR CANT - JALANDHAR CITY PASSENGER",
+  "type": "Pass",
+  "source": "FIROZPUR CANT",
+  "sourceCode": "FZR",
+  "destination": "JALANDHAR CITY",
+  "destinationCode": "JUC",
+  "departureTime": "09:42:00",
+  "arrivalTime": "09:55:00",
+  "duration": "0h 13m",
+  "distance": "117 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

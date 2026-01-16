@@ -1,0 +1,30 @@
+{
+  "number": "55030",
+  "name": "Lucknow Gonda Passenger",
+  "type": "Pass",
+  "source": "GORAKHPUR JN",
+  "sourceCode": "GKP",
+  "destination": "MUZAFFARPUR JN",
+  "destinationCode": "MFP",
+  "departureTime": "18:25:00",
+  "arrivalTime": "04:50:00",
+  "duration": "10h 25m",
+  "distance": "310 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

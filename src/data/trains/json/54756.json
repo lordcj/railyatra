@@ -1,0 +1,30 @@
+{
+  "number": "54756",
+  "name": "Sriganganagar Bathinda Passenger",
+  "type": "Pass",
+  "source": "SHRI GANGANAGAR",
+  "sourceCode": "SGNR",
+  "destination": "BHATINDA JN",
+  "destinationCode": "BTI",
+  "departureTime": "15:20:00",
+  "arrivalTime": "19:10:00",
+  "duration": "3h 50m",
+  "distance": "127 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

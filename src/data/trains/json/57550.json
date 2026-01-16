@@ -1,0 +1,29 @@
+{
+  "number": "57550",
+  "name": "Aurangabad-Hyderabad Passenger",
+  "type": "Pass",
+  "source": "AURANGABAD",
+  "sourceCode": "AWB",
+  "destination": "HYDERABAD DECCAN",
+  "destinationCode": "HYB",
+  "departureTime": "15:30:00",
+  "arrivalTime": "07:05:00",
+  "duration": "15h 35m",
+  "distance": "582 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

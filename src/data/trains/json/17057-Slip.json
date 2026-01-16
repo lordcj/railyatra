@@ -1,0 +1,30 @@
+{
+  "number": "17057-Slip",
+  "name": "Mumbai -Daund Devagiri Express Slip",
+  "type": "Exp",
+  "source": "MUMBAI CST",
+  "sourceCode": "CSTM",
+  "destination": "DAUND JN",
+  "destinationCode": "DD",
+  "departureTime": "21:05:00",
+  "arrivalTime": "11:55:00",
+  "duration": "14h 50m",
+  "distance": "497 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

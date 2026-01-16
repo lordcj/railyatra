@@ -1,0 +1,31 @@
+{
+  "number": "18208",
+  "name": "Jaipur Durg Express",
+  "type": "Exp",
+  "source": "JAIPUR",
+  "sourceCode": "JP",
+  "destination": "DURG",
+  "destinationCode": "DURG",
+  "departureTime": "21:35:00",
+  "arrivalTime": "22:15:00",
+  "duration": "24h 40m",
+  "distance": "1268 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

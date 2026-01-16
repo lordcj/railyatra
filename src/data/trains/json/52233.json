@@ -1,0 +1,30 @@
+{
+  "number": "52233",
+  "name": "Pilibhit Shahjahanpur Passenger",
+  "type": "Pass",
+  "source": "PILIBHIT JN",
+  "sourceCode": "PBE",
+  "destination": "Shahjahanpur",
+  "destinationCode": "SZP",
+  "departureTime": "10:15:00",
+  "arrivalTime": "12:55:00",
+  "duration": "2h 40m",
+  "distance": "84 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

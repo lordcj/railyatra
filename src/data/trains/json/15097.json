@@ -1,0 +1,31 @@
+{
+  "number": "15097",
+  "name": "Barauni-Jammu Amarnath Express",
+  "type": "Exp",
+  "source": "BARAUNI JN",
+  "sourceCode": "BJU",
+  "destination": "JAMMU TAWI",
+  "destinationCode": "JAT",
+  "departureTime": "05:00:00",
+  "arrivalTime": "12:20:00",
+  "duration": "31h 20m",
+  "distance": "1648 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

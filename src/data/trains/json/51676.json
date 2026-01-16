@@ -1,0 +1,30 @@
+{
+  "number": "51676",
+  "name": "Chopan Katni Passenger",
+  "type": "Pass",
+  "source": "CHOPAN",
+  "sourceCode": "CPU",
+  "destination": "KATNI",
+  "destinationCode": "KTE",
+  "departureTime": "23:38:00",
+  "arrivalTime": "08:25:00",
+  "duration": "8h 47m",
+  "distance": "326 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

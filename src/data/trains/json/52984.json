@@ -1,0 +1,30 @@
+{
+  "number": "52984",
+  "name": "Mhow Fatehabad Fast Passenger",
+  "type": "Pass",
+  "source": "Mhow",
+  "sourceCode": "MHOW",
+  "destination": "Fatehabad Chowk Junction",
+  "destinationCode": "FTD",
+  "departureTime": "13:10:00",
+  "arrivalTime": "15:20:00",
+  "duration": "2h 10m",
+  "distance": "68 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

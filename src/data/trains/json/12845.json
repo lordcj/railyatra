@@ -1,0 +1,31 @@
+{
+  "number": "12845",
+  "name": "BHUBANESWAR - BENGALURU CANTT SF Exp",
+  "type": "SF",
+  "source": "BHUBANESWAR",
+  "sourceCode": "BBS",
+  "destination": "BANGALORE CANT",
+  "destinationCode": "BNC",
+  "departureTime": "07:30:00",
+  "arrivalTime": "11:10:00",
+  "duration": "27h 40m",
+  "distance": "1524 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

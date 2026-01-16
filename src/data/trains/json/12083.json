@@ -1,0 +1,29 @@
+{
+  "number": "12083",
+  "name": "Mayiladuturai-Coimbatore Jan Shatabdi",
+  "type": "JShtb",
+  "source": "MAYILADUTURAI JN",
+  "sourceCode": "MV",
+  "destination": "COIMBATORE JN",
+  "destinationCode": "CBE",
+  "departureTime": "14:45:00",
+  "arrivalTime": "21:20:00",
+  "duration": "6h 35m",
+  "distance": "362 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

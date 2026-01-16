@@ -1,0 +1,31 @@
+{
+  "number": "16309",
+  "name": "Ernakulam-Patna Express",
+  "type": "Exp",
+  "source": "ERNAKULAM JN",
+  "sourceCode": "ERS",
+  "destination": "PATNA JN",
+  "destinationCode": "PNBE",
+  "departureTime": "16:40:00",
+  "arrivalTime": "20:15:00",
+  "duration": "51h 35m",
+  "distance": "2790 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

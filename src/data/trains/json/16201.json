@@ -1,0 +1,29 @@
+{
+  "number": "16201",
+  "name": "Bangalore City-Shimoga InterCity",
+  "type": "Exp",
+  "source": "BANGALORE CITY JN",
+  "sourceCode": "SBC",
+  "destination": "Shimoga Town",
+  "destinationCode": "SMET",
+  "departureTime": "16:30:00",
+  "arrivalTime": "22:00:00",
+  "duration": "5h 30m",
+  "distance": "274 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

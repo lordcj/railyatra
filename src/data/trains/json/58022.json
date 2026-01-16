@@ -1,0 +1,30 @@
+{
+  "number": "58022",
+  "name": "Tatanagar Kharagpur MEMU Passenger",
+  "type": "Pass",
+  "source": "TATANAGAR JN",
+  "sourceCode": "TATA",
+  "destination": "KHARAGPUR JN",
+  "destinationCode": "KGP",
+  "departureTime": "18:10:00",
+  "arrivalTime": "21:00:00",
+  "duration": "2h 50m",
+  "distance": "135 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

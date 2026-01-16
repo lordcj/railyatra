@@ -1,0 +1,30 @@
+{
+  "number": "17603-Slip",
+  "name": "Prasanthi Nilayam Express",
+  "type": "Exp",
+  "source": "KACHEGUDA",
+  "sourceCode": "KCG",
+  "destination": "HUBLI JN",
+  "destinationCode": "UBL",
+  "departureTime": "21:00:00",
+  "arrivalTime": "09:40:00",
+  "duration": "12h 40m",
+  "distance": "617 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

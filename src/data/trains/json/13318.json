@@ -1,0 +1,29 @@
+{
+  "number": "13318",
+  "name": "Black Diamond Express",
+  "type": "Exp",
+  "source": "DHANBAD JN",
+  "sourceCode": "DHN",
+  "destination": "HOWRAH JN",
+  "destinationCode": "HWH",
+  "departureTime": "16:25:00",
+  "arrivalTime": "21:25:00",
+  "duration": "5h 0m",
+  "distance": "271 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

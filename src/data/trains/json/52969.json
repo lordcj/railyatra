@@ -1,0 +1,30 @@
+{
+  "number": "52969",
+  "name": "Ujjain Fatehabad Passenger",
+  "type": "Pass",
+  "source": "UJJAIN JN",
+  "sourceCode": "UJN",
+  "destination": "Fatehabad Chowk Junction",
+  "destinationCode": "FTD",
+  "departureTime": "16:50:00",
+  "arrivalTime": "17:30:00",
+  "duration": "0h 40m",
+  "distance": "23 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,29 @@
+{
+  "number": "54812",
+  "name": "Jodhpur Bhopal Passenger",
+  "type": "Pass",
+  "source": "JODHPUR JN",
+  "sourceCode": "JU",
+  "destination": "BHOPAL JN",
+  "destinationCode": "BPL",
+  "departureTime": "08:05:00",
+  "arrivalTime": "10:50:00",
+  "duration": "26h 45m",
+  "distance": "993 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

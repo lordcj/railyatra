@@ -1,0 +1,30 @@
+{
+  "number": "47109",
+  "name": "Hyderabad Lingampalli MMTS",
+  "type": "Hyd",
+  "source": "HYDERABAD DECCAN",
+  "sourceCode": "HYB",
+  "destination": "LINGAMPALLI",
+  "destinationCode": "LPI",
+  "departureTime": "10:50:00",
+  "arrivalTime": "11:30:00",
+  "duration": "0h 40m",
+  "distance": "24 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

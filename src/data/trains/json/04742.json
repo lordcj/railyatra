@@ -1,0 +1,30 @@
+{
+  "number": "04742",
+  "name": "Hisar - Sirsa Passenger Special",
+  "type": "Pass",
+  "source": "Hisar",
+  "sourceCode": "HSR",
+  "destination": "Sirsa",
+  "destinationCode": "SSA",
+  "departureTime": "04:20:00",
+  "arrivalTime": "06:10:00",
+  "duration": "1h 50m",
+  "distance": "82 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,29 @@
+{
+  "number": "16053",
+  "name": "Tirupati Express",
+  "type": "Exp",
+  "source": "CHENNAI CENTRAL",
+  "sourceCode": "MAS",
+  "destination": "TIRUPATI MAIN",
+  "destinationCode": "TPTY",
+  "departureTime": "13:50:00",
+  "arrivalTime": "17:00:00",
+  "duration": "3h 10m",
+  "distance": "151 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

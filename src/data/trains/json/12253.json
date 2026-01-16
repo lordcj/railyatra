@@ -1,0 +1,31 @@
+{
+  "number": "12253",
+  "name": "YESVANTPUR - BHAGALPUR Anga SF Exp",
+  "type": "SF",
+  "source": "YESVANTPUR JN",
+  "sourceCode": "YPR",
+  "destination": "BHAGALPUR",
+  "destinationCode": "BGP",
+  "departureTime": "13:30:00",
+  "arrivalTime": "08:30:00",
+  "duration": "43h 0m",
+  "distance": "2473 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,29 @@
+{
+  "number": "52976",
+  "name": "Akola Ratlam Fast Pass",
+  "type": "Pass",
+  "source": "AKOLA JN",
+  "sourceCode": "AK",
+  "destination": "RATLAM JN",
+  "destinationCode": "RTM",
+  "departureTime": "13:00:00",
+  "arrivalTime": "04:25:00",
+  "duration": "15h 25m",
+  "distance": "431 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "18105",
+  "name": "Rourkela-Bhubaneswar InterCity",
+  "type": "Exp",
+  "source": "ROURKELA",
+  "sourceCode": "ROU",
+  "destination": "BHUBANESWAR",
+  "destinationCode": "BBS",
+  "departureTime": "05:30:00",
+  "arrivalTime": "13:00:00",
+  "duration": "7h 30m",
+  "distance": "419 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "3A",
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "31927",
+  "name": "Sealdah Gede EMU",
+  "type": "MEMU",
+  "source": "KOLKATA SEALDAH",
+  "sourceCode": "SDAH",
+  "destination": "Gede",
+  "destinationCode": "GEDE",
+  "departureTime": "21:30:00",
+  "arrivalTime": "00:11:00",
+  "duration": "2h 41m",
+  "distance": "116 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

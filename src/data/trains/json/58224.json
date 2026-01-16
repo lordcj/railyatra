@@ -1,0 +1,30 @@
+{
+  "number": "58224",
+  "name": "Ambikapur Manendragarh Passang",
+  "type": "Pass",
+  "source": "AMBIKAPUR",
+  "sourceCode": "ABKP",
+  "destination": "Manendragarh",
+  "destinationCode": "MDGR",
+  "departureTime": "12:45:00",
+  "arrivalTime": "17:15:00",
+  "duration": "4h 30m",
+  "distance": "124 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

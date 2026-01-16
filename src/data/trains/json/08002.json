@@ -1,0 +1,29 @@
+{
+  "number": "08002",
+  "name": "Jhargram-Kharagpur Special",
+  "type": "Exp",
+  "source": "JHARGRAM",
+  "sourceCode": "JGM",
+  "destination": "KHARAGPUR JN",
+  "destinationCode": "KGP",
+  "departureTime": "18:25:00",
+  "arrivalTime": "19:20:00",
+  "duration": "0h 55m",
+  "distance": "39 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

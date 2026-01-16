@@ -1,0 +1,30 @@
+{
+  "number": "56645",
+  "name": "Kabakaputtur Passenger",
+  "type": "Pass",
+  "source": "MANGALORE CNTL",
+  "sourceCode": "MAQ",
+  "destination": "Kabakaputtur",
+  "destinationCode": "KBPR",
+  "departureTime": "18:20:00",
+  "arrivalTime": "19:40:00",
+  "duration": "1h 20m",
+  "distance": "49 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

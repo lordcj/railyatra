@@ -1,0 +1,30 @@
+{
+  "number": "13008",
+  "name": "Udyan Abha Toofan Express",
+  "type": "Exp",
+  "source": "MUGHAL SARAI JN",
+  "sourceCode": "MGS",
+  "destination": "HOWRAH JN",
+  "destinationCode": "HWH",
+  "departureTime": "01:25:00",
+  "arrivalTime": "19:20:00",
+  "duration": "17h 55m",
+  "distance": "755 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

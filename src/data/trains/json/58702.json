@@ -1,0 +1,29 @@
+{
+  "number": "58702",
+  "name": "Ambikapur Shahdol Passenger",
+  "type": "Pass",
+  "source": "AMBIKAPUR",
+  "sourceCode": "ABKP",
+  "destination": "SHAHDOL",
+  "destinationCode": "SDL",
+  "departureTime": "07:45:00",
+  "arrivalTime": "13:05:00",
+  "duration": "5h 20m",
+  "distance": "216 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

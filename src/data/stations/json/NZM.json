@@ -1,0 +1,14 @@
+{
+  "code": "NZM",
+  "name": "Hazrat Nizamuddin",
+  "fullName": "Hazrat Nizamuddin Railway Station",
+  "zone": "NR",
+  "state": "Delhi",
+  "category": "A1",
+  "platforms": 7,
+  "connectivity": [
+    "Metro",
+    "Bus",
+    "Taxi"
+  ]
+}

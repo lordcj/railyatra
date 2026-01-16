@@ -1,0 +1,30 @@
+{
+  "number": "40005",
+  "name": "Chennai Beach Tambaram EMU",
+  "type": "MEMU",
+  "source": "CHENNAI BEACH",
+  "sourceCode": "MSB",
+  "destination": "TAMBARAM",
+  "destinationCode": "TBM",
+  "departureTime": "06:20:00",
+  "arrivalTime": "07:15:00",
+  "duration": "0h 55m",
+  "distance": "29 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

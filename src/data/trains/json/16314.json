@@ -1,0 +1,29 @@
+{
+  "number": "16314",
+  "name": "Executive Express",
+  "type": "Exp",
+  "source": "KANNUR",
+  "sourceCode": "CAN",
+  "destination": "ERNAKULAM JN",
+  "destinationCode": "ERS",
+  "departureTime": "05:00:00",
+  "arrivalTime": "11:30:00",
+  "duration": "6h 30m",
+  "distance": "283 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

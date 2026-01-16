@@ -1,0 +1,29 @@
+{
+  "number": "12052",
+  "name": "MADGAON - DADAR Jan Shatabdi Exp",
+  "type": "JShtb",
+  "source": "MADGAON",
+  "sourceCode": "MAO",
+  "destination": "MUMBAI DADAR CENTRAL",
+  "destinationCode": "DR",
+  "departureTime": "14:30:00",
+  "arrivalTime": "23:20:00",
+  "duration": "8h 50m",
+  "distance": "765 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "KR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

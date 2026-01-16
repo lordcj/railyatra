@@ -1,0 +1,30 @@
+{
+  "number": "55334",
+  "name": "Mathura-KasGanj Passenger",
+  "type": "Pass",
+  "source": "AGRA FORT",
+  "sourceCode": "AF",
+  "destination": "KASGANJ",
+  "destinationCode": "KSJ",
+  "departureTime": "15:45:00",
+  "arrivalTime": "20:40:00",
+  "duration": "4h 55m",
+  "distance": "162 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

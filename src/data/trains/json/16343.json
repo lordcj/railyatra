@@ -1,0 +1,30 @@
+{
+  "number": "16343",
+  "name": "Amrita Express",
+  "type": "Exp",
+  "source": "TRIVANDRUM CENTRAL",
+  "sourceCode": "TVC",
+  "destination": "PALGHAT TOWN",
+  "destinationCode": "PGTN",
+  "departureTime": "22:30:00",
+  "arrivalTime": "08:00:00",
+  "duration": "9h 30m",
+  "distance": "376 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

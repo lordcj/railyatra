@@ -1,0 +1,13 @@
+{
+  "code": "KLK",
+  "name": "Kalka",
+  "fullName": "Kalka Railway Station",
+  "zone": "NR",
+  "state": "Haryana",
+  "category": "B",
+  "platforms": 3,
+  "connectivity": [
+    "Bus",
+    "Taxi"
+  ]
+}

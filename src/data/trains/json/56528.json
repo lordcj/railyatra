@@ -1,0 +1,30 @@
+{
+  "number": "56528",
+  "name": "Nagercoil Kanyakumari Passenger",
+  "type": "Pass",
+  "source": "NAGERCOIL JN",
+  "sourceCode": "NCJ",
+  "destination": "KANYAKUMARI",
+  "destinationCode": "CAPE",
+  "departureTime": "09:10:00",
+  "arrivalTime": "09:35:00",
+  "duration": "0h 25m",
+  "distance": "15 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

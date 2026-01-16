@@ -1,0 +1,31 @@
+{
+  "number": "12820",
+  "name": "Orissa Sampark Kranti Express",
+  "type": "SKr",
+  "source": "NEW DELHI",
+  "sourceCode": "NDLS",
+  "destination": "BHUBANESWAR",
+  "destinationCode": "BBS",
+  "departureTime": "07:10:00",
+  "arrivalTime": "12:10:00",
+  "duration": "29h 0m",
+  "distance": "1799 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

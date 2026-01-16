@@ -1,0 +1,30 @@
+{
+  "number": "56890",
+  "name": "Tiruturaipdi Tiruvarur Passenger",
+  "type": "Pass",
+  "source": "Tiruturaipudi Junction",
+  "sourceCode": "TTP",
+  "destination": "THIRUVARUR JN",
+  "destinationCode": "TVR",
+  "departureTime": "07:10:00",
+  "arrivalTime": "08:05:00",
+  "duration": "0h 55m",
+  "distance": "26 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

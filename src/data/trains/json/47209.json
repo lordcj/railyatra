@@ -1,0 +1,30 @@
+{
+  "number": "47209",
+  "name": "Hyderabad Falaknuma MMTS",
+  "type": "Hyd",
+  "source": "HYDERABAD DECCAN",
+  "sourceCode": "HYB",
+  "destination": "KACHEGUDA FALAKNUMA",
+  "destinationCode": "FM",
+  "departureTime": "12:30:00",
+  "arrivalTime": "13:35:00",
+  "duration": "1h 5m",
+  "distance": "22 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

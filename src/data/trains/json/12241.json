@@ -1,0 +1,29 @@
+{
+  "number": "12241",
+  "name": "Chandigarh-Amritsar Duronto Express",
+  "type": "Drnt",
+  "source": "CHANDIGARH",
+  "sourceCode": "CDG",
+  "destination": "AMRITSAR JN",
+  "destinationCode": "ASR",
+  "departureTime": "19:00:00",
+  "arrivalTime": "23:15:00",
+  "duration": "4h 15m",
+  "distance": "267 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

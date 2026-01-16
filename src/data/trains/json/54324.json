@@ -1,0 +1,30 @@
+{
+  "number": "54324",
+  "name": "SITAPUR - BURHWAL Passenger",
+  "type": "Pass",
+  "source": "SITAPUR CANT",
+  "sourceCode": "SCC",
+  "destination": "BURHWAL",
+  "destinationCode": "BUW",
+  "departureTime": "12:35:00",
+  "arrivalTime": "15:00:00",
+  "duration": "2h 25m",
+  "distance": "97 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

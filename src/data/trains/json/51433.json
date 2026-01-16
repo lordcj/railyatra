@@ -1,0 +1,30 @@
+{
+  "number": "51433",
+  "name": "Nizamabad Pandharpur Passenger",
+  "type": "Pass",
+  "source": "NIZAMABAD",
+  "sourceCode": "NZB",
+  "destination": "PANDHARPUR",
+  "destinationCode": "PVR",
+  "departureTime": "13:20:00",
+  "arrivalTime": "05:10:00",
+  "duration": "15h 50m",
+  "distance": "533 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

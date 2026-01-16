@@ -1,0 +1,29 @@
+{
+  "number": "16605",
+  "name": "Eranad Express",
+  "type": "Exp",
+  "source": "MANGALORE CNTL",
+  "sourceCode": "MAQ",
+  "destination": "NAGERCOIL JN",
+  "destinationCode": "NCJ",
+  "departureTime": "07:20:00",
+  "arrivalTime": "23:30:00",
+  "duration": "16h 10m",
+  "distance": "690 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

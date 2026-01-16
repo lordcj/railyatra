@@ -1,0 +1,29 @@
+{
+  "number": "14215",
+  "name": "Ganga Gomti Express",
+  "type": "Exp",
+  "source": "ALLAHABAD JN",
+  "sourceCode": "ALD",
+  "destination": "LUCKNOW",
+  "destinationCode": "LKO",
+  "departureTime": "06:00:00",
+  "arrivalTime": "10:10:00",
+  "duration": "4h 10m",
+  "distance": "201 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

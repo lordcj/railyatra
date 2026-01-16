@@ -1,0 +1,30 @@
+{
+  "number": "53343",
+  "name": "NSCB GOMOH - CHOPAN Passenger",
+  "type": "Pass",
+  "source": "GOMOH JN",
+  "sourceCode": "GMO",
+  "destination": "CHOPAN",
+  "destinationCode": "CPU",
+  "departureTime": "05:40:00",
+  "arrivalTime": "19:35:00",
+  "duration": "13h 55m",
+  "distance": "455 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

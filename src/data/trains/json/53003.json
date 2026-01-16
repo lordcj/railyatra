@@ -1,0 +1,29 @@
+{
+  "number": "53003",
+  "name": "Howrah Malda Town Fast Passenger",
+  "type": "Pass",
+  "source": "HOWRAH JN",
+  "sourceCode": "HWH",
+  "destination": "MALDA TOWN",
+  "destinationCode": "MLDT",
+  "departureTime": "21:25:00",
+  "arrivalTime": "07:50:00",
+  "duration": "10h 25m",
+  "distance": "339 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

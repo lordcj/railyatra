@@ -1,0 +1,30 @@
+{
+  "number": "54222",
+  "name": "Lalganj Dalmau Rai Bareli Passenger",
+  "type": "Pass",
+  "source": "Raghuraj Singh",
+  "sourceCode": "RRS",
+  "destination": "RAE BARELI JN",
+  "destinationCode": "RBL",
+  "departureTime": "08:20:00",
+  "arrivalTime": "10:05:00",
+  "duration": "1h 45m",
+  "distance": "56 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

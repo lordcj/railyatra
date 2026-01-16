@@ -1,0 +1,29 @@
+{
+  "number": "12365",
+  "name": "Patna-Ranchi Jan Shatabdi Express",
+  "type": "JShtb",
+  "source": "PATNA JN",
+  "sourceCode": "PNBE",
+  "destination": "RANCHI",
+  "destinationCode": "RNC",
+  "departureTime": "06:15:00",
+  "arrivalTime": "13:55:00",
+  "duration": "7h 40m",
+  "distance": "411 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "55811",
+  "name": "Guwahati Lumding Passenger",
+  "type": "Pass",
+  "source": "GUWAHATI",
+  "sourceCode": "GHY",
+  "destination": "LUMDING JN",
+  "destinationCode": "LMG",
+  "departureTime": "06:00:00",
+  "arrivalTime": "12:30:00",
+  "duration": "6h 30m",
+  "distance": "207 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

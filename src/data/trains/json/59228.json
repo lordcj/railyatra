@@ -1,0 +1,30 @@
+{
+  "number": "59228",
+  "name": "Bhavnagar-Botad Passenger",
+  "type": "Pass",
+  "source": "BHAVNAGAR TERMINUS",
+  "sourceCode": "BVC",
+  "destination": "BOTAD JN",
+  "destinationCode": "BTD",
+  "departureTime": "05:00:00",
+  "arrivalTime": "07:10:00",
+  "duration": "2h 10m",
+  "distance": "93 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

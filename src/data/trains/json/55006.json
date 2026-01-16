@@ -1,0 +1,30 @@
+{
+  "number": "55006",
+  "name": "Sugauli Raxaul Passenger",
+  "type": "Pass",
+  "source": "SAGAULI JN",
+  "sourceCode": "SGL",
+  "destination": "RAXAUL JN",
+  "destinationCode": "RXL",
+  "departureTime": "02:15:00",
+  "arrivalTime": "03:00:00",
+  "duration": "0h 45m",
+  "distance": "29 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

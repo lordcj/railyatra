@@ -1,0 +1,30 @@
+{
+  "number": "56894",
+  "name": "Karaikkudi Thiruvarur Passenger",
+  "type": "Pass",
+  "source": "Karaikkudi Junction",
+  "sourceCode": "KKDI",
+  "destination": "THIRUVARUR JN",
+  "destinationCode": "TVR",
+  "departureTime": "05:40:00",
+  "arrivalTime": "10:15:00",
+  "duration": "4h 35m",
+  "distance": "149 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

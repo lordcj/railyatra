@@ -1,0 +1,13 @@
+{
+  "code": "GNC",
+  "name": "Gandhinagar Capital",
+  "fullName": "Gandhinagar Capital Railway Station",
+  "zone": "WR",
+  "state": "Gujarat",
+  "category": "A",
+  "platforms": 4,
+  "connectivity": [
+    "Bus",
+    "Taxi"
+  ]
+}

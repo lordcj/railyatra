@@ -1,0 +1,30 @@
+{
+  "number": "57470",
+  "name": "Guntakal Kurnool Town Passenger",
+  "type": "Pass",
+  "source": "GUNTAKAL JN",
+  "sourceCode": "GTL",
+  "destination": "KURNOOL TOWN",
+  "destinationCode": "KRNT",
+  "departureTime": "04:40:00",
+  "arrivalTime": "07:30:00",
+  "duration": "2h 50m",
+  "distance": "122 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

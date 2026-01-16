@@ -1,0 +1,30 @@
+{
+  "number": "55745",
+  "name": "New Jalpaiguri Bamanhat Passenger",
+  "type": "Pass",
+  "source": "NEW JALPAIGURI",
+  "sourceCode": "NJP",
+  "destination": "ALUABARI ROAD",
+  "destinationCode": "AUB",
+  "departureTime": "21:18:00",
+  "arrivalTime": "21:44:00",
+  "duration": "0h 26m",
+  "distance": "57 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

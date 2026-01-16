@@ -1,0 +1,30 @@
+{
+  "number": "40706",
+  "name": "Tirumalpur Chennai Beach Fast EMU",
+  "type": "MEMU",
+  "source": "TIRUMALPUR",
+  "sourceCode": "TMLP",
+  "destination": "CHENNAI BEACH",
+  "destinationCode": "MSB",
+  "departureTime": "07:50:00",
+  "arrivalTime": "10:25:00",
+  "duration": "2h 35m",
+  "distance": "108 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

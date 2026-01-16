@@ -1,0 +1,30 @@
+{
+  "number": "15307",
+  "name": "Nainital Express",
+  "type": "Exp",
+  "source": "LAL KUAN",
+  "sourceCode": "LKU",
+  "destination": "AISHBAGH",
+  "destinationCode": "ASH",
+  "departureTime": "20:45:00",
+  "arrivalTime": "06:35:00",
+  "duration": "9h 50m",
+  "distance": "363 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

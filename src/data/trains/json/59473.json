@@ -1,0 +1,30 @@
+{
+  "number": "59473",
+  "name": "ADI - PTN PASSENGER",
+  "type": "Pass",
+  "source": "AHMEDABAD JN",
+  "sourceCode": "ADI",
+  "destination": "PATAN",
+  "destinationCode": "PTN",
+  "departureTime": "03:30:00",
+  "arrivalTime": "06:35:00",
+  "duration": "3h 5m",
+  "distance": "107 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

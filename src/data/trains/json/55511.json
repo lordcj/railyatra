@@ -1,0 +1,30 @@
+{
+  "number": "55511",
+  "name": "Darbhanga-Bairgania Passenger",
+  "type": "Pass",
+  "source": "DARBHANGA JN",
+  "sourceCode": "DBG",
+  "destination": "SITAMARHI JN",
+  "destinationCode": "SMI",
+  "departureTime": "12:00:00",
+  "arrivalTime": "14:30:00",
+  "duration": "2h 30m",
+  "distance": "68 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

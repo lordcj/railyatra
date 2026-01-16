@@ -1,0 +1,30 @@
+{
+  "number": "21108",
+  "name": "Bundelkhand Link Express",
+  "type": "Exp",
+  "source": "VARANASI JN",
+  "sourceCode": "BSB",
+  "destination": "KHAJURAHO",
+  "destinationCode": "KURJ",
+  "departureTime": "18:05:00",
+  "arrivalTime": "05:00:00",
+  "duration": "10h 55m",
+  "distance": "453 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

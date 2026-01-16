@@ -1,0 +1,29 @@
+{
+  "number": "52993",
+  "name": "Mhow Akola Passenger",
+  "type": "Pass",
+  "source": "Mhow",
+  "sourceCode": "MHOW",
+  "destination": "AKOLA JN",
+  "destinationCode": "AK",
+  "departureTime": "20:50:00",
+  "arrivalTime": "09:00:00",
+  "duration": "12h 10m",
+  "distance": "292 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,29 @@
+{
+  "number": "14044",
+  "name": "OLD DELHI - KOTDWAR Garhwal Exp",
+  "type": "Exp",
+  "source": "OLD DELHI",
+  "sourceCode": "DLI",
+  "destination": "KOTDWARA",
+  "destinationCode": "KTW",
+  "departureTime": "07:20:00",
+  "arrivalTime": "14:20:00",
+  "duration": "7h 0m",
+  "distance": "238 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

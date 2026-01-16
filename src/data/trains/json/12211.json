@@ -1,0 +1,29 @@
+{
+  "number": "12211",
+  "name": "Muzaffarpur-Anand Vihar(T) Garib Rath Exp.",
+  "type": "GR",
+  "source": "MUZAFFARPUR JN",
+  "sourceCode": "MFP",
+  "destination": "ANAND VIHAR TRM",
+  "destinationCode": "ANVT",
+  "departureTime": "15:15:00",
+  "arrivalTime": "12:25:00",
+  "duration": "21h 10m",
+  "distance": "1060 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "3A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

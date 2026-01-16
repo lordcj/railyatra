@@ -1,0 +1,29 @@
+{
+  "number": "29059",
+  "name": "Hapa InterCity Express",
+  "type": "Exp",
+  "source": "SURAT",
+  "sourceCode": "ST",
+  "destination": "HAPA",
+  "destinationCode": "HAPA",
+  "departureTime": "13:35:00",
+  "arrivalTime": "23:32:00",
+  "duration": "9h 57m",
+  "distance": "552 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

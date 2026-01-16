@@ -1,0 +1,29 @@
+{
+  "number": "11048",
+  "name": "Hubli Miraj Express",
+  "type": "Exp",
+  "source": "HUBLI JN",
+  "sourceCode": "UBL",
+  "destination": "MIRAJ JN",
+  "destinationCode": "MRJ",
+  "departureTime": "23:00:00",
+  "arrivalTime": "05:15:00",
+  "duration": "6h 15m",
+  "distance": "279 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

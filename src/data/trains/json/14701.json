@@ -1,0 +1,29 @@
+{
+  "number": "14701",
+  "name": "Jaisalmer-Bikaner Express",
+  "type": "Exp",
+  "source": "JAISALMER",
+  "sourceCode": "JSM",
+  "destination": "BIKANER JN",
+  "destinationCode": "BKN",
+  "departureTime": "22:40:00",
+  "arrivalTime": "04:35:00",
+  "duration": "5h 55m",
+  "distance": "327 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

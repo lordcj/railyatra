@@ -1,0 +1,30 @@
+{
+  "number": "55529",
+  "name": "Samastipur-Raxaul Passenger",
+  "type": "Pass",
+  "source": "SAMASTIPUR JN",
+  "sourceCode": "SPJ",
+  "destination": "RAXAUL JN",
+  "destinationCode": "RXL",
+  "departureTime": "07:40:00",
+  "arrivalTime": "13:55:00",
+  "duration": "6h 15m",
+  "distance": "182 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,29 @@
+{
+  "number": "11702",
+  "name": "INDORE - JABALPUR Intercity Exp",
+  "type": "Exp",
+  "source": "INDORE JN BG",
+  "sourceCode": "INDB",
+  "destination": "JABALPUR",
+  "destinationCode": "JBP",
+  "departureTime": "04:15:00",
+  "arrivalTime": "20:25:00",
+  "duration": "16h 10m",
+  "distance": "761 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WCR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

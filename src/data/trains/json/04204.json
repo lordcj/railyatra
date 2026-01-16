@@ -1,0 +1,31 @@
+{
+  "number": "04204",
+  "name": "Delhi Jn. -Varanasi Special",
+  "type": "Exp",
+  "source": "OLD DELHI",
+  "sourceCode": "DLI",
+  "destination": "VARANASI JN",
+  "destinationCode": "BSB",
+  "departureTime": "19:30:00",
+  "arrivalTime": "10:45:00",
+  "duration": "15h 15m",
+  "distance": "770 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

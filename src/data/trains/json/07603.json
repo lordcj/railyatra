@@ -1,0 +1,30 @@
+{
+  "number": "07603",
+  "name": "Kacheguda Kamareddi Special",
+  "type": "Pass",
+  "source": "KACHEGUDA",
+  "sourceCode": "KCG",
+  "destination": "KAMAREDDI",
+  "destinationCode": "KMC",
+  "departureTime": "09:10:00",
+  "arrivalTime": "12:30:00",
+  "duration": "3h 20m",
+  "distance": "114 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

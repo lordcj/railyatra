@@ -1,0 +1,29 @@
+{
+  "number": "12481",
+  "name": "Delhi Sriganganagar InterCity",
+  "type": "SF",
+  "source": "OLD DELHI",
+  "sourceCode": "DLI",
+  "destination": "SHRI GANGANAGAR",
+  "destinationCode": "SGNR",
+  "departureTime": "13:10:00",
+  "arrivalTime": "20:40:00",
+  "duration": "7h 30m",
+  "distance": "424 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

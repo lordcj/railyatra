@@ -1,0 +1,30 @@
+{
+  "number": "59461",
+  "name": "Borivali Dahanu Shuttle",
+  "type": "Pass",
+  "source": "BORIVALI",
+  "sourceCode": "BVI",
+  "destination": "DAHANU ROAD",
+  "destinationCode": "DRD",
+  "departureTime": "16:00:00",
+  "arrivalTime": "18:05:00",
+  "duration": "2h 5m",
+  "distance": "90 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

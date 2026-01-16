@@ -1,0 +1,30 @@
+{
+  "number": "08786",
+  "name": "Dalli Rajhara Durg Pass",
+  "type": "Pass",
+  "source": "Dalli Rajhara",
+  "sourceCode": "DRZ",
+  "destination": "DURG",
+  "destinationCode": "DURG",
+  "departureTime": "18:05:00",
+  "arrivalTime": "20:10:00",
+  "duration": "2h 5m",
+  "distance": "88 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

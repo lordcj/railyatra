@@ -1,0 +1,30 @@
+{
+  "number": "58848",
+  "name": "Nagbhir Nagpur Passenger",
+  "type": "Pass",
+  "source": "Nagbhir Junction",
+  "sourceCode": "NAB",
+  "destination": "NAGPUR",
+  "destinationCode": "NGP",
+  "departureTime": "16:45:00",
+  "arrivalTime": "21:10:00",
+  "duration": "4h 25m",
+  "distance": "110 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

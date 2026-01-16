@@ -1,0 +1,30 @@
+{
+  "number": "55121",
+  "name": "Bhatni Varanasi Passenger",
+  "type": "Pass",
+  "source": "BHATNI JN",
+  "sourceCode": "BTT",
+  "destination": "VARANASI JN",
+  "destinationCode": "BSB",
+  "departureTime": "05:30:00",
+  "arrivalTime": "10:35:00",
+  "duration": "5h 5m",
+  "distance": "161 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

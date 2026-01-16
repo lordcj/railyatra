@@ -1,0 +1,31 @@
+{
+  "number": "14084",
+  "name": "Sikkim Mahananda Express",
+  "type": "Exp",
+  "source": "OLD DELHI",
+  "sourceCode": "DLI",
+  "destination": "ALIPUR DUAR JN",
+  "destinationCode": "APDJ",
+  "departureTime": "06:40:00",
+  "arrivalTime": "17:55:00",
+  "duration": "35h 15m",
+  "distance": "1651 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "52086",
+  "name": "Churu Jaipur Passenger",
+  "type": "Pass",
+  "source": "Churu",
+  "sourceCode": "CUR",
+  "destination": "JAIPUR",
+  "destinationCode": "JP",
+  "departureTime": "12:20:00",
+  "arrivalTime": "17:45:00",
+  "duration": "5h 25m",
+  "distance": "198 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "15283",
+  "name": "Janaki Express",
+  "type": "Exp",
+  "source": "SAHARSA JN",
+  "sourceCode": "SHC",
+  "destination": "JAYNAGAR",
+  "destinationCode": "JYG",
+  "departureTime": "23:15:00",
+  "arrivalTime": "05:20:00",
+  "duration": "6h 5m",
+  "distance": "245 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "55342",
+  "name": "BTE KSJ PASS",
+  "type": "Pass",
+  "source": "BHARATPUR JN",
+  "sourceCode": "BTE",
+  "destination": "KASGANJ",
+  "destinationCode": "KSJ",
+  "departureTime": "05:35:00",
+  "arrivalTime": "11:00:00",
+  "duration": "5h 25m",
+  "distance": "139 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

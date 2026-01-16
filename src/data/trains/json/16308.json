@@ -1,0 +1,29 @@
+{
+  "number": "16308",
+  "name": "Executive Express",
+  "type": "Exp",
+  "source": "KANNUR",
+  "sourceCode": "CAN",
+  "destination": "ALLEPPEY",
+  "destinationCode": "ALLP",
+  "departureTime": "05:00:00",
+  "arrivalTime": "13:00:00",
+  "duration": "8h 0m",
+  "distance": "339 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

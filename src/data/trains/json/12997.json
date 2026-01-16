@@ -1,0 +1,30 @@
+{
+  "number": "12997",
+  "name": "Tirunelveli - Hapa (Biweekly) SF Express",
+  "type": "SF",
+  "source": "TIRUNELVELI",
+  "sourceCode": "TEN",
+  "destination": "HAPA",
+  "destinationCode": "HAPA",
+  "departureTime": "05:55:00",
+  "arrivalTime": "02:00:00",
+  "duration": "44h 5m",
+  "distance": "2730 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

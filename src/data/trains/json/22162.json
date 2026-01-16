@@ -1,0 +1,29 @@
+{
+  "number": "22162",
+  "name": "Damoh Bhopal Rajya Rani Express",
+  "type": "Exp",
+  "source": "DAMOH",
+  "sourceCode": "DMO",
+  "destination": "BHOPAL JN",
+  "destinationCode": "BPL",
+  "departureTime": "05:00:00",
+  "arrivalTime": "10:05:00",
+  "duration": "5h 5m",
+  "distance": "291 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WCR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

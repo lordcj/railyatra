@@ -1,0 +1,31 @@
+{
+  "number": "18242",
+  "name": "Ambikapur Durg Express Cum Passenger",
+  "type": "Exp",
+  "source": "AMBIKAPUR",
+  "sourceCode": "ABKP",
+  "destination": "DURG",
+  "destinationCode": "DURG",
+  "departureTime": "21:35:00",
+  "arrivalTime": "09:10:00",
+  "duration": "11h 35m",
+  "distance": "469 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

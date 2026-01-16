@@ -1,0 +1,30 @@
+{
+  "number": "53360",
+  "name": "Barkakana-NSBC Gomoh Passenger",
+  "type": "Pass",
+  "source": "BARKAKANA",
+  "sourceCode": "BRKA",
+  "destination": "GOMOH JN",
+  "destinationCode": "GMO",
+  "departureTime": "03:30:00",
+  "arrivalTime": "06:50:00",
+  "duration": "3h 20m",
+  "distance": "100 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

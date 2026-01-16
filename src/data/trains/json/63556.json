@@ -1,0 +1,30 @@
+{
+  "number": "63556",
+  "name": "Asansol Purulia MEMU Passenger",
+  "type": "MEMU",
+  "source": "ASANSOL JN",
+  "sourceCode": "ASN",
+  "destination": "PURULIA JN",
+  "destinationCode": "PRR",
+  "departureTime": "10:52:00",
+  "arrivalTime": "13:15:00",
+  "duration": "2h 23m",
+  "distance": "80 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

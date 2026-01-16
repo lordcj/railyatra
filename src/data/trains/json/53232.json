@@ -1,0 +1,30 @@
+{
+  "number": "53232",
+  "name": "Rajgir Danapur Passenger",
+  "type": "Pass",
+  "source": "Rajgir",
+  "sourceCode": "RGD",
+  "destination": "DANAPUR",
+  "destinationCode": "DNR",
+  "departureTime": "16:00:00",
+  "arrivalTime": "22:00:00",
+  "duration": "6h 0m",
+  "distance": "108 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

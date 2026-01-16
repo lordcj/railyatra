@@ -1,0 +1,14 @@
+{
+  "code": "JP",
+  "name": "Jaipur",
+  "fullName": "Jaipur Junction",
+  "zone": "NWR",
+  "state": "Rajasthan",
+  "category": "A1",
+  "platforms": 6,
+  "connectivity": [
+    "Metro",
+    "Bus",
+    "Taxi"
+  ]
+}

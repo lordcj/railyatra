@@ -1,0 +1,30 @@
+{
+  "number": "13109",
+  "name": "Maitree Express IR",
+  "type": "Exp",
+  "source": "KOLKATA CHITPUR",
+  "sourceCode": "KOAA",
+  "destination": "Dhaca Cantt.",
+  "destinationCode": "DHCA",
+  "departureTime": "07:10:00",
+  "arrivalTime": "18:00:00",
+  "duration": "10h 50m",
+  "distance": "375 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "1A",
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

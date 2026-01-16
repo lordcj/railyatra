@@ -1,0 +1,30 @@
+{
+  "number": "58115",
+  "name": "CKP ROU SARANDA PASSENGER",
+  "type": "Pass",
+  "source": "CHAKRADHARPUR",
+  "sourceCode": "CKP",
+  "destination": "ROURKELA",
+  "destinationCode": "ROU",
+  "departureTime": "05:35:00",
+  "arrivalTime": "07:45:00",
+  "duration": "2h 10m",
+  "distance": "101 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

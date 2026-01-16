@@ -1,0 +1,14 @@
+{
+  "code": "KOAA",
+  "name": "Kolkata",
+  "fullName": "Kolkata Chitpur Terminal",
+  "zone": "ER",
+  "state": "West Bengal",
+  "category": "A",
+  "platforms": 8,
+  "connectivity": [
+    "Metro",
+    "Bus",
+    "Taxi"
+  ]
+}

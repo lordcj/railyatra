@@ -1,0 +1,30 @@
+{
+  "number": "37855",
+  "name": "Howrah-Barddhaman Local",
+  "type": "MEMU",
+  "source": "HOWRAH JN",
+  "sourceCode": "HWH",
+  "destination": "BARDDHAMAN JN",
+  "destinationCode": "BWN",
+  "departureTime": "14:46:00",
+  "arrivalTime": "17:11:00",
+  "duration": "2h 25m",
+  "distance": "107 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

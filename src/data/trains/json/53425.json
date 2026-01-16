@@ -1,0 +1,30 @@
+{
+  "number": "53425",
+  "name": "Jamalpur Kiul Passenger",
+  "type": "Pass",
+  "source": "JAMALPUR JN",
+  "sourceCode": "JMP",
+  "destination": "KIUL JN",
+  "destinationCode": "KIUL",
+  "departureTime": "20:00:00",
+  "arrivalTime": "21:25:00",
+  "duration": "1h 25m",
+  "distance": "45 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

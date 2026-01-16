@@ -1,0 +1,30 @@
+{
+  "number": "59234",
+  "name": "Bhavnagar Surendranagar Passenger",
+  "type": "Pass",
+  "source": "BHAVNAGAR TERMINUS",
+  "sourceCode": "BVC",
+  "destination": "SURENDRANAGAR",
+  "destinationCode": "SUNR",
+  "departureTime": "14:40:00",
+  "arrivalTime": "18:30:00",
+  "duration": "3h 50m",
+  "distance": "170 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

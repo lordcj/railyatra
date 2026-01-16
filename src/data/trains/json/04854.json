@@ -1,0 +1,30 @@
+{
+  "number": "04854",
+  "name": "Degana Merta Special",
+  "type": "Pass",
+  "source": "MERTA ROAD JN",
+  "sourceCode": "MTD",
+  "destination": "DEGANA JN",
+  "destinationCode": "DNA",
+  "departureTime": "03:40:00",
+  "arrivalTime": "04:40:00",
+  "duration": "1h 0m",
+  "distance": "44 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

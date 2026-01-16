@@ -1,0 +1,29 @@
+{
+  "number": "12109",
+  "name": "Panchavati Express",
+  "type": "SF",
+  "source": "MUMBAI CST",
+  "sourceCode": "CSTM",
+  "destination": "MANMAD JN",
+  "destinationCode": "MMR",
+  "departureTime": "18:15:00",
+  "arrivalTime": "22:50:00",
+  "duration": "4h 35m",
+  "distance": "261 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

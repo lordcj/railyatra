@@ -1,0 +1,29 @@
+{
+  "number": "58837",
+  "name": "Nagpur Ramakona Chhindwara Passenger",
+  "type": "Pass",
+  "source": "NAGPUR",
+  "sourceCode": "NGP",
+  "destination": "Chhindwara Junction",
+  "destinationCode": "CWA",
+  "departureTime": "22:30:00",
+  "arrivalTime": "04:50:00",
+  "duration": "6h 20m",
+  "distance": "148 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

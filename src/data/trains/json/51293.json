@@ -1,0 +1,30 @@
+{
+  "number": "51293",
+  "name": "Nagpur Amla Passenger",
+  "type": "Pass",
+  "source": "NAGPUR",
+  "sourceCode": "NGP",
+  "destination": "AMLA JN",
+  "destinationCode": "AMLA",
+  "departureTime": "18:15:00",
+  "arrivalTime": "22:35:00",
+  "duration": "4h 20m",
+  "distance": "168 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

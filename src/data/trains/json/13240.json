@@ -1,0 +1,31 @@
+{
+  "number": "13240",
+  "name": "Mathura Patna Express",
+  "type": "Exp",
+  "source": "MATHURA JN",
+  "sourceCode": "MTJ",
+  "destination": "PATNA JN",
+  "destinationCode": "PNBE",
+  "departureTime": "22:00:00",
+  "arrivalTime": "17:20:00",
+  "duration": "19h 20m",
+  "distance": "895 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

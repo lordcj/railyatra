@@ -1,0 +1,30 @@
+{
+  "number": "51405",
+  "name": "Miraj- Castle Rock Passenger",
+  "type": "Pass",
+  "source": "MIRAJ JN",
+  "sourceCode": "MRJ",
+  "destination": "CASTLE ROCK",
+  "destinationCode": "CLR",
+  "departureTime": "17:25:00",
+  "arrivalTime": "23:15:00",
+  "duration": "5h 50m",
+  "distance": "213 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

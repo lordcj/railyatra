@@ -1,0 +1,32 @@
+{
+  "number": "12182",
+  "name": "AJMER - JABALPUR Dayodaya Express",
+  "type": "SF",
+  "source": "AJMER JN",
+  "sourceCode": "AII",
+  "destination": "JABALPUR",
+  "destinationCode": "JBP",
+  "departureTime": "17:25:00",
+  "arrivalTime": "09:05:00",
+  "duration": "15h 40m",
+  "distance": "894 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WCR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

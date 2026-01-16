@@ -1,0 +1,29 @@
+{
+  "number": "12858",
+  "name": "Tamralipta Express",
+  "type": "SF",
+  "source": "Digha Flag Station",
+  "sourceCode": "DGHA",
+  "destination": "HOWRAH JN",
+  "destinationCode": "HWH",
+  "departureTime": "10:25:00",
+  "arrivalTime": "13:50:00",
+  "duration": "3h 25m",
+  "distance": "189 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

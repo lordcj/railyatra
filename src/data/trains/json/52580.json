@@ -1,0 +1,29 @@
+{
+  "number": "52580",
+  "name": "Dharmanagar Agartala Passenger",
+  "type": "Pass",
+  "source": "Dharmanagar",
+  "sourceCode": "DMR",
+  "destination": "Agartala",
+  "destinationCode": "AGTL",
+  "departureTime": "11:10:00",
+  "arrivalTime": "15:30:00",
+  "duration": "4h 20m",
+  "distance": "141 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

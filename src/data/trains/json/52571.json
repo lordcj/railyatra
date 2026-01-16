@@ -1,0 +1,30 @@
+{
+  "number": "52571",
+  "name": "Karimganj Dullabcherra Passenger",
+  "type": "Pass",
+  "source": "Kurseong",
+  "sourceCode": "KGN",
+  "destination": "Darjeeling",
+  "destinationCode": "DJ",
+  "departureTime": "13:35:00",
+  "arrivalTime": "16:15:00",
+  "duration": "2h 40m",
+  "distance": "28 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

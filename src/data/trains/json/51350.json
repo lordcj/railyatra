@@ -1,0 +1,30 @@
+{
+  "number": "51350",
+  "name": "Daund-Pune Fast Shuttle",
+  "type": "Pass",
+  "source": "DAUND JN",
+  "sourceCode": "DD",
+  "destination": "PUNE JN",
+  "destinationCode": "PUNE",
+  "departureTime": "07:05:00",
+  "arrivalTime": "08:50:00",
+  "duration": "1h 45m",
+  "distance": "76 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

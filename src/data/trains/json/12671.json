@@ -1,0 +1,32 @@
+{
+  "number": "12671",
+  "name": "Nilgiri (Blue Mountain) Express",
+  "type": "SF",
+  "source": "CHENNAI CENTRAL",
+  "sourceCode": "MAS",
+  "destination": "Mettupalayam",
+  "destinationCode": "MTP",
+  "departureTime": "21:00:00",
+  "arrivalTime": "06:15:00",
+  "duration": "9h 15m",
+  "distance": "532 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

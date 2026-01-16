@@ -1,0 +1,30 @@
+{
+  "number": "18192",
+  "name": "Utsarg Express",
+  "type": "Exp",
+  "source": "KANPUR ANWARGANJ",
+  "sourceCode": "CPA",
+  "destination": "CHHAPRA",
+  "destinationCode": "CPR",
+  "departureTime": "16:25:00",
+  "arrivalTime": "08:35:00",
+  "duration": "16h 10m",
+  "distance": "549 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

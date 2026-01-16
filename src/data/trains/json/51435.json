@@ -1,0 +1,30 @@
+{
+  "number": "51435",
+  "name": "Pune Satara Passenger",
+  "type": "Pass",
+  "source": "PUNE JN",
+  "sourceCode": "PUNE",
+  "destination": "SATARA",
+  "destinationCode": "STR",
+  "departureTime": "17:05:00",
+  "arrivalTime": "21:40:00",
+  "duration": "4h 35m",
+  "distance": "137 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

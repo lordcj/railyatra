@@ -1,0 +1,31 @@
+{
+  "number": "17205",
+  "name": "Sainagar Shirdi-Kakinada Express",
+  "type": "Exp",
+  "source": "SAINAGAR SHIRDI",
+  "sourceCode": "SNSI",
+  "destination": "KAKINADA TOWN",
+  "destinationCode": "CCT",
+  "departureTime": "17:10:00",
+  "arrivalTime": "19:20:00",
+  "duration": "26h 10m",
+  "distance": "1339 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

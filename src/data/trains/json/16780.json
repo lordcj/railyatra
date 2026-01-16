@@ -1,0 +1,30 @@
+{
+  "number": "16780",
+  "name": "RAMESWARAM - TIRUPATI Exp",
+  "type": "Exp",
+  "source": "RAMESWARAM",
+  "sourceCode": "RMM",
+  "destination": "TIRUPATI MAIN",
+  "destinationCode": "TPTY",
+  "departureTime": "19:15:00",
+  "arrivalTime": "10:20:00",
+  "duration": "15h 5m",
+  "distance": "667 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

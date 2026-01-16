@@ -1,0 +1,30 @@
+{
+  "number": "58410",
+  "name": "Puri Khurda Road Passenger",
+  "type": "Pass",
+  "source": "PURI",
+  "sourceCode": "PURI",
+  "destination": "KHURDA ROAD JN",
+  "destinationCode": "KUR",
+  "departureTime": "23:05:00",
+  "arrivalTime": "00:45:00",
+  "duration": "1h 40m",
+  "distance": "44 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

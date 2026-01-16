@@ -1,0 +1,30 @@
+{
+  "number": "57235",
+  "name": "Rajamundry Visakhapatnam Passenger",
+  "type": "Pass",
+  "source": "RAJAMUNDRY",
+  "sourceCode": "RJY",
+  "destination": "VISHAKAPATNAM",
+  "destinationCode": "VSKP",
+  "departureTime": "11:53:00",
+  "arrivalTime": "16:35:00",
+  "duration": "4h 42m",
+  "distance": "200 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

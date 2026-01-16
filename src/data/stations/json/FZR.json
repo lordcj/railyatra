@@ -1,0 +1,13 @@
+{
+  "code": "FZR",
+  "name": "Firozpur",
+  "fullName": "Firozpur Cantt",
+  "zone": "NR",
+  "state": "Punjab",
+  "category": "A",
+  "platforms": 4,
+  "connectivity": [
+    "Bus",
+    "Taxi"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "number": "12355",
+  "name": "Archana Express",
+  "type": "SF",
+  "source": "RAJENDRA NAGAR BIHAR",
+  "sourceCode": "RJPB",
+  "destination": "JAMMU TAWI",
+  "destinationCode": "JAT",
+  "departureTime": "07:05:00",
+  "arrivalTime": "10:25:00",
+  "duration": "27h 20m",
+  "distance": "1510 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

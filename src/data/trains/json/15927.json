@@ -1,0 +1,30 @@
+{
+  "number": "15927",
+  "name": "Kamakhya Dibrugarh Express",
+  "type": "Exp",
+  "source": "KAMAKHYA",
+  "sourceCode": "KYQ",
+  "destination": "DIBRUGARH",
+  "destinationCode": "DBRG",
+  "departureTime": "06:50:00",
+  "arrivalTime": "18:15:00",
+  "duration": "11h 25m",
+  "distance": "512 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

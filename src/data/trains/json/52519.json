@@ -1,0 +1,30 @@
+{
+  "number": "52519",
+  "name": "Sakri Laukaha Bazar Passenger",
+  "type": "Pass",
+  "source": "SAKRI JN",
+  "sourceCode": "SKI",
+  "destination": "Jhanjharpur",
+  "destinationCode": "JJP",
+  "departureTime": "17:15:00",
+  "arrivalTime": "18:15:00",
+  "duration": "1h 0m",
+  "distance": "19 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

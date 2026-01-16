@@ -1,0 +1,29 @@
+{
+  "number": "22610",
+  "name": "Palghat Mangalore Intercity",
+  "type": "Exp",
+  "source": "PALAKKAD",
+  "sourceCode": "PGT",
+  "destination": "MANGALORE CNTL",
+  "destinationCode": "MAQ",
+  "departureTime": "07:25:00",
+  "arrivalTime": "13:40:00",
+  "duration": "6h 15m",
+  "distance": "352 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

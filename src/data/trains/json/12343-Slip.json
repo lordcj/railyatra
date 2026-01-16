@@ -1,0 +1,29 @@
+{
+  "number": "12343-Slip",
+  "name": "Darjeeling Mail Slip",
+  "type": "Mail",
+  "source": "KOLKATA SEALDAH",
+  "sourceCode": "SDAH",
+  "destination": "HALDIBARI",
+  "destinationCode": "HDB",
+  "departureTime": "22:05:00",
+  "arrivalTime": "15:25:00",
+  "duration": "17h 20m",
+  "distance": "624 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

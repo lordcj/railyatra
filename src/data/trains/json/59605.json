@@ -1,0 +1,30 @@
+{
+  "number": "59605",
+  "name": "Chittaurgarh Udaipur Passenger",
+  "type": "Pass",
+  "source": "CHITTAURGARH",
+  "sourceCode": "COR",
+  "destination": "UDAIPUR CITY",
+  "destinationCode": "UDZ",
+  "departureTime": "05:45:00",
+  "arrivalTime": "08:35:00",
+  "duration": "2h 50m",
+  "distance": "114 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

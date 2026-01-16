@@ -1,0 +1,30 @@
+{
+  "number": "57263",
+  "name": "Narasapur Nidadavolu Passenger",
+  "type": "Pass",
+  "source": "Narasapur",
+  "sourceCode": "NS",
+  "destination": "NIDADAVOLU JN",
+  "destinationCode": "NDD",
+  "departureTime": "04:20:00",
+  "arrivalTime": "06:40:00",
+  "duration": "2h 20m",
+  "distance": "76 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

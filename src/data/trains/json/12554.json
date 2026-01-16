@@ -1,0 +1,32 @@
+{
+  "number": "12554",
+  "name": "Vaishali SF Express",
+  "type": "SF",
+  "source": "NEW DELHI",
+  "sourceCode": "NDLS",
+  "destination": "BARAUNI JN",
+  "destinationCode": "BJU",
+  "departureTime": "19:50:00",
+  "arrivalTime": "17:15:00",
+  "duration": "21h 25m",
+  "distance": "1185 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

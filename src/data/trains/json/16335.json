@@ -1,0 +1,31 @@
+{
+  "number": "16335",
+  "name": "GANDHIDHAM - NAGERCOIL Weekly Exp",
+  "type": "Exp",
+  "source": "GANDHIDHAM BG",
+  "sourceCode": "GIMB",
+  "destination": "NAGERCOIL JN",
+  "destinationCode": "NCJ",
+  "departureTime": "05:20:00",
+  "arrivalTime": "04:45:00",
+  "duration": "47h 25m",
+  "distance": "2649 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

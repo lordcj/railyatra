@@ -1,0 +1,30 @@
+{
+  "number": "55036",
+  "name": "SITAPUR -GONDA Pass",
+  "type": "Pass",
+  "source": "SITAPUR CANT",
+  "sourceCode": "SCC",
+  "destination": "GONDA JN",
+  "destinationCode": "GD",
+  "departureTime": "14:35:00",
+  "arrivalTime": "22:25:00",
+  "duration": "7h 50m",
+  "distance": "250 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

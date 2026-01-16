@@ -1,0 +1,30 @@
+{
+  "number": "55553",
+  "name": "Dauram Madhepura Samastipur Passenger",
+  "type": "Pass",
+  "source": "Dauram Madhepura",
+  "sourceCode": "DMH",
+  "destination": "SAMASTIPUR JN",
+  "destinationCode": "SPJ",
+  "departureTime": "05:30:00",
+  "arrivalTime": "12:10:00",
+  "duration": "6h 40m",
+  "distance": "158 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

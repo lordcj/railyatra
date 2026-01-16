@@ -1,0 +1,13 @@
+{
+  "code": "UJN",
+  "name": "Ujjain",
+  "fullName": "Ujjain Junction",
+  "zone": "WR",
+  "state": "Madhya Pradesh",
+  "category": "A",
+  "platforms": 5,
+  "connectivity": [
+    "Bus",
+    "Taxi"
+  ]
+}

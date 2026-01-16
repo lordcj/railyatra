@@ -1,0 +1,29 @@
+{
+  "number": "21028",
+  "name": "Solapur-Gondia Slip Exp.",
+  "type": "Mail",
+  "source": "SOLAPUR JN",
+  "sourceCode": "SUR",
+  "destination": "GONDIA JN",
+  "destinationCode": "G",
+  "departureTime": "18:20:00",
+  "arrivalTime": "20:15:00",
+  "duration": "25h 55m",
+  "distance": "1132 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

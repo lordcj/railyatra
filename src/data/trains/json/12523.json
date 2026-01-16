@@ -1,0 +1,31 @@
+{
+  "number": "12523",
+  "name": "New Jalpaiguri-New Delhi Superfast Express",
+  "type": "SF",
+  "source": "NEW JALPAIGURI",
+  "sourceCode": "NJP",
+  "destination": "NEW DELHI",
+  "destinationCode": "NDLS",
+  "departureTime": "08:15:00",
+  "arrivalTime": "12:10:00",
+  "duration": "27h 55m",
+  "distance": "1500 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

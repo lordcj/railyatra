@@ -1,0 +1,31 @@
+{
+  "number": "15647",
+  "name": "MUMBAI LTT - GUWAHATI Exp",
+  "type": "Exp",
+  "source": "LOKMANYA TILAK TERM",
+  "sourceCode": "LTT",
+  "destination": "GUWAHATI",
+  "destinationCode": "GHY",
+  "departureTime": "08:05:00",
+  "arrivalTime": "13:00:00",
+  "duration": "52h 55m",
+  "distance": "2735 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

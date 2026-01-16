@@ -1,0 +1,30 @@
+{
+  "number": "56511",
+  "name": "Bangarpet Marikuppam Passenger",
+  "type": "Pass",
+  "source": "BANGARAPET",
+  "sourceCode": "BWT",
+  "destination": "Marikuppam",
+  "destinationCode": "MKM",
+  "departureTime": "05:30:00",
+  "arrivalTime": "06:05:00",
+  "duration": "0h 35m",
+  "distance": "16 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

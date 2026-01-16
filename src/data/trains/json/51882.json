@@ -1,0 +1,30 @@
+{
+  "number": "51882",
+  "name": "Agra Gwalior Fast Passenger",
+  "type": "Pass",
+  "source": "AGRA CANTT",
+  "sourceCode": "AGC",
+  "destination": "GWALIOR JN",
+  "destinationCode": "GWL",
+  "departureTime": "07:35:00",
+  "arrivalTime": "10:15:00",
+  "duration": "2h 40m",
+  "distance": "118 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

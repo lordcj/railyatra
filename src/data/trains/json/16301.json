@@ -1,0 +1,29 @@
+{
+  "number": "16301",
+  "name": "Venad Express",
+  "type": "Exp",
+  "source": "SHORANUR JN",
+  "sourceCode": "SRR",
+  "destination": "TRIVANDRUM CENTRAL",
+  "destinationCode": "TVC",
+  "departureTime": "14:20:00",
+  "arrivalTime": "22:10:00",
+  "duration": "7h 50m",
+  "distance": "327 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

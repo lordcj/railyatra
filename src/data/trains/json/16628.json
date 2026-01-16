@@ -1,0 +1,31 @@
+{
+  "number": "16628",
+  "name": "West Coast Express",
+  "type": "Exp",
+  "source": "MANGALORE CNTL",
+  "sourceCode": "MAQ",
+  "destination": "CHENNAI CENTRAL",
+  "destinationCode": "MAS",
+  "departureTime": "21:45:00",
+  "arrivalTime": "15:15:00",
+  "duration": "17h 30m",
+  "distance": "902 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

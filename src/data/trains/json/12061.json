@@ -1,0 +1,29 @@
+{
+  "number": "12061",
+  "name": "HabibGanj Bhopal-Jabalpur Jan Shatabdi",
+  "type": "JShtb",
+  "source": "HABIBGANJ",
+  "sourceCode": "HBJ",
+  "destination": "JABALPUR",
+  "destinationCode": "JBP",
+  "departureTime": "17:40:00",
+  "arrivalTime": "22:55:00",
+  "duration": "5h 15m",
+  "distance": "331 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WCR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

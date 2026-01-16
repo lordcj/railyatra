@@ -1,0 +1,31 @@
+{
+  "number": "18417",
+  "name": "Jharsuguda-Bhubaneswar Rajya Rani Express",
+  "type": "Exp",
+  "source": "JHARSUGUDA JN",
+  "sourceCode": "JSG",
+  "destination": "BHUBANESWAR",
+  "destinationCode": "BBS",
+  "departureTime": "23:05:00",
+  "arrivalTime": "07:35:00",
+  "duration": "8h 30m",
+  "distance": "341 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

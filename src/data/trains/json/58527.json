@@ -1,0 +1,30 @@
+{
+  "number": "58527",
+  "name": "Raipur Vishakhapatnam Passenger",
+  "type": "Pass",
+  "source": "RAIPUR JN",
+  "sourceCode": "R",
+  "destination": "VISHAKAPATNAM",
+  "destinationCode": "VSKP",
+  "departureTime": "05:30:00",
+  "arrivalTime": "22:00:00",
+  "duration": "16h 30m",
+  "distance": "529 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

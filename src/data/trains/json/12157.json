@@ -1,0 +1,29 @@
+{
+  "number": "12157",
+  "name": "Hutatma Express",
+  "type": "SF",
+  "source": "PUNE JN",
+  "sourceCode": "PUNE",
+  "destination": "SOLAPUR JN",
+  "destinationCode": "SUR",
+  "departureTime": "18:00:00",
+  "arrivalTime": "22:00:00",
+  "duration": "4h 0m",
+  "distance": "264 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

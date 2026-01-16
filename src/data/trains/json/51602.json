@@ -1,0 +1,30 @@
+{
+  "number": "51602",
+  "name": "Katni Bina Passenger",
+  "type": "Pass",
+  "source": "KATNI",
+  "sourceCode": "KTE",
+  "destination": "BINA JN",
+  "destinationCode": "BINA",
+  "departureTime": "22:15:00",
+  "arrivalTime": "06:40:00",
+  "duration": "8h 25m",
+  "distance": "263 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

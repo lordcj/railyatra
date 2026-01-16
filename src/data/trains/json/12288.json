@@ -1,0 +1,30 @@
+{
+  "number": "12288",
+  "name": "DEHRADUN - KOCHUVELI SF Express",
+  "type": "SF",
+  "source": "DEHRADUN",
+  "sourceCode": "DDN",
+  "destination": "KOCHUVELI",
+  "destinationCode": "KCVL",
+  "departureTime": "06:00:00",
+  "arrivalTime": "15:30:00",
+  "duration": "57h 30m",
+  "distance": "3459 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

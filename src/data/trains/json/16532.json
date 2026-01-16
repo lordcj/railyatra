@@ -1,0 +1,31 @@
+{
+  "number": "16532",
+  "name": "Garib Nawaz Express",
+  "type": "Exp",
+  "source": "YESVANTPUR JN",
+  "sourceCode": "YPR",
+  "destination": "AJMER JN",
+  "destinationCode": "AII",
+  "departureTime": "17:20:00",
+  "arrivalTime": "17:30:00",
+  "duration": "48h 10m",
+  "distance": "2218 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

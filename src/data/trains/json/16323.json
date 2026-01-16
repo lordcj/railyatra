@@ -1,0 +1,31 @@
+{
+  "number": "16323",
+  "name": "Trivandrum Shalimar Biweekly Express",
+  "type": "Exp",
+  "source": "TRIVANDRUM CENTRAL",
+  "sourceCode": "TVC",
+  "destination": "KOLKATA SHALIMAR",
+  "destinationCode": "SHM",
+  "departureTime": "16:35:00",
+  "arrivalTime": "13:50:00",
+  "duration": "45h 15m",
+  "distance": "2566 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

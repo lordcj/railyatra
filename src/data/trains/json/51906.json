@@ -1,0 +1,30 @@
+{
+  "number": "51906",
+  "name": "Shamli Delhi Passenger",
+  "type": "Pass",
+  "source": "SHAMLI",
+  "sourceCode": "SMQL",
+  "destination": "OLD DELHI",
+  "destinationCode": "DLI",
+  "departureTime": "02:00:00",
+  "arrivalTime": "04:40:00",
+  "duration": "2h 40m",
+  "distance": "94 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

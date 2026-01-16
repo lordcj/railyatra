@@ -1,0 +1,31 @@
+{
+  "number": "12463-Slip",
+  "name": "Rajasthan Sampark Kranti Express Slip",
+  "type": "SKr",
+  "source": "DELHI SARAI ROHILLA",
+  "sourceCode": "DEE",
+  "destination": "BIKANER JN",
+  "destinationCode": "BKN",
+  "departureTime": "22:35:00",
+  "arrivalTime": "10:35:00",
+  "duration": "12h 0m",
+  "distance": "685 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

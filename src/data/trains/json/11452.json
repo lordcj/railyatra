@@ -1,0 +1,29 @@
+{
+  "number": "11452",
+  "name": "REWA - JABALPUR Intercity Exp",
+  "type": "Exp",
+  "source": "REWA",
+  "sourceCode": "REWA",
+  "destination": "JABALPUR",
+  "destinationCode": "JBP",
+  "departureTime": "06:00:00",
+  "arrivalTime": "10:25:00",
+  "duration": "4h 25m",
+  "distance": "238 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

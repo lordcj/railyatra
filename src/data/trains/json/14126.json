@@ -1,0 +1,30 @@
+{
+  "number": "14126",
+  "name": "Saryu Express",
+  "type": "Exp",
+  "source": "FAIZABAD JN",
+  "sourceCode": "FD",
+  "destination": "ALLAHABAD JN",
+  "destinationCode": "ALD",
+  "departureTime": "04:35:00",
+  "arrivalTime": "09:20:00",
+  "duration": "4h 45m",
+  "distance": "157 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

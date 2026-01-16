@@ -1,0 +1,30 @@
+{
+  "number": "43921",
+  "name": "Tiruvallur Kadambattur EMU",
+  "type": "MEMU",
+  "source": "TIRUVALLUR",
+  "sourceCode": "TRL",
+  "destination": "KADAMBATTUR",
+  "destinationCode": "KBT",
+  "departureTime": "05:50:00",
+  "arrivalTime": "06:00:00",
+  "duration": "0h 10m",
+  "distance": "6 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

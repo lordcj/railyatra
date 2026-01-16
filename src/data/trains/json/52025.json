@@ -1,0 +1,30 @@
+{
+  "number": "52025",
+  "name": "Dabhoi Chandod Mix Passenger",
+  "type": "Pass",
+  "source": "Dabhoi Junction",
+  "sourceCode": "DB",
+  "destination": "Chandod",
+  "destinationCode": "CDD",
+  "departureTime": "16:15:00",
+  "arrivalTime": "17:00:00",
+  "duration": "0h 45m",
+  "distance": "17 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,32 @@
+{
+  "number": "82501",
+  "name": "Lucknow - New Delhi Tejas Express",
+  "type": "Tejas",
+  "source": "Lucknow",
+  "sourceCode": "LKO",
+  "destination": "New Delhi",
+  "destinationCode": "NDLS",
+  "departureTime": "06:10",
+  "arrivalTime": "12:25",
+  "duration": "6h 15m",
+  "distance": "512 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+  ],
+  "zone": "NR",
+  "classes": [
+    "CC",
+    "EC"
+  ],
+  "stops": 2,
+  "majorStops": [
+    "Kanpur",
+    "New Delhi"
+  ],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "15716-Slip",
+  "name": "Garib Nawaz Express",
+  "type": "Exp",
+  "source": "AJMER JN",
+  "sourceCode": "AII",
+  "destination": "Radhikapur",
+  "destinationCode": "RDP",
+  "departureTime": "11:20:00",
+  "arrivalTime": "03:30:00",
+  "duration": "40h 10m",
+  "distance": "1812 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

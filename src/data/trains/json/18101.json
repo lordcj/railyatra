@@ -1,0 +1,31 @@
+{
+  "number": "18101",
+  "name": "Tatanagar Jammu Tawi Express",
+  "type": "Exp",
+  "source": "TATANAGAR JN",
+  "sourceCode": "TATA",
+  "destination": "JAMMU TAWI",
+  "destinationCode": "JAT",
+  "departureTime": "14:50:00",
+  "arrivalTime": "13:40:00",
+  "duration": "46h 50m",
+  "distance": "2026 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

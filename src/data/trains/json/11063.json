@@ -1,0 +1,32 @@
+{
+  "number": "11063",
+  "name": "CHENNAI EGMORE - METTUR DAM SLIP EXP",
+  "type": "Exp",
+  "source": "CHENNAI EGMORE",
+  "sourceCode": "MS",
+  "destination": "METUR DAM",
+  "destinationCode": "MTDM",
+  "departureTime": "23:00:00",
+  "arrivalTime": "06:50:00",
+  "duration": "7h 50m",
+  "distance": "353 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

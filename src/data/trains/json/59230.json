@@ -1,0 +1,30 @@
+{
+  "number": "59230",
+  "name": "Bhavnagar Botad Passenger",
+  "type": "Pass",
+  "source": "BHAVNAGAR TERMINUS",
+  "sourceCode": "BVC",
+  "destination": "SURAT",
+  "destinationCode": "ST",
+  "departureTime": "18:40:00",
+  "arrivalTime": "07:40:00",
+  "duration": "13h 0m",
+  "distance": "526 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

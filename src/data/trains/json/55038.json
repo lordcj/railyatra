@@ -1,0 +1,30 @@
+{
+  "number": "55038",
+  "name": "SITAPUR - BURHWAL PASS",
+  "type": "Pass",
+  "source": "SITAPUR CANT",
+  "sourceCode": "SCC",
+  "destination": "BURHWAL",
+  "destinationCode": "BUW",
+  "departureTime": "15:55:00",
+  "arrivalTime": "18:05:00",
+  "duration": "2h 10m",
+  "distance": "97 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

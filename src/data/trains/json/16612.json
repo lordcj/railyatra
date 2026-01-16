@@ -1,0 +1,30 @@
+{
+  "number": "16612",
+  "name": "Coimbatore Tuticorin Link Express",
+  "type": "Exp",
+  "source": "COIMBATORE JN",
+  "sourceCode": "CBE",
+  "destination": "TUTICORIN",
+  "destinationCode": "TN",
+  "departureTime": "20:30:00",
+  "arrivalTime": "06:10:00",
+  "duration": "9h 40m",
+  "distance": "465 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

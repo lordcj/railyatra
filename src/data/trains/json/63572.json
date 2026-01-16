@@ -1,0 +1,30 @@
+{
+  "number": "63572",
+  "name": "Kiul Jasidih Passenger MEMU",
+  "type": "MEMU",
+  "source": "KIUL JN",
+  "sourceCode": "KIUL",
+  "destination": "JASIDIH JN",
+  "destinationCode": "JSME",
+  "departureTime": "05:50:00",
+  "arrivalTime": "08:20:00",
+  "duration": "2h 30m",
+  "distance": "97 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,29 @@
+{
+  "number": "12004",
+  "name": "NewDelh-Lucknowi Swarn Shatabdi Express",
+  "type": "SF",
+  "source": "NEW DELHI",
+  "sourceCode": "NDLS",
+  "destination": "LUCKNOW",
+  "destinationCode": "LKO",
+  "departureTime": "06:15:00",
+  "arrivalTime": "12:30:00",
+  "duration": "6h 15m",
+  "distance": "511 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "16519",
+  "name": "JOLARPETTAI - BANGALORE Exp",
+  "type": "Exp",
+  "source": "JOLARPETTAI",
+  "sourceCode": "JTJ",
+  "destination": "BANGALORE CITY JN",
+  "destinationCode": "SBC",
+  "departureTime": "04:25:00",
+  "arrivalTime": "08:00:00",
+  "duration": "3h 35m",
+  "distance": "145 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

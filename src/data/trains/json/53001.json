@@ -1,0 +1,30 @@
+{
+  "number": "53001",
+  "name": "Howrah Azimganj Passenger",
+  "type": "Pass",
+  "source": "HOWRAH JN",
+  "sourceCode": "HWH",
+  "destination": "AZIMGANJ JN",
+  "destinationCode": "AZ",
+  "departureTime": "16:00:00",
+  "arrivalTime": "22:20:00",
+  "duration": "6h 20m",
+  "distance": "217 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

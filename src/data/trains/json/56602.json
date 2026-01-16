@@ -1,0 +1,30 @@
+{
+  "number": "56602",
+  "name": "Kannur Shoranur Passenger",
+  "type": "Pass",
+  "source": "KANNUR",
+  "sourceCode": "CAN",
+  "destination": "SHORANUR JN",
+  "destinationCode": "SRR",
+  "departureTime": "14:50:00",
+  "arrivalTime": "20:35:00",
+  "duration": "5h 45m",
+  "distance": "175 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

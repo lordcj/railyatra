@@ -1,0 +1,31 @@
+{
+  "number": "12484",
+  "name": "AMRITSAR - KOCHUVELI SF Exp",
+  "type": "SF",
+  "source": "AMRITSAR JN",
+  "sourceCode": "ASR",
+  "destination": "KOCHUVELI",
+  "destinationCode": "KCVL",
+  "departureTime": "06:05:00",
+  "arrivalTime": "15:30:00",
+  "duration": "57h 25m",
+  "distance": "3597 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "52968",
+  "name": "Mhow Indore Fast Passenger",
+  "type": "Pass",
+  "source": "Mhow",
+  "sourceCode": "MHOW",
+  "destination": "Indore Junction MG",
+  "destinationCode": "INDM",
+  "departureTime": "05:15:00",
+  "arrivalTime": "06:05:00",
+  "duration": "0h 50m",
+  "distance": "29 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

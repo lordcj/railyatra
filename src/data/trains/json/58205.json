@@ -1,0 +1,30 @@
+{
+  "number": "58205",
+  "name": "RAIPUR ITWARI PASS",
+  "type": "Pass",
+  "source": "RAIPUR JN",
+  "sourceCode": "R",
+  "destination": "ITWARI",
+  "destinationCode": "ITR",
+  "departureTime": "13:30:00",
+  "arrivalTime": "21:20:00",
+  "duration": "7h 50m",
+  "distance": "298 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

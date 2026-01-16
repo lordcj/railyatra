@@ -1,0 +1,32 @@
+{
+  "number": "14041",
+  "name": "DELHI SARAI ROHILLA - DEHRADUN Mussoorie Exp",
+  "type": "Exp",
+  "source": "DELHI SARAI ROHILLA",
+  "sourceCode": "DEE",
+  "destination": "DEHRADUN",
+  "destinationCode": "DDN",
+  "departureTime": "21:30:00",
+  "arrivalTime": "08:00:00",
+  "duration": "10h 30m",
+  "distance": "339 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

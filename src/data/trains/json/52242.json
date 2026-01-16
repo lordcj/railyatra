@@ -1,0 +1,30 @@
+{
+  "number": "52242",
+  "name": "Aishbagh Mailani Passenger",
+  "type": "Pass",
+  "source": "AISHBAGH",
+  "sourceCode": "ASH",
+  "destination": "MAILANI",
+  "destinationCode": "MLN",
+  "departureTime": "10:00:00",
+  "arrivalTime": "16:10:00",
+  "duration": "6h 10m",
+  "distance": "193 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

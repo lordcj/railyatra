@@ -1,0 +1,30 @@
+{
+  "number": "55338",
+  "name": "Achhnera Kasganj Fast Passenger",
+  "type": "Pass",
+  "source": "ACHHNERA JN",
+  "sourceCode": "AH",
+  "destination": "KASGANJ",
+  "destinationCode": "KSJ",
+  "departureTime": "10:50:00",
+  "arrivalTime": "14:40:00",
+  "duration": "3h 50m",
+  "distance": "140 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

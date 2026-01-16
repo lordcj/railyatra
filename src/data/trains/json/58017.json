@@ -1,0 +1,30 @@
+{
+  "number": "58017",
+  "name": "Kharagpur Asansol Passenger",
+  "type": "Pass",
+  "source": "KHARAGPUR JN",
+  "sourceCode": "KGP",
+  "destination": "ASANSOL JN",
+  "destinationCode": "ASN",
+  "departureTime": "05:30:00",
+  "arrivalTime": "11:20:00",
+  "duration": "5h 50m",
+  "distance": "209 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

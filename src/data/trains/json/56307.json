@@ -1,0 +1,30 @@
+{
+  "number": "56307",
+  "name": "Kollam Tiruvananthapuram Passenger",
+  "type": "Pass",
+  "source": "KOLLAM JN",
+  "sourceCode": "QLN",
+  "destination": "TRIVANDRUM CENTRAL",
+  "destinationCode": "TVC",
+  "departureTime": "06:40:00",
+  "arrivalTime": "08:40:00",
+  "duration": "2h 0m",
+  "distance": "64 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

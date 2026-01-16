@@ -1,0 +1,30 @@
+{
+  "number": "56601",
+  "name": "Shoranur Kozhikode Passenger",
+  "type": "Pass",
+  "source": "SHORANUR JN",
+  "sourceCode": "SRR",
+  "destination": "KOZHIKODE",
+  "destinationCode": "CLT",
+  "departureTime": "17:45:00",
+  "arrivalTime": "20:00:00",
+  "duration": "2h 15m",
+  "distance": "86 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

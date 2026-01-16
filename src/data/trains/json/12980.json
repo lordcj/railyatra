@@ -1,0 +1,32 @@
+{
+  "number": "12980",
+  "name": "Jaipur - Mumbai Bandra (T.) (Triweekly) SF Express",
+  "type": "SF",
+  "source": "JAIPUR",
+  "sourceCode": "JP",
+  "destination": "MUMBAI BANDRA TERMINUS",
+  "destinationCode": "BDTS",
+  "departureTime": "20:40:00",
+  "arrivalTime": "14:30:00",
+  "duration": "17h 50m",
+  "distance": "1148 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

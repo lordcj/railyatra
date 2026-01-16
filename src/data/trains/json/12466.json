@@ -1,0 +1,31 @@
+{
+  "number": "12466",
+  "name": "Jodhpur-Indore Ranthambhore Intercity Express",
+  "type": "SF",
+  "source": "JODHPUR JN",
+  "sourceCode": "JU",
+  "destination": "INDORE JN BG",
+  "destinationCode": "INDB",
+  "departureTime": "05:55:00",
+  "arrivalTime": "22:25:00",
+  "duration": "16h 30m",
+  "distance": "911 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "SL",
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

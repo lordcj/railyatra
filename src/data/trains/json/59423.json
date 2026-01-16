@@ -1,0 +1,30 @@
+{
+  "number": "59423",
+  "name": "Rajkot Somnath Passenger",
+  "type": "Pass",
+  "source": "RAJKOT JN",
+  "sourceCode": "RJT",
+  "destination": "SOMNATH",
+  "destinationCode": "SMNH",
+  "departureTime": "18:20:00",
+  "arrivalTime": "23:20:00",
+  "duration": "5h 0m",
+  "distance": "190 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

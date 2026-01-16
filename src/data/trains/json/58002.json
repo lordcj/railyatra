@@ -1,0 +1,30 @@
+{
+  "number": "58002",
+  "name": "Puri Santargachi Passenger",
+  "type": "Pass",
+  "source": "PURI",
+  "sourceCode": "PURI",
+  "destination": "SANTRAGACHI JN",
+  "destinationCode": "SRC",
+  "departureTime": "09:40:00",
+  "arrivalTime": "01:45:00",
+  "duration": "16h 5m",
+  "distance": "513 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

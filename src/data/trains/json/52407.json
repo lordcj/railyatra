@@ -1,0 +1,30 @@
+{
+  "number": "52407",
+  "name": "Sadulpur Suratgarh Passenger",
+  "type": "Pass",
+  "source": "Sadulpur Junction",
+  "sourceCode": "SDLP",
+  "destination": "SHRI GANGANAGAR",
+  "destinationCode": "SGNR",
+  "departureTime": "04:00:00",
+  "arrivalTime": "10:50:00",
+  "duration": "6h 50m",
+  "distance": "246 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

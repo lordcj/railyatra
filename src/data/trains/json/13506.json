@@ -1,0 +1,30 @@
+{
+  "number": "13506",
+  "name": "Asansol Digha Express",
+  "type": "Exp",
+  "source": "ASANSOL JN",
+  "sourceCode": "ASN",
+  "destination": "Digha Flag Station",
+  "destinationCode": "DGHA",
+  "departureTime": "05:40:00",
+  "arrivalTime": "13:35:00",
+  "duration": "7h 55m",
+  "distance": "372 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

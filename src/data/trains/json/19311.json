@@ -1,0 +1,31 @@
+{
+  "number": "19311",
+  "name": "Pune Indore Express",
+  "type": "Exp",
+  "source": "PUNE JN",
+  "sourceCode": "PUNE",
+  "destination": "INDORE JN BG",
+  "destinationCode": "INDB",
+  "departureTime": "15:20:00",
+  "arrivalTime": "09:30:00",
+  "duration": "18h 10m",
+  "distance": "972 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

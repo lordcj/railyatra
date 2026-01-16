@@ -1,0 +1,31 @@
+{
+  "number": "12320",
+  "name": "AGRA CANTT - KOLKATA CHITPUR SF Exp",
+  "type": "SF",
+  "source": "AGRA CANTT",
+  "sourceCode": "AGC",
+  "destination": "KOLKATA CHITPUR",
+  "destinationCode": "KOAA",
+  "departureTime": "17:00:00",
+  "arrivalTime": "17:20:00",
+  "duration": "24h 20m",
+  "distance": "1405 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "56736",
+  "name": "Sengottail Madurai Passenger",
+  "type": "Pass",
+  "source": "SENGOTTAI",
+  "sourceCode": "SCT",
+  "destination": "MADURAI JN",
+  "destinationCode": "MDU",
+  "departureTime": "15:50:00",
+  "arrivalTime": "19:30:00",
+  "duration": "3h 40m",
+  "distance": "173 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

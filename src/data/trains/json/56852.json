@@ -1,0 +1,30 @@
+{
+  "number": "56852",
+  "name": "Trichy Nagore Passenger",
+  "type": "Pass",
+  "source": "TIRUCHIRAPPALLI",
+  "sourceCode": "TPJ",
+  "destination": "Nagore",
+  "destinationCode": "NCR",
+  "departureTime": "16:30:00",
+  "arrivalTime": "20:55:00",
+  "duration": "4h 25m",
+  "distance": "135 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "55558",
+  "name": "Sonpur Samastipur Passenger",
+  "type": "Pass",
+  "source": "SONPUR JN",
+  "sourceCode": "SEE",
+  "destination": "SAMASTIPUR JN",
+  "destinationCode": "SPJ",
+  "departureTime": "03:50:00",
+  "arrivalTime": "08:05:00",
+  "duration": "4h 15m",
+  "distance": "111 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

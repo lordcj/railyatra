@@ -1,0 +1,30 @@
+{
+  "number": "12643",
+  "name": "Swarna Jayanthi Express",
+  "type": "SF",
+  "source": "TRIVANDRUM CENTRAL",
+  "sourceCode": "TVC",
+  "destination": "DELHI H NIZAMUDDIN",
+  "destinationCode": "NZM",
+  "departureTime": "14:20:00",
+  "arrivalTime": "17:05:00",
+  "duration": "50h 45m",
+  "distance": "3014 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

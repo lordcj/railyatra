@@ -1,0 +1,30 @@
+{
+  "number": "52137",
+  "name": "Murtajapur Achalpur Passenger",
+  "type": "Pass",
+  "source": "MURTAJAPUR",
+  "sourceCode": "MZR",
+  "destination": "Achalpur",
+  "destinationCode": "ELP",
+  "departureTime": "07:15:00",
+  "arrivalTime": "10:45:00",
+  "duration": "3h 30m",
+  "distance": "76 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

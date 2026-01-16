@@ -1,0 +1,29 @@
+{
+  "number": "53140",
+  "name": "Chittranjan-KolkataChitpur Passenger",
+  "type": "Pass",
+  "source": "CHITTARANJAN",
+  "sourceCode": "CRJ",
+  "destination": "KOLKATA CHITPUR",
+  "destinationCode": "KOAA",
+  "departureTime": "08:30:00",
+  "arrivalTime": "13:35:00",
+  "duration": "5h 5m",
+  "distance": "241 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "59161",
+  "name": "Bharuch Vadtal Swaminarayan Passenger",
+  "type": "Pass",
+  "source": "BHARUCH JN",
+  "sourceCode": "BH",
+  "destination": "Vadtal Swaminarayan",
+  "destinationCode": "VTL",
+  "departureTime": "06:00:00",
+  "arrivalTime": "10:45:00",
+  "duration": "4h 45m",
+  "distance": "120 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

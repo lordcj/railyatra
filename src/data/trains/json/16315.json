@@ -1,0 +1,31 @@
+{
+  "number": "16315",
+  "name": "BANGALORE - KOCHUVELI Exp",
+  "type": "Exp",
+  "source": "BANGALORE CITY JN",
+  "sourceCode": "SBC",
+  "destination": "KOCHUVELI",
+  "destinationCode": "KCVL",
+  "departureTime": "17:15:00",
+  "arrivalTime": "09:25:00",
+  "duration": "16h 10m",
+  "distance": "837 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

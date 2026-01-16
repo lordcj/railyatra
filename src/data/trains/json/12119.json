@@ -1,0 +1,29 @@
+{
+  "number": "12119",
+  "name": "Amaravati Nagpur Express",
+  "type": "SF",
+  "source": "Amravati",
+  "sourceCode": "AMI",
+  "destination": "NAGPUR",
+  "destinationCode": "NGP",
+  "departureTime": "05:15:00",
+  "arrivalTime": "08:35:00",
+  "duration": "3h 20m",
+  "distance": "184 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "53418",
+  "name": "Malda Town Barddhaman Passenger",
+  "type": "Pass",
+  "source": "MALDA TOWN",
+  "sourceCode": "MLDT",
+  "destination": "BARDDHAMAN JN",
+  "destinationCode": "BWN",
+  "departureTime": "15:00:00",
+  "arrivalTime": "21:40:00",
+  "duration": "6h 40m",
+  "distance": "233 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

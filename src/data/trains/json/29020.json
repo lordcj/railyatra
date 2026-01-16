@@ -1,0 +1,31 @@
+{
+  "number": "29020",
+  "name": "Dehradun Express Slip",
+  "type": "Exp",
+  "source": "MEERUT CITY",
+  "sourceCode": "MTC",
+  "destination": "NIMACH",
+  "destinationCode": "NMH",
+  "departureTime": "19:20:00",
+  "arrivalTime": "13:15:00",
+  "duration": "17h 55m",
+  "distance": "755 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

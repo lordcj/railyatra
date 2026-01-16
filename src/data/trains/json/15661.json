@@ -1,0 +1,30 @@
+{
+  "number": "15661",
+  "name": "RANCHI - KAMAKHYA Exp",
+  "type": "Exp",
+  "source": "RANCHI",
+  "sourceCode": "RNC",
+  "destination": "KAMAKHYA",
+  "destinationCode": "KYQ",
+  "departureTime": "20:40:00",
+  "arrivalTime": "22:00:00",
+  "duration": "25h 20m",
+  "distance": "1216 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

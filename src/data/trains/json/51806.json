@@ -1,0 +1,30 @@
+{
+  "number": "51806",
+  "name": "Banda Jhansi Passenger",
+  "type": "Pass",
+  "source": "BANDA JN",
+  "sourceCode": "BNDA",
+  "destination": "JHANSI JN",
+  "destinationCode": "JHS",
+  "departureTime": "05:25:00",
+  "arrivalTime": "10:05:00",
+  "duration": "4h 40m",
+  "distance": "191 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

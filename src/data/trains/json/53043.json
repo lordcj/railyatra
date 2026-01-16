@@ -1,0 +1,30 @@
+{
+  "number": "53043",
+  "name": "Howrah-Rajgir Fast Passenger",
+  "type": "Pass",
+  "source": "HOWRAH JN",
+  "sourceCode": "HWH",
+  "destination": "Rajgir",
+  "destinationCode": "RGD",
+  "departureTime": "11:10:00",
+  "arrivalTime": "08:50:00",
+  "duration": "21h 40m",
+  "distance": "651 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

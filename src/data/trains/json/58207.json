@@ -1,0 +1,30 @@
+{
+  "number": "58207",
+  "name": "Raipur Kesinga Passenger",
+  "type": "Pass",
+  "source": "RAIPUR JN",
+  "sourceCode": "R",
+  "destination": "KESINGA",
+  "destinationCode": "KSNG",
+  "departureTime": "15:15:00",
+  "arrivalTime": "19:55:00",
+  "duration": "4h 40m",
+  "distance": "216 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

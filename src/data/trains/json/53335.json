@@ -1,0 +1,30 @@
+{
+  "number": "53335",
+  "name": "Dhanbad Ranchi Passenger",
+  "type": "Pass",
+  "source": "DHANBAD JN",
+  "sourceCode": "DHN",
+  "destination": "RANCHI",
+  "destinationCode": "RNC",
+  "departureTime": "07:00:00",
+  "arrivalTime": "12:15:00",
+  "duration": "5h 15m",
+  "distance": "162 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

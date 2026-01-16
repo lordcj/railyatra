@@ -1,0 +1,29 @@
+{
+  "number": "12207",
+  "name": "Kathgodam-Jammu Garib Rath Express",
+  "type": "GR",
+  "source": "KATHGODAM",
+  "sourceCode": "KGM",
+  "destination": "JAMMU TAWI",
+  "destinationCode": "JAT",
+  "departureTime": "18:30:00",
+  "arrivalTime": "09:40:00",
+  "duration": "15h 10m",
+  "distance": "769 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

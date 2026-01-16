@@ -1,0 +1,29 @@
+{
+  "number": "59547",
+  "name": "Ahmedabad Okha Passenger",
+  "type": "Pass",
+  "source": "AHMEDABAD JN",
+  "sourceCode": "ADI",
+  "destination": "OKHA",
+  "destinationCode": "OKHA",
+  "departureTime": "12:00:00",
+  "arrivalTime": "05:10:00",
+  "duration": "17h 10m",
+  "distance": "499 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

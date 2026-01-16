@@ -1,0 +1,31 @@
+{
+  "number": "12897",
+  "name": "Puducherry-Bhubaneswar Express",
+  "type": "SF",
+  "source": "Puducherry",
+  "sourceCode": "PDY",
+  "destination": "BHUBANESWAR",
+  "destinationCode": "BBS",
+  "departureTime": "18:30:00",
+  "arrivalTime": "18:45:00",
+  "duration": "24h 15m",
+  "distance": "1424 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

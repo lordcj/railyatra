@@ -1,0 +1,32 @@
+{
+  "number": "12970",
+  "name": "Jaipur-Coimbatore Express",
+  "type": "SF",
+  "source": "JAIPUR",
+  "sourceCode": "JP",
+  "destination": "COIMBATORE JN",
+  "destinationCode": "CBE",
+  "departureTime": "19:40:00",
+  "arrivalTime": "18:00:00",
+  "duration": "46h 20m",
+  "distance": "2682 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

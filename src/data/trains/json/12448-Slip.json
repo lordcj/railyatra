@@ -1,0 +1,32 @@
+{
+  "number": "12448-Slip",
+  "name": "Nizamuddin KhajurahoLink Express Slip",
+  "type": "SKr",
+  "source": "DELHI H NIZAMUDDIN",
+  "sourceCode": "NZM",
+  "destination": "KHAJURAHO",
+  "destinationCode": "KURJ",
+  "departureTime": "20:15:00",
+  "arrivalTime": "06:35:00",
+  "duration": "10h 20m",
+  "distance": "604 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

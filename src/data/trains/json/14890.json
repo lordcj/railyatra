@@ -1,0 +1,30 @@
+{
+  "number": "14890",
+  "name": "Thar Link Express",
+  "type": "Exp",
+  "source": "Munabao",
+  "sourceCode": "MBF",
+  "destination": "BHAGAT KI KOTHI",
+  "destinationCode": "BGKT",
+  "departureTime": "19:00:00",
+  "arrivalTime": "23:50:00",
+  "duration": "4h 50m",
+  "distance": "325 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

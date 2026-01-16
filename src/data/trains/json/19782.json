@@ -1,0 +1,30 @@
+{
+  "number": "19782",
+  "name": "Amritsar-Jaipur Express",
+  "type": "Exp",
+  "source": "AMRITSAR JN",
+  "sourceCode": "ASR",
+  "destination": "JAIPUR",
+  "destinationCode": "JP",
+  "departureTime": "17:50:00",
+  "arrivalTime": "07:30:00",
+  "duration": "13h 40m",
+  "distance": "713 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

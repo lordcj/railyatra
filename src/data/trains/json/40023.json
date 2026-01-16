@@ -1,0 +1,30 @@
+{
+  "number": "40023",
+  "name": "Chennai Beach St. Thomas Mount Fast EMU",
+  "type": "MEMU",
+  "source": "CHENNAI BEACH",
+  "sourceCode": "MSB",
+  "destination": "ST THOMAS MOUNT",
+  "destinationCode": "STM",
+  "departureTime": "08:32:00",
+  "arrivalTime": "08:58:00",
+  "duration": "0h 26m",
+  "distance": "17 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,31 @@
+{
+  "number": "12261",
+  "name": "MUMBAI CST - HOWRAH AC Duronto Exp",
+  "type": "Drnt",
+  "source": "MUMBAI CST",
+  "sourceCode": "CSTM",
+  "destination": "HOWRAH JN",
+  "destinationCode": "HWH",
+  "departureTime": "17:15:00",
+  "arrivalTime": "19:40:00",
+  "duration": "26h 25m",
+  "distance": "1968 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "3A",
+    "2A",
+    "1A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

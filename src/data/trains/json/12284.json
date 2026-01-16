@@ -1,0 +1,32 @@
+{
+  "number": "12284",
+  "name": "DELHI H NIZAMUDDIN - ERNAKULAM Duronto Exp",
+  "type": "Drnt",
+  "source": "DELHI H NIZAMUDDIN",
+  "sourceCode": "NZM",
+  "destination": "ERNAKULAM JN",
+  "destinationCode": "ERS",
+  "departureTime": "21:35:00",
+  "arrivalTime": "15:30:00",
+  "duration": "41h 55m",
+  "distance": "2943 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

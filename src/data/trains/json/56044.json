@@ -1,0 +1,30 @@
+{
+  "number": "56044",
+  "name": "Thrissur Guruvayur Passenger",
+  "type": "Pass",
+  "source": "THRISUR",
+  "sourceCode": "TCR",
+  "destination": "GURUVAYUR",
+  "destinationCode": "GUV",
+  "departureTime": "18:55:00",
+  "arrivalTime": "19:30:00",
+  "duration": "0h 35m",
+  "distance": "23 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

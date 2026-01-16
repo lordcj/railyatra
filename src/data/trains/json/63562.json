@@ -1,0 +1,30 @@
+{
+  "number": "63562",
+  "name": "baidyanath dham asansol passenger",
+  "type": "MEMU",
+  "source": "Baidyanathdham Deoghar",
+  "sourceCode": "BDME",
+  "destination": "ASANSOL JN",
+  "destinationCode": "ASN",
+  "departureTime": "04:10:00",
+  "arrivalTime": "06:50:00",
+  "duration": "2h 40m",
+  "distance": "117 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,31 @@
+{
+  "number": "18204",
+  "name": "Betwa Express",
+  "type": "Exp",
+  "source": "KANPUR CENTRAL",
+  "sourceCode": "CNB",
+  "destination": "DURG",
+  "destinationCode": "DURG",
+  "departureTime": "18:20:00",
+  "arrivalTime": "13:10:00",
+  "duration": "18h 50m",
+  "distance": "885 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

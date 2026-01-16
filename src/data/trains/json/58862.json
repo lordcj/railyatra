@@ -1,0 +1,30 @@
+{
+  "number": "58862",
+  "name": "Mandla Fort Nainpur Passenger",
+  "type": "Pass",
+  "source": "Mandla Fort",
+  "sourceCode": "MFR",
+  "destination": "Nainpur Junction",
+  "destinationCode": "NIR",
+  "departureTime": "19:55:00",
+  "arrivalTime": "21:50:00",
+  "duration": "1h 55m",
+  "distance": "43 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

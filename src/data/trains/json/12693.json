@@ -1,0 +1,32 @@
+{
+  "number": "12693",
+  "name": "CHENNAI EGMORE - TUTICORIN Pearl City SF Exp",
+  "type": "SF",
+  "source": "CHENNAI EGMORE",
+  "sourceCode": "MS",
+  "destination": "TUTICORIN",
+  "destinationCode": "TN",
+  "departureTime": "19:35:00",
+  "arrivalTime": "07:30:00",
+  "duration": "11h 55m",
+  "distance": "656 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

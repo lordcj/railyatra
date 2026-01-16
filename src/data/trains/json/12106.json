@@ -1,0 +1,32 @@
+{
+  "number": "12106",
+  "name": "Vidarbha Express",
+  "type": "SF",
+  "source": "GONDIA JN",
+  "sourceCode": "G",
+  "destination": "MUMBAI CST",
+  "destinationCode": "CSTM",
+  "departureTime": "14:55:00",
+  "arrivalTime": "06:50:00",
+  "duration": "15h 55m",
+  "distance": "968 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

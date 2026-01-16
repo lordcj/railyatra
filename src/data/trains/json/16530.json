@@ -1,0 +1,32 @@
+{
+  "number": "16530",
+  "name": "Udyan Express",
+  "type": "Exp",
+  "source": "BANGALORE CITY JN",
+  "sourceCode": "SBC",
+  "destination": "MUMBAI CST",
+  "destinationCode": "CSTM",
+  "departureTime": "20:10:00",
+  "arrivalTime": "19:50:00",
+  "duration": "23h 40m",
+  "distance": "1153 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

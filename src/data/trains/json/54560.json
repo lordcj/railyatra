@@ -1,0 +1,30 @@
+{
+  "number": "54560",
+  "name": "Fazilka Bathinda (Via Abohar) Passenger",
+  "type": "Pass",
+  "source": "Fazilka",
+  "sourceCode": "FKA",
+  "destination": "BHATINDA JN",
+  "destinationCode": "BTI",
+  "departureTime": "12:45:00",
+  "arrivalTime": "16:05:00",
+  "duration": "3h 20m",
+  "distance": "105 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

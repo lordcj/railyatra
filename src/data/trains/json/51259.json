@@ -1,0 +1,30 @@
+{
+  "number": "51259",
+  "name": "Wardha Nagpur Passenger",
+  "type": "Pass",
+  "source": "WARDHA JN",
+  "sourceCode": "WR",
+  "destination": "NAGPUR",
+  "destinationCode": "NGP",
+  "departureTime": "18:08:00",
+  "arrivalTime": "20:15:00",
+  "duration": "2h 7m",
+  "distance": "78 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

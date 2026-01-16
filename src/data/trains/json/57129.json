@@ -1,0 +1,29 @@
+{
+  "number": "57129",
+  "name": "Bijapur-Bolarum Passenger",
+  "type": "Pass",
+  "source": "BIJAPUR",
+  "sourceCode": "BJP",
+  "destination": "BOLARUM",
+  "destinationCode": "BMO",
+  "departureTime": "18:20:00",
+  "arrivalTime": "08:45:00",
+  "duration": "14h 25m",
+  "distance": "456 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

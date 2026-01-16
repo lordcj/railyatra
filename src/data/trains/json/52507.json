@@ -1,0 +1,30 @@
+{
+  "number": "52507",
+  "name": "Raxaul-Narkatiaganj Passenger",
+  "type": "Pass",
+  "source": "RAXAUL JN",
+  "sourceCode": "RXL",
+  "destination": "NARKATIAGANJ JN",
+  "destinationCode": "NKE",
+  "departureTime": "07:30:00",
+  "arrivalTime": "09:20:00",
+  "duration": "1h 50m",
+  "distance": "40 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

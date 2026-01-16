@@ -1,0 +1,31 @@
+{
+  "number": "14309",
+  "name": "Ujjaini Express",
+  "type": "Exp",
+  "source": "UJJAIN JN",
+  "sourceCode": "UJN",
+  "destination": "DEHRADUN",
+  "destinationCode": "DDN",
+  "departureTime": "15:00:00",
+  "arrivalTime": "19:00:00",
+  "duration": "28h 0m",
+  "distance": "1241 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,32 @@
+{
+  "number": "12649",
+  "name": "Karnataka Sampark Kranti Express",
+  "type": "SKr",
+  "source": "YESVANTPUR JN",
+  "sourceCode": "YPR",
+  "destination": "DELHI H NIZAMUDDIN",
+  "destinationCode": "NZM",
+  "departureTime": "22:10:00",
+  "arrivalTime": "09:15:00",
+  "duration": "35h 5m",
+  "distance": "2277 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

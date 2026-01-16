@@ -1,0 +1,30 @@
+{
+  "number": "54243",
+  "name": "Mankapur Ayodhya Passenger",
+  "type": "Pass",
+  "source": "MANKAPUR JN",
+  "sourceCode": "MUR",
+  "destination": "AYODHYA",
+  "destinationCode": "AY",
+  "departureTime": "17:00:00",
+  "arrivalTime": "18:10:00",
+  "duration": "1h 10m",
+  "distance": "37 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,32 @@
+{
+  "number": "13153",
+  "name": "Sealdah-Malda Town Gour Express",
+  "type": "Exp",
+  "source": "KOLKATA SEALDAH",
+  "sourceCode": "SDAH",
+  "destination": "MALDA TOWN",
+  "destinationCode": "MLDT",
+  "departureTime": "22:15:00",
+  "arrivalTime": "06:15:00",
+  "duration": "8h 0m",
+  "distance": "347 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

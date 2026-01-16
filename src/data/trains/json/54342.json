@@ -1,0 +1,30 @@
+{
+  "number": "54342",
+  "name": "Dehradun Saharanpur Passenger",
+  "type": "Pass",
+  "source": "DEHRADUN",
+  "sourceCode": "DDN",
+  "destination": "SAHARANPUR",
+  "destinationCode": "SRE",
+  "departureTime": "08:15:00",
+  "arrivalTime": "13:10:00",
+  "duration": "4h 55m",
+  "distance": "132 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

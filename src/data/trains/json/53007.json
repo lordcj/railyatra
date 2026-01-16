@@ -1,0 +1,30 @@
+{
+  "number": "53007",
+  "name": "Katwa Rampurhat Passenger",
+  "type": "Pass",
+  "source": "KATWA",
+  "sourceCode": "KWAE",
+  "destination": "RAMPUR HAT",
+  "destinationCode": "RPH",
+  "departureTime": "08:55:00",
+  "arrivalTime": "13:55:00",
+  "duration": "5h 0m",
+  "distance": "134 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

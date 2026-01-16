@@ -1,0 +1,30 @@
+{
+  "number": "14607",
+  "name": "Amritsar Atari Samjhauta Express",
+  "type": "Exp",
+  "source": "AMRITSAR JN",
+  "sourceCode": "ASR",
+  "destination": "ATARI",
+  "destinationCode": "ATT",
+  "departureTime": "09:30:00",
+  "arrivalTime": "10:10:00",
+  "duration": "0h 40m",
+  "distance": "24 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

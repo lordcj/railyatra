@@ -1,0 +1,30 @@
+{
+  "number": "55538",
+  "name": "Samastipur-Katihar Passenger",
+  "type": "Pass",
+  "source": "SAMASTIPUR JN",
+  "sourceCode": "SPJ",
+  "destination": "KATIHAR JN",
+  "destinationCode": "KIR",
+  "departureTime": "12:45:00",
+  "arrivalTime": "19:50:00",
+  "duration": "7h 5m",
+  "distance": "230 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

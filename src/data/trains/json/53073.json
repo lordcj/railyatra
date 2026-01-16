@@ -1,0 +1,30 @@
+{
+  "number": "53073",
+  "name": "Rampurhat Sahibganj Passenger",
+  "type": "Pass",
+  "source": "RAMPUR HAT",
+  "sourceCode": "RPH",
+  "destination": "SAHIBGANJ JN",
+  "destinationCode": "SBG",
+  "departureTime": "20:45:00",
+  "arrivalTime": "00:22:00",
+  "duration": "3h 37m",
+  "distance": "133 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

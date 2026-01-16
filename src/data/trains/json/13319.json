@@ -1,0 +1,30 @@
+{
+  "number": "13319",
+  "name": "Baidyanthdham-Ranchi Express",
+  "type": "Exp",
+  "source": "Baidyanathdham Deoghar",
+  "sourceCode": "BDME",
+  "destination": "RANCHI",
+  "destinationCode": "RNC",
+  "departureTime": "05:00:00",
+  "arrivalTime": "12:40:00",
+  "duration": "7h 40m",
+  "distance": "328 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "15210",
+  "name": "AMRITSAR - SAHARSA Jan Seva Exp",
+  "type": "Exp",
+  "source": "AMRITSAR JN",
+  "sourceCode": "ASR",
+  "destination": "SAHARSA JN",
+  "destinationCode": "SHC",
+  "departureTime": "06:40:00",
+  "arrivalTime": "15:30:00",
+  "duration": "32h 50m",
+  "distance": "1533 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

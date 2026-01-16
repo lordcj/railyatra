@@ -1,0 +1,30 @@
+{
+  "number": "18209",
+  "name": "Dalli Rajhara Raipur Express",
+  "type": "Exp",
+  "source": "Dalli Rajhara",
+  "sourceCode": "DRZ",
+  "destination": "RAIPUR JN",
+  "destinationCode": "R",
+  "departureTime": "06:50:00",
+  "arrivalTime": "10:05:00",
+  "duration": "3h 15m",
+  "distance": "126 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

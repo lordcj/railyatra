@@ -1,0 +1,30 @@
+{
+  "number": "55515",
+  "name": "Samastipur-Jaynagar Passenger",
+  "type": "Pass",
+  "source": "SAMASTIPUR JN",
+  "sourceCode": "SPJ",
+  "destination": "JAYNAGAR",
+  "destinationCode": "JYG",
+  "departureTime": "14:25:00",
+  "arrivalTime": "19:40:00",
+  "duration": "5h 15m",
+  "distance": "109 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

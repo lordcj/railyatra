@@ -1,0 +1,32 @@
+{
+  "number": "12738",
+  "name": "Secunderabad - Kakinada Gowthami SF Express",
+  "type": "SF",
+  "source": "SECUNDERABAD JN",
+  "sourceCode": "SC",
+  "destination": "Kakinada Port",
+  "destinationCode": "COA",
+  "departureTime": "21:15:00",
+  "arrivalTime": "07:30:00",
+  "duration": "10h 15m",
+  "distance": "566 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

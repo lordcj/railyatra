@@ -1,0 +1,31 @@
+{
+  "number": "16327",
+  "name": "Korba Tiruvananthapuram Express",
+  "type": "Exp",
+  "source": "Korba",
+  "sourceCode": "KRBA",
+  "destination": "TRIVANDRUM CENTRAL",
+  "destinationCode": "TVC",
+  "departureTime": "19:50:00",
+  "arrivalTime": "17:50:00",
+  "duration": "46h 0m",
+  "distance": "2519 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

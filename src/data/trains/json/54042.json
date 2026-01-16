@@ -1,0 +1,30 @@
+{
+  "number": "54042",
+  "name": "Jind Kurukshetra Passenger",
+  "type": "Pass",
+  "source": "JIND JN",
+  "sourceCode": "JIND",
+  "destination": "KURUKSHETRA JN",
+  "destinationCode": "KKDE",
+  "departureTime": "13:10:00",
+  "arrivalTime": "16:15:00",
+  "duration": "3h 5m",
+  "distance": "126 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

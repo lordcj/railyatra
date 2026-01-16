@@ -1,0 +1,30 @@
+{
+  "number": "58110",
+  "name": "Gua Tatanagar Passenger",
+  "type": "Pass",
+  "source": "Gua",
+  "sourceCode": "GUA",
+  "destination": "TATANAGAR JN",
+  "destinationCode": "TATA",
+  "departureTime": "13:15:00",
+  "arrivalTime": "19:15:00",
+  "duration": "6h 0m",
+  "distance": "0 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

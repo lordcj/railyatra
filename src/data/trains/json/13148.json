@@ -1,0 +1,31 @@
+{
+  "number": "13148",
+  "name": "Uttar Banga Express",
+  "type": "Exp",
+  "source": "NEW COOCH BEHAR",
+  "sourceCode": "NCB",
+  "destination": "KOLKATA SEALDAH",
+  "destinationCode": "SDAH",
+  "departureTime": "15:15:00",
+  "arrivalTime": "05:10:00",
+  "duration": "13h 55m",
+  "distance": "693 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

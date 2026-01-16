@@ -1,0 +1,31 @@
+{
+  "number": "14311",
+  "name": "BAREILLY - BHUJ Ala Hazrat Exp",
+  "type": "Exp",
+  "source": "BAREILLY",
+  "sourceCode": "BE",
+  "destination": "BHUJ",
+  "destinationCode": "BHUJ",
+  "departureTime": "06:25:00",
+  "arrivalTime": "14:20:00",
+  "duration": "31h 55m",
+  "distance": "1543 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

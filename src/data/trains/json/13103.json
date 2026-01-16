@@ -1,0 +1,29 @@
+{
+  "number": "13103",
+  "name": "Bhagirathi Express",
+  "type": "Exp",
+  "source": "KOLKATA SEALDAH",
+  "sourceCode": "SDAH",
+  "destination": "Lalgola",
+  "destinationCode": "LGL",
+  "departureTime": "18:25:00",
+  "arrivalTime": "22:55:00",
+  "duration": "4h 30m",
+  "distance": "227 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

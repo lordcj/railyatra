@@ -1,0 +1,30 @@
+{
+  "number": "55611",
+  "name": "Fakiragram Kamakhya Passenger",
+  "type": "Pass",
+  "source": "FAKIRAGRAM JN",
+  "sourceCode": "FKM",
+  "destination": "KAMAKHYA",
+  "destinationCode": "KYQ",
+  "departureTime": "11:00:00",
+  "arrivalTime": "16:25:00",
+  "duration": "5h 25m",
+  "distance": "214 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

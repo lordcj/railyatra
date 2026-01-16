@@ -1,0 +1,30 @@
+{
+  "number": "52177",
+  "name": "Sabalgarh Sheopur Passenger",
+  "type": "Pass",
+  "source": "Sabalgarh",
+  "sourceCode": "SBL",
+  "destination": "Sheopur Kalan",
+  "destinationCode": "SOE",
+  "departureTime": "06:15:00",
+  "arrivalTime": "11:05:00",
+  "duration": "4h 50m",
+  "distance": "115 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

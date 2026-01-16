@@ -1,0 +1,29 @@
+{
+  "number": "58840",
+  "name": "Jabalpur Nir Nagpur Passenger",
+  "type": "Pass",
+  "source": "JABALPUR",
+  "sourceCode": "JBP",
+  "destination": "NAGPUR",
+  "destinationCode": "NGP",
+  "departureTime": "20:30:00",
+  "arrivalTime": "15:30:00",
+  "duration": "19h 0m",
+  "distance": "398 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

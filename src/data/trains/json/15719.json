@@ -1,0 +1,30 @@
+{
+  "number": "15719",
+  "name": "Katihar sguj InterCity Express",
+  "type": "Exp",
+  "source": "KATIHAR JN",
+  "sourceCode": "KIR",
+  "destination": "SILIGURI JN",
+  "destinationCode": "SGUJ",
+  "departureTime": "06:05:00",
+  "arrivalTime": "10:15:00",
+  "duration": "4h 10m",
+  "distance": "190 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

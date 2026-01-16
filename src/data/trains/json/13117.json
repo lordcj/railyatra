@@ -1,0 +1,29 @@
+{
+  "number": "13117",
+  "name": "Kolkata Berhampore Court Express",
+  "type": "Exp",
+  "source": "KOLKATA CHITPUR",
+  "sourceCode": "KOAA",
+  "destination": "Berhampore Court",
+  "destinationCode": "BPC",
+  "departureTime": "20:30:00",
+  "arrivalTime": "00:20:00",
+  "duration": "3h 50m",
+  "distance": "182 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

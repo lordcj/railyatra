@@ -1,0 +1,30 @@
+{
+  "number": "51158",
+  "name": "Itarsi Bhusaval Passenger",
+  "type": "Pass",
+  "source": "ITARSI JN",
+  "sourceCode": "ET",
+  "destination": "BHUSAVAL JN",
+  "destinationCode": "BSL",
+  "departureTime": "19:20:00",
+  "arrivalTime": "08:35:00",
+  "duration": "13h 15m",
+  "distance": "322 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

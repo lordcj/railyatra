@@ -1,0 +1,30 @@
+{
+  "number": "58873",
+  "name": "Balaghat Nainpur Passenger",
+  "type": "Pass",
+  "source": "Balaghat Junction",
+  "sourceCode": "BTC",
+  "destination": "Nainpur Junction",
+  "destinationCode": "NIR",
+  "departureTime": "17:55:00",
+  "arrivalTime": "21:15:00",
+  "duration": "3h 20m",
+  "distance": "74 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

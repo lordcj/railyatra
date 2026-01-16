@@ -1,0 +1,31 @@
+{
+  "number": "16345",
+  "name": "MUMBAI LTT - TRIVANDRUM Netravati Exp",
+  "type": "Exp",
+  "source": "LOKMANYA TILAK TERM",
+  "sourceCode": "LTT",
+  "destination": "TRIVANDRUM CENTRAL",
+  "destinationCode": "TVC",
+  "departureTime": "11:40:00",
+  "arrivalTime": "18:40:00",
+  "duration": "31h 0m",
+  "distance": "1804 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

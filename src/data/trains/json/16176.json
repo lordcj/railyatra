@@ -1,0 +1,32 @@
+{
+  "number": "16176",
+  "name": "Kamban Express",
+  "type": "Exp",
+  "source": "Nagore",
+  "sourceCode": "NCR",
+  "destination": "CHENNAI EGMORE",
+  "destinationCode": "MS",
+  "departureTime": "20:05:00",
+  "arrivalTime": "05:25:00",
+  "duration": "9h 20m",
+  "distance": "436 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,29 @@
+{
+  "number": "18617",
+  "name": "Howrah-Ranchi Intercity",
+  "type": "Exp",
+  "source": "HOWRAH JN",
+  "sourceCode": "HWH",
+  "destination": "RANCHI",
+  "destinationCode": "RNC",
+  "departureTime": "15:05:00",
+  "arrivalTime": "23:00:00",
+  "duration": "7h 55m",
+  "distance": "462 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,29 @@
+{
+  "number": "12348",
+  "name": "Rampur Hat-Howrah SF Express",
+  "type": "SF",
+  "source": "RAMPUR HAT",
+  "sourceCode": "RPH",
+  "destination": "HOWRAH JN",
+  "destinationCode": "HWH",
+  "departureTime": "16:35:00",
+  "arrivalTime": "20:15:00",
+  "duration": "3h 40m",
+  "distance": "207 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

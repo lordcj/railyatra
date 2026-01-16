@@ -1,0 +1,31 @@
+{
+  "number": "12475",
+  "name": "Hapa - Jammu Tawi Sarvodaya SF Express",
+  "type": "SF",
+  "source": "HAPA",
+  "sourceCode": "HAPA",
+  "destination": "JAMMU TAWI",
+  "destinationCode": "JAT",
+  "departureTime": "05:20:00",
+  "arrivalTime": "14:45:00",
+  "duration": "33h 25m",
+  "distance": "1992 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

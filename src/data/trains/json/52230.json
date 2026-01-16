@@ -1,0 +1,30 @@
+{
+  "number": "52230",
+  "name": "Tanakpur Shahjahanpur Passenger",
+  "type": "Pass",
+  "source": "Tanakpur",
+  "sourceCode": "TPU",
+  "destination": "Shahjahanpur",
+  "destinationCode": "SZP",
+  "departureTime": "10:20:00",
+  "arrivalTime": "16:40:00",
+  "duration": "6h 20m",
+  "distance": "145 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

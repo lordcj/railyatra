@@ -1,0 +1,29 @@
+{
+  "number": "56101",
+  "name": "METUR DAM - ERODE PASSENGER",
+  "type": "Express",
+  "source": "METUR DAM",
+  "sourceCode": "MTDM",
+  "destination": "ERODE JN",
+  "destinationCode": "ED",
+  "departureTime": "None",
+  "arrivalTime": "None",
+  "duration": "0h 0m",
+  "distance": "0 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "IR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

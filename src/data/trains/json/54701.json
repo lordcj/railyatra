@@ -1,0 +1,29 @@
+{
+  "number": "54701",
+  "name": "Bhatinda Lalgarh Passenger",
+  "type": "Pass",
+  "source": "BHATINDA JN",
+  "sourceCode": "BTI",
+  "destination": "LALGARH JN",
+  "destinationCode": "LGH",
+  "departureTime": "10:50:00",
+  "arrivalTime": "18:45:00",
+  "duration": "7h 55m",
+  "distance": "321 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

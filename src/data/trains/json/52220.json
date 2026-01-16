@@ -1,0 +1,30 @@
+{
+  "number": "52220",
+  "name": "Tanakpur Pilibhit Passenger",
+  "type": "Pass",
+  "source": "Tanakpur",
+  "sourceCode": "TPU",
+  "destination": "PILIBHIT JN",
+  "destinationCode": "PBE",
+  "departureTime": "12:40:00",
+  "arrivalTime": "14:40:00",
+  "duration": "2h 0m",
+  "distance": "61 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

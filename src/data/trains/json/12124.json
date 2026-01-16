@@ -1,0 +1,29 @@
+{
+  "number": "12124",
+  "name": "Deccan Queen SF Express",
+  "type": "SF",
+  "source": "PUNE JN",
+  "sourceCode": "PUNE",
+  "destination": "MUMBAI CST",
+  "destinationCode": "CSTM",
+  "departureTime": "07:15:00",
+  "arrivalTime": "10:25:00",
+  "duration": "3h 10m",
+  "distance": "192 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

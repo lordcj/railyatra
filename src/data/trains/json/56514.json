@@ -1,0 +1,30 @@
+{
+  "number": "56514",
+  "name": "Bangalore Salem Passenger",
+  "type": "Pass",
+  "source": "BANGALORE CITY JN",
+  "sourceCode": "SBC",
+  "destination": "SALEM JN",
+  "destinationCode": "SA",
+  "departureTime": "07:15:00",
+  "arrivalTime": "12:50:00",
+  "duration": "5h 35m",
+  "distance": "218 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

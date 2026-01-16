@@ -1,0 +1,31 @@
+{
+  "number": "12801",
+  "name": "Purushottam SF Express",
+  "type": "SF",
+  "source": "PURI",
+  "sourceCode": "PURI",
+  "destination": "NEW DELHI",
+  "destinationCode": "NDLS",
+  "departureTime": "21:50:00",
+  "arrivalTime": "04:50:00",
+  "duration": "31h 0m",
+  "distance": "1863 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

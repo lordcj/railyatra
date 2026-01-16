@@ -1,0 +1,30 @@
+{
+  "number": "06596",
+  "name": "Devanahalli-Yesvantpur Special",
+  "type": "Pass",
+  "source": "Devanhalli",
+  "sourceCode": "DHL",
+  "destination": "YESVANTPUR JN",
+  "destinationCode": "YPR",
+  "departureTime": "13:15:00",
+  "arrivalTime": "14:25:00",
+  "duration": "1h 10m",
+  "distance": "36 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

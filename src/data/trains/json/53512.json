@@ -1,0 +1,30 @@
+{
+  "number": "53512",
+  "name": "GIRIDIH MADHUPUR PASS",
+  "type": "Pass",
+  "source": "Giridih",
+  "sourceCode": "GRD",
+  "destination": "MADHUPUR JN",
+  "destinationCode": "MDP",
+  "departureTime": "04:50:00",
+  "arrivalTime": "05:45:00",
+  "duration": "0h 55m",
+  "distance": "38 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "12407",
+  "name": "NEW JALPAIGURI - AMRITSAR Karmabhoomi Exp",
+  "type": "SF",
+  "source": "NEW JALPAIGURI",
+  "sourceCode": "NJP",
+  "destination": "AMRITSAR JN",
+  "destinationCode": "ASR",
+  "departureTime": "08:15:00",
+  "arrivalTime": "17:25:00",
+  "duration": "33h 10m",
+  "distance": "1823 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

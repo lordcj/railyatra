@@ -1,0 +1,30 @@
+{
+  "number": "13345",
+  "name": "Varanasi-Singrauli Intercity",
+  "type": "Exp",
+  "source": "VARANASI JN",
+  "sourceCode": "BSB",
+  "destination": "SINGRAULI",
+  "destinationCode": "SGRL",
+  "departureTime": "15:10:00",
+  "arrivalTime": "21:05:00",
+  "duration": "5h 55m",
+  "distance": "209 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

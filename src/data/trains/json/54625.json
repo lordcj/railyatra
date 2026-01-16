@@ -1,0 +1,30 @@
+{
+  "number": "54625",
+  "name": "Jaijon Doaba Jalandhar Passenger",
+  "type": "Pass",
+  "source": "Jaijon Doaba",
+  "sourceCode": "JJJ",
+  "destination": "JALANDHAR CITY",
+  "destinationCode": "JUC",
+  "departureTime": "05:00:00",
+  "arrivalTime": "08:10:00",
+  "duration": "3h 10m",
+  "distance": "104 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

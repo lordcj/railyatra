@@ -1,0 +1,31 @@
+{
+  "number": "19270",
+  "name": "Muzaffarpur-Porbandar Express",
+  "type": "Exp",
+  "source": "MUZAFFARPUR JN",
+  "sourceCode": "MFP",
+  "destination": "PORBANDAR",
+  "destinationCode": "PBR",
+  "departureTime": "15:00:00",
+  "arrivalTime": "17:25:00",
+  "duration": "50h 25m",
+  "distance": "2470 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

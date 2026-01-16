@@ -1,0 +1,30 @@
+{
+  "number": "52295",
+  "name": "Bareilly Lal Kuan Passenger",
+  "type": "Pass",
+  "source": "Thawe Junction",
+  "sourceCode": "THE",
+  "destination": "CHHAPRA",
+  "destinationCode": "CPR",
+  "departureTime": "17:10:00",
+  "arrivalTime": "21:25:00",
+  "duration": "4h 15m",
+  "distance": "105 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

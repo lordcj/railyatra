@@ -1,0 +1,29 @@
+{
+  "number": "13420",
+  "name": "Jan Sewa Express",
+  "type": "Exp",
+  "source": "MUZAFFARPUR JN",
+  "sourceCode": "MFP",
+  "destination": "BHAGALPUR",
+  "destinationCode": "BGP",
+  "departureTime": "23:05:00",
+  "arrivalTime": "05:55:00",
+  "duration": "6h 50m",
+  "distance": "240 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

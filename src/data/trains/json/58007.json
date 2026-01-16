@@ -1,0 +1,30 @@
+{
+  "number": "58007",
+  "name": "Kharagpur Balasore Bhadrakh Passenger",
+  "type": "Pass",
+  "source": "KHARAGPUR JN",
+  "sourceCode": "KGP",
+  "destination": "BHADRAKH",
+  "destinationCode": "BHC",
+  "departureTime": "06:35:00",
+  "arrivalTime": "11:00:00",
+  "duration": "4h 25m",
+  "distance": "179 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

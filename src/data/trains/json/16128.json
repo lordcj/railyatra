@@ -1,0 +1,31 @@
+{
+  "number": "16128",
+  "name": "GURUVAYUR - CHENNAI EGMORE Exp",
+  "type": "Exp",
+  "source": "GURUVAYUR",
+  "sourceCode": "GUV",
+  "destination": "CHENNAI EGMORE",
+  "destinationCode": "MS",
+  "departureTime": "20:50:00",
+  "arrivalTime": "21:15:00",
+  "duration": "24h 25m",
+  "distance": "1100 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

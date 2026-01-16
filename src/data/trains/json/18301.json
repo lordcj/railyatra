@@ -1,0 +1,29 @@
+{
+  "number": "18301",
+  "name": "Rayagada Express",
+  "type": "Exp",
+  "source": "SAMBALPUR",
+  "sourceCode": "SBP",
+  "destination": "RAYAGADA",
+  "destinationCode": "RGDA",
+  "departureTime": "06:30:00",
+  "arrivalTime": "13:20:00",
+  "duration": "6h 50m",
+  "distance": "322 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "55162",
+  "name": "Jaunpur- Aunrihar Passenger",
+  "type": "Pass",
+  "source": "JAUNPUR JN",
+  "sourceCode": "JNU",
+  "destination": "AUNRIHAR JN",
+  "destinationCode": "ARJ",
+  "departureTime": "09:45:00",
+  "arrivalTime": "11:45:00",
+  "duration": "2h 0m",
+  "distance": "58 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

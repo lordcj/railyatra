@@ -1,0 +1,32 @@
+{
+  "number": "18233",
+  "name": "INDORE - BILASPUR Narmada Exp",
+  "type": "Exp",
+  "source": "INDORE JN BG",
+  "sourceCode": "INDB",
+  "destination": "BILASPUR JN",
+  "destinationCode": "BSP",
+  "departureTime": "16:50:00",
+  "arrivalTime": "17:25:00",
+  "duration": "24h 35m",
+  "distance": "1010 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

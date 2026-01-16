@@ -1,0 +1,30 @@
+{
+  "number": "63224",
+  "name": "Ara Patna MEMU",
+  "type": "MEMU",
+  "source": "ARA",
+  "sourceCode": "ARA",
+  "destination": "PATNA JN",
+  "destinationCode": "PNBE",
+  "departureTime": "03:30:00",
+  "arrivalTime": "05:10:00",
+  "duration": "1h 40m",
+  "distance": "49 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

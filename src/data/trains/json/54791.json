@@ -1,0 +1,30 @@
+{
+  "number": "54791",
+  "name": "Mathura Alwar Bhiwani Passenger",
+  "type": "Pass",
+  "source": "MATHURA JN",
+  "sourceCode": "MTJ",
+  "destination": "Bhiwani",
+  "destinationCode": "BNW",
+  "departureTime": "13:15:00",
+  "arrivalTime": "21:00:00",
+  "duration": "7h 45m",
+  "distance": "280 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

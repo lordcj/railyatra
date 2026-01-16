@@ -1,0 +1,31 @@
+{
+  "number": "19321",
+  "name": "Indore-Rajendranagar Express",
+  "type": "Exp",
+  "source": "INDORE JN BG",
+  "sourceCode": "INDB",
+  "destination": "RAJENDRA NAGAR BIHAR",
+  "destinationCode": "RJPB",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:55:00",
+  "duration": "26h 55m",
+  "distance": "1400 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

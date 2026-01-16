@@ -1,0 +1,29 @@
+{
+  "number": "56213",
+  "name": "CHAMARAJANAGAR - TIRUPATI Fast Passenger",
+  "type": "Pass",
+  "source": "CHAMARAJANAGAR",
+  "sourceCode": "CMNR",
+  "destination": "TIRUPATI MAIN",
+  "destinationCode": "TPTY",
+  "departureTime": "15:00:00",
+  "arrivalTime": "05:35:00",
+  "duration": "14h 35m",
+  "distance": "535 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "53362",
+  "name": "Varanasi-Barkakana Passenger",
+  "type": "Pass",
+  "source": "VARANASI JN",
+  "sourceCode": "BSB",
+  "destination": "BARKAKANA",
+  "destinationCode": "BRKA",
+  "departureTime": "07:00:00",
+  "arrivalTime": "20:00:00",
+  "duration": "13h 0m",
+  "distance": "456 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

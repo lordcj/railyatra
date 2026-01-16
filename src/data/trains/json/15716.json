@@ -1,0 +1,30 @@
+{
+  "number": "15716",
+  "name": "Garib Nawaz Express Slip",
+  "type": "Exp",
+  "source": "AJMER JN",
+  "sourceCode": "AII",
+  "destination": "KISHANGANJ",
+  "destinationCode": "KNE",
+  "departureTime": "11:20:00",
+  "arrivalTime": "03:30:00",
+  "duration": "40h 10m",
+  "distance": "1816 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

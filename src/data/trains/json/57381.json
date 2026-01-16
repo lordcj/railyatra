@@ -1,0 +1,30 @@
+{
+  "number": "57381",
+  "name": "Guntur Narasapur Fast Passenger",
+  "type": "Pass",
+  "source": "GUNTUR JN",
+  "sourceCode": "GNT",
+  "destination": "Narasapur",
+  "destinationCode": "NS",
+  "departureTime": "16:35:00",
+  "arrivalTime": "22:40:00",
+  "duration": "6h 5m",
+  "distance": "168 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

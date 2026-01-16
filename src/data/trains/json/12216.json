@@ -1,0 +1,29 @@
+{
+  "number": "12216",
+  "name": "Mumbai Bandra T. - Delhi Sarai Rohilla Garib Rath",
+  "type": "GR",
+  "source": "MUMBAI BANDRA TERMINUS",
+  "sourceCode": "BDTS",
+  "destination": "DELHI SARAI ROHILLA",
+  "destinationCode": "DEE",
+  "departureTime": "12:55:00",
+  "arrivalTime": "12:20:00",
+  "duration": "23h 25m",
+  "distance": "1431 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

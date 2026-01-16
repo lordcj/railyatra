@@ -1,0 +1,30 @@
+{
+  "number": "55044",
+  "name": "Nautanwa Gorakhpur Passenger",
+  "type": "Pass",
+  "source": "Nautanwa",
+  "sourceCode": "NTV",
+  "destination": "GORAKHPUR JN",
+  "destinationCode": "GKP",
+  "departureTime": "06:15:00",
+  "arrivalTime": "09:15:00",
+  "duration": "3h 0m",
+  "distance": "82 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

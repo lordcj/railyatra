@@ -1,0 +1,29 @@
+{
+  "number": "57130",
+  "name": "Hyderabad Bijapur Passenger",
+  "type": "Pass",
+  "source": "HYDERABAD DECCAN",
+  "sourceCode": "HYB",
+  "destination": "BIJAPUR",
+  "destinationCode": "BJP",
+  "departureTime": "19:50:00",
+  "arrivalTime": "10:40:00",
+  "duration": "14h 50m",
+  "distance": "444 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

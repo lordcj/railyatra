@@ -1,0 +1,29 @@
+{
+  "number": "19109",
+  "name": "Gujarat Queen Express",
+  "type": "Exp",
+  "source": "VALSAD",
+  "sourceCode": "BL",
+  "destination": "AHMEDABAD JN",
+  "destinationCode": "ADI",
+  "departureTime": "04:05:00",
+  "arrivalTime": "10:15:00",
+  "duration": "6h 10m",
+  "distance": "298 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

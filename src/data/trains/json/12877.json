@@ -1,0 +1,29 @@
+{
+  "number": "12877",
+  "name": "Ranchi-New Delhi Garib Rath",
+  "type": "GR",
+  "source": "RANCHI",
+  "sourceCode": "RNC",
+  "destination": "NEW DELHI",
+  "destinationCode": "NDLS",
+  "departureTime": "17:10:00",
+  "arrivalTime": "10:50:00",
+  "duration": "17h 40m",
+  "distance": "1341 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "3A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

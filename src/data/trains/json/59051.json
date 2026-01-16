@@ -1,0 +1,30 @@
+{
+  "number": "59051",
+  "name": "Surat Nandurbar Passenger",
+  "type": "Pass",
+  "source": "SURAT",
+  "sourceCode": "ST",
+  "destination": "NANDURBAR",
+  "destinationCode": "NDB",
+  "departureTime": "18:30:00",
+  "arrivalTime": "23:35:00",
+  "duration": "5h 5m",
+  "distance": "185 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

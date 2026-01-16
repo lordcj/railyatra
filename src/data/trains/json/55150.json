@@ -1,0 +1,30 @@
+{
+  "number": "55150",
+  "name": "Manduadih-Gorakhpur Passenger",
+  "type": "Pass",
+  "source": "MANDUADIH",
+  "sourceCode": "MUV",
+  "destination": "GORAKHPUR JN",
+  "destinationCode": "GKP",
+  "departureTime": "22:50:00",
+  "arrivalTime": "07:15:00",
+  "duration": "8h 25m",
+  "distance": "235 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

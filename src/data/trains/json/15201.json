@@ -1,0 +1,30 @@
+{
+  "number": "15201",
+  "name": "Hajipur Raxaul InterCity",
+  "type": "Exp",
+  "source": "HAJIPUR JN",
+  "sourceCode": "HJP",
+  "destination": "RAXAUL JN",
+  "destinationCode": "RXL",
+  "departureTime": "17:20:00",
+  "arrivalTime": "22:55:00",
+  "duration": "5h 35m",
+  "distance": "184 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

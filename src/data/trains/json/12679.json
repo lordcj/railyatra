@@ -1,0 +1,29 @@
+{
+  "number": "12679",
+  "name": "ChennaiCentral-Coimbatore InterCity",
+  "type": "SF",
+  "source": "CHENNAI CENTRAL",
+  "sourceCode": "MAS",
+  "destination": "COIMBATORE JN",
+  "destinationCode": "CBE",
+  "departureTime": "14:30:00",
+  "arrivalTime": "22:15:00",
+  "duration": "7h 45m",
+  "distance": "497 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

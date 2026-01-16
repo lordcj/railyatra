@@ -1,0 +1,30 @@
+{
+  "number": "43554",
+  "name": "Tiruttani Arakkonam EMU",
+  "type": "MEMU",
+  "source": "TIRUTTANI",
+  "sourceCode": "TRT",
+  "destination": "ARAKKONAM",
+  "destinationCode": "AJJ",
+  "departureTime": "21:00:00",
+  "arrivalTime": "21:20:00",
+  "duration": "0h 20m",
+  "distance": "14 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

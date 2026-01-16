@@ -1,0 +1,29 @@
+{
+  "number": "06621",
+  "name": "Coimbatore-Yesvantpur SF Special",
+  "type": "SF",
+  "source": "COIMBATORE JN",
+  "sourceCode": "CBE",
+  "destination": "YESVANTPUR JN",
+  "destinationCode": "YPR",
+  "departureTime": "06:00:00",
+  "arrivalTime": "13:20:00",
+  "duration": "7h 20m",
+  "distance": "440 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

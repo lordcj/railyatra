@@ -1,0 +1,30 @@
+{
+  "number": "12350",
+  "name": "NewDelhi-Bhagalpur Weekly SF Express",
+  "type": "SF",
+  "source": "NEW DELHI",
+  "sourceCode": "NDLS",
+  "destination": "BHAGALPUR",
+  "destinationCode": "BGP",
+  "departureTime": "23:45:00",
+  "arrivalTime": "20:00:00",
+  "duration": "20h 15m",
+  "distance": "1220 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

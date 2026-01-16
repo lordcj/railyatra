@@ -1,0 +1,31 @@
+{
+  "number": "16340",
+  "name": "NAGERCOIL - MUMBAI CST Exp",
+  "type": "Exp",
+  "source": "NAGERCOIL JN",
+  "sourceCode": "NCJ",
+  "destination": "MUMBAI CST",
+  "destinationCode": "CSTM",
+  "departureTime": "06:55:00",
+  "arrivalTime": "20:50:00",
+  "duration": "37h 55m",
+  "distance": "1882 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

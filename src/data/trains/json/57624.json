@@ -1,0 +1,30 @@
+{
+  "number": "57624",
+  "name": "Guntur Kacheguda Pass",
+  "type": "Pass",
+  "source": "GUNTUR JN",
+  "sourceCode": "GNT",
+  "destination": "KACHEGUDA",
+  "destinationCode": "KCG",
+  "departureTime": "05:15:00",
+  "arrivalTime": "22:20:00",
+  "duration": "17h 5m",
+  "distance": "623 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

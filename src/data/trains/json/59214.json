@@ -1,0 +1,30 @@
+{
+  "number": "59214",
+  "name": "Porbandar Bhanvad Passenger",
+  "type": "Pass",
+  "source": "PORBANDAR",
+  "sourceCode": "PBR",
+  "destination": "BHANVAD",
+  "destinationCode": "BNVD",
+  "departureTime": "05:10:00",
+  "arrivalTime": "06:40:00",
+  "duration": "1h 30m",
+  "distance": "52 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

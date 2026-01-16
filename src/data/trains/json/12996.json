@@ -1,0 +1,31 @@
+{
+  "number": "12996",
+  "name": "Udaipur Bandra SF Express Slip",
+  "type": "SF",
+  "source": "UDAIPUR CITY",
+  "sourceCode": "UDZ",
+  "destination": "MUMBAI BANDRA TERMINUS",
+  "destinationCode": "BDTS",
+  "departureTime": "21:35:00",
+  "arrivalTime": "14:30:00",
+  "duration": "16h 55m",
+  "distance": "945 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

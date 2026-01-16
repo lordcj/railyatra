@@ -1,0 +1,30 @@
+{
+  "number": "58856",
+  "name": "Nainpur Chhindwara Passenger",
+  "type": "Pass",
+  "source": "Nainpur Junction",
+  "sourceCode": "NIR",
+  "destination": "Chhindwara Junction",
+  "destinationCode": "CWA",
+  "departureTime": "22:00:00",
+  "arrivalTime": "03:30:00",
+  "duration": "5h 30m",
+  "distance": "141 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

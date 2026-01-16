@@ -1,0 +1,30 @@
+{
+  "number": "54419",
+  "name": "Delhi Sarai Rohilla Rewari Passenger",
+  "type": "Pass",
+  "source": "OLD DELHI",
+  "sourceCode": "DLI",
+  "destination": "REWARI",
+  "destinationCode": "RE",
+  "departureTime": "20:05:00",
+  "arrivalTime": "22:40:00",
+  "duration": "2h 35m",
+  "distance": "82 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

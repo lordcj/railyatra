@@ -1,0 +1,30 @@
+{
+  "number": "54022",
+  "name": "Tilak Bridge Delhi Bulandshahr Passenger",
+  "type": "Pass",
+  "source": "TILAK BRIDGE",
+  "sourceCode": "TKJ",
+  "destination": "Bulandshahr",
+  "destinationCode": "BSC",
+  "departureTime": "18:08:00",
+  "arrivalTime": "21:45:00",
+  "duration": "3h 37m",
+  "distance": "124 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

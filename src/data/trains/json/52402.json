@@ -1,0 +1,30 @@
+{
+  "number": "52402",
+  "name": "Sardarshahar Ratangarh Passenger",
+  "type": "Pass",
+  "source": "Sardarshahr",
+  "sourceCode": "SRDR",
+  "destination": "Ratangarh Junction",
+  "destinationCode": "RTGH",
+  "departureTime": "09:05:00",
+  "arrivalTime": "10:35:00",
+  "duration": "1h 30m",
+  "distance": "46 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

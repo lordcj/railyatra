@@ -1,0 +1,30 @@
+{
+  "number": "53426",
+  "name": "KIUL JAMALPUR PASS",
+  "type": "Pass",
+  "source": "KIUL JN",
+  "sourceCode": "KIUL",
+  "destination": "JAMALPUR JN",
+  "destinationCode": "JMP",
+  "departureTime": "22:05:00",
+  "arrivalTime": "23:15:00",
+  "duration": "1h 10m",
+  "distance": "54 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

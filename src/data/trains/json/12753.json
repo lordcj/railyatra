@@ -1,0 +1,31 @@
+{
+  "number": "12753",
+  "name": "Chennai-NewJalpaiguri SF Express",
+  "type": "SF",
+  "source": "CHENNAI CENTRAL",
+  "sourceCode": "MAS",
+  "destination": "NEW JALPAIGURI",
+  "destinationCode": "NJP",
+  "departureTime": "11:00:00",
+  "arrivalTime": "03:45:00",
+  "duration": "40h 45m",
+  "distance": "2257 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

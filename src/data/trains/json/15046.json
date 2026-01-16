@@ -1,0 +1,31 @@
+{
+  "number": "15046",
+  "name": "Okha-Gorakhpur Express",
+  "type": "Exp",
+  "source": "OKHA",
+  "sourceCode": "OKHA",
+  "destination": "GORAKHPUR JN",
+  "destinationCode": "GKP",
+  "departureTime": "18:55:00",
+  "arrivalTime": "20:20:00",
+  "duration": "49h 25m",
+  "distance": "2306 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

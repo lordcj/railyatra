@@ -1,0 +1,29 @@
+{
+  "number": "57652",
+  "name": "Repalle Secunderabad Passenger",
+  "type": "Pass",
+  "source": "Repalle",
+  "sourceCode": "RAL",
+  "destination": "SECUNDERABAD JN",
+  "destinationCode": "SC",
+  "departureTime": "07:00:00",
+  "arrivalTime": "17:10:00",
+  "duration": "10h 10m",
+  "distance": "341 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

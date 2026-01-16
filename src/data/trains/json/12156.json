@@ -1,0 +1,32 @@
+{
+  "number": "12156",
+  "name": "Shaan E Bhopal SF Express",
+  "type": "SF",
+  "source": "DELHI H NIZAMUDDIN",
+  "sourceCode": "NZM",
+  "destination": "HABIBGANJ",
+  "destinationCode": "HBJ",
+  "departureTime": "21:00:00",
+  "arrivalTime": "07:05:00",
+  "duration": "10h 5m",
+  "distance": "700 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WCR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

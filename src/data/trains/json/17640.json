@@ -1,0 +1,29 @@
+{
+  "number": "17640",
+  "name": "AKOLA - KACHEGUDA Intercity Exp",
+  "type": "Exp",
+  "source": "AKOLA JN",
+  "sourceCode": "AK",
+  "destination": "KACHEGUDA",
+  "destinationCode": "KCG",
+  "departureTime": "09:30:00",
+  "arrivalTime": "20:15:00",
+  "duration": "10h 45m",
+  "distance": "514 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

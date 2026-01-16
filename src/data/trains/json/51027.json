@@ -1,0 +1,29 @@
+{
+  "number": "51027",
+  "name": "MumbaiCST-Pandharpur Fast Passenger",
+  "type": "Pass",
+  "source": "MUMBAI CST",
+  "sourceCode": "CSTM",
+  "destination": "PANDHARPUR",
+  "destinationCode": "PVR",
+  "departureTime": "22:55:00",
+  "arrivalTime": "09:40:00",
+  "duration": "10h 45m",
+  "distance": "429 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

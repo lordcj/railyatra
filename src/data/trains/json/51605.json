@@ -1,0 +1,30 @@
+{
+  "number": "51605",
+  "name": "Katni Chirmiri Passenger",
+  "type": "Pass",
+  "source": "KATNI",
+  "sourceCode": "KTE",
+  "destination": "Chirmiri",
+  "destinationCode": "CHRM",
+  "departureTime": "16:30:00",
+  "arrivalTime": "00:31:00",
+  "duration": "8h 1m",
+  "distance": "254 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

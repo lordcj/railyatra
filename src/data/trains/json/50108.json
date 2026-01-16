@@ -1,0 +1,30 @@
+{
+  "number": "50108",
+  "name": "Madgaon Sawantwadi Passenger",
+  "type": "Pass",
+  "source": "MADGAON",
+  "sourceCode": "MAO",
+  "destination": "SAWANTWADI ROAD",
+  "destinationCode": "SWV",
+  "departureTime": "06:15:00",
+  "arrivalTime": "08:20:00",
+  "duration": "2h 5m",
+  "distance": "110 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "KR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

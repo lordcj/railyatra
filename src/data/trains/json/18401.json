@@ -1,0 +1,31 @@
+{
+  "number": "18401",
+  "name": "Puri - Okha (Weekly) Express",
+  "type": "Exp",
+  "source": "PURI",
+  "sourceCode": "PURI",
+  "destination": "OKHA",
+  "destinationCode": "OKHA",
+  "departureTime": "08:45:00",
+  "arrivalTime": "15:15:00",
+  "duration": "54h 30m",
+  "distance": "2779 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

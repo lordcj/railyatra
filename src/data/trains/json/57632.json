@@ -1,0 +1,30 @@
+{
+  "number": "57632",
+  "name": "Guntakal Gulbarga Passenger",
+  "type": "Pass",
+  "source": "GUNTAKAL JN",
+  "sourceCode": "GTL",
+  "destination": "GULBARGA",
+  "destinationCode": "GR",
+  "departureTime": "14:00:00",
+  "arrivalTime": "20:50:00",
+  "duration": "6h 50m",
+  "distance": "266 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

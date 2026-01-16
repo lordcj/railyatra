@@ -1,0 +1,29 @@
+{
+  "number": "12067",
+  "name": "Guwahati Jorhat Jan Shatabdi",
+  "type": "JShtb",
+  "source": "GUWAHATI",
+  "sourceCode": "GHY",
+  "destination": "Jorhat Town",
+  "destinationCode": "JTTN",
+  "departureTime": "06:30:00",
+  "arrivalTime": "13:10:00",
+  "duration": "6h 40m",
+  "distance": "376 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

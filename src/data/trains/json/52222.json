@@ -1,0 +1,30 @@
+{
+  "number": "52222",
+  "name": "Mailani Pilibhit Passenger",
+  "type": "Pass",
+  "source": "MAILANI",
+  "sourceCode": "MLN",
+  "destination": "PILIBHIT JN",
+  "destinationCode": "PBE",
+  "departureTime": "04:50:00",
+  "arrivalTime": "06:45:00",
+  "duration": "1h 55m",
+  "distance": "67 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "19735",
+  "name": "Intercity Express",
+  "type": "Exp",
+  "source": "JAIPUR",
+  "sourceCode": "JP",
+  "destination": "Loharu",
+  "destinationCode": "LHU",
+  "departureTime": "13:30:00",
+  "arrivalTime": "19:40:00",
+  "duration": "6h 10m",
+  "distance": "229 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

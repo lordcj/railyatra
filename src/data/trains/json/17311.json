@@ -1,0 +1,31 @@
+{
+  "number": "17311",
+  "name": "CHENNAI CENT - VASCO DA GAMA Exp",
+  "type": "Exp",
+  "source": "CHENNAI CENTRAL",
+  "sourceCode": "MAS",
+  "destination": "VASCO DA GAMA",
+  "destinationCode": "VSG",
+  "departureTime": "14:10:00",
+  "arrivalTime": "13:00:00",
+  "duration": "22h 50m",
+  "distance": "1070 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

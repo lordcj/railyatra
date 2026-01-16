@@ -1,0 +1,29 @@
+{
+  "number": "13052",
+  "name": "Hool Express",
+  "type": "Exp",
+  "source": "SIURI",
+  "sourceCode": "SURI",
+  "destination": "HOWRAH JN",
+  "destinationCode": "HWH",
+  "departureTime": "13:30:00",
+  "arrivalTime": "18:25:00",
+  "duration": "4h 55m",
+  "distance": "241 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

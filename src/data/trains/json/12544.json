@@ -1,0 +1,29 @@
+{
+  "number": "12544",
+  "name": "Tirupati-Yesvantpur Tri Weekly SF Intercity",
+  "type": "SF",
+  "source": "TIRUPATI MAIN",
+  "sourceCode": "TPTY",
+  "destination": "YESVANTPUR JN",
+  "destinationCode": "YPR",
+  "departureTime": "14:50:00",
+  "arrivalTime": "20:55:00",
+  "duration": "6h 5m",
+  "distance": "345 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,32 @@
+{
+  "number": "19005",
+  "name": "Saurashtra Mail",
+  "type": "Mail",
+  "source": "Mumbai Central",
+  "sourceCode": "BCT",
+  "destination": "OKHA",
+  "destinationCode": "OKHA",
+  "departureTime": "20:25:00",
+  "arrivalTime": "16:00:00",
+  "duration": "19h 35m",
+  "distance": "990 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

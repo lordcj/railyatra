@@ -1,0 +1,31 @@
+{
+  "number": "12864",
+  "name": "YESVANTPUR - HOWRAH SF Exp",
+  "type": "SF",
+  "source": "YESVANTPUR JN",
+  "sourceCode": "YPR",
+  "destination": "HOWRAH JN",
+  "destinationCode": "HWH",
+  "departureTime": "19:35:00",
+  "arrivalTime": "06:10:00",
+  "duration": "34h 35m",
+  "distance": "1963 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

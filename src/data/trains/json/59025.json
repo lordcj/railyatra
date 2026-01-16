@@ -1,0 +1,30 @@
+{
+  "number": "59025",
+  "name": "Surat Amrawati Fast Passenger",
+  "type": "Pass",
+  "source": "SURAT",
+  "sourceCode": "ST",
+  "destination": "Amravati",
+  "destinationCode": "AMI",
+  "departureTime": "10:50:00",
+  "arrivalTime": "22:30:00",
+  "duration": "11h 40m",
+  "distance": "563 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

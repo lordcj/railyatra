@@ -1,0 +1,32 @@
+{
+  "number": "12286",
+  "name": "Hazrat Nizamuddin-Secunderabad Duronto Express",
+  "type": "Drnt",
+  "source": "DELHI H NIZAMUDDIN",
+  "sourceCode": "NZM",
+  "destination": "SECUNDERABAD JN",
+  "destinationCode": "SC",
+  "departureTime": "15:50:00",
+  "arrivalTime": "14:00:00",
+  "duration": "22h 10m",
+  "distance": "1660 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

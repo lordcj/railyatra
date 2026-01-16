@@ -1,0 +1,30 @@
+{
+  "number": "55311",
+  "name": "MORADABAD - KASHIPUR PASSENGER",
+  "type": "Pass",
+  "source": "MORADABAD",
+  "sourceCode": "MB",
+  "destination": "KASHIPUR",
+  "destinationCode": "KPV",
+  "departureTime": "13:35:00",
+  "arrivalTime": "15:05:00",
+  "duration": "1h 30m",
+  "distance": "50 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

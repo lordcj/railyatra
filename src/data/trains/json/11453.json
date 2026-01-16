@@ -1,0 +1,30 @@
+{
+  "number": "11453",
+  "name": "Prerna Express",
+  "type": "Exp",
+  "source": "AHMEDABAD JN",
+  "sourceCode": "ADI",
+  "destination": "NAGPUR",
+  "destinationCode": "NGP",
+  "departureTime": "16:25:00",
+  "arrivalTime": "12:15:00",
+  "duration": "19h 50m",
+  "distance": "959 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

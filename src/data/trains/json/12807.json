@@ -1,0 +1,31 @@
+{
+  "number": "12807",
+  "name": "Samata Express",
+  "type": "SF",
+  "source": "VISHAKAPATNAM",
+  "sourceCode": "VSKP",
+  "destination": "DELHI H NIZAMUDDIN",
+  "destinationCode": "NZM",
+  "departureTime": "06:25:00",
+  "arrivalTime": "16:45:00",
+  "duration": "34h 20m",
+  "distance": "1911 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

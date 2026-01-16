@@ -1,0 +1,31 @@
+{
+  "number": "12431",
+  "name": "TRIVANDRUM - DELHI H NIZAMUDDIN Rajdhani Exp",
+  "type": "Raj",
+  "source": "TRIVANDRUM CENTRAL",
+  "sourceCode": "TVC",
+  "destination": "DELHI H NIZAMUDDIN",
+  "destinationCode": "NZM",
+  "departureTime": "19:15:00",
+  "arrivalTime": "12:40:00",
+  "duration": "41h 25m",
+  "distance": "3149 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

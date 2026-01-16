@@ -1,0 +1,30 @@
+{
+  "number": "54463",
+  "name": "BANDIKUI - RISHIKESH Passenger",
+  "type": "Pass",
+  "source": "BANDIKUI JN",
+  "sourceCode": "BKI",
+  "destination": "RISHIKESH",
+  "destinationCode": "RKSH",
+  "departureTime": "14:50:00",
+  "arrivalTime": "13:55:00",
+  "duration": "23h 5m",
+  "distance": "579 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

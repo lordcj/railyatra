@@ -1,0 +1,29 @@
+{
+  "number": "16516",
+  "name": "Karwar-Yeshvantpur Express",
+  "type": "Exp",
+  "source": "KARWAR",
+  "sourceCode": "KAWR",
+  "destination": "YESVANTPUR JN",
+  "destinationCode": "YPR",
+  "departureTime": "05:30:00",
+  "arrivalTime": "22:25:00",
+  "duration": "16h 55m",
+  "distance": "794 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,34 @@
+{
+  "number": "22439",
+  "name": "New Delhi - Katra Vande Bharat Express",
+  "type": "Vande Bharat",
+  "source": "New Delhi",
+  "sourceCode": "NDLS",
+  "destination": "Shri Mata Vaishno Devi Katra",
+  "destinationCode": "SVDK",
+  "departureTime": "06:00",
+  "arrivalTime": "14:00",
+  "duration": "8h 00m",
+  "distance": "655 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+  ],
+  "zone": "NR",
+  "classes": [
+    "CC",
+    "EC"
+  ],
+  "stops": 4,
+  "majorStops": [
+    "Ambala",
+    "Ludhiana",
+    "Jammu Tawi",
+    "Katra"
+  ],
+  "frequency": "Daily"
+}

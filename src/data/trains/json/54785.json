@@ -1,0 +1,30 @@
+{
+  "number": "54785",
+  "name": "Firozpur Fazilka Passenger",
+  "type": "Pass",
+  "source": "FIROZPUR CANT",
+  "sourceCode": "FZR",
+  "destination": "Fazilka",
+  "destinationCode": "FKA",
+  "departureTime": "05:45:00",
+  "arrivalTime": "08:05:00",
+  "duration": "2h 20m",
+  "distance": "88 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "55307",
+  "name": "MORADABAD - RAMNAGAR PASSENGER",
+  "type": "Pass",
+  "source": "MORADABAD",
+  "sourceCode": "MB",
+  "destination": "RAMNAGAR",
+  "destinationCode": "RMR",
+  "departureTime": "10:25:00",
+  "arrivalTime": "12:35:00",
+  "duration": "2h 10m",
+  "distance": "76 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

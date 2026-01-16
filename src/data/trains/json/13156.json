@@ -1,0 +1,30 @@
+{
+  "number": "13156",
+  "name": "SITAMARHI - KOLKATA CHITPUR Mithilanchal Exp",
+  "type": "Exp",
+  "source": "SITAMARHI JN",
+  "sourceCode": "SMI",
+  "destination": "KOLKATA CHITPUR",
+  "destinationCode": "KOAA",
+  "departureTime": "14:45:00",
+  "arrivalTime": "03:45:00",
+  "duration": "13h 0m",
+  "distance": "553 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

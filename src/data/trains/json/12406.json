@@ -1,0 +1,31 @@
+{
+  "number": "12406",
+  "name": "H.Nizamuddin-Bhusaval Gondwana Express",
+  "type": "SF",
+  "source": "DELHI H NIZAMUDDIN",
+  "sourceCode": "NZM",
+  "destination": "BHUSAVAL JN",
+  "destinationCode": "BSL",
+  "departureTime": "15:25:00",
+  "arrivalTime": "15:50:00",
+  "duration": "24h 25m",
+  "distance": "1476 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

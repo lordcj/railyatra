@@ -1,0 +1,31 @@
+{
+  "number": "12220",
+  "name": "Secunderabad-Mumbai LTT AC Duronto Express",
+  "type": "Drnt",
+  "source": "SECUNDERABAD JN",
+  "sourceCode": "SC",
+  "destination": "LOKMANYA TILAK TERM",
+  "destinationCode": "LTT",
+  "departureTime": "23:05:00",
+  "arrivalTime": "11:05:00",
+  "duration": "12h 0m",
+  "distance": "773 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

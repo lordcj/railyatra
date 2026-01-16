@@ -1,0 +1,29 @@
+{
+  "number": "14037",
+  "name": "Delhi-Pathankot Express",
+  "type": "Exp",
+  "source": "OLD DELHI",
+  "sourceCode": "DLI",
+  "destination": "PATHANKOT",
+  "destinationCode": "PTK",
+  "departureTime": "08:00:00",
+  "arrivalTime": "18:00:00",
+  "duration": "10h 0m",
+  "distance": "554 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

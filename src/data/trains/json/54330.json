@@ -1,0 +1,30 @@
+{
+  "number": "54330",
+  "name": "Shahjehanpur Balamu Passenger",
+  "type": "Pass",
+  "source": "SHAHJEHANPUR",
+  "sourceCode": "SPN",
+  "destination": "BALAMU JN",
+  "destinationCode": "BLM",
+  "departureTime": "08:55:00",
+  "arrivalTime": "11:45:00",
+  "duration": "2h 50m",
+  "distance": "96 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

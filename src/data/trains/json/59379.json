@@ -1,0 +1,30 @@
+{
+  "number": "59379",
+  "name": "Indore Maksi Passenger",
+  "type": "Pass",
+  "source": "INDORE JN BG",
+  "sourceCode": "INDB",
+  "destination": "MAKSI",
+  "destinationCode": "MKC",
+  "departureTime": "05:45:00",
+  "arrivalTime": "07:30:00",
+  "duration": "1h 45m",
+  "distance": "75 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

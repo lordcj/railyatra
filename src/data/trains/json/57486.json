@@ -1,0 +1,30 @@
+{
+  "number": "57486",
+  "name": "Mirzapali Secunderabad Passenger",
+  "type": "Pass",
+  "source": "MIRZAPALI",
+  "sourceCode": "MZL",
+  "destination": "SECUNDERABAD JN",
+  "destinationCode": "SC",
+  "departureTime": "05:50:00",
+  "arrivalTime": "08:05:00",
+  "duration": "2h 15m",
+  "distance": "71 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

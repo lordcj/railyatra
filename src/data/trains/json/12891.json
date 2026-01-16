@@ -1,0 +1,29 @@
+{
+  "number": "12891",
+  "name": "Baripada- Bhubaneswar Express",
+  "type": "SF",
+  "source": "Baripada",
+  "sourceCode": "BPO",
+  "destination": "BHUBANESWAR",
+  "destinationCode": "BBS",
+  "departureTime": "05:07:00",
+  "arrivalTime": "10:00:00",
+  "duration": "4h 53m",
+  "distance": "275 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

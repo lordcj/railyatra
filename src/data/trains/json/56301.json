@@ -1,0 +1,30 @@
+{
+  "number": "56301",
+  "name": "Alappuzha Kollam Passenger",
+  "type": "Pass",
+  "source": "ALLEPPEY",
+  "sourceCode": "ALLP",
+  "destination": "KOLLAM JN",
+  "destinationCode": "QLN",
+  "departureTime": "17:25:00",
+  "arrivalTime": "19:35:00",
+  "duration": "2h 10m",
+  "distance": "85 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

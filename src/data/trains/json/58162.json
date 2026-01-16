@@ -1,0 +1,30 @@
+{
+  "number": "58162",
+  "name": "JHARSUGUDA - HATIA Passenger (UnReserved)",
+  "type": "Pass",
+  "source": "JHARSUGUDA JN",
+  "sourceCode": "JSG",
+  "destination": "HATIA",
+  "destinationCode": "HTE",
+  "departureTime": "07:30:00",
+  "arrivalTime": "16:35:00",
+  "duration": "9h 5m",
+  "distance": "264 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

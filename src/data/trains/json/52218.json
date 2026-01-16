@@ -1,0 +1,30 @@
+{
+  "number": "52218",
+  "name": "Bareilly Kasganj Passenger",
+  "type": "Pass",
+  "source": "BAREILLY",
+  "sourceCode": "BRY",
+  "destination": "Kasganj Mg",
+  "destinationCode": "KSJF",
+  "departureTime": "19:30:00",
+  "arrivalTime": "22:30:00",
+  "duration": "3h 0m",
+  "distance": "104 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

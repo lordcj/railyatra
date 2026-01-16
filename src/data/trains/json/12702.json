@@ -1,0 +1,31 @@
+{
+  "number": "12702",
+  "name": "Hussain Sagar Express",
+  "type": "SF",
+  "source": "HYDERABAD DECCAN",
+  "sourceCode": "HYB",
+  "destination": "MUMBAI CST",
+  "destinationCode": "CSTM",
+  "departureTime": "14:45:00",
+  "arrivalTime": "05:05:00",
+  "duration": "14h 20m",
+  "distance": "790 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

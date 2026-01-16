@@ -1,0 +1,30 @@
+{
+  "number": "52088",
+  "name": "Churu Sikar Passenger",
+  "type": "Pass",
+  "source": "Churu",
+  "sourceCode": "CUR",
+  "destination": "Sikar Junction",
+  "destinationCode": "SIKR",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:20:00",
+  "duration": "2h 20m",
+  "distance": "91 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "SBC",
+  "name": "Bangalore City",
+  "fullName": "KSR Bengaluru City Junction",
+  "zone": "SWR",
+  "state": "Karnataka",
+  "category": "A1",
+  "platforms": 10,
+  "connectivity": [
+    "Metro",
+    "Bus",
+    "Taxi"
+  ]
+}

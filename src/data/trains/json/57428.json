@@ -1,0 +1,30 @@
+{
+  "number": "57428",
+  "name": "Guntakal Raichur Passenger",
+  "type": "Pass",
+  "source": "GUNTAKAL JN",
+  "sourceCode": "GTL",
+  "destination": "RAICHUR",
+  "destinationCode": "RC",
+  "departureTime": "18:15:00",
+  "arrivalTime": "21:05:00",
+  "duration": "2h 50m",
+  "distance": "121 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

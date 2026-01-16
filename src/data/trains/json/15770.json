@@ -1,0 +1,30 @@
+{
+  "number": "15770",
+  "name": "Lumding Alipurduar Express",
+  "type": "Exp",
+  "source": "LUMDING JN",
+  "sourceCode": "LMG",
+  "destination": "ALIPUR DUAR JN",
+  "destinationCode": "APDJ",
+  "departureTime": "15:00:00",
+  "arrivalTime": "00:40:00",
+  "duration": "9h 40m",
+  "distance": "447 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

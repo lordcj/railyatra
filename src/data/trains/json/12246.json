@@ -1,0 +1,32 @@
+{
+  "number": "12246",
+  "name": "YESVANTPUR - HOWRAH AC Duronto Exp",
+  "type": "Drnt",
+  "source": "YESVANTPUR JN",
+  "sourceCode": "YPR",
+  "destination": "HOWRAH JN",
+  "destinationCode": "HWH",
+  "departureTime": "11:15:00",
+  "arrivalTime": "16:00:00",
+  "duration": "28h 45m",
+  "distance": "1946 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

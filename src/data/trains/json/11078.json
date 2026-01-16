@@ -1,0 +1,31 @@
+{
+  "number": "11078",
+  "name": "Jhelum Express",
+  "type": "Exp",
+  "source": "JAMMU TAWI",
+  "sourceCode": "JAT",
+  "destination": "PUNE JN",
+  "destinationCode": "PUNE",
+  "departureTime": "21:45:00",
+  "arrivalTime": "14:35:00",
+  "duration": "40h 50m",
+  "distance": "2173 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

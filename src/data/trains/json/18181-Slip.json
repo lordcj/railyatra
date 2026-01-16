@@ -1,0 +1,30 @@
+{
+  "number": "18181-Slip",
+  "name": "Tata-Chapra Express Slip",
+  "type": "Exp",
+  "source": "TATANAGAR JN",
+  "sourceCode": "TATA",
+  "destination": "KATIHAR JN",
+  "destinationCode": "KIR",
+  "departureTime": "21:35:00",
+  "arrivalTime": "14:20:00",
+  "duration": "16h 45m",
+  "distance": "600 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

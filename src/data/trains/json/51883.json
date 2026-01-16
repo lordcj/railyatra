@@ -1,0 +1,30 @@
+{
+  "number": "51883",
+  "name": "Bina Gwalior Passenger",
+  "type": "Pass",
+  "source": "BINA JN",
+  "sourceCode": "BINA",
+  "destination": "GWALIOR JN",
+  "destinationCode": "GWL",
+  "departureTime": "11:55:00",
+  "arrivalTime": "22:25:00",
+  "duration": "10h 30m",
+  "distance": "345 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,29 @@
+{
+  "number": "16306",
+  "name": "Kannur Ernakulam InterCity Express",
+  "type": "Exp",
+  "source": "KANNUR",
+  "sourceCode": "CAN",
+  "destination": "ERNAKULAM JN",
+  "destinationCode": "ERS",
+  "departureTime": "14:30:00",
+  "arrivalTime": "20:30:00",
+  "duration": "6h 0m",
+  "distance": "283 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

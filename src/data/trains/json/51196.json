@@ -1,0 +1,30 @@
+{
+  "number": "51196",
+  "name": "Ballarshah Wardha Mumbai Passenger",
+  "type": "Pass",
+  "source": "BALHARSHAH",
+  "sourceCode": "BPQ",
+  "destination": "MUMBAI CST",
+  "destinationCode": "CSTM",
+  "departureTime": "17:30:00",
+  "arrivalTime": "12:00:00",
+  "duration": "18h 30m",
+  "distance": "891 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

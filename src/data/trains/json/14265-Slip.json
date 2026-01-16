@@ -1,0 +1,29 @@
+{
+  "number": "14265-Slip",
+  "name": "Varanasi-Ramnagar Express Slip",
+  "type": "Exp",
+  "source": "VARANASI JN",
+  "sourceCode": "BSB",
+  "destination": "RAMNAGAR",
+  "destinationCode": "RMR",
+  "departureTime": "08:30:00",
+  "arrivalTime": "06:10:00",
+  "duration": "21h 40m",
+  "distance": "705 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

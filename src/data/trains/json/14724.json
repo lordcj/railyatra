@@ -1,0 +1,30 @@
+{
+  "number": "14724",
+  "name": "Kalindi Express",
+  "type": "Exp",
+  "source": "Bhiwani",
+  "sourceCode": "BNW",
+  "destination": "KANPUR CENTRAL",
+  "destinationCode": "CNB",
+  "departureTime": "18:15:00",
+  "arrivalTime": "11:10:00",
+  "duration": "16h 55m",
+  "distance": "605 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "54377",
+  "name": "Allahabad Passenger",
+  "type": "Pass",
+  "source": "PRAYAG",
+  "sourceCode": "PRG",
+  "destination": "BAREILLY",
+  "destinationCode": "BE",
+  "departureTime": "01:55:00",
+  "arrivalTime": "14:55:00",
+  "duration": "13h 0m",
+  "distance": "429 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,13 @@
+{
+  "code": "AY",
+  "name": "Ayodhya",
+  "fullName": "Ayodhya Dham Junction",
+  "zone": "NR",
+  "state": "Uttar Pradesh",
+  "category": "A",
+  "platforms": 7,
+  "connectivity": [
+    "Bus",
+    "Taxi"
+  ]
+}

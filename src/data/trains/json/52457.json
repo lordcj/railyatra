@@ -1,0 +1,30 @@
+{
+  "number": "52457",
+  "name": "Kalka Shimla Passenger",
+  "type": "Pass",
+  "source": "Kalka",
+  "sourceCode": "KLK",
+  "destination": "Shimla",
+  "destinationCode": "SML",
+  "departureTime": "04:00:00",
+  "arrivalTime": "09:20:00",
+  "duration": "5h 20m",
+  "distance": "96 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

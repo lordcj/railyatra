@@ -1,0 +1,30 @@
+{
+  "number": "53006",
+  "name": "Azimganj Katwa Passenger",
+  "type": "Pass",
+  "source": "AZIMGANJ JN",
+  "sourceCode": "AZ",
+  "destination": "KATWA",
+  "destinationCode": "KWAE",
+  "departureTime": "03:30:00",
+  "arrivalTime": "05:19:00",
+  "duration": "1h 49m",
+  "distance": "73 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

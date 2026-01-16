@@ -1,0 +1,30 @@
+{
+  "number": "54262",
+  "name": "Mughal Sarai Jaunpur Passenger",
+  "type": "Pass",
+  "source": "JAUNPUR JN",
+  "sourceCode": "JNU",
+  "destination": "VARANASI JN",
+  "destinationCode": "BSB",
+  "departureTime": "03:15:00",
+  "arrivalTime": "05:15:00",
+  "duration": "2h 0m",
+  "distance": "57 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

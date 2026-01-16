@@ -1,0 +1,30 @@
+{
+  "number": "13504",
+  "name": "Asansol-Sealdah InterCity Express",
+  "type": "Exp",
+  "source": "ASANSOL JN",
+  "sourceCode": "ASN",
+  "destination": "KOLKATA SEALDAH",
+  "destinationCode": "SDAH",
+  "departureTime": "06:35:00",
+  "arrivalTime": "10:45:00",
+  "duration": "4h 10m",
+  "distance": "220 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

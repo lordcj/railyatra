@@ -1,0 +1,31 @@
+{
+  "number": "12732",
+  "name": "Secunderabad-Tirupati Express",
+  "type": "SF",
+  "source": "SECUNDERABAD JN",
+  "sourceCode": "SC",
+  "destination": "TIRUPATI MAIN",
+  "destinationCode": "TPTY",
+  "departureTime": "19:00:00",
+  "arrivalTime": "09:30:00",
+  "duration": "14h 30m",
+  "distance": "801 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

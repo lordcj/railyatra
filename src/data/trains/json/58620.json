@@ -1,0 +1,30 @@
+{
+  "number": "58620",
+  "name": "Barka Kana Adra Passenger",
+  "type": "Pass",
+  "source": "BARKAKANA",
+  "sourceCode": "BRKA",
+  "destination": "ADRA JN",
+  "destinationCode": "ADRA",
+  "departureTime": "15:35:00",
+  "arrivalTime": "20:55:00",
+  "duration": "5h 20m",
+  "distance": "159 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

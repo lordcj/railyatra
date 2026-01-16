@@ -1,0 +1,30 @@
+{
+  "number": "58418",
+  "name": "Parlakhemundi Puri Passenger",
+  "type": "Pass",
+  "source": "Gunupur",
+  "sourceCode": "GNPR",
+  "destination": "PURI",
+  "destinationCode": "PURI",
+  "departureTime": "08:00:00",
+  "arrivalTime": "21:25:00",
+  "duration": "13h 25m",
+  "distance": "380 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

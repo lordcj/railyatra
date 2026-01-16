@@ -1,0 +1,30 @@
+{
+  "number": "58713",
+  "name": "Telibandha Dhamtari Passenger",
+  "type": "Pass",
+  "source": "Telibandha",
+  "sourceCode": "TBD",
+  "destination": "Dhamtari",
+  "destinationCode": "DTR",
+  "departureTime": "12:40:00",
+  "arrivalTime": "15:40:00",
+  "duration": "3h 0m",
+  "distance": "68 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

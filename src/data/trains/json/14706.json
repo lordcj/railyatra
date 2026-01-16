@@ -1,0 +1,31 @@
+{
+  "number": "14706",
+  "name": "Sadulpur Delhi Sarai Rohilla Express",
+  "type": "Exp",
+  "source": "Sadulpur Junction",
+  "sourceCode": "SDLP",
+  "destination": "DELHI SARAI ROHILLA",
+  "destinationCode": "DEE",
+  "departureTime": "16:10:00",
+  "arrivalTime": "20:25:00",
+  "duration": "4h 15m",
+  "distance": "220 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

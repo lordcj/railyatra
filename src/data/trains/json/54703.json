@@ -1,0 +1,29 @@
+{
+  "number": "54703",
+  "name": "Abohar Jodhpur passenger",
+  "type": "Pass",
+  "source": "ABOHAR",
+  "sourceCode": "ABS",
+  "destination": "JODHPUR JN",
+  "destinationCode": "JU",
+  "departureTime": "19:00:00",
+  "arrivalTime": "13:00:00",
+  "duration": "18h 0m",
+  "distance": "675 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

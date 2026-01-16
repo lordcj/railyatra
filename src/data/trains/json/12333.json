@@ -1,0 +1,31 @@
+{
+  "number": "12333",
+  "name": "Vibhuti Express",
+  "type": "SF",
+  "source": "HOWRAH JN",
+  "sourceCode": "HWH",
+  "destination": "ALLAHABAD CITY",
+  "destinationCode": "ALY",
+  "departureTime": "20:00:00",
+  "arrivalTime": "12:15:00",
+  "duration": "16h 15m",
+  "distance": "882 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,31 @@
+{
+  "number": "12939",
+  "name": "Pune-Jaipur SF Express",
+  "type": "SF",
+  "source": "PUNE JN",
+  "sourceCode": "PUNE",
+  "destination": "JAIPUR",
+  "destinationCode": "JP",
+  "departureTime": "15:20:00",
+  "arrivalTime": "13:40:00",
+  "duration": "22h 20m",
+  "distance": "1302 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

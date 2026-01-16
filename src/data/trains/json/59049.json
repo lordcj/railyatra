@@ -1,0 +1,30 @@
+{
+  "number": "59049",
+  "name": "Valsad Viramgam Passenger",
+  "type": "Pass",
+  "source": "VALSAD",
+  "sourceCode": "BL",
+  "destination": "VIRAMGAM JN",
+  "destinationCode": "VG",
+  "departureTime": "06:05:00",
+  "arrivalTime": "20:10:00",
+  "duration": "14h 5m",
+  "distance": "364 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

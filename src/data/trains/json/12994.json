@@ -1,0 +1,31 @@
+{
+  "number": "12994",
+  "name": "PURI - GANDHIDHAM SF Exp",
+  "type": "SF",
+  "source": "PURI",
+  "sourceCode": "PURI",
+  "destination": "GANDHIDHAM BG",
+  "destinationCode": "GIMB",
+  "departureTime": "19:50:00",
+  "arrivalTime": "13:20:00",
+  "duration": "41h 30m",
+  "distance": "2283 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

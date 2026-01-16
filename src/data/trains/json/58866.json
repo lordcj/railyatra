@@ -1,0 +1,30 @@
+{
+  "number": "58866",
+  "name": "Jabalpur Balaghat Passenger",
+  "type": "Pass",
+  "source": "JABALPUR",
+  "sourceCode": "JBP",
+  "destination": "Balaghat Junction",
+  "destinationCode": "BTC",
+  "departureTime": "10:55:00",
+  "arrivalTime": "20:35:00",
+  "duration": "9h 40m",
+  "distance": "185 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

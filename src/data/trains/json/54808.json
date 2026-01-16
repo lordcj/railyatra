@@ -1,0 +1,30 @@
+{
+  "number": "54808",
+  "name": "Jaipur Ajmer Passenger",
+  "type": "Pass",
+  "source": "JAIPUR",
+  "sourceCode": "JP",
+  "destination": "AJMER JN",
+  "destinationCode": "AII",
+  "departureTime": "06:00:00",
+  "arrivalTime": "09:15:00",
+  "duration": "3h 15m",
+  "distance": "128 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

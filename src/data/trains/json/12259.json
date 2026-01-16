@@ -1,0 +1,31 @@
+{
+  "number": "12259",
+  "name": "Sealdah-New Delhi AC Duronto Express",
+  "type": "Drnt",
+  "source": "KOLKATA SEALDAH",
+  "sourceCode": "SDAH",
+  "destination": "NEW DELHI",
+  "destinationCode": "NDLS",
+  "departureTime": "18:40:00",
+  "arrivalTime": "11:00:00",
+  "duration": "16h 20m",
+  "distance": "1453 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "3A",
+    "2A",
+    "1A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

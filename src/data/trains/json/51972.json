@@ -1,0 +1,30 @@
+{
+  "number": "51972",
+  "name": "Alwar Mathura Passenger",
+  "type": "Pass",
+  "source": "ALWAR",
+  "sourceCode": "AWR",
+  "destination": "MATHURA JN",
+  "destinationCode": "MTJ",
+  "departureTime": "13:40:00",
+  "arrivalTime": "16:40:00",
+  "duration": "3h 0m",
+  "distance": "122 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

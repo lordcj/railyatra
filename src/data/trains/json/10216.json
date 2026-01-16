@@ -1,0 +1,32 @@
+{
+  "number": "10216",
+  "name": "Ernakulam Madgaon Weekly SF Express",
+  "type": "Exp",
+  "source": "ERNAKULAM JN",
+  "sourceCode": "ERS",
+  "destination": "MADGAON",
+  "destinationCode": "MAO",
+  "departureTime": "14:35:00",
+  "arrivalTime": "04:00:00",
+  "duration": "13h 25m",
+  "distance": "850 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "KR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

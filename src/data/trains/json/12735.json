@@ -1,0 +1,29 @@
+{
+  "number": "12735",
+  "name": "SECUNDERABAD - YESVANTPUR Garib Rath Exp",
+  "type": "Express",
+  "source": "SECUNDERABAD JN",
+  "sourceCode": "SC",
+  "destination": "YESVANTPUR JN",
+  "destinationCode": "YPR",
+  "departureTime": "None",
+  "arrivalTime": "None",
+  "duration": "0h 0m",
+  "distance": "0 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "IR",
+  "classes": [
+    "3A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "51767",
+  "name": "Katni Satna Passenger",
+  "type": "Pass",
+  "source": "KATNI",
+  "sourceCode": "KTE",
+  "destination": "SATNA",
+  "destinationCode": "STA",
+  "departureTime": "14:10:00",
+  "arrivalTime": "16:00:00",
+  "duration": "1h 50m",
+  "distance": "99 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

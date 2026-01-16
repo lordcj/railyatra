@@ -1,0 +1,13 @@
+{
+  "code": "AF",
+  "name": "Agra Fort",
+  "fullName": "Agra Fort Railway Station",
+  "zone": "NCR",
+  "state": "Uttar Pradesh",
+  "category": "B",
+  "platforms": 3,
+  "connectivity": [
+    "Bus",
+    "Taxi"
+  ]
+}

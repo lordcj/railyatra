@@ -1,0 +1,30 @@
+{
+  "number": "56270",
+  "name": "Mysore Shimoga Passenger",
+  "type": "Pass",
+  "source": "MYSORE JN",
+  "sourceCode": "MYS",
+  "destination": "Shimoga Town",
+  "destinationCode": "SMET",
+  "departureTime": "10:05:00",
+  "arrivalTime": "16:30:00",
+  "duration": "6h 25m",
+  "distance": "276 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,31 @@
+{
+  "number": "16732",
+  "name": "Mysore-Tuticorin Express",
+  "type": "Exp",
+  "source": "MYSORE JN",
+  "sourceCode": "MYS",
+  "destination": "TUTICORIN",
+  "destinationCode": "TN",
+  "departureTime": "18:00:00",
+  "arrivalTime": "11:00:00",
+  "duration": "17h 0m",
+  "distance": "783 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

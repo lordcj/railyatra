@@ -1,0 +1,30 @@
+{
+  "number": "16090",
+  "name": "Yelagiri Express",
+  "type": "Exp",
+  "source": "TIRUPATTUR JN",
+  "sourceCode": "TPT",
+  "destination": "CHENNAI CENTRAL",
+  "destinationCode": "MAS",
+  "departureTime": "04:35:00",
+  "arrivalTime": "09:05:00",
+  "duration": "4h 30m",
+  "distance": "220 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

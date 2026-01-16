@@ -1,0 +1,31 @@
+{
+  "number": "12742",
+  "name": "PATNA - VASCO DA GAMA SF Exp",
+  "type": "SF",
+  "source": "PATNA JN",
+  "sourceCode": "PNBE",
+  "destination": "VASCO DA GAMA",
+  "destinationCode": "VSG",
+  "departureTime": "14:00:00",
+  "arrivalTime": "08:55:00",
+  "duration": "42h 55m",
+  "distance": "2419 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

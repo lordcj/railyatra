@@ -1,0 +1,30 @@
+{
+  "number": "14124",
+  "name": "Kanpur Pratapgarh InterCity Express",
+  "type": "Exp",
+  "source": "KANPUR CENTRAL",
+  "sourceCode": "CNB",
+  "destination": "PARTAPGARH JN",
+  "destinationCode": "PBH",
+  "departureTime": "17:35:00",
+  "arrivalTime": "22:50:00",
+  "duration": "5h 15m",
+  "distance": "245 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

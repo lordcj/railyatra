@@ -1,0 +1,29 @@
+{
+  "number": "16205",
+  "name": "Talaguppa Mysore Intercity Express",
+  "type": "Exp",
+  "source": "Talguppa",
+  "sourceCode": "TLGP",
+  "destination": "MYSORE JN",
+  "destinationCode": "MYS",
+  "departureTime": "14:45:00",
+  "arrivalTime": "22:40:00",
+  "duration": "7h 55m",
+  "distance": "373 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "52247",
+  "name": "Mailani Sitapur Passenger",
+  "type": "Pass",
+  "source": "MAILANI",
+  "sourceCode": "MLN",
+  "destination": "SITAPUR",
+  "destinationCode": "STP",
+  "departureTime": "20:20:00",
+  "arrivalTime": "00:10:00",
+  "duration": "3h 50m",
+  "distance": "107 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

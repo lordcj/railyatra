@@ -1,0 +1,30 @@
+{
+  "number": "15107",
+  "name": "Chhapra Mathura Express",
+  "type": "Exp",
+  "source": "CHHAPRA",
+  "sourceCode": "CPR",
+  "destination": "MATHURA JN",
+  "destinationCode": "MTJ",
+  "departureTime": "05:00:00",
+  "arrivalTime": "21:55:00",
+  "duration": "16h 55m",
+  "distance": "874 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

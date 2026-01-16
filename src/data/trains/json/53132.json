@@ -1,0 +1,30 @@
+{
+  "number": "53132",
+  "name": "Muzaffarpur Sealdah Passenger",
+  "type": "Pass",
+  "source": "MUZAFFARPUR JN",
+  "sourceCode": "MFP",
+  "destination": "KOLKATA SEALDAH",
+  "destinationCode": "SDAH",
+  "departureTime": "07:45:00",
+  "arrivalTime": "03:25:00",
+  "duration": "19h 40m",
+  "distance": "568 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

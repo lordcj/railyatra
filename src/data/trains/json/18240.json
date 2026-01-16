@@ -1,0 +1,31 @@
+{
+  "number": "18240",
+  "name": "Nagpur Bilaspur Express",
+  "type": "Exp",
+  "source": "NAGPUR",
+  "sourceCode": "NGP",
+  "destination": "BILASPUR JN",
+  "destinationCode": "BSP",
+  "departureTime": "23:35:00",
+  "arrivalTime": "07:15:00",
+  "duration": "7h 40m",
+  "distance": "412 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

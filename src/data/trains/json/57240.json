@@ -1,0 +1,30 @@
+{
+  "number": "57240",
+  "name": "Bitragunta Chennai Passenger",
+  "type": "Pass",
+  "source": "BITRAGUNTA",
+  "sourceCode": "BTTR",
+  "destination": "CHENNAI CENTRAL",
+  "destinationCode": "MAS",
+  "departureTime": "05:20:00",
+  "arrivalTime": "12:00:00",
+  "duration": "6h 40m",
+  "distance": "210 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

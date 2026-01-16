@@ -1,0 +1,31 @@
+{
+  "number": "12641",
+  "name": "KANYAKUMARI - D H NIZAMUDDIN Thirukkural Exp",
+  "type": "SF",
+  "source": "KANYAKUMARI",
+  "sourceCode": "CAPE",
+  "destination": "DELHI H NIZAMUDDIN",
+  "destinationCode": "NZM",
+  "departureTime": "19:15:00",
+  "arrivalTime": "18:00:00",
+  "duration": "46h 45m",
+  "distance": "2922 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

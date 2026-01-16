@@ -1,0 +1,31 @@
+{
+  "number": "11071",
+  "name": "Kamayani Express",
+  "type": "Exp",
+  "source": "LOKMANYA TILAK TERM",
+  "sourceCode": "LTT",
+  "destination": "VARANASI JN",
+  "destinationCode": "BSB",
+  "departureTime": "12:40:00",
+  "arrivalTime": "19:25:00",
+  "duration": "30h 45m",
+  "distance": "1640 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

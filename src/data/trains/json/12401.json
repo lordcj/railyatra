@@ -1,0 +1,32 @@
+{
+  "number": "12401",
+  "name": "Magadh Express",
+  "type": "SF",
+  "source": "Islampur",
+  "sourceCode": "IPR",
+  "destination": "NEW DELHI",
+  "destinationCode": "NDLS",
+  "departureTime": "16:10:00",
+  "arrivalTime": "11:45:00",
+  "duration": "19h 35m",
+  "distance": "1063 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

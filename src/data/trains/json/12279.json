@@ -1,0 +1,29 @@
+{
+  "number": "12279",
+  "name": "Jhansi-H.Nizamuddin Taj Express",
+  "type": "SF",
+  "source": "JHANSI JN",
+  "sourceCode": "JHS",
+  "destination": "DELHI H NIZAMUDDIN",
+  "destinationCode": "NZM",
+  "departureTime": "15:20:00",
+  "arrivalTime": "22:00:00",
+  "duration": "6h 40m",
+  "distance": "403 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

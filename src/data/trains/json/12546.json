@@ -1,0 +1,30 @@
+{
+  "number": "12546",
+  "name": "MUMBAI LTT - RAXAUL Karmabhoomi Exp",
+  "type": "SF",
+  "source": "LOKMANYA TILAK TERM",
+  "sourceCode": "LTT",
+  "destination": "RAXAUL JN",
+  "destinationCode": "RXL",
+  "departureTime": "11:20:00",
+  "arrivalTime": "21:10:00",
+  "duration": "33h 50m",
+  "distance": "1882 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

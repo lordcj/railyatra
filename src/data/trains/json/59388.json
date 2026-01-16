@@ -1,0 +1,30 @@
+{
+  "number": "59388",
+  "name": "Indore Bg Nagda Passenger",
+  "type": "Pass",
+  "source": "INDORE JN BG",
+  "sourceCode": "INDB",
+  "destination": "NAGDA JN",
+  "destinationCode": "NAD",
+  "departureTime": "08:30:00",
+  "arrivalTime": "12:50:00",
+  "duration": "4h 20m",
+  "distance": "135 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

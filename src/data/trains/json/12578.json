@@ -1,0 +1,31 @@
+{
+  "number": "12578",
+  "name": "MYSORE - DARBHANGA BAGMATI SF Exp",
+  "type": "SF",
+  "source": "MYSORE JN",
+  "sourceCode": "MYS",
+  "destination": "DARBHANGA JN",
+  "destinationCode": "DBG",
+  "departureTime": "10:10:00",
+  "arrivalTime": "14:15:00",
+  "duration": "52h 5m",
+  "distance": "2910 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "51256",
+  "name": "Chhindwara Junnor Deo Passenger",
+  "type": "Pass",
+  "source": "Chhindwara Junction",
+  "sourceCode": "CWA",
+  "destination": "Junnor Deo",
+  "destinationCode": "JNO",
+  "departureTime": "12:30:00",
+  "arrivalTime": "14:00:00",
+  "duration": "1h 30m",
+  "distance": "47 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "52523",
+  "name": "Sakri Nirmali Passenger",
+  "type": "Pass",
+  "source": "SAKRI JN",
+  "sourceCode": "SKI",
+  "destination": "Nirmali",
+  "destinationCode": "NMA",
+  "departureTime": "02:00:00",
+  "arrivalTime": "04:30:00",
+  "duration": "2h 30m",
+  "distance": "51 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

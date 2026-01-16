@@ -1,0 +1,29 @@
+{
+  "number": "13017",
+  "name": "Ganadevta Express",
+  "type": "Exp",
+  "source": "HOWRAH JN",
+  "sourceCode": "HWH",
+  "destination": "AZIMGANJ JN",
+  "destinationCode": "AZ",
+  "departureTime": "06:05:00",
+  "arrivalTime": "13:05:00",
+  "duration": "7h 0m",
+  "distance": "278 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

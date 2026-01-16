@@ -1,0 +1,30 @@
+{
+  "number": "56303",
+  "name": "Ernakulam Alappuzha Passenger",
+  "type": "Pass",
+  "source": "ERNAKULAM JN",
+  "sourceCode": "ERS",
+  "destination": "ALLEPPEY",
+  "destinationCode": "ALLP",
+  "departureTime": "15:40:00",
+  "arrivalTime": "17:20:00",
+  "duration": "1h 40m",
+  "distance": "57 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

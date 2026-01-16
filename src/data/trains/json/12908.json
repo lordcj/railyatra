@@ -1,0 +1,31 @@
+{
+  "number": "12908",
+  "name": "Maharashtra Sampark Kranti Express",
+  "type": "SKr",
+  "source": "DELHI H NIZAMUDDIN",
+  "sourceCode": "NZM",
+  "destination": "MUMBAI BANDRA TERMINUS",
+  "destinationCode": "BDTS",
+  "departureTime": "21:35:00",
+  "arrivalTime": "17:50:00",
+  "duration": "20h 15m",
+  "distance": "1366 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

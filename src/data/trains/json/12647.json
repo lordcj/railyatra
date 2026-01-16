@@ -1,0 +1,31 @@
+{
+  "number": "12647",
+  "name": "Kongu Express",
+  "type": "SF",
+  "source": "COIMBATORE JN",
+  "sourceCode": "CBE",
+  "destination": "DELHI H NIZAMUDDIN",
+  "destinationCode": "NZM",
+  "departureTime": "15:15:00",
+  "arrivalTime": "14:15:00",
+  "duration": "47h 0m",
+  "distance": "2671 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

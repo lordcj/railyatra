@@ -1,0 +1,30 @@
+{
+  "number": "33533",
+  "name": "Sealdah-Hasnabad Local",
+  "type": "MEMU",
+  "source": "KOLKATA SEALDAH",
+  "sourceCode": "SDAH",
+  "destination": "Barasat",
+  "destinationCode": "BT",
+  "departureTime": "09:18:00",
+  "arrivalTime": "10:04:00",
+  "duration": "0h 46m",
+  "distance": "22 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

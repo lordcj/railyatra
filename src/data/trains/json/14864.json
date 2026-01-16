@@ -1,0 +1,31 @@
+{
+  "number": "14864",
+  "name": "Marudhar Express",
+  "type": "Exp",
+  "source": "JODHPUR JN",
+  "sourceCode": "JU",
+  "destination": "VARANASI JN",
+  "destinationCode": "BSB",
+  "departureTime": "09:50:00",
+  "arrivalTime": "08:35:00",
+  "duration": "22h 45m",
+  "distance": "1161 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,29 @@
+{
+  "number": "17481-Slip",
+  "name": "Bilaspur Manmad Express Slip",
+  "type": "Exp",
+  "source": "BILASPUR JN",
+  "sourceCode": "BSP",
+  "destination": "MANMAD JN",
+  "destinationCode": "MMR",
+  "departureTime": "10:05:00",
+  "arrivalTime": "07:30:00",
+  "duration": "45h 25m",
+  "distance": "2059 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,13 @@
+{
+  "code": "CLT",
+  "name": "Kozhikode",
+  "fullName": "Kozhikode Railway Station",
+  "zone": "SR",
+  "state": "Kerala",
+  "category": "A",
+  "platforms": 5,
+  "connectivity": [
+    "Bus",
+    "Taxi"
+  ]
+}

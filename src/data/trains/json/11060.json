@@ -1,0 +1,31 @@
+{
+  "number": "11060",
+  "name": "CHHAPRA - MUMBAI LTT Godan Exp",
+  "type": "Exp",
+  "source": "CHHAPRA",
+  "sourceCode": "CPR",
+  "destination": "LOKMANYA TILAK TERM",
+  "destinationCode": "LTT",
+  "departureTime": "05:30:00",
+  "arrivalTime": "16:05:00",
+  "duration": "34h 35m",
+  "distance": "1772 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,31 @@
+{
+  "number": "15901",
+  "name": "BENGALURU - NEW TINSUKIA Weekly Exp",
+  "type": "Exp",
+  "source": "BANGALORE CITY JN",
+  "sourceCode": "SBC",
+  "destination": "NEW TINSUKIA JN",
+  "destinationCode": "NTSK",
+  "departureTime": "23:55:00",
+  "arrivalTime": "20:10:00",
+  "duration": "68h 15m",
+  "distance": "3578 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

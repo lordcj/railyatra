@@ -1,0 +1,31 @@
+{
+  "number": "11044",
+  "name": "MADURAI - MUMBAI LTT Exp",
+  "type": "Exp",
+  "source": "MADURAI JN",
+  "sourceCode": "MDU",
+  "destination": "LOKMANYA TILAK TERM",
+  "destinationCode": "LTT",
+  "departureTime": "18:00:00",
+  "arrivalTime": "05:45:00",
+  "duration": "35h 45m",
+  "distance": "1702 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,29 @@
+{
+  "number": "19328",
+  "name": "Chittaurgarh Ratlam Express",
+  "type": "Exp",
+  "source": "CHITTAURGARH",
+  "sourceCode": "COR",
+  "destination": "RATLAM JN",
+  "destinationCode": "RTM",
+  "departureTime": "04:05:00",
+  "arrivalTime": "08:00:00",
+  "duration": "3h 55m",
+  "distance": "189 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

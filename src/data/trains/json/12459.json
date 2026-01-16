@@ -1,0 +1,29 @@
+{
+  "number": "12459",
+  "name": "NewDelhi-Amritsar SF InterCity",
+  "type": "SF",
+  "source": "NEW DELHI",
+  "sourceCode": "NDLS",
+  "destination": "AMRITSAR JN",
+  "destinationCode": "ASR",
+  "departureTime": "13:35:00",
+  "arrivalTime": "21:35:00",
+  "duration": "8h 0m",
+  "distance": "448 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

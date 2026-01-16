@@ -1,0 +1,30 @@
+{
+  "number": "18181",
+  "name": "Tata-Chapra Express",
+  "type": "Exp",
+  "source": "TATANAGAR JN",
+  "sourceCode": "TATA",
+  "destination": "CHHAPRA",
+  "destinationCode": "CPR",
+  "departureTime": "21:35:00",
+  "arrivalTime": "16:20:00",
+  "duration": "18h 45m",
+  "distance": "636 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

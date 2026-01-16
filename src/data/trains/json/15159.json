@@ -1,0 +1,31 @@
+{
+  "number": "15159",
+  "name": "Sarnath Express",
+  "type": "Exp",
+  "source": "CHHAPRA",
+  "sourceCode": "CPR",
+  "destination": "DURG",
+  "destinationCode": "DURG",
+  "departureTime": "07:20:00",
+  "arrivalTime": "07:30:00",
+  "duration": "24h 10m",
+  "distance": "1083 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

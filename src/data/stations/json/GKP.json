@@ -1,0 +1,13 @@
+{
+  "code": "GKP",
+  "name": "Gorakhpur",
+  "fullName": "Gorakhpur Junction",
+  "zone": "NER",
+  "state": "Uttar Pradesh",
+  "category": "A1",
+  "platforms": 10,
+  "connectivity": [
+    "Bus",
+    "Taxi"
+  ]
+}

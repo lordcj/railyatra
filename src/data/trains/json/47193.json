@@ -1,0 +1,30 @@
+{
+  "number": "47193",
+  "name": "Lingampalli Falaknuma MMTS",
+  "type": "Hyd",
+  "source": "LINGAMPALLI",
+  "sourceCode": "LPI",
+  "destination": "KACHEGUDA FALAKNUMA",
+  "destinationCode": "FM",
+  "departureTime": "20:30:00",
+  "arrivalTime": "22:00:00",
+  "duration": "1h 30m",
+  "distance": "37 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

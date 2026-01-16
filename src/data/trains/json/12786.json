@@ -1,0 +1,32 @@
+{
+  "number": "12786",
+  "name": "Bangalore-Kacheguda SF Express",
+  "type": "SF",
+  "source": "BANGALORE CITY JN",
+  "sourceCode": "SBC",
+  "destination": "KACHEGUDA",
+  "destinationCode": "KCG",
+  "departureTime": "18:20:00",
+  "arrivalTime": "05:40:00",
+  "duration": "11h 20m",
+  "distance": "625 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

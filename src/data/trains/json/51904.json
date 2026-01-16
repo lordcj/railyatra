@@ -1,0 +1,30 @@
+{
+  "number": "51904",
+  "name": "Rohtak Delhi Passenger",
+  "type": "Pass",
+  "source": "ROHTAK JN",
+  "sourceCode": "ROK",
+  "destination": "OLD DELHI",
+  "destinationCode": "DLI",
+  "departureTime": "15:30:00",
+  "arrivalTime": "18:10:00",
+  "duration": "2h 40m",
+  "distance": "70 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

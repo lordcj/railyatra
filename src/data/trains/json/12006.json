@@ -1,0 +1,29 @@
+{
+  "number": "12006",
+  "name": "Kalka-New Delhi Shatabdi",
+  "type": "Shtb",
+  "source": "Kalka",
+  "sourceCode": "KLK",
+  "destination": "NEW DELHI",
+  "destinationCode": "NDLS",
+  "departureTime": "06:15:00",
+  "arrivalTime": "10:25:00",
+  "duration": "4h 10m",
+  "distance": "303 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

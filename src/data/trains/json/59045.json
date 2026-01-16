@@ -1,0 +1,30 @@
+{
+  "number": "59045",
+  "name": "Vapi Passenger",
+  "type": "Pass",
+  "source": "MUMBAI BANDRA TERMINUS",
+  "sourceCode": "BDTS",
+  "destination": "VAPI",
+  "destinationCode": "VAPI",
+  "departureTime": "09:25:00",
+  "arrivalTime": "13:15:00",
+  "duration": "3h 50m",
+  "distance": "159 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

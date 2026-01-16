@@ -1,0 +1,30 @@
+{
+  "number": "52124",
+  "name": "Jamner Pachora Passenger",
+  "type": "Pass",
+  "source": "Jamner",
+  "sourceCode": "JMNR",
+  "destination": "PACHORA JN",
+  "destinationCode": "PC",
+  "departureTime": "17:05:00",
+  "arrivalTime": "19:05:00",
+  "duration": "2h 0m",
+  "distance": "56 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

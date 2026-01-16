@@ -1,0 +1,30 @@
+{
+  "number": "06838",
+  "name": "Manamadurai Karaikkudi Passenger",
+  "type": "Pass",
+  "source": "MANAMADURAI JN",
+  "sourceCode": "MNM",
+  "destination": "Karaikkudi Junction",
+  "destinationCode": "KKDI",
+  "departureTime": "07:55:00",
+  "arrivalTime": "09:15:00",
+  "duration": "1h 20m",
+  "distance": "61 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

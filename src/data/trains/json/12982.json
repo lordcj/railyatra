@@ -1,0 +1,31 @@
+{
+  "number": "12982",
+  "name": "Chetak Express",
+  "type": "SF",
+  "source": "UDAIPUR CITY",
+  "sourceCode": "UDZ",
+  "destination": "DELHI SARAI ROHILLA",
+  "destinationCode": "DEE",
+  "departureTime": "17:20:00",
+  "arrivalTime": "05:10:00",
+  "duration": "11h 50m",
+  "distance": "673 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

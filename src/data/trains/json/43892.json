@@ -1,0 +1,30 @@
+{
+  "number": "43892",
+  "name": "Pattabiram East Avadi EMU",
+  "type": "MEMU",
+  "source": "Pattabiram East",
+  "sourceCode": "PRES",
+  "destination": "AVADI",
+  "destinationCode": "AVD",
+  "departureTime": "23:35:00",
+  "arrivalTime": "23:55:00",
+  "duration": "0h 20m",
+  "distance": "10 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

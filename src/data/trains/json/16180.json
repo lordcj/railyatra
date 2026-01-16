@@ -1,0 +1,32 @@
+{
+  "number": "16180",
+  "name": "Mannai Express",
+  "type": "Exp",
+  "source": "Mannargudi",
+  "sourceCode": "MQ",
+  "destination": "CHENNAI EGMORE",
+  "destinationCode": "MS",
+  "departureTime": "21:15:00",
+  "arrivalTime": "05:50:00",
+  "duration": "8h 35m",
+  "distance": "395 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

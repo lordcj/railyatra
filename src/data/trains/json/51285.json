@@ -1,0 +1,30 @@
+{
+  "number": "51285",
+  "name": "Bhusaval Nagpur Passenger",
+  "type": "Pass",
+  "source": "BHUSAVAL JN",
+  "sourceCode": "BSL",
+  "destination": "NAGPUR",
+  "destinationCode": "NGP",
+  "departureTime": "19:30:00",
+  "arrivalTime": "08:45:00",
+  "duration": "13h 15m",
+  "distance": "392 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

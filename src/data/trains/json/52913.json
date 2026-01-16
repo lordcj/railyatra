@@ -1,0 +1,30 @@
+{
+  "number": "52913",
+  "name": "Patan Ahmedabad Passenger",
+  "type": "Pass",
+  "source": "RANUJ",
+  "sourceCode": "RUJ",
+  "destination": "AHMEDABAD JN",
+  "destinationCode": "ADI",
+  "departureTime": "12:25:00",
+  "arrivalTime": "17:25:00",
+  "duration": "5h 0m",
+  "distance": "125 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

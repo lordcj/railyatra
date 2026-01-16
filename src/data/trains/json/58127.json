@@ -1,0 +1,30 @@
+{
+  "number": "58127",
+  "name": "Jharsuguda Sambalpur Passenger",
+  "type": "Pass",
+  "source": "JHARSUGUDA JN",
+  "sourceCode": "JSG",
+  "destination": "SAMBALPUR",
+  "destinationCode": "SBP",
+  "departureTime": "17:20:00",
+  "arrivalTime": "18:55:00",
+  "duration": "1h 35m",
+  "distance": "50 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

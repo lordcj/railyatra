@@ -1,0 +1,30 @@
+{
+  "number": "02093",
+  "name": "Jaipur Loharu Passenger",
+  "type": "Pass",
+  "source": "JAIPUR",
+  "sourceCode": "JP",
+  "destination": "Loharu",
+  "destinationCode": "LHU",
+  "departureTime": "07:45:00",
+  "arrivalTime": "14:40:00",
+  "duration": "6h 55m",
+  "distance": "229 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

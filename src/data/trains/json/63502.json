@@ -1,0 +1,30 @@
+{
+  "number": "63502",
+  "name": "BWN Howrah EMU",
+  "type": "MEMU",
+  "source": "BARDDHAMAN JN",
+  "sourceCode": "BWN",
+  "destination": "HOWRAH JN",
+  "destinationCode": "HWH",
+  "departureTime": "21:58:00",
+  "arrivalTime": "00:20:00",
+  "duration": "2h 22m",
+  "distance": "105 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

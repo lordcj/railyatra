@@ -1,0 +1,30 @@
+{
+  "number": "56317",
+  "name": "Kochuveli Nagercoil Passenger",
+  "type": "Pass",
+  "source": "KOCHUVELI",
+  "sourceCode": "KCVL",
+  "destination": "NAGERCOIL JN",
+  "destinationCode": "NCJ",
+  "departureTime": "10:40:00",
+  "arrivalTime": "13:15:00",
+  "duration": "2h 35m",
+  "distance": "78 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

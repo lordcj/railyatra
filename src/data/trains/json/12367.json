@@ -1,0 +1,32 @@
+{
+  "number": "12367",
+  "name": "Vikramshila Express",
+  "type": "SF",
+  "source": "BHAGALPUR",
+  "sourceCode": "BGP",
+  "destination": "ANAND VIHAR TRM",
+  "destinationCode": "ANVT",
+  "departureTime": "11:15:00",
+  "arrivalTime": "07:40:00",
+  "duration": "20h 25m",
+  "distance": "1206 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

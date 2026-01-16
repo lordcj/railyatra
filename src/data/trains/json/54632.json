@@ -1,0 +1,30 @@
+{
+  "number": "54632",
+  "name": "Dhuri Hisar Passenger",
+  "type": "Pass",
+  "source": "DHURI JN",
+  "sourceCode": "DUI",
+  "destination": "Hisar",
+  "destinationCode": "HSR",
+  "departureTime": "05:20:00",
+  "arrivalTime": "09:05:00",
+  "duration": "3h 45m",
+  "distance": "148 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

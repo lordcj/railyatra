@@ -1,0 +1,30 @@
+{
+  "number": "55525",
+  "name": "Barauni-Samastipur Passenger",
+  "type": "Pass",
+  "source": "BARAUNI JN",
+  "sourceCode": "BJU",
+  "destination": "SAMASTIPUR JN",
+  "destinationCode": "SPJ",
+  "departureTime": "08:00:00",
+  "arrivalTime": "09:35:00",
+  "duration": "1h 35m",
+  "distance": "50 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

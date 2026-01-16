@@ -1,0 +1,31 @@
+{
+  "number": "12813",
+  "name": "Steel Express",
+  "type": "SF",
+  "source": "HOWRAH JN",
+  "sourceCode": "HWH",
+  "destination": "TATANAGAR JN",
+  "destinationCode": "TATA",
+  "departureTime": "17:30:00",
+  "arrivalTime": "21:25:00",
+  "duration": "3h 55m",
+  "distance": "250 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "3A",
+    "1A",
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

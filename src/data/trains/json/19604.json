@@ -1,0 +1,31 @@
+{
+  "number": "19604",
+  "name": "Sultanpur Ajmer Express",
+  "type": "Exp",
+  "source": "SULTANPUR",
+  "sourceCode": "SLN",
+  "destination": "AJMER JN",
+  "destinationCode": "AII",
+  "departureTime": "17:35:00",
+  "arrivalTime": "14:05:00",
+  "duration": "20h 30m",
+  "distance": "1068 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

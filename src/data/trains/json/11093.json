@@ -1,0 +1,31 @@
+{
+  "number": "11093",
+  "name": "MUMBAI CST - VARANASI Mahanagari Exp",
+  "type": "Exp",
+  "source": "MUMBAI CST",
+  "sourceCode": "CSTM",
+  "destination": "VARANASI JN",
+  "destinationCode": "BSB",
+  "departureTime": "00:10:00",
+  "arrivalTime": "04:40:00",
+  "duration": "28h 30m",
+  "distance": "1533 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

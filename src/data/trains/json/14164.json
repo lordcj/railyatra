@@ -1,0 +1,31 @@
+{
+  "number": "14164",
+  "name": "Sangam Express",
+  "type": "Exp",
+  "source": "MEERUT CITY",
+  "sourceCode": "MTC",
+  "destination": "ALLAHABAD JN",
+  "destinationCode": "ALD",
+  "departureTime": "19:00:00",
+  "arrivalTime": "08:10:00",
+  "duration": "13h 10m",
+  "distance": "639 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,31 @@
+{
+  "number": "12428",
+  "name": "DELHI ANAND VIHAR - REWA SF Exp",
+  "type": "SF",
+  "source": "ANAND VIHAR TRM",
+  "sourceCode": "ANVT",
+  "destination": "REWA",
+  "destinationCode": "REWA",
+  "departureTime": "23:55:00",
+  "arrivalTime": "14:15:00",
+  "duration": "14h 20m",
+  "distance": "860 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

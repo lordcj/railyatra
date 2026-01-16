@@ -1,0 +1,30 @@
+{
+  "number": "59393",
+  "name": "Dahod Habibganj Fast Pass",
+  "type": "Pass",
+  "source": "DAHOD",
+  "sourceCode": "DHD",
+  "destination": "HABIBGANJ",
+  "destinationCode": "HBJ",
+  "departureTime": "05:45:00",
+  "arrivalTime": "16:20:00",
+  "duration": "10h 35m",
+  "distance": "400 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

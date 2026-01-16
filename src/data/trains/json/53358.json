@@ -1,0 +1,30 @@
+{
+  "number": "53358",
+  "name": "Dehari On Sone - Barkakana Passenger",
+  "type": "Pass",
+  "source": "DEHRI ON SONE",
+  "sourceCode": "DOS",
+  "destination": "BARKAKANA",
+  "destinationCode": "BRKA",
+  "departureTime": "15:40:00",
+  "arrivalTime": "23:55:00",
+  "duration": "8h 15m",
+  "distance": "319 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

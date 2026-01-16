@@ -1,0 +1,31 @@
+{
+  "number": "18201",
+  "name": "Durg-Nautanwa (via Varanasi)Express",
+  "type": "Exp",
+  "source": "DURG",
+  "sourceCode": "DURG",
+  "destination": "Nautanwa",
+  "destinationCode": "NTV",
+  "departureTime": "19:40:00",
+  "arrivalTime": "22:15:00",
+  "duration": "26h 35m",
+  "distance": "1224 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

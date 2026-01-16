@@ -1,0 +1,30 @@
+{
+  "number": "53342",
+  "name": "Muri-Dhanbad Passenger",
+  "type": "Pass",
+  "source": "MURI",
+  "sourceCode": "MURI",
+  "destination": "DHANBAD JN",
+  "destinationCode": "DHN",
+  "departureTime": "04:20:00",
+  "arrivalTime": "08:50:00",
+  "duration": "4h 30m",
+  "distance": "101 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

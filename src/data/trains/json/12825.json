@@ -1,0 +1,31 @@
+{
+  "number": "12825",
+  "name": "Jharkhand Sampark Kranti Express",
+  "type": "SKr",
+  "source": "RANCHI",
+  "sourceCode": "RNC",
+  "destination": "NEW DELHI",
+  "destinationCode": "NDLS",
+  "departureTime": "23:40:00",
+  "arrivalTime": "20:50:00",
+  "duration": "21h 10m",
+  "distance": "1306 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

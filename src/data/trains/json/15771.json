@@ -1,0 +1,30 @@
+{
+  "number": "15771",
+  "name": "AlipurDuar-Kamakhya Intercity Express",
+  "type": "Exp",
+  "source": "ALIPUR DUAR JN",
+  "sourceCode": "APDJ",
+  "destination": "KAMAKHYA",
+  "destinationCode": "KYQ",
+  "departureTime": "05:25:00",
+  "arrivalTime": "11:55:00",
+  "duration": "6h 30m",
+  "distance": "297 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

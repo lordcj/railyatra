@@ -1,0 +1,29 @@
+{
+  "number": "14210",
+  "name": "Lucknow-Vindhyachal InterCity",
+  "type": "Exp",
+  "source": "LUCKNOW",
+  "sourceCode": "LKO",
+  "destination": "VINDHYACHAL",
+  "destinationCode": "BDL",
+  "departureTime": "07:30:00",
+  "arrivalTime": "13:10:00",
+  "duration": "5h 40m",
+  "distance": "284 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

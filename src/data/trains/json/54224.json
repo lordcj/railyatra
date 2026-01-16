@@ -1,0 +1,30 @@
+{
+  "number": "54224",
+  "name": "LalGanj Rae Bareli Passenger",
+  "type": "Pass",
+  "source": "Raghuraj Singh",
+  "sourceCode": "RRS",
+  "destination": "RAE BARELI JN",
+  "destinationCode": "RBL",
+  "departureTime": "20:30:00",
+  "arrivalTime": "22:20:00",
+  "duration": "1h 50m",
+  "distance": "56 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "53204",
+  "name": "Buxar Patna Passenger",
+  "type": "Pass",
+  "source": "BUXAR",
+  "sourceCode": "BXR",
+  "destination": "PATNA JN",
+  "destinationCode": "PNBE",
+  "departureTime": "09:00:00",
+  "arrivalTime": "13:45:00",
+  "duration": "4h 45m",
+  "distance": "117 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

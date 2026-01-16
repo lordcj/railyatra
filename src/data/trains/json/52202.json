@@ -1,0 +1,30 @@
+{
+  "number": "52202",
+  "name": "Lalkuan Kasganj Passenger",
+  "type": "Pass",
+  "source": "Lal Kuan",
+  "sourceCode": "LKKA",
+  "destination": "Kasganj Mg",
+  "destinationCode": "KSJF",
+  "departureTime": "14:25:00",
+  "arrivalTime": "21:55:00",
+  "duration": "7h 30m",
+  "distance": "188 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

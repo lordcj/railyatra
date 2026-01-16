@@ -1,0 +1,13 @@
+{
+  "code": "TVC",
+  "name": "Thiruvananthapuram",
+  "fullName": "Thiruvananthapuram Central",
+  "zone": "SR",
+  "state": "Kerala",
+  "category": "A1",
+  "platforms": 5,
+  "connectivity": [
+    "Bus",
+    "Taxi"
+  ]
+}

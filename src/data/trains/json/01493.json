@@ -1,0 +1,29 @@
+{
+  "number": "01493",
+  "name": "Hubli Bijapur Special",
+  "type": "Exp",
+  "source": "HUBLI JN",
+  "sourceCode": "UBL",
+  "destination": "BIJAPUR",
+  "destinationCode": "BJP",
+  "departureTime": "17:15:00",
+  "arrivalTime": "23:10:00",
+  "duration": "5h 55m",
+  "distance": "249 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

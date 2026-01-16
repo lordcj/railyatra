@@ -1,0 +1,29 @@
+{
+  "number": "12210",
+  "name": "Kathgodam-Kanpur Garib Rath",
+  "type": "GR",
+  "source": "KATHGODAM",
+  "sourceCode": "KGM",
+  "destination": "KANPUR CENTRAL",
+  "destinationCode": "CNB",
+  "departureTime": "18:30:00",
+  "arrivalTime": "04:30:00",
+  "duration": "10h 0m",
+  "distance": "459 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "3A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

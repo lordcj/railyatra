@@ -1,0 +1,30 @@
+{
+  "number": "55604",
+  "name": "Mairabari Guwahati Passenger",
+  "type": "Pass",
+  "source": "Mairabari",
+  "sourceCode": "MBO",
+  "destination": "GUWAHATI",
+  "destinationCode": "GHY",
+  "departureTime": "04:15:00",
+  "arrivalTime": "09:20:00",
+  "duration": "5h 5m",
+  "distance": "160 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "14511",
+  "name": "Allahabad-Saharanpur Nauchandi Express",
+  "type": "Exp",
+  "source": "ALLAHABAD JN",
+  "sourceCode": "ALD",
+  "destination": "SAHARANPUR",
+  "destinationCode": "SRE",
+  "departureTime": "17:40:00",
+  "arrivalTime": "11:45:00",
+  "duration": "18h 5m",
+  "distance": "774 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

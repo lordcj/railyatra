@@ -1,0 +1,13 @@
+{
+  "code": "JBP",
+  "name": "Jabalpur",
+  "fullName": "Jabalpur Railway Station",
+  "zone": "WCR",
+  "state": "Madhya Pradesh",
+  "category": "A1",
+  "platforms": 5,
+  "connectivity": [
+    "Bus",
+    "Taxi"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "number": "09742",
+  "name": "Delhi Sarai Rohilla - Rewari (Daily) Special",
+  "type": "Exp",
+  "source": "DELHI SARAI ROHILLA",
+  "sourceCode": "DEE",
+  "destination": "REWARI",
+  "destinationCode": "RE",
+  "departureTime": "11:00:00",
+  "arrivalTime": "12:30:00",
+  "duration": "1h 30m",
+  "distance": "78 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "3A",
+    "2A",
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

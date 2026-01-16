@@ -1,0 +1,30 @@
+{
+  "number": "57643",
+  "name": "Bagalkot Gadag Passenger",
+  "type": "Pass",
+  "source": "BAGALKOT",
+  "sourceCode": "BGK",
+  "destination": "GADAG JN",
+  "destinationCode": "GDG",
+  "departureTime": "17:30:00",
+  "arrivalTime": "19:25:00",
+  "duration": "1h 55m",
+  "distance": "94 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

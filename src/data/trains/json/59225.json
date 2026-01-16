@@ -1,0 +1,30 @@
+{
+  "number": "59225",
+  "name": "Bhavnagar Mahuva Passenger",
+  "type": "Pass",
+  "source": "BHAVNAGAR TERMINUS",
+  "sourceCode": "BVC",
+  "destination": "MAHUVA JN",
+  "destinationCode": "MHV",
+  "departureTime": "09:25:00",
+  "arrivalTime": "14:10:00",
+  "duration": "4h 45m",
+  "distance": "203 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

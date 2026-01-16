@@ -1,0 +1,30 @@
+{
+  "number": "59163",
+  "name": "Anand Vadtal Passenger",
+  "type": "Pass",
+  "source": "ANAND JN",
+  "sourceCode": "ANND",
+  "destination": "Vadtal Swaminarayan",
+  "destinationCode": "VTL",
+  "departureTime": "15:20:00",
+  "arrivalTime": "16:00:00",
+  "duration": "0h 40m",
+  "distance": "14 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

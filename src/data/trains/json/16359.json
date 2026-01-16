@@ -1,0 +1,31 @@
+{
+  "number": "16359",
+  "name": "ERNAKULAM - PATNA Exp",
+  "type": "Exp",
+  "source": "ERNAKULAM JN",
+  "sourceCode": "ERS",
+  "destination": "PATNA JN",
+  "destinationCode": "PNBE",
+  "departureTime": "22:45:00",
+  "arrivalTime": "09:50:00",
+  "duration": "59h 5m",
+  "distance": "2988 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

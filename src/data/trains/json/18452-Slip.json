@@ -1,0 +1,29 @@
+{
+  "number": "18452-Slip",
+  "name": "Tapaswini Express Slip",
+  "type": "Exp",
+  "source": "PURI",
+  "sourceCode": "PURI",
+  "destination": "RAYAGADA",
+  "destinationCode": "RGDA",
+  "departureTime": "20:40:00",
+  "arrivalTime": "13:20:00",
+  "duration": "16h 40m",
+  "distance": "696 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

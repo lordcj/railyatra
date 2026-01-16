@@ -1,0 +1,30 @@
+{
+  "number": "13348-Slip",
+  "name": "Palamau Express Slip Slip",
+  "type": "Exp",
+  "source": "PATNA JN",
+  "sourceCode": "PNBE",
+  "destination": "SINGRAULI",
+  "destinationCode": "SGRL",
+  "departureTime": "21:15:00",
+  "arrivalTime": "10:40:00",
+  "duration": "13h 25m",
+  "distance": "481 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

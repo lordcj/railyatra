@@ -1,0 +1,31 @@
+{
+  "number": "12458",
+  "name": "Bikaner-DelhiSaraiRohiilla Express",
+  "type": "SF",
+  "source": "BIKANER JN",
+  "sourceCode": "BKN",
+  "destination": "DELHI SARAI ROHILLA",
+  "destinationCode": "DEE",
+  "departureTime": "22:40:00",
+  "arrivalTime": "06:20:00",
+  "duration": "7h 40m",
+  "distance": "458 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

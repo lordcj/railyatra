@@ -1,0 +1,13 @@
+{
+  "code": "RNC",
+  "name": "Ranchi",
+  "fullName": "Ranchi Railway Station",
+  "zone": "SER",
+  "state": "Jharkhand",
+  "category": "A",
+  "platforms": 6,
+  "connectivity": [
+    "Bus",
+    "Taxi"
+  ]
+}

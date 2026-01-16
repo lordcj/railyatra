@@ -1,0 +1,30 @@
+{
+  "number": "14802",
+  "name": "Gandhidham Jodhpur Express",
+  "type": "Exp",
+  "source": "GANDHIDHAM BG",
+  "sourceCode": "GIMB",
+  "destination": "JODHPUR JN",
+  "destinationCode": "JU",
+  "departureTime": "20:30:00",
+  "arrivalTime": "05:40:00",
+  "duration": "9h 10m",
+  "distance": "559 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

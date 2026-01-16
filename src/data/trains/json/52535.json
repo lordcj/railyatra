@@ -1,0 +1,30 @@
+{
+  "number": "52535",
+  "name": "Banmankhi Bihariganj Passenger",
+  "type": "Pass",
+  "source": "Banmankhi Junction",
+  "sourceCode": "BNKI",
+  "destination": "Bihariganj",
+  "destinationCode": "BHGJ",
+  "departureTime": "13:40:00",
+  "arrivalTime": "15:40:00",
+  "duration": "2h 0m",
+  "distance": "27 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

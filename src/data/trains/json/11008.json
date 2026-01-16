@@ -1,0 +1,29 @@
+{
+  "number": "11008",
+  "name": "Deccan Express",
+  "type": "Exp",
+  "source": "PUNE JN",
+  "sourceCode": "PUNE",
+  "destination": "MUMBAI CST",
+  "destinationCode": "CSTM",
+  "departureTime": "15:30:00",
+  "arrivalTime": "19:40:00",
+  "duration": "4h 10m",
+  "distance": "192 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

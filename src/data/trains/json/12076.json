@@ -1,0 +1,29 @@
+{
+  "number": "12076",
+  "name": "Trivandrum-Kozhikode Jan Shatabdi Express",
+  "type": "JShtb",
+  "source": "TRIVANDRUM CENTRAL",
+  "sourceCode": "TVC",
+  "destination": "KOZHIKODE",
+  "destinationCode": "CLT",
+  "departureTime": "06:00:00",
+  "arrivalTime": "13:00:00",
+  "duration": "7h 0m",
+  "distance": "399 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

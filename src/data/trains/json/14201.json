@@ -1,0 +1,30 @@
+{
+  "number": "14201",
+  "name": "Jaunpur-Rae Bareliy Express",
+  "type": "Exp",
+  "source": "JAUNPUR JN",
+  "sourceCode": "JNU",
+  "destination": "RAE BARELI JN",
+  "destinationCode": "RBL",
+  "departureTime": "16:00:00",
+  "arrivalTime": "21:30:00",
+  "duration": "5h 30m",
+  "distance": "203 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

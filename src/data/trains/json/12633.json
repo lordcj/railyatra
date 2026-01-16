@@ -1,0 +1,32 @@
+{
+  "number": "12633",
+  "name": "CHENNAI EGMORE - KANNIYAKUMARI SF Exp",
+  "type": "SF",
+  "source": "CHENNAI EGMORE",
+  "sourceCode": "MS",
+  "destination": "KANYAKUMARI",
+  "destinationCode": "CAPE",
+  "departureTime": "17:30:00",
+  "arrivalTime": "06:50:00",
+  "duration": "13h 20m",
+  "distance": "742 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

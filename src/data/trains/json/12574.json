@@ -1,0 +1,31 @@
+{
+  "number": "12574",
+  "name": "Howrah-SainagarShirdi Express",
+  "type": "SF",
+  "source": "HOWRAH JN",
+  "sourceCode": "HWH",
+  "destination": "SAINAGAR SHIRDI",
+  "destinationCode": "SNSI",
+  "departureTime": "14:35:00",
+  "arrivalTime": "20:30:00",
+  "duration": "29h 55m",
+  "distance": "1791 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

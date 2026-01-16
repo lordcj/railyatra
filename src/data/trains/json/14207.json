@@ -1,0 +1,31 @@
+{
+  "number": "14207",
+  "name": "Padmavat Express",
+  "type": "Exp",
+  "source": "PARTAPGARH JN",
+  "sourceCode": "PBH",
+  "destination": "OLD DELHI",
+  "destinationCode": "DLI",
+  "departureTime": "17:00:00",
+  "arrivalTime": "07:10:00",
+  "duration": "14h 10m",
+  "distance": "660 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

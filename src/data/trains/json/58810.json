@@ -1,0 +1,30 @@
+{
+  "number": "58810",
+  "name": "Nagpur Ramtek Passenger",
+  "type": "Pass",
+  "source": "NAGPUR",
+  "sourceCode": "NGP",
+  "destination": "Ramtek",
+  "destinationCode": "RTK",
+  "departureTime": "05:40:00",
+  "arrivalTime": "07:09:00",
+  "duration": "1h 29m",
+  "distance": "42 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

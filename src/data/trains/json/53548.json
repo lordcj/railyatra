@@ -1,0 +1,30 @@
+{
+  "number": "53548",
+  "name": "Jasidih Andal Passenger",
+  "type": "Pass",
+  "source": "JASIDIH JN",
+  "sourceCode": "JSME",
+  "destination": "ANDAL JN",
+  "destinationCode": "UDL",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:30:00",
+  "duration": "4h 0m",
+  "distance": "136 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,32 @@
+{
+  "number": "12810",
+  "name": "HOWRAH - MUMBAI CST SF Mail (via NAGPUR)",
+  "type": "SF",
+  "source": "HOWRAH JN",
+  "sourceCode": "HWH",
+  "destination": "MUMBAI CST",
+  "destinationCode": "CSTM",
+  "departureTime": "20:15:00",
+  "arrivalTime": "05:25:00",
+  "duration": "33h 10m",
+  "distance": "1968 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

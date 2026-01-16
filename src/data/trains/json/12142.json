@@ -1,0 +1,31 @@
+{
+  "number": "12142",
+  "name": "PATLIPUTRA - MUMBAI LTT SF Exp",
+  "type": "SF",
+  "source": "PATLIPUTRA",
+  "sourceCode": "PPTA",
+  "destination": "LOKMANYA TILAK TERM",
+  "destinationCode": "LTT",
+  "departureTime": "10:40:00",
+  "arrivalTime": "15:30:00",
+  "duration": "28h 50m",
+  "distance": "1714 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

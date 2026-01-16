@@ -1,0 +1,31 @@
+{
+  "number": "18311",
+  "name": "SAMBALPUR - VARANASI Exp",
+  "type": "Exp",
+  "source": "SAMBALPUR",
+  "sourceCode": "SBP",
+  "destination": "VARANASI JN",
+  "destinationCode": "BSB",
+  "departureTime": "13:10:00",
+  "arrivalTime": "08:55:00",
+  "duration": "19h 45m",
+  "distance": "896 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,29 @@
+{
+  "number": "12364",
+  "name": "HALDIBARI - KOLKATA CHITPUR SF Intercity Exp",
+  "type": "SF",
+  "source": "HALDIBARI",
+  "sourceCode": "HDB",
+  "destination": "KOLKATA CHITPUR",
+  "destinationCode": "KOAA",
+  "departureTime": "08:35:00",
+  "arrivalTime": "19:40:00",
+  "duration": "11h 5m",
+  "distance": "620 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

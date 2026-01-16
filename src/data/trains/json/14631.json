@@ -1,0 +1,30 @@
+{
+  "number": "14631",
+  "name": "Dehradun Amritsar Express",
+  "type": "Exp",
+  "source": "DEHRADUN",
+  "sourceCode": "DDN",
+  "destination": "AMRITSAR JN",
+  "destinationCode": "ASR",
+  "departureTime": "19:40:00",
+  "arrivalTime": "07:30:00",
+  "duration": "11h 50m",
+  "distance": "463 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

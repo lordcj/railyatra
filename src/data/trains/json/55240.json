@@ -1,0 +1,30 @@
+{
+  "number": "55240",
+  "name": "Muzaffarpur-Samastipur Passenger",
+  "type": "Pass",
+  "source": "MUZAFFARPUR JN",
+  "sourceCode": "MFP",
+  "destination": "SAMASTIPUR JN",
+  "destinationCode": "SPJ",
+  "departureTime": "18:10:00",
+  "arrivalTime": "19:50:00",
+  "duration": "1h 40m",
+  "distance": "52 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,31 @@
+{
+  "number": "04203",
+  "name": "Varanasi-Old Delhi Special",
+  "type": "Exp",
+  "source": "VARANASI JN",
+  "sourceCode": "BSB",
+  "destination": "OLD DELHI",
+  "destinationCode": "DLI",
+  "departureTime": "20:00:00",
+  "arrivalTime": "10:10:00",
+  "duration": "14h 10m",
+  "distance": "770 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

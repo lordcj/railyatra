@@ -1,0 +1,31 @@
+{
+  "number": "14011",
+  "name": "Kathgodam-Anand Vihar AC Express",
+  "type": "Exp",
+  "source": "KATHGODAM",
+  "sourceCode": "KGM",
+  "destination": "ANAND VIHAR TRM",
+  "destinationCode": "ANVT",
+  "departureTime": "15:45:00",
+  "arrivalTime": "21:20:00",
+  "duration": "5h 35m",
+  "distance": "271 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

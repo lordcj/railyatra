@@ -1,0 +1,31 @@
+{
+  "number": "15708",
+  "name": "Amrapali Express",
+  "type": "Exp",
+  "source": "AMRITSAR JN",
+  "sourceCode": "ASR",
+  "destination": "KATIHAR JN",
+  "destinationCode": "KIR",
+  "departureTime": "07:15:00",
+  "arrivalTime": "20:10:00",
+  "duration": "36h 55m",
+  "distance": "1805 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

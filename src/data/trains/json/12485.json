@@ -1,0 +1,30 @@
+{
+  "number": "12485",
+  "name": "H S NANDED - SHRI GANGANAGAR Exp",
+  "type": "SF",
+  "source": "HUZUR SAHIB NANDED",
+  "sourceCode": "NED",
+  "destination": "SHRI GANGANAGAR",
+  "destinationCode": "SGNR",
+  "departureTime": "23:30:00",
+  "arrivalTime": "10:55:00",
+  "duration": "35h 25m",
+  "distance": "1965 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

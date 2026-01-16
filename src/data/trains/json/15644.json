@@ -1,0 +1,30 @@
+{
+  "number": "15644",
+  "name": "KAMAKHYA - PURI Weekly Spl",
+  "type": "Exp",
+  "source": "KAMAKHYA",
+  "sourceCode": "KYQ",
+  "destination": "PURI",
+  "destinationCode": "PURI",
+  "departureTime": "23:45:00",
+  "arrivalTime": "07:45:00",
+  "duration": "32h 0m",
+  "distance": "1572 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

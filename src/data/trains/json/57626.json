@@ -1,0 +1,29 @@
+{
+  "number": "57626",
+  "name": "Kakatiya Fast Passenger",
+  "type": "Pass",
+  "source": "Manuguru",
+  "sourceCode": "MUGR",
+  "destination": "SECUNDERABAD JN",
+  "destinationCode": "SC",
+  "departureTime": "22:15:00",
+  "arrivalTime": "09:25:00",
+  "duration": "11h 10m",
+  "distance": "331 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

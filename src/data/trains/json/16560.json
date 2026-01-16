@@ -1,0 +1,30 @@
+{
+  "number": "16560",
+  "name": "Yeshvantapur-Mysore Express",
+  "type": "Exp",
+  "source": "YESVANTPUR JN",
+  "sourceCode": "YPR",
+  "destination": "MYSORE JN",
+  "destinationCode": "MYS",
+  "departureTime": "10:10:00",
+  "arrivalTime": "13:50:00",
+  "duration": "3h 40m",
+  "distance": "143 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "51613",
+  "name": "KOTA - KATNI Passenger",
+  "type": "Pass",
+  "source": "KOTA JN",
+  "sourceCode": "KOTA",
+  "destination": "KATNI",
+  "destinationCode": "KTE",
+  "departureTime": "18:05:00",
+  "arrivalTime": "12:00:00",
+  "duration": "17h 55m",
+  "distance": "455 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "51426",
+  "name": "Miraj-Parli Vaijnath Passenger",
+  "type": "Pass",
+  "source": "MIRAJ JN",
+  "sourceCode": "MRJ",
+  "destination": "PARLI VAIJNATH",
+  "destinationCode": "PRLI",
+  "departureTime": "20:30:00",
+  "arrivalTime": "06:00:00",
+  "duration": "9h 30m",
+  "distance": "438 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

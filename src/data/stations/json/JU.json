@@ -1,0 +1,13 @@
+{
+  "code": "JU",
+  "name": "Jodhpur",
+  "fullName": "Jodhpur Junction",
+  "zone": "NWR",
+  "state": "Rajasthan",
+  "category": "A1",
+  "platforms": 6,
+  "connectivity": [
+    "Bus",
+    "Taxi"
+  ]
+}

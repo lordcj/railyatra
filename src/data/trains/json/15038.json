@@ -1,0 +1,30 @@
+{
+  "number": "15038",
+  "name": "Kasganj Kanpur Express",
+  "type": "Exp",
+  "source": "KASGANJ",
+  "sourceCode": "KSJ",
+  "destination": "KANPUR CENTRAL",
+  "destinationCode": "CNB",
+  "departureTime": "12:00:00",
+  "arrivalTime": "17:35:00",
+  "duration": "5h 35m",
+  "distance": "247 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "52541",
+  "name": "Kurseong Darjeeling Toy Train",
+  "type": "Pass",
+  "source": "NEW JALPAIGURI",
+  "sourceCode": "NJP",
+  "destination": "Darjeeling",
+  "destinationCode": "DJ",
+  "departureTime": "09:00:00",
+  "arrivalTime": "16:15:00",
+  "duration": "7h 15m",
+  "distance": "88 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

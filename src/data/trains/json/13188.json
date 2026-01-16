@@ -1,0 +1,29 @@
+{
+  "number": "13188",
+  "name": "Rampurhat- Sealdah Express",
+  "type": "Exp",
+  "source": "RAMPUR HAT",
+  "sourceCode": "RPH",
+  "destination": "KOLKATA SEALDAH",
+  "destinationCode": "SDAH",
+  "departureTime": "14:05:00",
+  "arrivalTime": "18:45:00",
+  "duration": "4h 40m",
+  "distance": "226 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

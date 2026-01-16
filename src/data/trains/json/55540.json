@@ -1,0 +1,30 @@
+{
+  "number": "55540",
+  "name": "Hajipur-Katihar Passenger",
+  "type": "Pass",
+  "source": "HAJIPUR JN",
+  "sourceCode": "HJP",
+  "destination": "KATIHAR JN",
+  "destinationCode": "KIR",
+  "departureTime": "14:40:00",
+  "arrivalTime": "00:05:00",
+  "duration": "9h 25m",
+  "distance": "268 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

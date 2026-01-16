@@ -1,0 +1,31 @@
+{
+  "number": "17207",
+  "name": "Sainagar Shiridi Vijayawada Express",
+  "type": "Exp",
+  "source": "SAINAGAR SHIRDI",
+  "sourceCode": "SNSI",
+  "destination": "VIJAYAWADA JN",
+  "destinationCode": "BZA",
+  "departureTime": "17:10:00",
+  "arrivalTime": "15:25:00",
+  "duration": "22h 15m",
+  "distance": "1127 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

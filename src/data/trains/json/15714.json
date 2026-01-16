@@ -1,0 +1,29 @@
+{
+  "number": "15714",
+  "name": "InterCity Express",
+  "type": "Exp",
+  "source": "PATNA JN",
+  "sourceCode": "PNBE",
+  "destination": "KATIHAR JN",
+  "destinationCode": "KIR",
+  "departureTime": "14:15:00",
+  "arrivalTime": "21:35:00",
+  "duration": "7h 20m",
+  "distance": "290 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

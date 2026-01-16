@@ -1,0 +1,30 @@
+{
+  "number": "19944",
+  "name": "AHMEDABAD - UDAIPUR Exp",
+  "type": "Exp",
+  "source": "AHMEDABAD JN",
+  "sourceCode": "ADIJ",
+  "destination": "UDAIPUR CITY",
+  "destinationCode": "UDZ",
+  "departureTime": "23:00:00",
+  "arrivalTime": "08:05:00",
+  "duration": "9h 5m",
+  "distance": "298 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

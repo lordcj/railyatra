@@ -1,0 +1,30 @@
+{
+  "number": "24888",
+  "name": "Barmer-Haridwar Link Express",
+  "type": "Exp",
+  "source": "BARMER",
+  "sourceCode": "BME",
+  "destination": "HARIDWAR JN",
+  "destinationCode": "HW",
+  "departureTime": "06:45:00",
+  "arrivalTime": "09:30:00",
+  "duration": "26h 45m",
+  "distance": "1169 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

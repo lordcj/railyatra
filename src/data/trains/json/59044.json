@@ -1,0 +1,30 @@
+{
+  "number": "59044",
+  "name": "Dahanu Virar Shuttle",
+  "type": "Pass",
+  "source": "DAHANU ROAD",
+  "sourceCode": "DRD",
+  "destination": "VIRAR",
+  "destinationCode": "VR",
+  "departureTime": "04:55:00",
+  "arrivalTime": "06:15:00",
+  "duration": "1h 20m",
+  "distance": "64 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

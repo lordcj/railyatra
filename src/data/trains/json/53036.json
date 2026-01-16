@@ -1,0 +1,30 @@
+{
+  "number": "53036",
+  "name": "Barharwa Azimganj Passenger",
+  "type": "Pass",
+  "source": "BARHARWA JN",
+  "sourceCode": "BHW",
+  "destination": "AZIMGANJ JN",
+  "destinationCode": "AZ",
+  "departureTime": "03:45:00",
+  "arrivalTime": "06:35:00",
+  "duration": "2h 50m",
+  "distance": "94 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

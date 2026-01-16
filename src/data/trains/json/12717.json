@@ -1,0 +1,29 @@
+{
+  "number": "12717",
+  "name": "Ratnachal SF Express",
+  "type": "SF",
+  "source": "VISHAKAPATNAM",
+  "sourceCode": "VSKP",
+  "destination": "VIJAYAWADA JN",
+  "destinationCode": "BZA",
+  "departureTime": "12:30:00",
+  "arrivalTime": "18:35:00",
+  "duration": "6h 5m",
+  "distance": "351 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,32 @@
+{
+  "number": "09736",
+  "name": "Jaipur - Secunderabad (Weekly) Special",
+  "type": "Exp",
+  "source": "JAIPUR",
+  "sourceCode": "JP",
+  "destination": "SECUNDERABAD JN",
+  "destinationCode": "SC",
+  "departureTime": "21:10:00",
+  "arrivalTime": "03:55:00",
+  "duration": "30h 45m",
+  "distance": "1669 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "55024",
+  "name": "Raxaul Muzaffarpur Passenger",
+  "type": "Pass",
+  "source": "RAXAUL JN",
+  "sourceCode": "RXL",
+  "destination": "MUZAFFARPUR JN",
+  "destinationCode": "MFP",
+  "departureTime": "06:00:00",
+  "arrivalTime": "10:35:00",
+  "duration": "4h 35m",
+  "distance": "130 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

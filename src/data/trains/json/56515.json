@@ -1,0 +1,30 @@
+{
+  "number": "56515",
+  "name": "BANGALORE CITY - HUBLI Pass",
+  "type": "Pass",
+  "source": "BANGALORE CITY JN",
+  "sourceCode": "SBC",
+  "destination": "HUBLI JN",
+  "destinationCode": "UBL",
+  "departureTime": "07:50:00",
+  "arrivalTime": "20:20:00",
+  "duration": "12h 30m",
+  "distance": "471 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

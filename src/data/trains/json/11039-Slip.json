@@ -1,0 +1,29 @@
+{
+  "number": "11039-Slip",
+  "name": "Kolhapur-Gorakhpur Express Slip",
+  "type": "Exp",
+  "source": "C SHAHU M RAJ KOLHAPUR TERM",
+  "sourceCode": "KOP",
+  "destination": "GORAKHPUR JN",
+  "destinationCode": "GKP",
+  "departureTime": "15:30:00",
+  "arrivalTime": "19:10:00",
+  "duration": "51h 40m",
+  "distance": "2107 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

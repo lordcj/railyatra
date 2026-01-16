@@ -1,0 +1,30 @@
+{
+  "number": "33512",
+  "name": "Hasanabad Sealdah EMU",
+  "type": "MEMU",
+  "source": "Hasanabad",
+  "sourceCode": "HNB",
+  "destination": "KOLKATA SEALDAH",
+  "destinationCode": "SDAH",
+  "departureTime": "03:05:00",
+  "arrivalTime": "05:30:00",
+  "duration": "2h 25m",
+  "distance": "0 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

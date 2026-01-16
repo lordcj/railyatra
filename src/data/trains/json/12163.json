@@ -1,0 +1,32 @@
+{
+  "number": "12163",
+  "name": "DADAR - CHENNAI EGMORE SF Exp",
+  "type": "Express",
+  "source": "MUMBAI DADAR CENTRAL",
+  "sourceCode": "DR",
+  "destination": "CHENNAI EGMORE",
+  "destinationCode": "MS",
+  "departureTime": "None",
+  "arrivalTime": "None",
+  "duration": "0h 0m",
+  "distance": "0 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "IR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

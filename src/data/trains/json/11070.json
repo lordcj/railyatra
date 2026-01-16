@@ -1,0 +1,31 @@
+{
+  "number": "11070",
+  "name": "Tulsi Express",
+  "type": "Exp",
+  "source": "ALLAHABAD JN",
+  "sourceCode": "ALD",
+  "destination": "LOKMANYA TILAK TERM",
+  "destinationCode": "LTT",
+  "departureTime": "16:15:00",
+  "arrivalTime": "21:40:00",
+  "duration": "29h 25m",
+  "distance": "1511 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

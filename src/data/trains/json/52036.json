@@ -1,0 +1,30 @@
+{
+  "number": "52036",
+  "name": "Pratapnagar Jambusar Passenger",
+  "type": "Pass",
+  "source": "Pratapnagar",
+  "sourceCode": "PRTN",
+  "destination": "Jambusar Junction",
+  "destinationCode": "JMB",
+  "departureTime": "10:00:00",
+  "arrivalTime": "13:00:00",
+  "duration": "3h 0m",
+  "distance": "51 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

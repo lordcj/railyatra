@@ -1,0 +1,30 @@
+{
+  "number": "55138",
+  "name": "Shahganj Ballia Passenger",
+  "type": "Pass",
+  "source": "SHAHGANJ JN",
+  "sourceCode": "SHG",
+  "destination": "BALLIA",
+  "destinationCode": "BUI",
+  "departureTime": "06:15:00",
+  "arrivalTime": "10:45:00",
+  "duration": "4h 30m",
+  "distance": "168 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

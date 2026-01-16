@@ -1,0 +1,32 @@
+{
+  "number": "12615",
+  "name": "Grand Trunk (GT) Express",
+  "type": "SF",
+  "source": "CHENNAI CENTRAL",
+  "sourceCode": "MAS",
+  "destination": "NEW DELHI",
+  "destinationCode": "NDLS",
+  "departureTime": "19:15:00",
+  "arrivalTime": "06:20:00",
+  "duration": "35h 5m",
+  "distance": "2184 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

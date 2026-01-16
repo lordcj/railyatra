@@ -1,0 +1,30 @@
+{
+  "number": "56846",
+  "name": "Erode Jolarpettai Passenger",
+  "type": "Pass",
+  "source": "ERODE JN",
+  "sourceCode": "ED",
+  "destination": "JOLARPETTAI",
+  "destinationCode": "JTJ",
+  "departureTime": "16:20:00",
+  "arrivalTime": "21:15:00",
+  "duration": "4h 55m",
+  "distance": "182 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

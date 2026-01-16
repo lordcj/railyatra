@@ -1,0 +1,31 @@
+{
+  "number": "15005",
+  "name": "Rapti Ganga Express",
+  "type": "Exp",
+  "source": "GORAKHPUR JN",
+  "sourceCode": "GKP",
+  "destination": "DEHRADUN",
+  "destinationCode": "DDN",
+  "departureTime": "21:10:00",
+  "arrivalTime": "14:00:00",
+  "duration": "16h 50m",
+  "distance": "815 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,29 @@
+{
+  "number": "17233",
+  "name": "Bhagyanagar Express",
+  "type": "Exp",
+  "source": "SECUNDERABAD JN",
+  "sourceCode": "SC",
+  "destination": "BALHARSHAH",
+  "destinationCode": "BPQ",
+  "departureTime": "15:25:00",
+  "arrivalTime": "01:00:00",
+  "duration": "9h 35m",
+  "distance": "367 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

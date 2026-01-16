@@ -1,0 +1,29 @@
+{
+  "number": "13187",
+  "name": "Maa Tara Express",
+  "type": "Exp",
+  "source": "KOLKATA SEALDAH",
+  "sourceCode": "SDAH",
+  "destination": "RAMPUR HAT",
+  "destinationCode": "RPH",
+  "departureTime": "07:25:00",
+  "arrivalTime": "12:15:00",
+  "duration": "4h 50m",
+  "distance": "226 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

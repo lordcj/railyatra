@@ -1,0 +1,30 @@
+{
+  "number": "54794",
+  "name": "Mathura Bayana Passenger",
+  "type": "Pass",
+  "source": "MATHURA JN",
+  "sourceCode": "MTJ",
+  "destination": "SAWAI MADHOPUR",
+  "destinationCode": "SWM",
+  "departureTime": "14:00:00",
+  "arrivalTime": "19:45:00",
+  "duration": "5h 45m",
+  "distance": "217 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

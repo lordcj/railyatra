@@ -1,0 +1,29 @@
+{
+  "number": "19802",
+  "name": "Indore-Kota InterCity Express",
+  "type": "Exp",
+  "source": "INDORE JN BG",
+  "sourceCode": "INDB",
+  "destination": "KOTA JN",
+  "destinationCode": "KOTA",
+  "departureTime": "14:50:00",
+  "arrivalTime": "23:25:00",
+  "duration": "8h 35m",
+  "distance": "433 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WCR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

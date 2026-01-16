@@ -1,0 +1,32 @@
+{
+  "number": "14659",
+  "name": "Delhi-Jaisalmer Express",
+  "type": "Exp",
+  "source": "OLD DELHI",
+  "sourceCode": "DLI",
+  "destination": "JAISALMER",
+  "destinationCode": "JSM",
+  "departureTime": "17:30:00",
+  "arrivalTime": "11:00:00",
+  "duration": "17h 30m",
+  "distance": "921 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

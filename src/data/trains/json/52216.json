@@ -1,0 +1,30 @@
+{
+  "number": "52216",
+  "name": "Pilibhit Bareilly Passenger",
+  "type": "Pass",
+  "source": "PILIBHIT JN",
+  "sourceCode": "PBE",
+  "destination": "BAREILLY",
+  "destinationCode": "BRY",
+  "departureTime": "12:55:00",
+  "arrivalTime": "15:15:00",
+  "duration": "2h 20m",
+  "distance": "58 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

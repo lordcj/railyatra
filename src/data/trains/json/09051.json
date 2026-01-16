@@ -1,0 +1,31 @@
+{
+  "number": "09051",
+  "name": "Valsad-Varanasi Weekly Special",
+  "type": "Exp",
+  "source": "VALSAD",
+  "sourceCode": "BL",
+  "destination": "VARANASI JN",
+  "destinationCode": "BSB",
+  "departureTime": "19:40:00",
+  "arrivalTime": "01:10:00",
+  "duration": "29h 30m",
+  "distance": "1467 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

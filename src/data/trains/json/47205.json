@@ -1,0 +1,30 @@
+{
+  "number": "47205",
+  "name": "Secunderabad Falaknuma MMTS",
+  "type": "Hyd",
+  "source": "SECUNDERABAD JN",
+  "sourceCode": "SC",
+  "destination": "KACHEGUDA FALAKNUMA",
+  "destinationCode": "FM",
+  "departureTime": "04:50:00",
+  "arrivalTime": "05:20:00",
+  "duration": "0h 30m",
+  "distance": "14 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

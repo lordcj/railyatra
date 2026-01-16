@@ -1,0 +1,30 @@
+{
+  "number": "02085",
+  "name": "Jaipur - Churu Passenger Spl (MG)",
+  "type": "Pass",
+  "source": "JAIPUR",
+  "sourceCode": "JP",
+  "destination": "Churu",
+  "destinationCode": "CUR",
+  "departureTime": "16:55:00",
+  "arrivalTime": "22:15:00",
+  "duration": "5h 20m",
+  "distance": "198 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

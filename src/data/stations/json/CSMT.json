@@ -1,0 +1,14 @@
+{
+  "code": "CSMT",
+  "name": "Mumbai CSMT",
+  "fullName": "Chhatrapati Shivaji Maharaj Terminus",
+  "zone": "CR",
+  "state": "Maharashtra",
+  "category": "A1",
+  "platforms": 18,
+  "connectivity": [
+    "Metro",
+    "Local",
+    "Bus"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "number": "40021",
+  "name": "Chennai Beach PallavaramEMU",
+  "type": "MEMU",
+  "source": "CHENNAI BEACH",
+  "sourceCode": "MSB",
+  "destination": "PALLAVARAM",
+  "destinationCode": "PV",
+  "departureTime": "08:19:00",
+  "arrivalTime": "08:58:00",
+  "duration": "0h 39m",
+  "distance": "27 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

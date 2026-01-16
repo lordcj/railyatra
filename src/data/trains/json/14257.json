@@ -1,0 +1,32 @@
+{
+  "number": "14257",
+  "name": "Kashi Vishwanath Express",
+  "type": "Exp",
+  "source": "VARANASI JN",
+  "sourceCode": "BSB",
+  "destination": "NEW DELHI",
+  "destinationCode": "NDLS",
+  "departureTime": "13:45:00",
+  "arrivalTime": "06:10:00",
+  "duration": "16h 25m",
+  "distance": "794 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

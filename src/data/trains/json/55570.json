@@ -1,0 +1,30 @@
+{
+  "number": "55570",
+  "name": "Saharsa-DauramMadhepura Passenger",
+  "type": "Pass",
+  "source": "SAHARSA JN",
+  "sourceCode": "SHC",
+  "destination": "Dauram Madhepura",
+  "destinationCode": "DMH",
+  "departureTime": "09:50:00",
+  "arrivalTime": "10:45:00",
+  "duration": "0h 55m",
+  "distance": "22 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

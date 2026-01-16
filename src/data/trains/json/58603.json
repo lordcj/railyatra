@@ -1,0 +1,30 @@
+{
+  "number": "58603",
+  "name": "Kharagpur-Dhanbad Passenger",
+  "type": "Pass",
+  "source": "KHARAGPUR JN",
+  "sourceCode": "KGP",
+  "destination": "DHANBAD JN",
+  "destinationCode": "DHN",
+  "departureTime": "14:20:00",
+  "arrivalTime": "23:05:00",
+  "duration": "8h 45m",
+  "distance": "278 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,32 @@
+{
+  "number": "16535",
+  "name": "Gol Gumbaz Express",
+  "type": "Exp",
+  "source": "YESVANTPUR JN",
+  "sourceCode": "YPR",
+  "destination": "SOLAPUR JN",
+  "destinationCode": "SUR",
+  "departureTime": "19:45:00",
+  "arrivalTime": "13:25:00",
+  "duration": "17h 40m",
+  "distance": "822 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

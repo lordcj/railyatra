@@ -1,0 +1,30 @@
+{
+  "number": "19053",
+  "name": "SURAT - MUZAFFARPUR Exp",
+  "type": "Exp",
+  "source": "SURAT",
+  "sourceCode": "ST",
+  "destination": "MUZAFFARPUR JN",
+  "destinationCode": "MFP",
+  "departureTime": "05:30:00",
+  "arrivalTime": "04:30:00",
+  "duration": "47h 0m",
+  "distance": "2135 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

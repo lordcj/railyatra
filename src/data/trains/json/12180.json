@@ -1,0 +1,29 @@
+{
+  "number": "12180",
+  "name": "Agra Lucknow Intercity SF Express",
+  "type": "SF",
+  "source": "AGRA CANTT",
+  "sourceCode": "AGC",
+  "destination": "LUCKNOW JN",
+  "destinationCode": "LJN",
+  "departureTime": "06:10:00",
+  "arrivalTime": "11:45:00",
+  "duration": "5h 35m",
+  "distance": "330 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

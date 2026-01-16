@@ -1,0 +1,30 @@
+{
+  "number": "63252",
+  "name": "Gaya Patna Passenger MEMU",
+  "type": "MEMU",
+  "source": "GAYA JN",
+  "sourceCode": "GAYA",
+  "destination": "PATNA JN",
+  "destinationCode": "PNBE",
+  "departureTime": "15:00:00",
+  "arrivalTime": "18:00:00",
+  "duration": "3h 0m",
+  "distance": "92 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

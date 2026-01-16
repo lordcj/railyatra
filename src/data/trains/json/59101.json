@@ -1,0 +1,30 @@
+{
+  "number": "59101",
+  "name": "Vadodara Kathana Passenger",
+  "type": "Pass",
+  "source": "VADODARA JN",
+  "sourceCode": "BRC",
+  "destination": "Kathana",
+  "destinationCode": "KTNA",
+  "departureTime": "16:05:00",
+  "arrivalTime": "18:30:00",
+  "duration": "2h 25m",
+  "distance": "73 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

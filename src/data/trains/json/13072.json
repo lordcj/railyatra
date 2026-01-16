@@ -1,0 +1,32 @@
+{
+  "number": "13072",
+  "name": "Howrah Express",
+  "type": "Exp",
+  "source": "JAMALPUR JN",
+  "sourceCode": "JMP",
+  "destination": "HOWRAH JN",
+  "destinationCode": "HWH",
+  "departureTime": "19:30:00",
+  "arrivalTime": "05:30:00",
+  "duration": "10h 0m",
+  "distance": "467 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

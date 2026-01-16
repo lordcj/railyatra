@@ -1,0 +1,30 @@
+{
+  "number": "51195",
+  "name": "Wardha Balharshah Passenger",
+  "type": "Pass",
+  "source": "WARDHA JN",
+  "sourceCode": "WR",
+  "destination": "BALHARSHAH",
+  "destinationCode": "BPQ",
+  "departureTime": "07:15:00",
+  "arrivalTime": "10:30:00",
+  "duration": "3h 15m",
+  "distance": "132 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

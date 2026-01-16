@@ -1,0 +1,29 @@
+{
+  "number": "56700",
+  "name": "Madurai-Kollam Passenger",
+  "type": "Pass",
+  "source": "MADURAI JN",
+  "sourceCode": "MDU",
+  "destination": "KOLLAM JN",
+  "destinationCode": "QLN",
+  "departureTime": "22:50:00",
+  "arrivalTime": "09:05:00",
+  "duration": "10h 15m",
+  "distance": "366 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

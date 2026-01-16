@@ -1,0 +1,30 @@
+{
+  "number": "19113",
+  "name": "Bhilad Vadodara Express",
+  "type": "Exp",
+  "source": "BHILAD",
+  "sourceCode": "BLD",
+  "destination": "VADODARA JN",
+  "destinationCode": "BRC",
+  "departureTime": "16:15:00",
+  "arrivalTime": "20:45:00",
+  "duration": "4h 30m",
+  "distance": "236 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

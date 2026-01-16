@@ -1,0 +1,29 @@
+{
+  "number": "15104",
+  "name": "Manduadih Gorakhpur InterCity",
+  "type": "Exp",
+  "source": "MANDUADIH",
+  "sourceCode": "MUV",
+  "destination": "GORAKHPUR JN",
+  "destinationCode": "GKP",
+  "departureTime": "05:30:00",
+  "arrivalTime": "11:10:00",
+  "duration": "5h 40m",
+  "distance": "235 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "3A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

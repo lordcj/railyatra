@@ -1,0 +1,30 @@
+{
+  "number": "54092",
+  "name": "Kotdwara Najibabad Passenger",
+  "type": "Pass",
+  "source": "KOTDWARA",
+  "sourceCode": "KTW",
+  "destination": "NAJIBABAD JN",
+  "destinationCode": "NBD",
+  "departureTime": "07:40:00",
+  "arrivalTime": "08:25:00",
+  "duration": "0h 45m",
+  "distance": "24 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

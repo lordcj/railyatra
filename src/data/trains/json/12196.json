@@ -1,0 +1,29 @@
+{
+  "number": "12196",
+  "name": "Ajmer-Agra Fort Express",
+  "type": "SF",
+  "source": "AJMER JN",
+  "sourceCode": "AII",
+  "destination": "AGRA FORT",
+  "destinationCode": "AF",
+  "departureTime": "15:10:00",
+  "arrivalTime": "21:30:00",
+  "duration": "6h 20m",
+  "distance": "376 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

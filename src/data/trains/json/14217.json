@@ -1,0 +1,31 @@
+{
+  "number": "14217",
+  "name": "Unchahar Express",
+  "type": "Exp",
+  "source": "ALLAHABAD JN",
+  "sourceCode": "ALD",
+  "destination": "CHANDIGARH",
+  "destinationCode": "CDG",
+  "departureTime": "14:15:00",
+  "arrivalTime": "10:15:00",
+  "duration": "20h 0m",
+  "distance": "913 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

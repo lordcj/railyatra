@@ -1,0 +1,30 @@
+{
+  "number": "54557",
+  "name": "Ambala Patiala Passenger",
+  "type": "Pass",
+  "source": "AMBALA CANT JN",
+  "sourceCode": "UMB",
+  "destination": "Patiala",
+  "destinationCode": "PTA",
+  "departureTime": "07:40:00",
+  "arrivalTime": "09:00:00",
+  "duration": "1h 20m",
+  "distance": "53 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,29 @@
+{
+  "number": "12713",
+  "name": "Satavahana Express",
+  "type": "SF",
+  "source": "VIJAYAWADA JN",
+  "sourceCode": "BZA",
+  "destination": "SECUNDERABAD JN",
+  "destinationCode": "SC",
+  "departureTime": "06:10:00",
+  "arrivalTime": "11:45:00",
+  "duration": "5h 35m",
+  "distance": "351 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

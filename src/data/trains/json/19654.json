@@ -1,0 +1,30 @@
+{
+  "number": "19654",
+  "name": "Ajmer-Ratlam Express",
+  "type": "Exp",
+  "source": "AJMER JN",
+  "sourceCode": "AII",
+  "destination": "RATLAM JN",
+  "destinationCode": "RTM",
+  "departureTime": "13:25:00",
+  "arrivalTime": "20:55:00",
+  "duration": "7h 30m",
+  "distance": "375 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

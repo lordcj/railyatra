@@ -1,0 +1,30 @@
+{
+  "number": "58003",
+  "name": "Howrah Bhadrak Passenger",
+  "type": "Pass",
+  "source": "HOWRAH JN",
+  "sourceCode": "HWH",
+  "destination": "BHADRAKH",
+  "destinationCode": "BHC",
+  "departureTime": "15:30:00",
+  "arrivalTime": "22:15:00",
+  "duration": "6h 45m",
+  "distance": "294 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

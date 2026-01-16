@@ -1,0 +1,30 @@
+{
+  "number": "53137",
+  "name": "Rampurhat- Barharwa Passenger",
+  "type": "Pass",
+  "source": "RAMPUR HAT",
+  "sourceCode": "RPH",
+  "destination": "BARHARWA JN",
+  "destinationCode": "BHW",
+  "departureTime": "04:30:00",
+  "arrivalTime": "06:35:00",
+  "duration": "2h 5m",
+  "distance": "79 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

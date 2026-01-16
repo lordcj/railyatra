@@ -1,0 +1,29 @@
+{
+  "number": "58112",
+  "name": "ITWARI - TATANAGAR Passenger",
+  "type": "Pass",
+  "source": "ITWARI",
+  "sourceCode": "ITR",
+  "destination": "TATANAGAR JN",
+  "destinationCode": "TATA",
+  "departureTime": "21:30:00",
+  "arrivalTime": "00:05:00",
+  "duration": "26h 35m",
+  "distance": "878 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

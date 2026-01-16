@@ -1,0 +1,30 @@
+{
+  "number": "54158",
+  "name": "Kanpur Jhansi Passenger",
+  "type": "Pass",
+  "source": "KANPUR CENTRAL",
+  "sourceCode": "CNB",
+  "destination": "JHANSI JN",
+  "destinationCode": "JHS",
+  "departureTime": "06:28:00",
+  "arrivalTime": "12:25:00",
+  "duration": "5h 57m",
+  "distance": "214 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

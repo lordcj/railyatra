@@ -1,0 +1,30 @@
+{
+  "number": "47196",
+  "name": "Secunderabad Hyderabad MMTS",
+  "type": "Hyd",
+  "source": "SECUNDERABAD JN",
+  "sourceCode": "SC",
+  "destination": "HYDERABAD DECCAN",
+  "destinationCode": "HYB",
+  "departureTime": "05:10:00",
+  "arrivalTime": "05:35:00",
+  "duration": "0h 25m",
+  "distance": "8 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

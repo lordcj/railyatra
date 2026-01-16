@@ -1,0 +1,29 @@
+{
+  "number": "12711",
+  "name": "Pinakini Express",
+  "type": "SF",
+  "source": "VIJAYAWADA JN",
+  "sourceCode": "BZA",
+  "destination": "CHENNAI CENTRAL",
+  "destinationCode": "MAS",
+  "departureTime": "06:00:00",
+  "arrivalTime": "13:00:00",
+  "duration": "7h 0m",
+  "distance": "431 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "51674",
+  "name": "SATNA - ITARSI Passenger",
+  "type": "Pass",
+  "source": "SATNA",
+  "sourceCode": "STA",
+  "destination": "ITARSI JN",
+  "destinationCode": "ET",
+  "departureTime": "13:30:00",
+  "arrivalTime": "23:15:00",
+  "duration": "9h 45m",
+  "distance": "434 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

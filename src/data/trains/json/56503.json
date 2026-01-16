@@ -1,0 +1,29 @@
+{
+  "number": "56503",
+  "name": "Yesvantapur-Vijayawada Passenger",
+  "type": "Pass",
+  "source": "YESVANTPUR JN",
+  "sourceCode": "YPR",
+  "destination": "VIJAYAWADA JN",
+  "destinationCode": "BZA",
+  "departureTime": "08:00:00",
+  "arrivalTime": "05:40:00",
+  "duration": "21h 40m",
+  "distance": "739 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

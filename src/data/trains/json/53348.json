@@ -1,0 +1,30 @@
+{
+  "number": "53348",
+  "name": "Barwadih Gomoh Passenger",
+  "type": "Pass",
+  "source": "BARWADIH JN",
+  "sourceCode": "BRWD",
+  "destination": "GOMOH JN",
+  "destinationCode": "GMO",
+  "departureTime": "05:50:00",
+  "arrivalTime": "13:50:00",
+  "duration": "8h 0m",
+  "distance": "255 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

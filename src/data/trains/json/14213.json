@@ -1,0 +1,29 @@
+{
+  "number": "14213",
+  "name": "Varanasi-Gonda Intercity Express",
+  "type": "Exp",
+  "source": "VARANASI JN",
+  "sourceCode": "BSB",
+  "destination": "GONDA JN",
+  "destinationCode": "GD",
+  "departureTime": "14:15:00",
+  "arrivalTime": "19:50:00",
+  "duration": "5h 35m",
+  "distance": "256 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

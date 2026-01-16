@@ -1,0 +1,30 @@
+{
+  "number": "52568",
+  "name": "Bhairabhi Badarpur Passenger",
+  "type": "Pass",
+  "source": "Bhairabi",
+  "sourceCode": "BHRB",
+  "destination": "BADARPUR JN",
+  "destinationCode": "BPB",
+  "departureTime": "13:30:00",
+  "arrivalTime": "18:30:00",
+  "duration": "5h 0m",
+  "distance": "94 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

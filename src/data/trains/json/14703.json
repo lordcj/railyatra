@@ -1,0 +1,30 @@
+{
+  "number": "14703",
+  "name": "Bikaner Express",
+  "type": "Exp",
+  "source": "JAISALMER",
+  "sourceCode": "JSM",
+  "destination": "LALGARH JN",
+  "destinationCode": "LGH",
+  "departureTime": "11:10:00",
+  "arrivalTime": "16:35:00",
+  "duration": "5h 25m",
+  "distance": "323 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

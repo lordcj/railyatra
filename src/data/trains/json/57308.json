@@ -1,0 +1,30 @@
+{
+  "number": "57308",
+  "name": "Medchal Secunderabad Suburban",
+  "type": "Pass",
+  "source": "MEDCHAL",
+  "sourceCode": "MED",
+  "destination": "SECUNDERABAD JN",
+  "destinationCode": "SC",
+  "departureTime": "13:35:00",
+  "arrivalTime": "14:45:00",
+  "duration": "1h 10m",
+  "distance": "27 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

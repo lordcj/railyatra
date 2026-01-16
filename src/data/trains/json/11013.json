@@ -1,0 +1,32 @@
+{
+  "number": "11013",
+  "name": "Mumbai LTT-Coimbatore Express",
+  "type": "Exp",
+  "source": "LOKMANYA TILAK TERM",
+  "sourceCode": "LTT",
+  "destination": "COIMBATORE JN",
+  "destinationCode": "CBE",
+  "departureTime": "22:35:00",
+  "arrivalTime": "06:30:00",
+  "duration": "31h 55m",
+  "distance": "1518 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

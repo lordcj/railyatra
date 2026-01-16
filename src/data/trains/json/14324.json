@@ -1,0 +1,29 @@
+{
+  "number": "14324",
+  "name": "New Delhi Express",
+  "type": "Exp",
+  "source": "ROHTAK JN",
+  "sourceCode": "ROK",
+  "destination": "NEW DELHI",
+  "destinationCode": "NDLS",
+  "departureTime": "14:15:00",
+  "arrivalTime": "16:00:00",
+  "duration": "1h 45m",
+  "distance": "72 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "59165",
+  "name": "Anand Godhra Passenger",
+  "type": "Pass",
+  "source": "ANAND JN",
+  "sourceCode": "ANND",
+  "destination": "GODHRA JN",
+  "destinationCode": "GDA",
+  "departureTime": "05:00:00",
+  "arrivalTime": "07:35:00",
+  "duration": "2h 35m",
+  "distance": "78 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

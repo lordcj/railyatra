@@ -1,0 +1,30 @@
+{
+  "number": "52470",
+  "name": "Kangra Valley Rail Passenger",
+  "type": "Pass",
+  "source": "BAIJNATH PAPROLA",
+  "sourceCode": "BJPL",
+  "destination": "PATHANKOT",
+  "destinationCode": "PTK",
+  "departureTime": "17:35:00",
+  "arrivalTime": "23:55:00",
+  "duration": "6h 20m",
+  "distance": "213 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

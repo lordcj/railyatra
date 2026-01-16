@@ -1,0 +1,29 @@
+{
+  "number": "12747",
+  "name": "Palnadu Express",
+  "type": "SF",
+  "source": "GUNTUR JN",
+  "sourceCode": "GNT",
+  "destination": "VIKARABAD JN",
+  "destinationCode": "VKB",
+  "departureTime": "05:45:00",
+  "arrivalTime": "12:10:00",
+  "duration": "6h 25m",
+  "distance": "353 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

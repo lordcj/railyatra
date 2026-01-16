@@ -1,0 +1,30 @@
+{
+  "number": "58833",
+  "name": "Nagpur Chindwara Passenger",
+  "type": "Pass",
+  "source": "NAGPUR",
+  "sourceCode": "NGP",
+  "destination": "Chhindwara Junction",
+  "destinationCode": "CWA",
+  "departureTime": "07:05:00",
+  "arrivalTime": "14:15:00",
+  "duration": "7h 10m",
+  "distance": "148 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

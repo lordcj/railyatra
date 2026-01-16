@@ -1,0 +1,30 @@
+{
+  "number": "04857",
+  "name": "Pipar Road -Jodhpur Passenger Special",
+  "type": "Pass",
+  "source": "PIPAR ROAD JN",
+  "sourceCode": "PPR",
+  "destination": "JODHPUR JN",
+  "destinationCode": "JU",
+  "departureTime": "06:50:00",
+  "arrivalTime": "08:30:00",
+  "duration": "1h 40m",
+  "distance": "46 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

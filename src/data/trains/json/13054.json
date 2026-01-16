@@ -1,0 +1,29 @@
+{
+  "number": "13054",
+  "name": "Siuri-Howrah Intercity Express",
+  "type": "Exp",
+  "source": "SIURI",
+  "sourceCode": "SURI",
+  "destination": "HOWRAH JN",
+  "destinationCode": "HWH",
+  "departureTime": "17:50:00",
+  "arrivalTime": "22:40:00",
+  "duration": "4h 50m",
+  "distance": "211 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "58608",
+  "name": "Chakradharpur Gomoh Passenger",
+  "type": "Pass",
+  "source": "CHAKRADHARPUR",
+  "sourceCode": "CKP",
+  "destination": "GOMOH JN",
+  "destinationCode": "GMO",
+  "departureTime": "05:00:00",
+  "arrivalTime": "13:00:00",
+  "duration": "8h 0m",
+  "distance": "236 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

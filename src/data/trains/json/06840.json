@@ -1,0 +1,30 @@
+{
+  "number": "06840",
+  "name": "Karaikkudi-Tiruchirappalli Passenger Special",
+  "type": "Pass",
+  "source": "Karaikkudi Junction",
+  "sourceCode": "KKDI",
+  "destination": "TIRUCHIRAPPALLI",
+  "destinationCode": "TPJ",
+  "departureTime": "09:40:00",
+  "arrivalTime": "12:05:00",
+  "duration": "2h 25m",
+  "distance": "90 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

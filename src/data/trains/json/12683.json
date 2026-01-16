@@ -1,0 +1,31 @@
+{
+  "number": "12683",
+  "name": "ERNAKULAM - BANGALORE SF Exp",
+  "type": "SF",
+  "source": "ERNAKULAM JN",
+  "sourceCode": "ERS",
+  "destination": "BANGALORE CITY JN",
+  "destinationCode": "SBC",
+  "departureTime": "17:00:00",
+  "arrivalTime": "04:20:00",
+  "duration": "11h 20m",
+  "distance": "625 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "56644",
+  "name": "Kabakaputtur Mangalore Passenger",
+  "type": "Pass",
+  "source": "Kabakaputtur",
+  "sourceCode": "KBPR",
+  "destination": "MANGALORE CNTL",
+  "destinationCode": "MAQ",
+  "departureTime": "19:55:00",
+  "arrivalTime": "21:30:00",
+  "duration": "1h 35m",
+  "distance": "49 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

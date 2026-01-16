@@ -1,0 +1,30 @@
+{
+  "number": "57606",
+  "name": "Vikarabad Secunderabad",
+  "type": "Pass",
+  "source": "VIKARABAD JN",
+  "sourceCode": "VKB",
+  "destination": "SECUNDERABAD JN",
+  "destinationCode": "SC",
+  "departureTime": "10:55:00",
+  "arrivalTime": "12:25:00",
+  "duration": "1h 30m",
+  "distance": "72 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

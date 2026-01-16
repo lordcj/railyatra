@@ -1,0 +1,30 @@
+{
+  "number": "12469",
+  "name": "Kanpur Jammu Express",
+  "type": "SF",
+  "source": "KANPUR CENTRAL",
+  "sourceCode": "CNB",
+  "destination": "JAMMU TAWI",
+  "destinationCode": "JAT",
+  "departureTime": "17:05:00",
+  "arrivalTime": "11:50:00",
+  "duration": "18h 45m",
+  "distance": "1026 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

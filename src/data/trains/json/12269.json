@@ -1,0 +1,32 @@
+{
+  "number": "12269",
+  "name": "Chennai-Hazrat Nizamuddin Duronto Express",
+  "type": "Drnt",
+  "source": "CHENNAI CENTRAL",
+  "sourceCode": "MAS",
+  "destination": "DELHI H NIZAMUDDIN",
+  "destinationCode": "NZM",
+  "departureTime": "06:40:00",
+  "arrivalTime": "10:35:00",
+  "duration": "27h 55m",
+  "distance": "2176 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

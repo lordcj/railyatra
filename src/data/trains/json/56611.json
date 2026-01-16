@@ -1,0 +1,30 @@
+{
+  "number": "56611",
+  "name": "Palakkad Nilambur Passenger",
+  "type": "Pass",
+  "source": "PALAKKAD",
+  "sourceCode": "PGT",
+  "destination": "Nilambur Road",
+  "destinationCode": "NIL",
+  "departureTime": "05:50:00",
+  "arrivalTime": "08:45:00",
+  "duration": "2h 55m",
+  "distance": "112 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

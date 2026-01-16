@@ -1,0 +1,30 @@
+{
+  "number": "22121",
+  "name": "LTT - Lucknow Humsafar Express",
+  "type": "Humsafar",
+  "source": "Lokmanya Tilak Terminus",
+  "sourceCode": "LTT",
+  "destination": "Lucknow",
+  "destinationCode": "LKO",
+  "departureTime": "19:25",
+  "arrivalTime": "19:55",
+  "duration": "24h 30m",
+  "distance": "1393 km",
+  "runningDays": [
+    "Tue",
+    "Sat"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A"
+  ],
+  "stops": 8,
+  "majorStops": [
+    "Nashik",
+    "Itarsi",
+    "Jabalpur",
+    "Satna",
+    "Lucknow"
+  ],
+  "frequency": "Weekly"
+}

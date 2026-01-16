@@ -1,0 +1,29 @@
+{
+  "number": "13008-Slip",
+  "name": "Udyan Abha Toofan Express Slip",
+  "type": "Exp",
+  "source": "SHRI GANGANAGAR",
+  "sourceCode": "SGNR",
+  "destination": "Kalka",
+  "destinationCode": "KLK",
+  "departureTime": "20:50:00",
+  "arrivalTime": "05:50:00",
+  "duration": "9h 0m",
+  "distance": "433 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

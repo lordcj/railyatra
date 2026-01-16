@@ -1,0 +1,30 @@
+{
+  "number": "54267",
+  "name": "Mughal Sarai Varanasi Passenger",
+  "type": "Pass",
+  "source": "MUGHAL SARAI JN",
+  "sourceCode": "MGS",
+  "destination": "VARANASI JN",
+  "destinationCode": "BSB",
+  "departureTime": "08:45:00",
+  "arrivalTime": "09:30:00",
+  "duration": "0h 45m",
+  "distance": "17 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

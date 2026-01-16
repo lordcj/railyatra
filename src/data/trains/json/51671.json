@@ -1,0 +1,30 @@
+{
+  "number": "51671",
+  "name": "ITARSI - KATNI Fast Passenger",
+  "type": "Pass",
+  "source": "ITARSI JN",
+  "sourceCode": "ET",
+  "destination": "KATNI",
+  "destinationCode": "KTE",
+  "departureTime": "05:45:00",
+  "arrivalTime": "11:50:00",
+  "duration": "6h 5m",
+  "distance": "335 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "54475",
+  "name": "Haridwar Passenger",
+  "type": "Pass",
+  "source": "OLD DELHI",
+  "sourceCode": "DLI",
+  "destination": "HARIDWAR JN",
+  "destinationCode": "HW",
+  "departureTime": "10:10:00",
+  "arrivalTime": "21:10:00",
+  "duration": "11h 0m",
+  "distance": "244 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

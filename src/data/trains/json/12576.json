@@ -1,0 +1,29 @@
+{
+  "number": "12576",
+  "name": "Purulia Khargapur Intercity Express",
+  "type": "SF",
+  "source": "PURULIA JN",
+  "sourceCode": "PRR",
+  "destination": "KHARAGPUR JN",
+  "destinationCode": "KGP",
+  "departureTime": "11:55:00",
+  "arrivalTime": "15:50:00",
+  "duration": "3h 55m",
+  "distance": "208 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

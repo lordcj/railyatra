@@ -1,0 +1,31 @@
+{
+  "number": "11036",
+  "name": "Mysore-Dadar Sharavati Express",
+  "type": "Exp",
+  "source": "MYSORE JN",
+  "sourceCode": "MYS",
+  "destination": "MUMBAI DADAR CENTRAL",
+  "destinationCode": "DR",
+  "departureTime": "06:15:00",
+  "arrivalTime": "05:50:00",
+  "duration": "23h 35m",
+  "distance": "1212 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "55610",
+  "name": "FKM - DBB FAST PASSENGER",
+  "type": "Pass",
+  "source": "FAKIRAGRAM JN",
+  "sourceCode": "FKM",
+  "destination": "DHUBRI",
+  "destinationCode": "DBB",
+  "departureTime": "22:15:00",
+  "arrivalTime": "05:15:00",
+  "duration": "7h 0m",
+  "distance": "267 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

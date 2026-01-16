@@ -1,0 +1,30 @@
+{
+  "number": "52474",
+  "name": "Kangra Valley Rail Passenger",
+  "type": "Pass",
+  "source": "JOGINDER NAGAR",
+  "sourceCode": "JDNX",
+  "destination": "PATHANKOT",
+  "destinationCode": "PTK",
+  "departureTime": "12:20:00",
+  "arrivalTime": "22:35:00",
+  "duration": "10h 15m",
+  "distance": "170 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

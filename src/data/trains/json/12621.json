@@ -1,0 +1,32 @@
+{
+  "number": "12621",
+  "name": "Tamil Nadu Express",
+  "type": "SF",
+  "source": "CHENNAI CENTRAL",
+  "sourceCode": "MAS",
+  "destination": "NEW DELHI",
+  "destinationCode": "NDLS",
+  "departureTime": "22:00:00",
+  "arrivalTime": "07:00:00",
+  "duration": "33h 0m",
+  "distance": "2184 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

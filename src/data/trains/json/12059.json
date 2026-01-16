@@ -1,0 +1,29 @@
+{
+  "number": "12059",
+  "name": "Kota-Hazrat Nizamuddin Jan Shatabdi",
+  "type": "JShtb",
+  "source": "KOTA JN",
+  "sourceCode": "KOTA",
+  "destination": "DELHI H NIZAMUDDIN",
+  "destinationCode": "NZM",
+  "departureTime": "05:55:00",
+  "arrivalTime": "12:30:00",
+  "duration": "6h 35m",
+  "distance": "458 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WCR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

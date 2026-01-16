@@ -1,0 +1,31 @@
+{
+  "number": "19709",
+  "name": "JAIPUR - KAMAKHYA Kavi Guru Exp",
+  "type": "Exp",
+  "source": "JAIPUR",
+  "sourceCode": "JP",
+  "destination": "KAMAKHYA",
+  "destinationCode": "KYQ",
+  "departureTime": "23:35:00",
+  "arrivalTime": "23:40:00",
+  "duration": "48h 5m",
+  "distance": "2212 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

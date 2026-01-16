@@ -1,0 +1,31 @@
+{
+  "number": "12429",
+  "name": "Bangalore - Hazrat Nizamuddin Rajdhani Express",
+  "type": "Raj",
+  "source": "BANGALORE CITY JN",
+  "sourceCode": "SBC",
+  "destination": "DELHI H NIZAMUDDIN",
+  "destinationCode": "NZM",
+  "departureTime": "20:20:00",
+  "arrivalTime": "05:50:00",
+  "duration": "33h 30m",
+  "distance": "2365 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

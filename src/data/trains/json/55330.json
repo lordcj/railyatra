@@ -1,0 +1,30 @@
+{
+  "number": "55330",
+  "name": "Kasganj Shikohabad Passenger",
+  "type": "Pass",
+  "source": "KASGANJ",
+  "sourceCode": "KSJ",
+  "destination": "SHIKOHABAD JN",
+  "destinationCode": "SKB",
+  "departureTime": "04:45:00",
+  "arrivalTime": "10:50:00",
+  "duration": "6h 5m",
+  "distance": "211 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

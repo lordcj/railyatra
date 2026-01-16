@@ -1,0 +1,30 @@
+{
+  "number": "12468",
+  "name": "Jaipur Bikaner InterCity Express",
+  "type": "SF",
+  "source": "JAIPUR",
+  "sourceCode": "JP",
+  "destination": "BIKANER JN",
+  "destinationCode": "BKN",
+  "departureTime": "15:00:00",
+  "arrivalTime": "21:40:00",
+  "duration": "6h 40m",
+  "distance": "382 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

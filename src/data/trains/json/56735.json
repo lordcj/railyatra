@@ -1,0 +1,30 @@
+{
+  "number": "56735",
+  "name": "MADURAI  - SENGOTTAI PASSENGER",
+  "type": "Pass",
+  "source": "MADURAI JN",
+  "sourceCode": "MDU",
+  "destination": "SENGOTTAI",
+  "destinationCode": "SCT",
+  "departureTime": "17:20:00",
+  "arrivalTime": "21:05:00",
+  "duration": "3h 45m",
+  "distance": "173 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

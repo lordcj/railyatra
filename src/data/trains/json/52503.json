@@ -1,0 +1,30 @@
+{
+  "number": "52503",
+  "name": "BhikhnaThori Narkatiaganj Passenger",
+  "type": "Pass",
+  "source": "Bhikhna Thori",
+  "sourceCode": "BKF",
+  "destination": "NARKATIAGANJ JN",
+  "destinationCode": "NKE",
+  "departureTime": "11:20:00",
+  "arrivalTime": "12:55:00",
+  "duration": "1h 35m",
+  "distance": "0 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "54227",
+  "name": "Unchahar Raebareli Shuttle",
+  "type": "Pass",
+  "source": "Unchahar Junction",
+  "sourceCode": "UCR",
+  "destination": "RAE BARELI JN",
+  "destinationCode": "RBL",
+  "departureTime": "17:15:00",
+  "arrivalTime": "18:30:00",
+  "duration": "1h 15m",
+  "distance": "38 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

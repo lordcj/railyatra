@@ -1,0 +1,30 @@
+{
+  "number": "55145",
+  "name": "Salempur Barhaj Passenger",
+  "type": "Pass",
+  "source": "SALEMPUR JN",
+  "sourceCode": "SRU",
+  "destination": "Barhaj Bazar",
+  "destinationCode": "BHJ",
+  "departureTime": "18:40:00",
+  "arrivalTime": "19:35:00",
+  "duration": "0h 55m",
+  "distance": "0 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

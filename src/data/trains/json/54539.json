@@ -1,0 +1,30 @@
+{
+  "number": "54539",
+  "name": "Nizamuddin Ambala Passenger",
+  "type": "Pass",
+  "source": "DELHI H NIZAMUDDIN",
+  "sourceCode": "NZM",
+  "destination": "AMBALA CANT JN",
+  "destinationCode": "UMB",
+  "departureTime": "03:30:00",
+  "arrivalTime": "14:15:00",
+  "duration": "10h 45m",
+  "distance": "278 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,29 @@
+{
+  "number": "18626",
+  "name": "Hatia-Patna Super Express",
+  "type": "Exp",
+  "source": "HATIA",
+  "sourceCode": "HTE",
+  "destination": "PATNA JN",
+  "destinationCode": "PNBE",
+  "departureTime": "06:10:00",
+  "arrivalTime": "15:40:00",
+  "duration": "9h 30m",
+  "distance": "415 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,31 @@
+{
+  "number": "16227",
+  "name": "Bangalore-Shimoga Express",
+  "type": "Exp",
+  "source": "BANGALORE CITY JN",
+  "sourceCode": "SBC",
+  "destination": "Shimoga Town",
+  "destinationCode": "SMET",
+  "departureTime": "23:15:00",
+  "arrivalTime": "06:10:00",
+  "duration": "6h 55m",
+  "distance": "274 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "3A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

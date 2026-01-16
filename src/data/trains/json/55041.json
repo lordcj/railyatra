@@ -1,0 +1,30 @@
+{
+  "number": "55041",
+  "name": "Gorakhpur Nautanwa Pass",
+  "type": "Pass",
+  "source": "NARKATIAGANJ JN",
+  "sourceCode": "NKE",
+  "destination": "GORAKHPUR JN",
+  "destinationCode": "GKP",
+  "departureTime": "02:20:00",
+  "arrivalTime": "06:20:00",
+  "duration": "4h 0m",
+  "distance": "150 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "54758",
+  "name": "Shri Ganganagar Bathinda Passenger",
+  "type": "Pass",
+  "source": "SHRI GANGANAGAR",
+  "sourceCode": "SGNR",
+  "destination": "AMBALA CANT JN",
+  "destinationCode": "UMB",
+  "departureTime": "11:00:00",
+  "arrivalTime": "19:45:00",
+  "duration": "8h 45m",
+  "distance": "327 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

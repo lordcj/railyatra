@@ -1,0 +1,31 @@
+{
+  "number": "12153",
+  "name": "Lokmanya Tilak (T) Habibganj Express",
+  "type": "SF",
+  "source": "LOKMANYA TILAK TERM",
+  "sourceCode": "LTT",
+  "destination": "HABIBGANJ",
+  "destinationCode": "HBJ",
+  "departureTime": "16:25:00",
+  "arrivalTime": "05:30:00",
+  "duration": "13h 5m",
+  "distance": "822 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

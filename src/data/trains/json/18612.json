@@ -1,0 +1,29 @@
+{
+  "number": "18612",
+  "name": "Varanasi-Ranchi Express",
+  "type": "Exp",
+  "source": "VARANASI JN",
+  "sourceCode": "BSB",
+  "destination": "RANCHI",
+  "destinationCode": "RNC",
+  "departureTime": "14:50:00",
+  "arrivalTime": "04:15:00",
+  "duration": "13h 25m",
+  "distance": "575 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

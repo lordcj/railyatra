@@ -1,0 +1,30 @@
+{
+  "number": "52253",
+  "name": "Gonda Mailani Passenger",
+  "type": "Pass",
+  "source": "GONDA JN",
+  "sourceCode": "GD",
+  "destination": "MAILANI",
+  "destinationCode": "MLN",
+  "departureTime": "02:30:00",
+  "arrivalTime": "09:50:00",
+  "duration": "7h 20m",
+  "distance": "330 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

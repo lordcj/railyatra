@@ -1,0 +1,30 @@
+{
+  "number": "02082",
+  "name": "Loharu - Jaipur Passenger Spl (MG)",
+  "type": "Pass",
+  "source": "Loharu",
+  "sourceCode": "LHU",
+  "destination": "JAIPUR",
+  "destinationCode": "JP",
+  "departureTime": "02:40:00",
+  "arrivalTime": "09:35:00",
+  "duration": "6h 55m",
+  "distance": "229 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "58018",
+  "name": "Asansol Adra Kharagpur Passenger",
+  "type": "Pass",
+  "source": "ASANSOL JN",
+  "sourceCode": "ASN",
+  "destination": "KHARAGPUR JN",
+  "destinationCode": "KGP",
+  "departureTime": "17:05:00",
+  "arrivalTime": "22:25:00",
+  "duration": "5h 20m",
+  "distance": "209 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

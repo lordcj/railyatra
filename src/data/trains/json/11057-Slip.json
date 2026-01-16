@@ -1,0 +1,31 @@
+{
+  "number": "11057-Slip",
+  "name": "Dadar Amritsar Express Slip",
+  "type": "Exp",
+  "source": "MUMBAI DADAR CENTRAL",
+  "sourceCode": "DR",
+  "destination": "Dhule",
+  "destinationCode": "DHI",
+  "departureTime": "23:45:00",
+  "arrivalTime": "07:25:00",
+  "duration": "7h 40m",
+  "distance": "375 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

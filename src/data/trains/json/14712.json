@@ -1,0 +1,29 @@
+{
+  "number": "14712",
+  "name": "Shriganganagar Haridwar Express",
+  "type": "Exp",
+  "source": "SHRI GANGANAGAR",
+  "sourceCode": "SGNR",
+  "destination": "HARIDWAR JN",
+  "destinationCode": "HW",
+  "departureTime": "04:10:00",
+  "arrivalTime": "13:35:00",
+  "duration": "9h 25m",
+  "distance": "485 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

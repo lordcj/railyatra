@@ -1,0 +1,32 @@
+{
+  "number": "12653",
+  "name": "Tiruchirappalli Mangalore Weekly Superfast Express",
+  "type": "SF",
+  "source": "TIRUCHIRAPPALLI",
+  "sourceCode": "TPJ",
+  "destination": "MANGALORE CNTL",
+  "destinationCode": "MAQ",
+  "departureTime": "18:00:00",
+  "arrivalTime": "05:25:00",
+  "duration": "11h 25m",
+  "distance": "635 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

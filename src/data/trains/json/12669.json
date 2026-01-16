@@ -1,0 +1,31 @@
+{
+  "number": "12669",
+  "name": "CHENNAI CENTRAL - CHHAPRA Ganga Kaveri Exp",
+  "type": "SF",
+  "source": "CHENNAI CENTRAL",
+  "sourceCode": "MAS",
+  "destination": "CHHAPRA",
+  "destinationCode": "CPR",
+  "departureTime": "17:35:00",
+  "arrivalTime": "11:40:00",
+  "duration": "42h 5m",
+  "distance": "2343 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "56394",
+  "name": "Kollam Kottayam Passenger",
+  "type": "Pass",
+  "source": "KOLLAM JN",
+  "sourceCode": "QLN",
+  "destination": "KOTTAYAM",
+  "destinationCode": "KTYM",
+  "departureTime": "07:55:00",
+  "arrivalTime": "10:50:00",
+  "duration": "2h 55m",
+  "distance": "96 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

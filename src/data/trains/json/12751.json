@@ -1,0 +1,31 @@
+{
+  "number": "12751",
+  "name": "Manuguru-Secunderabad Tri Weekly SF Express",
+  "type": "SF",
+  "source": "Manuguru",
+  "sourceCode": "MUGR",
+  "destination": "SECUNDERABAD JN",
+  "destinationCode": "SC",
+  "departureTime": "21:45:00",
+  "arrivalTime": "03:45:00",
+  "duration": "6h 0m",
+  "distance": "331 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

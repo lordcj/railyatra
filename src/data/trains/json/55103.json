@@ -1,0 +1,30 @@
+{
+  "number": "55103",
+  "name": "Bhatani Barhaj Passenger",
+  "type": "Pass",
+  "source": "BHATNI JN",
+  "sourceCode": "BTT",
+  "destination": "Barhaj Bazar",
+  "destinationCode": "BHJ",
+  "departureTime": "15:25:00",
+  "arrivalTime": "16:55:00",
+  "duration": "1h 30m",
+  "distance": "0 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "12847",
+  "name": "Howrah-Digha AC Duronto Express",
+  "type": "Drnt",
+  "source": "HOWRAH JN",
+  "sourceCode": "HWH",
+  "destination": "Digha Flag Station",
+  "destinationCode": "DGHA",
+  "departureTime": "11:15:00",
+  "arrivalTime": "14:15:00",
+  "duration": "3h 0m",
+  "distance": "189 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "1A",
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,29 @@
+{
+  "number": "57619",
+  "name": "Delta Fast Passenger",
+  "type": "Pass",
+  "source": "Repalle",
+  "sourceCode": "RAL",
+  "destination": "SECUNDERABAD JN",
+  "destinationCode": "SC",
+  "departureTime": "20:45:00",
+  "arrivalTime": "05:05:00",
+  "duration": "8h 20m",
+  "distance": "341 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

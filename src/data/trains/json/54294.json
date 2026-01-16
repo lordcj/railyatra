@@ -1,0 +1,30 @@
+{
+  "number": "54294",
+  "name": "Lucknow Partapgarh Passenger",
+  "type": "Pass",
+  "source": "LUCKNOW",
+  "sourceCode": "LKO",
+  "destination": "PARTAPGARH JN",
+  "destinationCode": "PBH",
+  "departureTime": "13:45:00",
+  "arrivalTime": "20:05:00",
+  "duration": "6h 20m",
+  "distance": "173 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

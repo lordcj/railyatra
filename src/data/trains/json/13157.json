@@ -1,0 +1,30 @@
+{
+  "number": "13157",
+  "name": "KOLKATA CHITPUR - MUZAFFARPUR Tirhut Exp",
+  "type": "Exp",
+  "source": "KOLKATA CHITPUR",
+  "sourceCode": "KOAA",
+  "destination": "MUZAFFARPUR JN",
+  "destinationCode": "MFP",
+  "departureTime": "20:55:00",
+  "arrivalTime": "09:15:00",
+  "duration": "12h 20m",
+  "distance": "566 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

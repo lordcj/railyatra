@@ -1,0 +1,30 @@
+{
+  "number": "51423",
+  "name": "Igatpuri Manmad Shuttle",
+  "type": "Pass",
+  "source": "IGATPURI",
+  "sourceCode": "IGP",
+  "destination": "MANMAD JN",
+  "destinationCode": "MMR",
+  "departureTime": "18:10:00",
+  "arrivalTime": "20:35:00",
+  "duration": "2h 25m",
+  "distance": "123 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

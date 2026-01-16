@@ -1,0 +1,29 @@
+{
+  "number": "12081",
+  "name": "Kozhikode - Trivandrum Jan Shatabdi",
+  "type": "JShtb",
+  "source": "KOZHIKODE",
+  "sourceCode": "CLT",
+  "destination": "TRIVANDRUM CENTRAL",
+  "destinationCode": "TVC",
+  "departureTime": "06:15:00",
+  "arrivalTime": "13:45:00",
+  "duration": "7h 30m",
+  "distance": "413 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

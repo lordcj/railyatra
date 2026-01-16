@@ -1,0 +1,31 @@
+{
+  "number": "12519",
+  "name": "MUMBAI LTT - KAMAKHYA AC Exp",
+  "type": "SF",
+  "source": "LOKMANYA TILAK TERM",
+  "sourceCode": "LTT",
+  "destination": "KAMAKHYA",
+  "destinationCode": "KYQ",
+  "departureTime": "05:15:00",
+  "arrivalTime": "05:50:00",
+  "duration": "24h 35m",
+  "distance": "1667 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

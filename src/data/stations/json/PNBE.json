@@ -1,0 +1,13 @@
+{
+  "code": "PNBE",
+  "name": "Patna",
+  "fullName": "Patna Junction",
+  "zone": "ECR",
+  "state": "Bihar",
+  "category": "A1",
+  "platforms": 10,
+  "connectivity": [
+    "Bus",
+    "Taxi"
+  ]
+}

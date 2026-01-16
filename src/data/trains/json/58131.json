@@ -1,0 +1,30 @@
+{
+  "number": "58131",
+  "name": "Rourkela-Puri Passenger",
+  "type": "Pass",
+  "source": "ROURKELA",
+  "sourceCode": "ROU",
+  "destination": "PURI",
+  "destinationCode": "PURI",
+  "departureTime": "08:00:00",
+  "arrivalTime": "00:30:00",
+  "duration": "16h 30m",
+  "distance": "525 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "58417",
+  "name": "Puri Gunupur Passenger",
+  "type": "Pass",
+  "source": "PURI",
+  "sourceCode": "PURI",
+  "destination": "Gunupur",
+  "destinationCode": "GNPR",
+  "departureTime": "07:50:00",
+  "arrivalTime": "20:30:00",
+  "duration": "12h 40m",
+  "distance": "380 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

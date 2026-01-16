@@ -1,0 +1,31 @@
+{
+  "number": "12206",
+  "name": "Dehradun-NewDelhi AC Express",
+  "type": "SF",
+  "source": "DEHRADUN",
+  "sourceCode": "DDN",
+  "destination": "NEW DELHI",
+  "destinationCode": "NDLS",
+  "departureTime": "23:25:00",
+  "arrivalTime": "05:05:00",
+  "duration": "5h 40m",
+  "distance": "303 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

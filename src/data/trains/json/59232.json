@@ -1,0 +1,30 @@
+{
+  "number": "59232",
+  "name": "Botad Surendranagar Passenger",
+  "type": "Pass",
+  "source": "BOTAD JN",
+  "sourceCode": "BTD",
+  "destination": "SURENDRANAGAR",
+  "destinationCode": "SUNR",
+  "departureTime": "07:15:00",
+  "arrivalTime": "09:05:00",
+  "duration": "1h 50m",
+  "distance": "77 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

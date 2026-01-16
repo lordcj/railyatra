@@ -1,0 +1,30 @@
+{
+  "number": "11052",
+  "name": "Kolhapur Solapur Express",
+  "type": "Exp",
+  "source": "C SHAHU M RAJ KOLHAPUR TERM",
+  "sourceCode": "KOP",
+  "destination": "SOLAPUR JN",
+  "destinationCode": "SUR",
+  "departureTime": "08:45:00",
+  "arrivalTime": "15:00:00",
+  "duration": "6h 15m",
+  "distance": "315 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

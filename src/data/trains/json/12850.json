@@ -1,0 +1,31 @@
+{
+  "number": "12850",
+  "name": "Pune Bilaspur Superfast Express",
+  "type": "SF",
+  "source": "PUNE JN",
+  "sourceCode": "PUNE",
+  "destination": "BILASPUR JN",
+  "destinationCode": "BSP",
+  "departureTime": "17:40:00",
+  "arrivalTime": "16:50:00",
+  "duration": "23h 10m",
+  "distance": "1301 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

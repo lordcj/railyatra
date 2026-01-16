@@ -1,0 +1,31 @@
+{
+  "number": "15009",
+  "name": "Chitrakoot Express",
+  "type": "Exp",
+  "source": "LUCKNOW JN",
+  "sourceCode": "LJN",
+  "destination": "JABALPUR",
+  "destinationCode": "JBP",
+  "departureTime": "17:30:00",
+  "arrivalTime": "07:40:00",
+  "duration": "14h 10m",
+  "distance": "582 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

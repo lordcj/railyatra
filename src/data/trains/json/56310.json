@@ -1,0 +1,30 @@
+{
+  "number": "56310",
+  "name": "Nagercoil Tiruvananthapuram Passenger",
+  "type": "Pass",
+  "source": "NAGERCOIL JN",
+  "sourceCode": "NCJ",
+  "destination": "TRIVANDRUM CENTRAL",
+  "destinationCode": "TVC",
+  "departureTime": "06:45:00",
+  "arrivalTime": "08:50:00",
+  "duration": "2h 5m",
+  "distance": "71 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

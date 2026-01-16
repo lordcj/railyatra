@@ -1,0 +1,30 @@
+{
+  "number": "56387",
+  "name": "Ernakulam Kayamkulam Passenger",
+  "type": "Pass",
+  "source": "ERNAKULAM JN",
+  "sourceCode": "ERS",
+  "destination": "KAYANKULAM JN",
+  "destinationCode": "KYJ",
+  "departureTime": "11:45:00",
+  "arrivalTime": "14:55:00",
+  "duration": "3h 10m",
+  "distance": "115 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,31 @@
+{
+  "number": "15640",
+  "name": "GUWAHATI - PURI Exp",
+  "type": "Exp",
+  "source": "GUWAHATI",
+  "sourceCode": "GHY",
+  "destination": "PURI",
+  "destinationCode": "PURI",
+  "departureTime": "18:45:00",
+  "arrivalTime": "03:20:00",
+  "duration": "32h 35m",
+  "distance": "1528 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

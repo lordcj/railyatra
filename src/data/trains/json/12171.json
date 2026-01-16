@@ -1,0 +1,31 @@
+{
+  "number": "12171",
+  "name": "Mumbai LTT -Haridwar AC Express",
+  "type": "SF",
+  "source": "LOKMANYA TILAK TERM",
+  "sourceCode": "LTT",
+  "destination": "HARIDWAR JN",
+  "destinationCode": "HW",
+  "departureTime": "07:55:00",
+  "arrivalTime": "13:15:00",
+  "duration": "29h 20m",
+  "distance": "1772 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

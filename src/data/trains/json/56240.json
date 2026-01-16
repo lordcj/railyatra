@@ -1,0 +1,30 @@
+{
+  "number": "56240",
+  "name": "Birur Shimoga Passenger",
+  "type": "Pass",
+  "source": "BIRUR JN",
+  "sourceCode": "RRB",
+  "destination": "Shimoga Town",
+  "destinationCode": "SMET",
+  "departureTime": "17:45:00",
+  "arrivalTime": "19:35:00",
+  "duration": "1h 50m",
+  "distance": "63 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,31 @@
+{
+  "number": "18507",
+  "name": "VISAKHAPATNAM - AMRITSAR Hirakud Exp",
+  "type": "Exp",
+  "source": "VISHAKAPATNAM",
+  "sourceCode": "VSKP",
+  "destination": "AMRITSAR JN",
+  "destinationCode": "ASR",
+  "departureTime": "23:50:00",
+  "arrivalTime": "23:55:00",
+  "duration": "48h 5m",
+  "distance": "2574 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

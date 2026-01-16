@@ -1,0 +1,29 @@
+{
+  "number": "13401",
+  "name": "InterCity Express",
+  "type": "Exp",
+  "source": "BHAGALPUR",
+  "sourceCode": "BGP",
+  "destination": "DANAPUR",
+  "destinationCode": "DNR",
+  "departureTime": "05:25:00",
+  "arrivalTime": "12:15:00",
+  "duration": "6h 50m",
+  "distance": "231 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

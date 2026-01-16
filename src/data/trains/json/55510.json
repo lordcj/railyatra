@@ -1,0 +1,30 @@
+{
+  "number": "55510",
+  "name": "Bairgania-Darbhanga Passenger",
+  "type": "Pass",
+  "source": "BAIRGANIA",
+  "sourceCode": "BGU",
+  "destination": "DARBHANGA JN",
+  "destinationCode": "DBG",
+  "departureTime": "07:15:00",
+  "arrivalTime": "10:55:00",
+  "duration": "3h 40m",
+  "distance": "97 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

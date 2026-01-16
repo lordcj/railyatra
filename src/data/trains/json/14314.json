@@ -1,0 +1,31 @@
+{
+  "number": "14314",
+  "name": "BAREILLY - MUMBAI LTT Weekly Exp",
+  "type": "Exp",
+  "source": "BAREILLY",
+  "sourceCode": "BE",
+  "destination": "LOKMANYA TILAK TERM",
+  "destinationCode": "LTT",
+  "departureTime": "10:45:00",
+  "arrivalTime": "20:00:00",
+  "duration": "33h 15m",
+  "distance": "1608 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

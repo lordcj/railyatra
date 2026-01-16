@@ -1,0 +1,14 @@
+{
+  "code": "HYB",
+  "name": "Hyderabad",
+  "fullName": "Hyderabad Deccan Nampally",
+  "zone": "SCR",
+  "state": "Telangana",
+  "category": "A",
+  "platforms": 6,
+  "connectivity": [
+    "Metro",
+    "Bus",
+    "Taxi"
+  ]
+}

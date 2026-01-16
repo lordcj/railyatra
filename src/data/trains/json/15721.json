@@ -1,0 +1,31 @@
+{
+  "number": "15721",
+  "name": "Paharia Express",
+  "type": "Exp",
+  "source": "Digha Flag Station",
+  "sourceCode": "DGHA",
+  "destination": "NEW JALPAIGURI",
+  "destinationCode": "NJP",
+  "departureTime": "16:30:00",
+  "arrivalTime": "08:45:00",
+  "duration": "16h 15m",
+  "distance": "752 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "3A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

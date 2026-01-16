@@ -1,0 +1,30 @@
+{
+  "number": "12538",
+  "name": "Bapudham Express",
+  "type": "SF",
+  "source": "MANDUADIH",
+  "sourceCode": "MUV",
+  "destination": "BAPUDHAM MOTIHARI",
+  "destinationCode": "MKI",
+  "departureTime": "07:40:00",
+  "arrivalTime": "16:05:00",
+  "duration": "8h 25m",
+  "distance": "465 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,32 @@
+{
+  "number": "16735",
+  "name": "Chendhur Express",
+  "type": "Exp",
+  "source": "CHENNAI EGMORE",
+  "sourceCode": "MS",
+  "destination": "Tiruchendur",
+  "destinationCode": "TCN",
+  "departureTime": "16:05:00",
+  "arrivalTime": "08:00:00",
+  "duration": "15h 55m",
+  "distance": "779 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

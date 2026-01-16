@@ -1,0 +1,30 @@
+{
+  "number": "12019",
+  "name": "Howrah-Ranchi Shatabdi Express",
+  "type": "Shtb",
+  "source": "HOWRAH JN",
+  "sourceCode": "HWH",
+  "destination": "RANCHI",
+  "destinationCode": "RNC",
+  "departureTime": "06:05:00",
+  "arrivalTime": "13:10:00",
+  "duration": "7h 5m",
+  "distance": "423 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "1A",
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

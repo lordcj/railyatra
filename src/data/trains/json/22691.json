@@ -1,0 +1,37 @@
+{
+  "number": "22691",
+  "name": "Bengaluru Rajdhani Express",
+  "type": "Rajdhani",
+  "source": "Hazrat Nizamuddin",
+  "sourceCode": "NZM",
+  "destination": "Bangalore City",
+  "destinationCode": "SBC",
+  "departureTime": "20:55",
+  "arrivalTime": "06:00",
+  "duration": "33h 05m",
+  "distance": "2444 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "1A",
+    "2A",
+    "3A"
+  ],
+  "stops": 8,
+  "majorStops": [
+    "Bhopal",
+    "Nagpur",
+    "Secunderabad",
+    "Anantapur",
+    "Bangalore"
+  ],
+  "frequency": "Daily"
+}

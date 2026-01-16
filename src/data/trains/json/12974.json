@@ -1,0 +1,31 @@
+{
+  "number": "12974",
+  "name": "Jaipur Indore SF Express",
+  "type": "SF",
+  "source": "JAIPUR",
+  "sourceCode": "JP",
+  "destination": "INDORE JN BG",
+  "destinationCode": "INDB",
+  "departureTime": "21:10:00",
+  "arrivalTime": "07:10:00",
+  "duration": "10h 0m",
+  "distance": "599 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

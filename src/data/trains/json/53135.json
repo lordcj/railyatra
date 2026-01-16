@@ -1,0 +1,30 @@
+{
+  "number": "53135",
+  "name": "Sealdah Rampurhat Passenger",
+  "type": "Pass",
+  "source": "KOLKATA SEALDAH",
+  "sourceCode": "SDAH",
+  "destination": "RAMPUR HAT",
+  "destinationCode": "RPH",
+  "departureTime": "11:35:00",
+  "arrivalTime": "18:00:00",
+  "duration": "6h 25m",
+  "distance": "227 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

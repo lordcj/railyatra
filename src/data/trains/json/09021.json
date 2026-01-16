@@ -1,0 +1,32 @@
+{
+  "number": "09021",
+  "name": "BANDRA TERMINUS - JAMMU TAWI AC Suvidha Special (Starts 4 April)",
+  "type": "SF",
+  "source": "MUMBAI BANDRA TERMINUS",
+  "sourceCode": "BDTS",
+  "destination": "JAMMU TAWI",
+  "destinationCode": "JAT",
+  "departureTime": "16:55:00",
+  "arrivalTime": "01:40:00",
+  "duration": "32h 45m",
+  "distance": "1955 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

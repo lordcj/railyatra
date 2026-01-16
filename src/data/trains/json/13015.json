@@ -1,0 +1,29 @@
+{
+  "number": "13015",
+  "name": "Howrah Bolpur KaviGuru Express",
+  "type": "Exp",
+  "source": "HOWRAH JN",
+  "sourceCode": "HWH",
+  "destination": "BOLPUR SHANTINIKETAN",
+  "destinationCode": "BHP",
+  "departureTime": "10:45:00",
+  "arrivalTime": "13:45:00",
+  "duration": "3h 0m",
+  "distance": "158 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

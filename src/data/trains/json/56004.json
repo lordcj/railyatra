@@ -1,0 +1,30 @@
+{
+  "number": "56004",
+  "name": "Chengalpattu Arakkonam Passenger",
+  "type": "Pass",
+  "source": "CHENGALPATTU",
+  "sourceCode": "CGL",
+  "destination": "ARAKKONAM",
+  "destinationCode": "AJJ",
+  "departureTime": "20:15:00",
+  "arrivalTime": "21:45:00",
+  "duration": "1h 30m",
+  "distance": "63 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

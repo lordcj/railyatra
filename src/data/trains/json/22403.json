@@ -1,0 +1,31 @@
+{
+  "number": "22403",
+  "name": "Puducherry-New Delhi SF Express",
+  "type": "SF",
+  "source": "Puducherry",
+  "sourceCode": "PDY",
+  "destination": "NEW DELHI",
+  "destinationCode": "NDLS",
+  "departureTime": "09:05:00",
+  "arrivalTime": "04:00:00",
+  "duration": "42h 55m",
+  "distance": "2384 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

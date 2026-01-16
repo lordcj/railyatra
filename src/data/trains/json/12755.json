@@ -1,0 +1,30 @@
+{
+  "number": "12755",
+  "name": "Sangrami SF Expres",
+  "type": "SF",
+  "source": "CHENNAI CENTRAL",
+  "sourceCode": "MAS",
+  "destination": "Haldia",
+  "destinationCode": "HLZ",
+  "departureTime": "14:35:00",
+  "arrivalTime": "18:10:00",
+  "duration": "27h 35m",
+  "distance": "1647 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

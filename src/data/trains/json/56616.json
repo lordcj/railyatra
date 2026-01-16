@@ -1,0 +1,30 @@
+{
+  "number": "56616",
+  "name": "Nilambur Shoranur Fast Passenger",
+  "type": "Pass",
+  "source": "Nilambur Road",
+  "sourceCode": "NIL",
+  "destination": "SHORANUR JN",
+  "destinationCode": "SRR",
+  "departureTime": "11:50:00",
+  "arrivalTime": "13:40:00",
+  "duration": "1h 50m",
+  "distance": "67 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

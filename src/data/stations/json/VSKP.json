@@ -1,0 +1,13 @@
+{
+  "code": "VSKP",
+  "name": "Visakhapatnam",
+  "fullName": "Visakhapatnam Junction",
+  "zone": "ECoR",
+  "state": "Andhra Pradesh",
+  "category": "A1",
+  "platforms": 8,
+  "connectivity": [
+    "Bus",
+    "Taxi"
+  ]
+}

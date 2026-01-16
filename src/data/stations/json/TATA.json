@@ -1,0 +1,13 @@
+{
+  "code": "TATA",
+  "name": "Tatanagar",
+  "fullName": "Tatanagar Junction",
+  "zone": "SER",
+  "state": "Jharkhand",
+  "category": "A",
+  "platforms": 7,
+  "connectivity": [
+    "Bus",
+    "Taxi"
+  ]
+}

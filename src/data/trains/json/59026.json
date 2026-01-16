@@ -1,0 +1,30 @@
+{
+  "number": "59026",
+  "name": "Surat Fast Passenger",
+  "type": "Pass",
+  "source": "Amravati",
+  "sourceCode": "AMI",
+  "destination": "SURAT",
+  "destinationCode": "ST",
+  "departureTime": "09:00:00",
+  "arrivalTime": "21:15:00",
+  "duration": "12h 15m",
+  "distance": "563 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

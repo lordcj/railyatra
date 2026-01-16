@@ -1,0 +1,32 @@
+{
+  "number": "59460",
+  "name": "Veraval Mumbai Central Passenger Express",
+  "type": "Pass",
+  "source": "VERAVAL",
+  "sourceCode": "VRL",
+  "destination": "Mumbai Central",
+  "destinationCode": "BCT",
+  "departureTime": "13:20:00",
+  "arrivalTime": "07:40:00",
+  "duration": "18h 20m",
+  "distance": "923 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

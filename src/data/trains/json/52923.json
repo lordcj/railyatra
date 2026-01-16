@@ -1,0 +1,30 @@
+{
+  "number": "52923",
+  "name": "Khed Brahma Ahmedabad Passenger",
+  "type": "Pass",
+  "source": "Khed Brahma",
+  "sourceCode": "KDBM",
+  "destination": "AHMEDABAD JN",
+  "destinationCode": "ADI",
+  "departureTime": "15:05:00",
+  "arrivalTime": "20:45:00",
+  "duration": "5h 40m",
+  "distance": "188 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

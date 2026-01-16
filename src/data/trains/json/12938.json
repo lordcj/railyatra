@@ -1,0 +1,31 @@
+{
+  "number": "12938",
+  "name": "HOWRAH - GANDHIDHAM Garbha Exp",
+  "type": "SF",
+  "source": "HOWRAH JN",
+  "sourceCode": "HWH",
+  "destination": "GANDHIDHAM BG",
+  "destinationCode": "GIMB",
+  "departureTime": "23:00:00",
+  "arrivalTime": "17:15:00",
+  "duration": "42h 15m",
+  "distance": "2509 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,32 @@
+{
+  "number": "18238",
+  "name": "Chhattisgarh Express",
+  "type": "Exp",
+  "source": "AMRITSAR JN",
+  "sourceCode": "ASR",
+  "destination": "BILASPUR JN",
+  "destinationCode": "BSP",
+  "departureTime": "16:15:00",
+  "arrivalTime": "12:20:00",
+  "duration": "44h 5m",
+  "distance": "2022 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

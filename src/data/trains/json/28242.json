@@ -1,0 +1,29 @@
+{
+  "number": "28242",
+  "name": "Chirmiri Durg Express Cum Pass",
+  "type": "Exp",
+  "source": "Chirmiri",
+  "sourceCode": "CHRM",
+  "destination": "DURG",
+  "destinationCode": "DURG",
+  "departureTime": "20:05:00",
+  "arrivalTime": "09:10:00",
+  "duration": "13h 5m",
+  "distance": "381 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

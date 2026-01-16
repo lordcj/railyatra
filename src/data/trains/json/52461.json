@@ -1,0 +1,30 @@
+{
+  "number": "52461",
+  "name": "Pathankot Jawalamukhi Road Passenger",
+  "type": "Pass",
+  "source": "PATHANKOT",
+  "sourceCode": "PTK",
+  "destination": "JAWLMUKHI ROAD",
+  "destinationCode": "JMKR",
+  "departureTime": "17:50:00",
+  "arrivalTime": "21:45:00",
+  "duration": "3h 55m",
+  "distance": "124 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

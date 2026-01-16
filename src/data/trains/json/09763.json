@@ -1,0 +1,30 @@
+{
+  "number": "09763",
+  "name": "Surathgarh Anupgarh Passenger",
+  "type": "Pass",
+  "source": "ANUPGARH",
+  "sourceCode": "APH",
+  "destination": "SURATGARH JN",
+  "destinationCode": "SOG",
+  "departureTime": "20:40:00",
+  "arrivalTime": "22:15:00",
+  "duration": "1h 35m",
+  "distance": "78 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

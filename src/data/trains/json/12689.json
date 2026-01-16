@@ -1,0 +1,30 @@
+{
+  "number": "12689",
+  "name": "CHENNAI CENTRAL - NAGERCOIL SF Exp",
+  "type": "SF",
+  "source": "CHENNAI CENTRAL",
+  "sourceCode": "MAS",
+  "destination": "NAGERCOIL JN",
+  "destinationCode": "NCJ",
+  "departureTime": "18:15:00",
+  "arrivalTime": "11:05:00",
+  "duration": "16h 50m",
+  "distance": "927 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

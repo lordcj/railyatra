@@ -1,0 +1,30 @@
+{
+  "number": "09562",
+  "name": "Okha - Bandra Terminus Weekly Special",
+  "type": "Exp",
+  "source": "OKHA",
+  "sourceCode": "OKHA",
+  "destination": "MUMBAI BANDRA TERMINUS",
+  "destinationCode": "BDTS",
+  "departureTime": "11:25:00",
+  "arrivalTime": "05:35:00",
+  "duration": "18h 10m",
+  "distance": "980 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

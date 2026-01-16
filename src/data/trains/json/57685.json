@@ -1,0 +1,30 @@
+{
+  "number": "57685",
+  "name": "Solapur Bijapur Passenger",
+  "type": "Pass",
+  "source": "SOLAPUR JN",
+  "sourceCode": "SUR",
+  "destination": "BIJAPUR",
+  "destinationCode": "BJP",
+  "departureTime": "20:10:00",
+  "arrivalTime": "22:55:00",
+  "duration": "2h 45m",
+  "distance": "110 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

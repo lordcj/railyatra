@@ -1,0 +1,32 @@
+{
+  "number": "12563",
+  "name": "Mumbai LTT - Faizabad SF Express",
+  "type": "SF",
+  "source": "LOKMANYA TILAK TERM",
+  "sourceCode": "LTT",
+  "destination": "FAIZABAD JN",
+  "destinationCode": "FD",
+  "departureTime": "14:30:00",
+  "arrivalTime": "17:40:00",
+  "duration": "27h 10m",
+  "distance": "1600 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

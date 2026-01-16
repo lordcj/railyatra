@@ -1,0 +1,30 @@
+{
+  "number": "52529",
+  "name": "Sakri Nirmali Pass",
+  "type": "Pass",
+  "source": "SAKRI JN",
+  "sourceCode": "SKI",
+  "destination": "Nirmali",
+  "destinationCode": "NMA",
+  "departureTime": "14:30:00",
+  "arrivalTime": "17:25:00",
+  "duration": "2h 55m",
+  "distance": "51 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

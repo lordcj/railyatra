@@ -1,0 +1,13 @@
+{
+  "code": "PURI",
+  "name": "Puri",
+  "fullName": "Puri Railway Station",
+  "zone": "ECoR",
+  "state": "Odisha",
+  "category": "A",
+  "platforms": 7,
+  "connectivity": [
+    "Bus",
+    "Taxi"
+  ]
+}

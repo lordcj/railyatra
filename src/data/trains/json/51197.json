@@ -1,0 +1,30 @@
+{
+  "number": "51197",
+  "name": "Bhusaval Wardha Passenger",
+  "type": "Pass",
+  "source": "BHUSAVAL JN",
+  "sourceCode": "BSL",
+  "destination": "WARDHA JN",
+  "destinationCode": "WR",
+  "departureTime": "14:30:00",
+  "arrivalTime": "21:35:00",
+  "duration": "7h 5m",
+  "distance": "314 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

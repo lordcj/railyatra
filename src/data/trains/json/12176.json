@@ -1,0 +1,31 @@
+{
+  "number": "12176",
+  "name": "Chambal Express",
+  "type": "SF",
+  "source": "GWALIOR JN",
+  "sourceCode": "GWL",
+  "destination": "HOWRAH JN",
+  "destinationCode": "HWH",
+  "departureTime": "07:05:00",
+  "arrivalTime": "06:45:00",
+  "duration": "23h 40m",
+  "distance": "1303 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

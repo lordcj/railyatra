@@ -1,0 +1,29 @@
+{
+  "number": "58529",
+  "name": "Durg Visakhapatnam Passenger",
+  "type": "Pass",
+  "source": "DURG",
+  "sourceCode": "DURG",
+  "destination": "VISHAKAPATNAM",
+  "destinationCode": "VSKP",
+  "departureTime": "18:00:00",
+  "arrivalTime": "12:15:00",
+  "duration": "18h 15m",
+  "distance": "564 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

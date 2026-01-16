@@ -1,0 +1,30 @@
+{
+  "number": "37398",
+  "name": "Singur Howrah Local",
+  "type": "MEMU",
+  "source": "Singur",
+  "sourceCode": "SIU",
+  "destination": "HOWRAH JN",
+  "destinationCode": "HWH",
+  "departureTime": "21:15:00",
+  "arrivalTime": "22:10:00",
+  "duration": "0h 55m",
+  "distance": "33 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

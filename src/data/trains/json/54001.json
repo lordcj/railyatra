@@ -1,0 +1,30 @@
+{
+  "number": "54001",
+  "name": "Tilak Bridge Rohtak Shuttle",
+  "type": "Pass",
+  "source": "TILAK BRIDGE",
+  "sourceCode": "TKJ",
+  "destination": "ROHTAK JN",
+  "destinationCode": "ROK",
+  "departureTime": "18:35:00",
+  "arrivalTime": "21:10:00",
+  "duration": "2h 35m",
+  "distance": "73 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

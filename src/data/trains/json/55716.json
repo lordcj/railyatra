@@ -1,0 +1,30 @@
+{
+  "number": "55716",
+  "name": "Siliguri Katihar Passenger",
+  "type": "Pass",
+  "source": "SILIGURI JN",
+  "sourceCode": "SGUJ",
+  "destination": "KATIHAR JN",
+  "destinationCode": "KIR",
+  "departureTime": "04:15:00",
+  "arrivalTime": "09:50:00",
+  "duration": "5h 35m",
+  "distance": "192 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

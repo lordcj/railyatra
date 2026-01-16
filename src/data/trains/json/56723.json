@@ -1,0 +1,30 @@
+{
+  "number": "56723",
+  "name": "Madurai Rameswaram Passenger",
+  "type": "Pass",
+  "source": "MADURAI JN",
+  "sourceCode": "MDU",
+  "destination": "RAMESWARAM",
+  "destinationCode": "RMM",
+  "departureTime": "06:15:00",
+  "arrivalTime": "10:05:00",
+  "duration": "3h 50m",
+  "distance": "161 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

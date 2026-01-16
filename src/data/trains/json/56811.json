@@ -1,0 +1,30 @@
+{
+  "number": "56811",
+  "name": "Mayiladuturai Tiruchchirapalli Passenger",
+  "type": "Pass",
+  "source": "MAYILADUTURAI JN",
+  "sourceCode": "MV",
+  "destination": "TIRUCHIRAPPALLI",
+  "destinationCode": "TPJ",
+  "departureTime": "05:40:00",
+  "arrivalTime": "09:10:00",
+  "duration": "3h 30m",
+  "distance": "120 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

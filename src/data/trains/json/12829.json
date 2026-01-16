@@ -1,0 +1,31 @@
+{
+  "number": "12829",
+  "name": "Chennai Bhubaneswar SF Express",
+  "type": "SF",
+  "source": "CHENNAI CENTRAL",
+  "sourceCode": "MAS",
+  "destination": "BHUBANESWAR",
+  "destinationCode": "BBS",
+  "departureTime": "21:10:00",
+  "arrivalTime": "17:35:00",
+  "duration": "20h 25m",
+  "distance": "1223 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

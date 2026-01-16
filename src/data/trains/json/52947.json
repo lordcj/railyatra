@@ -1,0 +1,30 @@
+{
+  "number": "52947",
+  "name": "Wansjaliya Dhassa Passenger",
+  "type": "Pass",
+  "source": "JETALSAR JN",
+  "sourceCode": "JLR",
+  "destination": "DHASA JN",
+  "destinationCode": "DAS",
+  "departureTime": "20:15:00",
+  "arrivalTime": "22:35:00",
+  "duration": "2h 20m",
+  "distance": "105 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

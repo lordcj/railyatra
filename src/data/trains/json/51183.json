@@ -1,0 +1,30 @@
+{
+  "number": "51183",
+  "name": "Bhusaval Amravati Passenger",
+  "type": "Pass",
+  "source": "BHUSAVAL JN",
+  "sourceCode": "BSL",
+  "destination": "Amravati",
+  "destinationCode": "AMI",
+  "departureTime": "06:30:00",
+  "arrivalTime": "12:30:00",
+  "duration": "6h 0m",
+  "distance": "225 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

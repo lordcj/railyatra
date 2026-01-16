@@ -1,0 +1,30 @@
+{
+  "number": "59601",
+  "name": "Beawar Ajmer Passenger",
+  "type": "Pass",
+  "source": "BEAWAR",
+  "sourceCode": "BER",
+  "destination": "AJMER JN",
+  "destinationCode": "AII",
+  "departureTime": "07:45:00",
+  "arrivalTime": "09:05:00",
+  "duration": "1h 20m",
+  "distance": "53 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,29 @@
+{
+  "number": "19059",
+  "name": "Surat-Jamnagar InterCity Express",
+  "type": "Exp",
+  "source": "SURAT",
+  "sourceCode": "ST",
+  "destination": "JAMNAGAR",
+  "destinationCode": "JAM",
+  "departureTime": "13:35:00",
+  "arrivalTime": "23:59:00",
+  "duration": "10h 24m",
+  "distance": "561 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

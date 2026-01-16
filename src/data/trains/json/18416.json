@@ -1,0 +1,29 @@
+{
+  "number": "18416",
+  "name": "Puri-Banspani InterCity",
+  "type": "Exp",
+  "source": "PURI",
+  "sourceCode": "PURI",
+  "destination": "Banspani",
+  "destinationCode": "BSPX",
+  "departureTime": "06:00:00",
+  "arrivalTime": "14:00:00",
+  "duration": "8h 0m",
+  "distance": "334 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

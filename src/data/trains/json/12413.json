@@ -1,0 +1,32 @@
+{
+  "number": "12413",
+  "name": "Pooja express",
+  "type": "SF",
+  "source": "AJMER JN",
+  "sourceCode": "AII",
+  "destination": "JAMMU TAWI",
+  "destinationCode": "JAT",
+  "departureTime": "14:15:00",
+  "arrivalTime": "08:05:00",
+  "duration": "17h 50m",
+  "distance": "1017 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

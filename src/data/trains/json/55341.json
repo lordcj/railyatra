@@ -1,0 +1,30 @@
+{
+  "number": "55341",
+  "name": "KasGanj-Bharatpur Passenger",
+  "type": "Pass",
+  "source": "KASGANJ",
+  "sourceCode": "KSJ",
+  "destination": "BHARATPUR JN",
+  "destinationCode": "BTE",
+  "departureTime": "17:30:00",
+  "arrivalTime": "22:50:00",
+  "duration": "5h 20m",
+  "distance": "139 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

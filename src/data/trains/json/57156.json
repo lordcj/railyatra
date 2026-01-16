@@ -1,0 +1,30 @@
+{
+  "number": "57156",
+  "name": "Hyderabad Gulbarga Passenger",
+  "type": "Pass",
+  "source": "HYDERABAD DECCAN",
+  "sourceCode": "HYB",
+  "destination": "GULBARGA",
+  "destinationCode": "GR",
+  "departureTime": "16:30:00",
+  "arrivalTime": "23:10:00",
+  "duration": "6h 40m",
+  "distance": "223 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

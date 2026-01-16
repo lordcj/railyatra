@@ -1,0 +1,30 @@
+{
+  "number": "59320",
+  "name": "Bhopal Ujjain Passenger",
+  "type": "Pass",
+  "source": "BHOPAL JN",
+  "sourceCode": "BPL",
+  "destination": "UJJAIN JN",
+  "destinationCode": "UJN",
+  "departureTime": "06:30:00",
+  "arrivalTime": "10:50:00",
+  "duration": "4h 20m",
+  "distance": "184 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

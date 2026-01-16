@@ -1,0 +1,30 @@
+{
+  "number": "53494",
+  "name": "Rajmahal-Teenpahar Pass.",
+  "type": "Pass",
+  "source": "Rajmahal",
+  "sourceCode": "RJL",
+  "destination": "TINPAHAR JN",
+  "destinationCode": "TPH",
+  "departureTime": "22:20:00",
+  "arrivalTime": "22:45:00",
+  "duration": "0h 25m",
+  "distance": "11 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

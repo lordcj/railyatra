@@ -1,0 +1,29 @@
+{
+  "number": "59386",
+  "name": "Panchvalley Passenger",
+  "type": "Pass",
+  "source": "Chhindwara Junction",
+  "sourceCode": "CWA",
+  "destination": "INDORE JN BG",
+  "destinationCode": "INDB",
+  "departureTime": "21:05:00",
+  "arrivalTime": "13:30:00",
+  "duration": "16h 25m",
+  "distance": "554 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

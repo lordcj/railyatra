@@ -1,0 +1,31 @@
+{
+  "number": "12707",
+  "name": "Andhra Pradesh Sampark Kranti Express",
+  "type": "SKr",
+  "source": "TIRUPATI MAIN",
+  "sourceCode": "TPTY",
+  "destination": "DELHI H NIZAMUDDIN",
+  "destinationCode": "NZM",
+  "departureTime": "05:45:00",
+  "arrivalTime": "18:00:00",
+  "duration": "36h 15m",
+  "distance": "2302 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

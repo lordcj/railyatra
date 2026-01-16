@@ -1,0 +1,13 @@
+{
+  "code": "MYS",
+  "name": "Mysore",
+  "fullName": "Mysore Junction",
+  "zone": "SWR",
+  "state": "Karnataka",
+  "category": "A",
+  "platforms": 6,
+  "connectivity": [
+    "Bus",
+    "Taxi"
+  ]
+}

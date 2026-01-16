@@ -1,0 +1,30 @@
+{
+  "number": "64096",
+  "name": "Nizamuddin Parikrama EMU",
+  "type": "Del",
+  "source": "SHAKURBASTI",
+  "sourceCode": "SSB",
+  "destination": "DELHI H NIZAMUDDIN",
+  "destinationCode": "NZM",
+  "departureTime": "10:45:00",
+  "arrivalTime": "11:30:00",
+  "duration": "0h 45m",
+  "distance": "22 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

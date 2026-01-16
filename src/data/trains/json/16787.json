@@ -1,0 +1,30 @@
+{
+  "number": "16787",
+  "name": "TIRUNELVELI - KATRA Exp",
+  "type": "Exp",
+  "source": "TIRUNELVELI",
+  "sourceCode": "TEN",
+  "destination": "S M V D KATRA",
+  "destinationCode": "SVDK",
+  "departureTime": "15:45:00",
+  "arrivalTime": "13:10:00",
+  "duration": "69h 25m",
+  "distance": "3561 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,31 @@
+{
+  "number": "12362",
+  "name": "MUMBAI CST - ASANSOL SF Exp",
+  "type": "SF",
+  "source": "MUMBAI CST",
+  "sourceCode": "CSTM",
+  "destination": "ASANSOL JN",
+  "destinationCode": "ASN",
+  "departureTime": "11:05:00",
+  "arrivalTime": "23:15:00",
+  "duration": "36h 10m",
+  "distance": "2043 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

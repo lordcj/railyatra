@@ -1,0 +1,13 @@
+{
+  "code": "DBRG",
+  "name": "Dibrugarh",
+  "fullName": "Dibrugarh Town",
+  "zone": "NFR",
+  "state": "Assam",
+  "category": "A",
+  "platforms": 3,
+  "connectivity": [
+    "Bus",
+    "Taxi"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "number": "52228",
+  "name": "Tanakpur Aishbagh Express",
+  "type": "Pass",
+  "source": "Tanakpur",
+  "sourceCode": "TPU",
+  "destination": "AISHBAGH",
+  "destinationCode": "ASH",
+  "departureTime": "18:40:00",
+  "arrivalTime": "06:35:00",
+  "duration": "11h 55m",
+  "distance": "322 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

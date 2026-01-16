@@ -1,0 +1,31 @@
+{
+  "number": "22423",
+  "name": "Guwahati-New Delhi Rajdhani Express",
+  "type": "Raj",
+  "source": "GUWAHATI",
+  "sourceCode": "GHY",
+  "destination": "NEW DELHI",
+  "destinationCode": "NDLS",
+  "departureTime": "07:05:00",
+  "arrivalTime": "10:10:00",
+  "duration": "27h 5m",
+  "distance": "1880 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "54374",
+  "name": "Faizabad Prayag Passenger",
+  "type": "Pass",
+  "source": "FAIZABAD JN",
+  "sourceCode": "FD",
+  "destination": "PRAYAG",
+  "destinationCode": "PRG",
+  "departureTime": "17:45:00",
+  "arrivalTime": "23:20:00",
+  "duration": "5h 35m",
+  "distance": "151 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

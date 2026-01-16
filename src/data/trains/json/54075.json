@@ -1,0 +1,29 @@
+{
+  "number": "54075",
+  "name": "Sitapur Delhi Passenger",
+  "type": "Pass",
+  "source": "SITAPUR CITY",
+  "sourceCode": "SPC",
+  "destination": "OLD DELHI",
+  "destinationCode": "DLI",
+  "departureTime": "14:40:00",
+  "arrivalTime": "03:40:00",
+  "duration": "13h 0m",
+  "distance": "409 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,29 @@
+{
+  "number": "12244",
+  "name": "Coimbatore-Chennai Central AC Duronto Express",
+  "type": "Drnt",
+  "source": "COIMBATORE JN",
+  "sourceCode": "CBE",
+  "destination": "CHENNAI CENTRAL",
+  "destinationCode": "MAS",
+  "departureTime": "15:05:00",
+  "arrivalTime": "21:50:00",
+  "duration": "6h 45m",
+  "distance": "497 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

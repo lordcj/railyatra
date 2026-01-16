@@ -1,0 +1,30 @@
+{
+  "number": "56654",
+  "name": "Kozhikode Passenger",
+  "type": "Pass",
+  "source": "MANGALORE CNTL",
+  "sourceCode": "MAQ",
+  "destination": "KOZHIKODE",
+  "destinationCode": "CLT",
+  "departureTime": "05:25:00",
+  "arrivalTime": "11:05:00",
+  "duration": "5h 40m",
+  "distance": "221 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

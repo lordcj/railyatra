@@ -1,0 +1,30 @@
+{
+  "number": "04603",
+  "name": "JAT UDAHMPUR DMU",
+  "type": "DEMU",
+  "source": "JAMMU TAWI",
+  "sourceCode": "JAT",
+  "destination": "UDHAMPUR",
+  "destinationCode": "UHP",
+  "departureTime": "16:15:00",
+  "arrivalTime": "17:50:00",
+  "duration": "1h 35m",
+  "distance": "53 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

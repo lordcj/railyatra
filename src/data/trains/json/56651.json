@@ -1,0 +1,30 @@
+{
+  "number": "56651",
+  "name": "Coimbatore Kannur Fast Passenger",
+  "type": "Pass",
+  "source": "COIMBATORE JN",
+  "sourceCode": "CBE",
+  "destination": "KANNUR",
+  "destinationCode": "CAN",
+  "departureTime": "14:00:00",
+  "arrivalTime": "21:15:00",
+  "duration": "7h 15m",
+  "distance": "274 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

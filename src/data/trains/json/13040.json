@@ -1,0 +1,30 @@
+{
+  "number": "13040",
+  "name": "Janata Express",
+  "type": "Exp",
+  "source": "OLD DELHI",
+  "sourceCode": "DLI",
+  "destination": "HOWRAH JN",
+  "destinationCode": "HWH",
+  "departureTime": "15:40:00",
+  "arrivalTime": "06:05:00",
+  "duration": "38h 25m",
+  "distance": "1540 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

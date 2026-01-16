@@ -1,0 +1,30 @@
+{
+  "number": "53323",
+  "name": "SINDRI TOWN DHANBAD PASSSENGE",
+  "type": "Pass",
+  "source": "Sindri Town",
+  "sourceCode": "SNDT",
+  "destination": "DHANBAD JN",
+  "destinationCode": "DHN",
+  "departureTime": "08:00:00",
+  "arrivalTime": "09:35:00",
+  "duration": "1h 35m",
+  "distance": "27 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

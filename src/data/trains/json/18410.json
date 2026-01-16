@@ -1,0 +1,31 @@
+{
+  "number": "18410",
+  "name": "Sri Jagannath Express",
+  "type": "Exp",
+  "source": "PURI",
+  "sourceCode": "PURI",
+  "destination": "HOWRAH JN",
+  "destinationCode": "HWH",
+  "departureTime": "22:50:00",
+  "arrivalTime": "08:10:00",
+  "duration": "9h 20m",
+  "distance": "502 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,32 @@
+{
+  "number": "15008",
+  "name": "Krishak Express",
+  "type": "Exp",
+  "source": "LUCKNOW JN",
+  "sourceCode": "LJN",
+  "destination": "MANDUADIH",
+  "destinationCode": "MUV",
+  "departureTime": "23:05:00",
+  "arrivalTime": "13:00:00",
+  "duration": "13h 55m",
+  "distance": "513 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

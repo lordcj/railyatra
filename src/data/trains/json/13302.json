@@ -1,0 +1,29 @@
+{
+  "number": "13302",
+  "name": "Suvarna Rekha Express",
+  "type": "Exp",
+  "source": "TATANAGAR JN",
+  "sourceCode": "TATA",
+  "destination": "DHANBAD JN",
+  "destinationCode": "DHN",
+  "departureTime": "13:20:00",
+  "arrivalTime": "18:45:00",
+  "duration": "5h 25m",
+  "distance": "193 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

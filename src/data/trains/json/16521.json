@@ -1,0 +1,30 @@
+{
+  "number": "16521",
+  "name": "Bangarpet-Bangalore Express",
+  "type": "Exp",
+  "source": "BANGARAPET",
+  "sourceCode": "BWT",
+  "destination": "BANGALORE CITY JN",
+  "destinationCode": "SBC",
+  "departureTime": "21:40:00",
+  "arrivalTime": "23:25:00",
+  "duration": "1h 45m",
+  "distance": "70 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

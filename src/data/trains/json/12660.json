@@ -1,0 +1,31 @@
+{
+  "number": "12660",
+  "name": "Shalimar-Nagercoil Gurudev Express",
+  "type": "SF",
+  "source": "KOLKATA SHALIMAR",
+  "sourceCode": "SHM",
+  "destination": "NAGERCOIL JN",
+  "destinationCode": "NCJ",
+  "departureTime": "23:00:00",
+  "arrivalTime": "22:00:00",
+  "duration": "47h 0m",
+  "distance": "2583 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

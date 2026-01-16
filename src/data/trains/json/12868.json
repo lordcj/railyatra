@@ -1,0 +1,31 @@
+{
+  "number": "12868",
+  "name": "Puducherry-Howrah (Aurobindo) Express",
+  "type": "SF",
+  "source": "Puducherry",
+  "sourceCode": "PDY",
+  "destination": "HOWRAH JN",
+  "destinationCode": "HWH",
+  "departureTime": "12:30:00",
+  "arrivalTime": "22:25:00",
+  "duration": "33h 55m",
+  "distance": "1907 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

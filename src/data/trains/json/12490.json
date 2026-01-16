@@ -1,0 +1,31 @@
+{
+  "number": "12490",
+  "name": "Dadar - Bikaner Express",
+  "type": "SF",
+  "source": "MUMBAI DADAR WEST",
+  "sourceCode": "DDR",
+  "destination": "BIKANER JN",
+  "destinationCode": "BKN",
+  "departureTime": "14:35:00",
+  "arrivalTime": "13:10:00",
+  "duration": "22h 35m",
+  "distance": "1245 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,31 @@
+{
+  "number": "11067-Slip",
+  "name": "Saket Express Slip",
+  "type": "Exp",
+  "source": "LOKMANYA TILAK TERM",
+  "sourceCode": "LTT",
+  "destination": "RAE BARELI JN",
+  "destinationCode": "RBL",
+  "departureTime": "05:20:00",
+  "arrivalTime": "08:20:00",
+  "duration": "27h 0m",
+  "distance": "1502 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,31 @@
+{
+  "number": "06346",
+  "name": "PALGHAT TOWN - POLLACHI Passenger SPL",
+  "type": "Exp",
+  "source": "PALGHAT TOWN",
+  "sourceCode": "PGTN",
+  "destination": "POLLACHI JN",
+  "destinationCode": "POY",
+  "departureTime": "17:00:00",
+  "arrivalTime": "04:40:00",
+  "duration": "11h 40m",
+  "distance": "638 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,32 @@
+{
+  "number": "11063-Slip",
+  "name": "Chennai Salem Express Slip",
+  "type": "Exp",
+  "source": "CHENNAI EGMORE",
+  "sourceCode": "MS",
+  "destination": "METUR DAM",
+  "destinationCode": "MTDM",
+  "departureTime": "23:00:00",
+  "arrivalTime": "08:05:00",
+  "duration": "9h 5m",
+  "distance": "393 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

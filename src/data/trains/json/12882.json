@@ -1,0 +1,29 @@
+{
+  "number": "12882",
+  "name": "Puri Howrah Garib Rath",
+  "type": "GR",
+  "source": "PURI",
+  "sourceCode": "PURI",
+  "destination": "HOWRAH JN",
+  "destinationCode": "HWH",
+  "departureTime": "22:15:00",
+  "arrivalTime": "07:05:00",
+  "duration": "8h 50m",
+  "distance": "502 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "3A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

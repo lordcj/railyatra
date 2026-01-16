@@ -1,0 +1,29 @@
+{
+  "number": "12360",
+  "name": "KOLKATA CHITPUR - PATNA Garib Rath Exp",
+  "type": "GR",
+  "source": "PATNA JN",
+  "sourceCode": "PNBE",
+  "destination": "KOLKATA CHITPUR",
+  "destinationCode": "KOAA",
+  "departureTime": "20:10:00",
+  "arrivalTime": "05:15:00",
+  "duration": "9h 5m",
+  "distance": "534 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "3A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,31 @@
+{
+  "number": "12190",
+  "name": "DELHI H NIZAMUDDIN - JABALPUR Mahakoshal SF Exp",
+  "type": "SF",
+  "source": "DELHI H NIZAMUDDIN",
+  "sourceCode": "NZM",
+  "destination": "JABALPUR",
+  "destinationCode": "JBP",
+  "departureTime": "16:10:00",
+  "arrivalTime": "09:35:00",
+  "duration": "17h 25m",
+  "distance": "961 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

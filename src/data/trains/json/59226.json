@@ -1,0 +1,30 @@
+{
+  "number": "59226",
+  "name": "Mahuva Bhavnagar Passenger",
+  "type": "Pass",
+  "source": "MAHUVA JN",
+  "sourceCode": "MHV",
+  "destination": "BHAVANAGAR PARA",
+  "destinationCode": "BVP",
+  "departureTime": "14:30:00",
+  "arrivalTime": "19:40:00",
+  "duration": "5h 10m",
+  "distance": "220 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

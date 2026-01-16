@@ -1,0 +1,31 @@
+{
+  "number": "12618",
+  "name": "NEW DELHI H NIZAMUDDIN - ERNAKULAM Mangala Lakshadweep Exp",
+  "type": "SF",
+  "source": "DELHI H NIZAMUDDIN",
+  "sourceCode": "NZM",
+  "destination": "ERNAKULAM JN",
+  "destinationCode": "ERS",
+  "departureTime": "09:20:00",
+  "arrivalTime": "10:00:00",
+  "duration": "48h 40m",
+  "distance": "3067 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

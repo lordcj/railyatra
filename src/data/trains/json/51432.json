@@ -1,0 +1,30 @@
+{
+  "number": "51432",
+  "name": "Londa-Miraj Passenger",
+  "type": "Pass",
+  "source": "LONDA JN",
+  "sourceCode": "LD",
+  "destination": "MIRAJ JN",
+  "destinationCode": "MRJ",
+  "departureTime": "11:40:00",
+  "arrivalTime": "16:15:00",
+  "duration": "4h 35m",
+  "distance": "189 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

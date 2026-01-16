@@ -1,0 +1,29 @@
+{
+  "number": "58839",
+  "name": "Nagpur Nainpur Jabalpur Fast Passenger",
+  "type": "Pass",
+  "source": "NAGPUR",
+  "sourceCode": "NGP",
+  "destination": "JABALPUR",
+  "destinationCode": "JBP",
+  "departureTime": "12:45:00",
+  "arrivalTime": "08:15:00",
+  "duration": "19h 30m",
+  "distance": "398 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

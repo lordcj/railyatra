@@ -1,0 +1,31 @@
+{
+  "number": "18601",
+  "name": "Rourkela-JammuTawi Express",
+  "type": "Exp",
+  "source": "ROURKELA",
+  "sourceCode": "ROU",
+  "destination": "JAMMU TAWI",
+  "destinationCode": "JAT",
+  "departureTime": "11:15:00",
+  "arrivalTime": "13:40:00",
+  "duration": "50h 25m",
+  "distance": "2158 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "14629",
+  "name": "Ludhiana Firozpur Sutlej Express",
+  "type": "Exp",
+  "source": "LUDHIANA JN",
+  "sourceCode": "LDH",
+  "destination": "FIROZPUR CANT",
+  "destinationCode": "FZR",
+  "departureTime": "07:15:00",
+  "arrivalTime": "09:40:00",
+  "duration": "2h 25m",
+  "distance": "124 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

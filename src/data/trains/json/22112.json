@@ -1,0 +1,30 @@
+{
+  "number": "22112",
+  "name": "Nagpur-Bhusaval SF Express",
+  "type": "SF",
+  "source": "NAGPUR",
+  "sourceCode": "NGP",
+  "destination": "BHUSAVAL JN",
+  "destinationCode": "BSL",
+  "departureTime": "07:20:00",
+  "arrivalTime": "17:45:00",
+  "duration": "10h 25m",
+  "distance": "604 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

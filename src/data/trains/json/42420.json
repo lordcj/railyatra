@@ -1,0 +1,30 @@
+{
+  "number": "42420",
+  "name": "Sullurpeta Chennai EMU",
+  "type": "MEMU",
+  "source": "SULLURUPETA",
+  "sourceCode": "SPE",
+  "destination": "CHENNAI CENTRAL",
+  "destinationCode": "MAS",
+  "departureTime": "20:20:00",
+  "arrivalTime": "22:25:00",
+  "duration": "2h 5m",
+  "distance": "83 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

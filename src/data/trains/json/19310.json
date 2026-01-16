@@ -1,0 +1,31 @@
+{
+  "number": "19310",
+  "name": "Shanti Express",
+  "type": "Exp",
+  "source": "INDORE JN BG",
+  "sourceCode": "INDB",
+  "destination": "Gandhinagar Capital",
+  "destinationCode": "GNC",
+  "departureTime": "22:45:00",
+  "arrivalTime": "10:00:00",
+  "duration": "11h 15m",
+  "distance": "571 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

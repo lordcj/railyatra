@@ -1,0 +1,31 @@
+{
+  "number": "12456",
+  "name": "ShriGanganagar-DelhiSaraiRohilla AC SF Express",
+  "type": "SF",
+  "source": "SHRI GANGANAGAR",
+  "sourceCode": "SGNR",
+  "destination": "DELHI SARAI ROHILLA",
+  "destinationCode": "DEE",
+  "departureTime": "22:00:00",
+  "arrivalTime": "06:35:00",
+  "duration": "8h 35m",
+  "distance": "486 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

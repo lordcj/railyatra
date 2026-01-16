@@ -1,0 +1,31 @@
+{
+  "number": "08568",
+  "name": "Shirdi-Visakhapatnam Weekly Special",
+  "type": "Exp",
+  "source": "SAINAGAR SHIRDI",
+  "sourceCode": "SNSI",
+  "destination": "VISHAKAPATNAM",
+  "destinationCode": "VSKP",
+  "departureTime": "18:20:00",
+  "arrivalTime": "22:45:00",
+  "duration": "28h 25m",
+  "distance": "1405 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

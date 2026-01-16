@@ -1,0 +1,30 @@
+{
+  "number": "58001",
+  "name": "Howrah Puri Santragachi Passenger",
+  "type": "Pass",
+  "source": "HOWRAH JN",
+  "sourceCode": "HWH",
+  "destination": "PURI",
+  "destinationCode": "PURI",
+  "departureTime": "23:50:00",
+  "arrivalTime": "19:00:00",
+  "duration": "19h 10m",
+  "distance": "520 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

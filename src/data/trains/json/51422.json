@@ -1,0 +1,30 @@
+{
+  "number": "51422",
+  "name": "Nizamabad Pune Passenger",
+  "type": "Pass",
+  "source": "NIZAMABAD",
+  "sourceCode": "NZB",
+  "destination": "PUNE JN",
+  "destinationCode": "PUNE",
+  "departureTime": "23:40:00",
+  "arrivalTime": "20:55:00",
+  "duration": "21h 15m",
+  "distance": "759 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

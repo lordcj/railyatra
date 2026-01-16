@@ -1,0 +1,30 @@
+{
+  "number": "52952",
+  "name": "Junagadh Delvada Passenger",
+  "type": "Pass",
+  "source": "JUNAGADH JN",
+  "sourceCode": "JND",
+  "destination": "Delvada",
+  "destinationCode": "DVA",
+  "departureTime": "07:15:00",
+  "arrivalTime": "13:20:00",
+  "duration": "6h 5m",
+  "distance": "158 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

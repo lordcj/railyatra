@@ -1,0 +1,32 @@
+{
+  "number": "12273",
+  "name": "Howrah-New Delhi Duronto Express",
+  "type": "Drnt",
+  "source": "HOWRAH JN",
+  "sourceCode": "HWH",
+  "destination": "NEW DELHI",
+  "destinationCode": "NDLS",
+  "departureTime": "13:00:00",
+  "arrivalTime": "06:05:00",
+  "duration": "17h 5m",
+  "distance": "1446 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,31 @@
+{
+  "number": "12165",
+  "name": "MUMBAI LTT - VARANASI Ratnagiri Exp",
+  "type": "SF",
+  "source": "LOKMANYA TILAK TERM",
+  "sourceCode": "LTT",
+  "destination": "VARANASI JN",
+  "destinationCode": "BSB",
+  "departureTime": "05:20:00",
+  "arrivalTime": "07:05:00",
+  "duration": "25h 45m",
+  "distance": "1483 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

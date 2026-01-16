@@ -1,0 +1,30 @@
+{
+  "number": "53322",
+  "name": "Dhanbad-Asansol Passenger MEMU",
+  "type": "Pass",
+  "source": "DHANBAD JN",
+  "sourceCode": "DHN",
+  "destination": "ASANSOL JN",
+  "destinationCode": "ASN",
+  "departureTime": "13:20:00",
+  "arrivalTime": "14:45:00",
+  "duration": "1h 25m",
+  "distance": "59 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

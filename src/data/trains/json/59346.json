@@ -1,0 +1,30 @@
+{
+  "number": "59346",
+  "name": "Nagda Ratlam Passenger",
+  "type": "Pass",
+  "source": "NAGDA JN",
+  "sourceCode": "NAD",
+  "destination": "RATLAM JN",
+  "destinationCode": "RTM",
+  "departureTime": "08:50:00",
+  "arrivalTime": "09:45:00",
+  "duration": "0h 55m",
+  "distance": "41 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

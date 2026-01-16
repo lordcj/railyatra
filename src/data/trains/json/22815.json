@@ -1,0 +1,31 @@
+{
+  "number": "22815",
+  "name": "Bilaspur-Ernakulam Express",
+  "type": "SF",
+  "source": "BILASPUR JN",
+  "sourceCode": "BSP",
+  "destination": "ERNAKULAM JN",
+  "destinationCode": "ERS",
+  "departureTime": "08:10:00",
+  "arrivalTime": "21:35:00",
+  "duration": "37h 25m",
+  "distance": "2155 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,31 @@
+{
+  "number": "12989",
+  "name": "Dadar Ajmer Superfast Express",
+  "type": "SF",
+  "source": "MUMBAI DADAR WEST",
+  "sourceCode": "DDR",
+  "destination": "AJMER JN",
+  "destinationCode": "AII",
+  "departureTime": "14:35:00",
+  "arrivalTime": "08:05:00",
+  "duration": "17h 30m",
+  "distance": "976 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "57454",
+  "name": "Guntakal Bellary Passenger",
+  "type": "Pass",
+  "source": "GUNTAKAL JN",
+  "sourceCode": "GTL",
+  "destination": "BELLARY JN",
+  "destinationCode": "BAY",
+  "departureTime": "12:00:00",
+  "arrivalTime": "13:25:00",
+  "duration": "1h 25m",
+  "distance": "50 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

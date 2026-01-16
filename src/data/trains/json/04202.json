@@ -1,0 +1,31 @@
+{
+  "number": "04202",
+  "name": "New Delhi-Lucknow tri-weekly Special",
+  "type": "Exp",
+  "source": "NEW DELHI",
+  "sourceCode": "NDLS",
+  "destination": "LUCKNOW",
+  "destinationCode": "LKO",
+  "departureTime": "23:55:00",
+  "arrivalTime": "09:45:00",
+  "duration": "9h 50m",
+  "distance": "493 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

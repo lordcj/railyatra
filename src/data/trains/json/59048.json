@@ -1,0 +1,30 @@
+{
+  "number": "59048",
+  "name": "Surat Virar Passenger",
+  "type": "Pass",
+  "source": "SURAT",
+  "sourceCode": "ST",
+  "destination": "VIRAR",
+  "destinationCode": "VR",
+  "departureTime": "18:20:00",
+  "arrivalTime": "23:10:00",
+  "duration": "4h 50m",
+  "distance": "207 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

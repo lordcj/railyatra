@@ -1,0 +1,30 @@
+{
+  "number": "13510",
+  "name": "Gonda-Asansol Express",
+  "type": "Exp",
+  "source": "GONDA JN",
+  "sourceCode": "GD",
+  "destination": "ASANSOL JN",
+  "destinationCode": "ASN",
+  "departureTime": "15:00:00",
+  "arrivalTime": "11:15:00",
+  "duration": "20h 15m",
+  "distance": "862 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "58019",
+  "name": "Adra Asansol Passenger",
+  "type": "Pass",
+  "source": "ADRA JN",
+  "sourceCode": "ADRA",
+  "destination": "ASANSOL JN",
+  "destinationCode": "ASN",
+  "departureTime": "14:30:00",
+  "arrivalTime": "15:55:00",
+  "duration": "1h 25m",
+  "distance": "41 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

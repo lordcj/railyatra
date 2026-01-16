@@ -1,0 +1,30 @@
+{
+  "number": "52179",
+  "name": "Dhaulpur Sirmuttra Passenger",
+  "type": "Pass",
+  "source": "DHAULPUR",
+  "sourceCode": "DHO",
+  "destination": "Sirmuttra",
+  "destinationCode": "SRMT",
+  "departureTime": "04:00:00",
+  "arrivalTime": "07:00:00",
+  "duration": "3h 0m",
+  "distance": "70 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "56335",
+  "name": "Punalur Kollam Passenger",
+  "type": "Pass",
+  "source": "Punalur",
+  "sourceCode": "PUU",
+  "destination": "KOLLAM JN",
+  "destinationCode": "QLN",
+  "departureTime": "13:50:00",
+  "arrivalTime": "15:15:00",
+  "duration": "1h 25m",
+  "distance": "45 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "17305",
+  "name": "Hubli-H.Nizamuddin Goa Express",
+  "type": "Exp",
+  "source": "HUBLI JN",
+  "sourceCode": "UBL",
+  "destination": "DELHI H NIZAMUDDIN",
+  "destinationCode": "NZM",
+  "departureTime": "16:15:00",
+  "arrivalTime": "06:15:00",
+  "duration": "38h 0m",
+  "distance": "2147 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

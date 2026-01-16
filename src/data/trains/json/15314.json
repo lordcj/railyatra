@@ -1,0 +1,29 @@
+{
+  "number": "15314",
+  "name": "Aishbagh Express",
+  "type": "Exp",
+  "source": "BAREILLY",
+  "sourceCode": "BRY",
+  "destination": "AISHBAGH",
+  "destinationCode": "ASH",
+  "departureTime": "04:30:00",
+  "arrivalTime": "13:30:00",
+  "duration": "9h 0m",
+  "distance": "317 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,31 @@
+{
+  "number": "12959",
+  "name": "MUMBAI DADAR - BHUJ SF Exp",
+  "type": "SF",
+  "source": "MUMBAI DADAR WEST",
+  "sourceCode": "DDR",
+  "destination": "BHUJ",
+  "destinationCode": "BHUJ",
+  "departureTime": "23:55:00",
+  "arrivalTime": "17:40:00",
+  "duration": "17h 45m",
+  "distance": "977 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

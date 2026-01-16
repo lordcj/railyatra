@@ -1,0 +1,31 @@
+{
+  "number": "12830",
+  "name": "Bhubaneswar Chennai Superfast Express",
+  "type": "SF",
+  "source": "BHUBANESWAR",
+  "sourceCode": "BBS",
+  "destination": "CHENNAI CENTRAL",
+  "destinationCode": "MAS",
+  "departureTime": "12:00:00",
+  "arrivalTime": "08:55:00",
+  "duration": "20h 55m",
+  "distance": "1223 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

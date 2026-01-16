@@ -1,0 +1,29 @@
+{
+  "number": "16058",
+  "name": "Saptagiri Express",
+  "type": "Exp",
+  "source": "TIRUPATI MAIN",
+  "sourceCode": "TPTY",
+  "destination": "CHENNAI CENTRAL",
+  "destinationCode": "MAS",
+  "departureTime": "17:20:00",
+  "arrivalTime": "20:35:00",
+  "duration": "3h 15m",
+  "distance": "151 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

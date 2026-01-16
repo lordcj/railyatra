@@ -1,0 +1,30 @@
+{
+  "number": "14163-Slip",
+  "name": "Sangam Express Slip",
+  "type": "Exp",
+  "source": "ALLAHABAD JN",
+  "sourceCode": "ALD",
+  "destination": "DEHRADUN",
+  "destinationCode": "DDN",
+  "departureTime": "17:45:00",
+  "arrivalTime": "13:10:00",
+  "duration": "19h 25m",
+  "distance": "863 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

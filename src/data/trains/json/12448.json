@@ -1,0 +1,32 @@
+{
+  "number": "12448",
+  "name": "UP Sampark Kranti Express",
+  "type": "SKr",
+  "source": "DELHI H NIZAMUDDIN",
+  "sourceCode": "NZM",
+  "destination": "MANIKPUR JN",
+  "destinationCode": "MKP",
+  "departureTime": "20:15:00",
+  "arrivalTime": "08:35:00",
+  "duration": "12h 20m",
+  "distance": "695 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

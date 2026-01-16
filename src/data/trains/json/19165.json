@@ -1,0 +1,30 @@
+{
+  "number": "19165",
+  "name": "Sabarmati Express",
+  "type": "Exp",
+  "source": "AHMEDABAD JN",
+  "sourceCode": "ADI",
+  "destination": "DARBHANGA JN",
+  "destinationCode": "DBG",
+  "departureTime": "20:50:00",
+  "arrivalTime": "19:15:00",
+  "duration": "46h 25m",
+  "distance": "1944 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

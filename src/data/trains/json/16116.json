@@ -1,0 +1,30 @@
+{
+  "number": "16116",
+  "name": "Puducherry Chennai Express",
+  "type": "Exp",
+  "source": "Puducherry",
+  "sourceCode": "PDY",
+  "destination": "CHENNAI EGMORE",
+  "destinationCode": "MS",
+  "departureTime": "05:35:00",
+  "arrivalTime": "09:20:00",
+  "duration": "3h 45m",
+  "distance": "196 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

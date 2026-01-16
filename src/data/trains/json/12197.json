@@ -1,0 +1,30 @@
+{
+  "number": "12197",
+  "name": "Bhopal Gwalior InterCity Express",
+  "type": "SF",
+  "source": "BHOPAL JN",
+  "sourceCode": "BPL",
+  "destination": "GWALIOR JN",
+  "destinationCode": "GWL",
+  "departureTime": "15:30:00",
+  "arrivalTime": "23:55:00",
+  "duration": "8h 25m",
+  "distance": "485 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

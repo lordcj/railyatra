@@ -1,0 +1,30 @@
+{
+  "number": "59462",
+  "name": "Dahanu Mumbai Passenger",
+  "type": "Pass",
+  "source": "DAHANU ROAD",
+  "sourceCode": "DRD",
+  "destination": "Mumbai Central",
+  "destinationCode": "BCT",
+  "departureTime": "18:55:00",
+  "arrivalTime": "22:05:00",
+  "duration": "3h 10m",
+  "distance": "120 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

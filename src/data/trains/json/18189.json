@@ -1,0 +1,31 @@
+{
+  "number": "18189",
+  "name": "Tatanagar- Alappuzha (Alleppey) Express",
+  "type": "Exp",
+  "source": "TATANAGAR JN",
+  "sourceCode": "TATA",
+  "destination": "ALLEPPEY",
+  "destinationCode": "ALLP",
+  "departureTime": "15:45:00",
+  "arrivalTime": "20:25:00",
+  "duration": "52h 40m",
+  "distance": "2358 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

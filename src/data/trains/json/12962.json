@@ -1,0 +1,32 @@
+{
+  "number": "12962",
+  "name": "Avantika Express",
+  "type": "SF",
+  "source": "INDORE JN BG",
+  "sourceCode": "INDB",
+  "destination": "Mumbai Central",
+  "destinationCode": "BCT",
+  "departureTime": "15:50:00",
+  "arrivalTime": "06:35:00",
+  "duration": "14h 45m",
+  "distance": "829 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "52280",
+  "name": "Chhapra-Thawe Passenger",
+  "type": "Pass",
+  "source": "CHHAPRA",
+  "sourceCode": "CPR",
+  "destination": "Thawe Junction",
+  "destinationCode": "THE",
+  "departureTime": "01:45:00",
+  "arrivalTime": "06:00:00",
+  "duration": "4h 15m",
+  "distance": "105 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

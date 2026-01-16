@@ -1,0 +1,32 @@
+{
+  "number": "12416",
+  "name": "Nizamuddin-Indore Express",
+  "type": "SF",
+  "source": "DELHI H NIZAMUDDIN",
+  "sourceCode": "NZM",
+  "destination": "INDORE JN BG",
+  "destinationCode": "INDB",
+  "departureTime": "22:15:00",
+  "arrivalTime": "11:55:00",
+  "duration": "13h 40m",
+  "distance": "817 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

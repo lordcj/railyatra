@@ -1,0 +1,30 @@
+{
+  "number": "63541",
+  "name": "ASANSOL-GOMOH PASSENGER (MEMU)",
+  "type": "MEMU",
+  "source": "ASANSOL JN",
+  "sourceCode": "ASN",
+  "destination": "GOMOH JN",
+  "destinationCode": "GMO",
+  "departureTime": "05:10:00",
+  "arrivalTime": "07:03:00",
+  "duration": "1h 53m",
+  "distance": "87 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

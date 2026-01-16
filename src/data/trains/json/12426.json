@@ -1,0 +1,31 @@
+{
+  "number": "12426",
+  "name": "Jammu Rajdhani Express",
+  "type": "Raj",
+  "source": "JAMMU TAWI",
+  "sourceCode": "JAT",
+  "destination": "NEW DELHI",
+  "destinationCode": "NDLS",
+  "departureTime": "19:45:00",
+  "arrivalTime": "05:00:00",
+  "duration": "9h 15m",
+  "distance": "577 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

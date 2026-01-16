@@ -1,0 +1,30 @@
+{
+  "number": "51813",
+  "name": "Jhansi Lucknow Passenger",
+  "type": "Pass",
+  "source": "JHANSI JN",
+  "sourceCode": "JHS",
+  "destination": "LUCKNOW",
+  "destinationCode": "LKO",
+  "departureTime": "02:50:00",
+  "arrivalTime": "11:20:00",
+  "duration": "8h 30m",
+  "distance": "294 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

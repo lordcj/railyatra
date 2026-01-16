@@ -1,0 +1,30 @@
+{
+  "number": "55120",
+  "name": "Varanasi Gorakhpur Passenger",
+  "type": "Pass",
+  "source": "VARANASI JN",
+  "sourceCode": "BSB",
+  "destination": "GORAKHPUR JN",
+  "destinationCode": "GKP",
+  "departureTime": "11:10:00",
+  "arrivalTime": "18:55:00",
+  "duration": "7h 45m",
+  "distance": "231 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

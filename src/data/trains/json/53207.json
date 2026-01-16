@@ -1,0 +1,30 @@
+{
+  "number": "53207",
+  "name": "Islampur Buxar Passenger",
+  "type": "Pass",
+  "source": "Islampur",
+  "sourceCode": "IPR",
+  "destination": "BUXAR",
+  "destinationCode": "BXR",
+  "departureTime": "14:05:00",
+  "arrivalTime": "23:15:00",
+  "duration": "9h 10m",
+  "distance": "181 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

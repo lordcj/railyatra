@@ -1,0 +1,31 @@
+{
+  "number": "06002",
+  "name": "Kollam-Chennai Central SF Special",
+  "type": "SF",
+  "source": "KOLLAM JN",
+  "sourceCode": "QLN",
+  "destination": "CHENNAI CENTRAL",
+  "destinationCode": "MAS",
+  "departureTime": "11:30:00",
+  "arrivalTime": "03:40:00",
+  "duration": "16h 10m",
+  "distance": "858 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

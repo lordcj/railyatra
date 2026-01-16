@@ -1,0 +1,30 @@
+{
+  "number": "54810",
+  "name": "Degana Rewari Pass",
+  "type": "Pass",
+  "source": "DEGANA JN",
+  "sourceCode": "DNA",
+  "destination": "REWARI",
+  "destinationCode": "RE",
+  "departureTime": "05:15:00",
+  "arrivalTime": "14:30:00",
+  "duration": "9h 15m",
+  "distance": "394 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

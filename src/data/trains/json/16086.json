@@ -1,0 +1,30 @@
+{
+  "number": "16086",
+  "name": "Arakkonam Express",
+  "type": "Exp",
+  "source": "JOLARPETTAI",
+  "sourceCode": "JTJ",
+  "destination": "ARAKKONAM",
+  "destinationCode": "AJJ",
+  "departureTime": "06:55:00",
+  "arrivalTime": "09:45:00",
+  "duration": "2h 50m",
+  "distance": "145 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

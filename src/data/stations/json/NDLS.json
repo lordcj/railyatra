@@ -1,0 +1,14 @@
+{
+  "code": "NDLS",
+  "name": "New Delhi",
+  "fullName": "New Delhi Railway Station",
+  "zone": "NR",
+  "state": "Delhi",
+  "category": "A1",
+  "platforms": 16,
+  "connectivity": [
+    "Metro",
+    "Bus",
+    "Taxi"
+  ]
+}

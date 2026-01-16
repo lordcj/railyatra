@@ -1,0 +1,31 @@
+{
+  "number": "17014",
+  "name": "Hyderabad-Pune Express",
+  "type": "Exp",
+  "source": "HYDERABAD DECCAN",
+  "sourceCode": "HYB",
+  "destination": "PUNE JN",
+  "destinationCode": "PUNE",
+  "departureTime": "22:45:00",
+  "arrivalTime": "13:15:00",
+  "duration": "14h 30m",
+  "distance": "649 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

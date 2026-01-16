@@ -1,0 +1,31 @@
+{
+  "number": "16527",
+  "name": "Yesvantpur - Kannur Express",
+  "type": "Exp",
+  "source": "YESVANTPUR JN",
+  "sourceCode": "YPR",
+  "destination": "KANNUR",
+  "destinationCode": "CAN",
+  "departureTime": "20:00:00",
+  "arrivalTime": "08:30:00",
+  "duration": "12h 30m",
+  "distance": "649 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

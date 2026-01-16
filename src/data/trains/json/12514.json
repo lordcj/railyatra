@@ -1,0 +1,31 @@
+{
+  "number": "12514",
+  "name": "GUWAHATI - SECUNDERABAD Exp",
+  "type": "SF",
+  "source": "GUWAHATI",
+  "sourceCode": "GHY",
+  "destination": "SECUNDERABAD JN",
+  "destinationCode": "SC",
+  "departureTime": "06:30:00",
+  "arrivalTime": "04:20:00",
+  "duration": "45h 50m",
+  "distance": "2551 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

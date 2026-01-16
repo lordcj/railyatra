@@ -1,0 +1,31 @@
+{
+  "number": "18510",
+  "name": "Nanded-Visakhapatnam Express",
+  "type": "Exp",
+  "source": "HUZUR SAHIB NANDED",
+  "sourceCode": "NED",
+  "destination": "VISHAKAPATNAM",
+  "destinationCode": "VSKP",
+  "departureTime": "16:15:00",
+  "arrivalTime": "10:15:00",
+  "duration": "18h 0m",
+  "distance": "973 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "54228",
+  "name": "Raibareli Unchahar Passenger",
+  "type": "Pass",
+  "source": "RAE BARELI JN",
+  "sourceCode": "RBL",
+  "destination": "Unchahar Junction",
+  "destinationCode": "UCR",
+  "departureTime": "15:45:00",
+  "arrivalTime": "16:35:00",
+  "duration": "0h 50m",
+  "distance": "38 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

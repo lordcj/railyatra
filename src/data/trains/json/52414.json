@@ -1,0 +1,30 @@
+{
+  "number": "52414",
+  "name": "SOG SDLP PASS",
+  "type": "Pass",
+  "source": "SHRI GANGANAGAR",
+  "sourceCode": "SGNR",
+  "destination": "Sadulpur Junction",
+  "destinationCode": "SDLP",
+  "departureTime": "07:20:00",
+  "arrivalTime": "14:10:00",
+  "duration": "6h 50m",
+  "distance": "246 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

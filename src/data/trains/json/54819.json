@@ -1,0 +1,30 @@
+{
+  "number": "54819",
+  "name": "JAISALMER - JODHPUR PASSENGER",
+  "type": "Pass",
+  "source": "JAISALMER",
+  "sourceCode": "JSM",
+  "destination": "JODHPUR JN",
+  "destinationCode": "JU",
+  "departureTime": "07:30:00",
+  "arrivalTime": "14:15:00",
+  "duration": "6h 45m",
+  "distance": "300 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

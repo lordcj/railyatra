@@ -1,0 +1,30 @@
+{
+  "number": "55301",
+  "name": "Moradabad Kathgodam Passenger",
+  "type": "Pass",
+  "source": "MORADABAD",
+  "sourceCode": "MB",
+  "destination": "KATHGODAM",
+  "destinationCode": "KGM",
+  "departureTime": "14:25:00",
+  "arrivalTime": "18:10:00",
+  "duration": "3h 45m",
+  "distance": "116 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

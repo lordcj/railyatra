@@ -1,0 +1,31 @@
+{
+  "number": "11027",
+  "name": "Mumbai CST-Chennai Mail",
+  "type": "Mail",
+  "source": "MUMBAI CST",
+  "sourceCode": "CSTM",
+  "destination": "CHENNAI CENTRAL",
+  "destinationCode": "MAS",
+  "departureTime": "23:45:00",
+  "arrivalTime": "04:55:00",
+  "duration": "29h 10m",
+  "distance": "1283 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

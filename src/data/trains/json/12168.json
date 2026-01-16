@@ -1,0 +1,30 @@
+{
+  "number": "12168",
+  "name": "VARANASI - MUMBAI LTT SF Exp",
+  "type": "SF",
+  "source": "VARANASI JN",
+  "sourceCode": "BSB",
+  "destination": "LOKMANYA TILAK TERM",
+  "destinationCode": "LTT",
+  "departureTime": "10:25:00",
+  "arrivalTime": "12:30:00",
+  "duration": "26h 5m",
+  "distance": "1480 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

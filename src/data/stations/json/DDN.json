@@ -1,0 +1,13 @@
+{
+  "code": "DDN",
+  "name": "Dehradun",
+  "fullName": "Dehradun Railway Station",
+  "zone": "NR",
+  "state": "Uttarakhand",
+  "category": "A",
+  "platforms": 5,
+  "connectivity": [
+    "Bus",
+    "Taxi"
+  ]
+}

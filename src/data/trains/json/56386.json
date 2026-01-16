@@ -1,0 +1,30 @@
+{
+  "number": "56386",
+  "name": "Kottayam Ernakulam Passenger",
+  "type": "Pass",
+  "source": "KOTTAYAM",
+  "sourceCode": "KTYM",
+  "destination": "ERNAKULAM JN",
+  "destinationCode": "ERS",
+  "departureTime": "05:25:00",
+  "arrivalTime": "07:05:00",
+  "duration": "1h 40m",
+  "distance": "60 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "59358",
+  "name": "Yamuna Bridge Bayana Passenger",
+  "type": "Pass",
+  "source": "YAMUNA BRIDGE AGRA",
+  "sourceCode": "JAB",
+  "destination": "BAYANA JN",
+  "destinationCode": "BXN",
+  "departureTime": "13:45:00",
+  "arrivalTime": "17:00:00",
+  "duration": "3h 15m",
+  "distance": "88 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

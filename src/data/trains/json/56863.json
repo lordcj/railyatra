@@ -1,0 +1,30 @@
+{
+  "number": "56863",
+  "name": "Villupuram-Puducherry Passenger",
+  "type": "Pass",
+  "source": "VILLUPURAM JN",
+  "sourceCode": "VM",
+  "destination": "Puducherry",
+  "destinationCode": "PDY",
+  "departureTime": "14:45:00",
+  "arrivalTime": "15:35:00",
+  "duration": "0h 50m",
+  "distance": "38 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

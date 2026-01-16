@@ -1,0 +1,30 @@
+{
+  "number": "53412",
+  "name": "Sahibganj Barharwa Passenger",
+  "type": "Pass",
+  "source": "SAHIBGANJ JN",
+  "sourceCode": "SBG",
+  "destination": "BARHARWA JN",
+  "destinationCode": "BHW",
+  "departureTime": "12:10:00",
+  "arrivalTime": "13:35:00",
+  "duration": "1h 25m",
+  "distance": "53 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "59023",
+  "name": "Mumbai Valsad Passenger",
+  "type": "Pass",
+  "source": "Mumbai Central",
+  "sourceCode": "BCT",
+  "destination": "VALSAD",
+  "destinationCode": "BL",
+  "departureTime": "18:10:00",
+  "arrivalTime": "22:55:00",
+  "duration": "4h 45m",
+  "distance": "195 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

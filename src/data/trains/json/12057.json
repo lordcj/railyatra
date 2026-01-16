@@ -1,0 +1,29 @@
+{
+  "number": "12057",
+  "name": "New Delhi-Una Janshatabdi",
+  "type": "JShtb",
+  "source": "NEW DELHI",
+  "sourceCode": "NDLS",
+  "destination": "Una Himachal",
+  "destinationCode": "UHL",
+  "departureTime": "14:35:00",
+  "arrivalTime": "22:10:00",
+  "duration": "7h 35m",
+  "distance": "410 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

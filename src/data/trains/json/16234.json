@@ -1,0 +1,30 @@
+{
+  "number": "16234",
+  "name": "Tiruchchirapalli Mayiladuturai Express",
+  "type": "Exp",
+  "source": "TIRUCHIRAPPALLI",
+  "sourceCode": "TPJ",
+  "destination": "MAYILADUTURAI JN",
+  "destinationCode": "MV",
+  "departureTime": "13:05:00",
+  "arrivalTime": "15:45:00",
+  "duration": "2h 40m",
+  "distance": "120 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "57447",
+  "name": "Secunderabad Mahbubnagar Passenger",
+  "type": "Pass",
+  "source": "SECUNDERABAD JN",
+  "sourceCode": "SC",
+  "destination": "MAHBUBNAGAR",
+  "destinationCode": "MBNR",
+  "departureTime": "12:50:00",
+  "arrivalTime": "15:50:00",
+  "duration": "3h 0m",
+  "distance": "113 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "55536",
+  "name": "Darbhanga Katihar Passenger",
+  "type": "Pass",
+  "source": "DARBHANGA JN",
+  "sourceCode": "DBG",
+  "destination": "KATIHAR JN",
+  "destinationCode": "KIR",
+  "departureTime": "03:30:00",
+  "arrivalTime": "13:00:00",
+  "duration": "9h 30m",
+  "distance": "267 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

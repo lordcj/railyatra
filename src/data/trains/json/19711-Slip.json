@@ -1,0 +1,30 @@
+{
+  "number": "19711-Slip",
+  "name": "Jaipur-Indore Express Slip",
+  "type": "Exp",
+  "source": "JAIPUR",
+  "sourceCode": "JP",
+  "destination": "INDORE JN BG",
+  "destinationCode": "INDB",
+  "departureTime": "17:35:00",
+  "arrivalTime": "10:15:00",
+  "duration": "16h 40m",
+  "distance": "685 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

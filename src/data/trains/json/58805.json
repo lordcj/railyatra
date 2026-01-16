@@ -1,0 +1,30 @@
+{
+  "number": "58805",
+  "name": "Chanda Fort Gondia Passenger",
+  "type": "Pass",
+  "source": "Chanda Fort",
+  "sourceCode": "CAF",
+  "destination": "GONDIA JN",
+  "destinationCode": "G",
+  "departureTime": "10:15:00",
+  "arrivalTime": "16:15:00",
+  "duration": "6h 0m",
+  "distance": "241 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

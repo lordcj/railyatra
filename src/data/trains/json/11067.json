@@ -1,0 +1,31 @@
+{
+  "number": "11067",
+  "name": "MUMBAI LTT - FAIZABAD Saket Exp",
+  "type": "Exp",
+  "source": "LOKMANYA TILAK TERM",
+  "sourceCode": "LTT",
+  "destination": "FAIZABAD JN",
+  "destinationCode": "FD",
+  "departureTime": "05:20:00",
+  "arrivalTime": "09:25:00",
+  "duration": "28h 5m",
+  "distance": "1505 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

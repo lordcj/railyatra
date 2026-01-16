@@ -1,0 +1,30 @@
+{
+  "number": "52332",
+  "name": "Saharsa-Raghopur Passenger",
+  "type": "Pass",
+  "source": "SAHARSA JN",
+  "sourceCode": "SHC",
+  "destination": "Rathopur",
+  "destinationCode": "RGV",
+  "departureTime": "23:45:00",
+  "arrivalTime": "03:25:00",
+  "duration": "3h 40m",
+  "distance": "63 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "59806",
+  "name": "Jaipur Bayana Fast Passenger",
+  "type": "Pass",
+  "source": "BAYANA JN",
+  "sourceCode": "BXN",
+  "destination": "JAIPUR",
+  "destinationCode": "JP",
+  "departureTime": "13:50:00",
+  "arrivalTime": "20:10:00",
+  "duration": "6h 20m",
+  "distance": "273 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

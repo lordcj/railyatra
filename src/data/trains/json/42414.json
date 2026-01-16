@@ -1,0 +1,30 @@
+{
+  "number": "42414",
+  "name": "Spe-Mas Emu Local",
+  "type": "MEMU",
+  "source": "SULLURUPETA",
+  "sourceCode": "SPE",
+  "destination": "CHENNAI CENTRAL",
+  "destinationCode": "MAS",
+  "departureTime": "15:15:00",
+  "arrivalTime": "17:40:00",
+  "duration": "2h 25m",
+  "distance": "83 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

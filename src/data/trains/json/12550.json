@@ -1,0 +1,32 @@
+{
+  "number": "12550",
+  "name": "JAMMU TAWI - DURG SF Exp",
+  "type": "SF",
+  "source": "JAMMU TAWI",
+  "sourceCode": "JAT",
+  "destination": "DURG",
+  "destinationCode": "DURG",
+  "departureTime": "05:00:00",
+  "arrivalTime": "14:20:00",
+  "duration": "33h 20m",
+  "distance": "1873 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

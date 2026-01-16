@@ -1,0 +1,30 @@
+{
+  "number": "56607",
+  "name": "Shoranur Ernakulam Passenger",
+  "type": "Pass",
+  "source": "SHORANUR JN",
+  "sourceCode": "SRR",
+  "destination": "ERNAKULAM JN",
+  "destinationCode": "ERS",
+  "departureTime": "04:50:00",
+  "arrivalTime": "08:00:00",
+  "duration": "3h 10m",
+  "distance": "107 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

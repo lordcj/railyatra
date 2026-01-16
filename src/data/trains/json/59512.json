@@ -1,0 +1,30 @@
+{
+  "number": "59512",
+  "name": "Viramgam Mahesana",
+  "type": "Pass",
+  "source": "VIRAMGAM JN",
+  "sourceCode": "VG",
+  "destination": "MAHESANA JN",
+  "destinationCode": "MSH",
+  "departureTime": "16:25:00",
+  "arrivalTime": "18:20:00",
+  "duration": "1h 55m",
+  "distance": "66 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

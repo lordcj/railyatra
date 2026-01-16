@@ -1,0 +1,32 @@
+{
+  "number": "12312",
+  "name": "Kalka Mail",
+  "type": "SF",
+  "source": "Kalka",
+  "sourceCode": "KLK",
+  "destination": "HOWRAH JN",
+  "destinationCode": "HWH",
+  "departureTime": "23:55:00",
+  "arrivalTime": "07:30:00",
+  "duration": "31h 35m",
+  "distance": "1743 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

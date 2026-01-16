@@ -1,0 +1,30 @@
+{
+  "number": "51324",
+  "name": "Baramati-Daund- Pune Passenger",
+  "type": "Pass",
+  "source": "Baramati",
+  "sourceCode": "BRMT",
+  "destination": "PUNE JN",
+  "destinationCode": "PUNE",
+  "departureTime": "07:05:00",
+  "arrivalTime": "10:15:00",
+  "duration": "3h 10m",
+  "distance": "119 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

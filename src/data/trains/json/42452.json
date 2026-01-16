@@ -1,0 +1,30 @@
+{
+  "number": "42452",
+  "name": "Sullupetta Gummidipoondi EMU",
+  "type": "MEMU",
+  "source": "SULLURUPETA",
+  "sourceCode": "SPE",
+  "destination": "GUMMIDIPUNDI",
+  "destinationCode": "GPD",
+  "departureTime": "22:50:00",
+  "arrivalTime": "23:35:00",
+  "duration": "0h 45m",
+  "distance": "35 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

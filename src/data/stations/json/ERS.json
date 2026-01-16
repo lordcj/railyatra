@@ -1,0 +1,13 @@
+{
+  "code": "ERS",
+  "name": "Ernakulam",
+  "fullName": "Ernakulam Junction",
+  "zone": "SR",
+  "state": "Kerala",
+  "category": "A1",
+  "platforms": 6,
+  "connectivity": [
+    "Bus",
+    "Taxi"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "number": "54331",
+  "name": "Lucknow Balamau Passenger",
+  "type": "Pass",
+  "source": "LUCKNOW",
+  "sourceCode": "LKO",
+  "destination": "BALAMU JN",
+  "destinationCode": "BLM",
+  "departureTime": "17:05:00",
+  "arrivalTime": "19:05:00",
+  "duration": "2h 0m",
+  "distance": "69 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

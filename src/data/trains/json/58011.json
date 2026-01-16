@@ -1,0 +1,29 @@
+{
+  "number": "58011",
+  "name": "Howrah Chakradharpur Passenger",
+  "type": "Pass",
+  "source": "HOWRAH JN",
+  "sourceCode": "HWH",
+  "destination": "CHAKRADHARPUR",
+  "destinationCode": "CKP",
+  "departureTime": "23:05:00",
+  "arrivalTime": "09:30:00",
+  "duration": "10h 25m",
+  "distance": "438 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

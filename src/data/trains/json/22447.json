@@ -1,0 +1,30 @@
+{
+  "number": "22447",
+  "name": "Khajuraho Nizamuddin Express",
+  "type": "SF",
+  "source": "KHAJURAHO",
+  "sourceCode": "KURJ",
+  "destination": "DELHI H NIZAMUDDIN",
+  "destinationCode": "NZM",
+  "departureTime": "18:20:00",
+  "arrivalTime": "05:30:00",
+  "duration": "11h 10m",
+  "distance": "604 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

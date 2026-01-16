@@ -1,0 +1,30 @@
+{
+  "number": "58703",
+  "name": "Durg Gondia Passenger",
+  "type": "Pass",
+  "source": "RAIPUR JN",
+  "sourceCode": "R",
+  "destination": "GONDIA JN",
+  "destinationCode": "G",
+  "departureTime": "05:30:00",
+  "arrivalTime": "09:40:00",
+  "duration": "4h 10m",
+  "distance": "172 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "55020",
+  "name": "Gorakhpur Chhapra Passenger",
+  "type": "Pass",
+  "source": "GORAKHPUR JN",
+  "sourceCode": "GKP",
+  "destination": "CHHAPRA",
+  "destinationCode": "CPR",
+  "departureTime": "08:35:00",
+  "arrivalTime": "15:10:00",
+  "duration": "6h 35m",
+  "distance": "180 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

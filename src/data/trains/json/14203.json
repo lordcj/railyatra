@@ -1,0 +1,29 @@
+{
+  "number": "14203",
+  "name": "Varanasi Lucknow InterCity Express",
+  "type": "Exp",
+  "source": "VARANASI JN",
+  "sourceCode": "BSB",
+  "destination": "LUCKNOW",
+  "destinationCode": "LKO",
+  "departureTime": "16:20:00",
+  "arrivalTime": "22:10:00",
+  "duration": "5h 50m",
+  "distance": "302 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

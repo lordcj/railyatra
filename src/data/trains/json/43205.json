@@ -1,0 +1,30 @@
+{
+  "number": "43205",
+  "name": "Chennai Central Tiruvallur EMU",
+  "type": "MEMU",
+  "source": "CHENNAI CENTRAL",
+  "sourceCode": "MAS",
+  "destination": "TIRUVALLUR",
+  "destinationCode": "TRL",
+  "departureTime": "05:55:00",
+  "arrivalTime": "07:10:00",
+  "duration": "1h 15m",
+  "distance": "42 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

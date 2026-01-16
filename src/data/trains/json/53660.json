@@ -1,0 +1,30 @@
+{
+  "number": "53660",
+  "name": "Sasaram-Patna Passenger",
+  "type": "Pass",
+  "source": "SASARAM",
+  "sourceCode": "SSM",
+  "destination": "PATNA JN",
+  "destinationCode": "PNBE",
+  "departureTime": "05:30:00",
+  "arrivalTime": "11:05:00",
+  "duration": "5h 35m",
+  "distance": "147 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

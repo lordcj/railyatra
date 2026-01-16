@@ -1,0 +1,30 @@
+{
+  "number": "19911",
+  "name": "Mahesana Ahmedabad InterCity Express",
+  "type": "Exp",
+  "source": "MAHESANA JN",
+  "sourceCode": "MSH",
+  "destination": "AHMEDABAD JN",
+  "destinationCode": "ADI",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:05:00",
+  "duration": "2h 5m",
+  "distance": "69 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

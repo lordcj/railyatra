@@ -1,0 +1,29 @@
+{
+  "number": "59386-Slip",
+  "name": "Panchvalley Passenger Slip1",
+  "type": "Pass",
+  "source": "Chhindwara Junction",
+  "sourceCode": "CWA",
+  "destination": "AMRITSAR JN",
+  "destinationCode": "ASR",
+  "departureTime": "21:05:00",
+  "arrivalTime": "08:10:00",
+  "duration": "35h 5m",
+  "distance": "1545 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

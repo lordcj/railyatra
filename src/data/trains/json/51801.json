@@ -1,0 +1,30 @@
+{
+  "number": "51801",
+  "name": "Mahoba Kanpur Pass",
+  "type": "Pass",
+  "source": "MAHOBA",
+  "sourceCode": "MBA",
+  "destination": "KANPUR CENTRAL",
+  "destinationCode": "CNB",
+  "departureTime": "05:35:00",
+  "arrivalTime": "10:40:00",
+  "duration": "5h 5m",
+  "distance": "199 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

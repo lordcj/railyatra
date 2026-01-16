@@ -1,0 +1,29 @@
+{
+  "number": "15316",
+  "name": "Kasganj-Gonda Gokul Express",
+  "type": "Exp",
+  "source": "KASGANJ",
+  "sourceCode": "KSJ",
+  "destination": "GONDA JN",
+  "destinationCode": "GD",
+  "departureTime": "17:35:00",
+  "arrivalTime": "07:10:00",
+  "duration": "13h 35m",
+  "distance": "498 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

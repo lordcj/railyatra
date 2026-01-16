@@ -1,0 +1,30 @@
+{
+  "number": "54328",
+  "name": "Shahjehanpur Sitapur Passenger",
+  "type": "Pass",
+  "source": "SHAHJEHANPUR",
+  "sourceCode": "SPN",
+  "destination": "SITAPUR CANT",
+  "destinationCode": "SCC",
+  "departureTime": "06:20:00",
+  "arrivalTime": "09:15:00",
+  "duration": "2h 55m",
+  "distance": "92 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "56907",
+  "name": "Hubli Dharwar Passenger",
+  "type": "Pass",
+  "source": "HUBLI JN",
+  "sourceCode": "UBL",
+  "destination": "DHARWAR",
+  "destinationCode": "DWR",
+  "departureTime": "18:25:00",
+  "arrivalTime": "19:10:00",
+  "duration": "0h 45m",
+  "distance": "21 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,31 @@
+{
+  "number": "12160",
+  "name": "Jabalpur - Amravati Express",
+  "type": "SF",
+  "source": "JABALPUR",
+  "sourceCode": "JBP",
+  "destination": "Amravati",
+  "destinationCode": "AMI",
+  "departureTime": "20:50:00",
+  "arrivalTime": "09:50:00",
+  "duration": "13h 0m",
+  "distance": "726 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

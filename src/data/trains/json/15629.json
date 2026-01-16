@@ -1,0 +1,31 @@
+{
+  "number": "15629",
+  "name": "CHENNAI EGMORE - GUWAHATI Exp",
+  "type": "Exp",
+  "source": "CHENNAI EGMORE",
+  "sourceCode": "MS",
+  "destination": "GUWAHATI",
+  "destinationCode": "GHY",
+  "departureTime": "22:30:00",
+  "arrivalTime": "04:55:00",
+  "duration": "54h 25m",
+  "distance": "2795 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,31 @@
+{
+  "number": "18449",
+  "name": "Baidyanathdham Express",
+  "type": "Exp",
+  "source": "PURI",
+  "sourceCode": "PURI",
+  "destination": "PATNA JN",
+  "destinationCode": "PNBE",
+  "departureTime": "14:05:00",
+  "arrivalTime": "10:00:00",
+  "duration": "19h 55m",
+  "distance": "937 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

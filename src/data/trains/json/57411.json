@@ -1,0 +1,30 @@
+{
+  "number": "57411",
+  "name": "Tirupati Gudur Passenger",
+  "type": "Pass",
+  "source": "TIRUPATI MAIN",
+  "sourceCode": "TPTY",
+  "destination": "GUDUR JN",
+  "destinationCode": "GDR",
+  "departureTime": "13:45:00",
+  "arrivalTime": "16:00:00",
+  "duration": "2h 15m",
+  "distance": "93 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,31 @@
+{
+  "number": "14610",
+  "name": "Hemkunt Express",
+  "type": "Exp",
+  "source": "JAMMU TAWI",
+  "sourceCode": "JAT",
+  "destination": "RISHIKESH",
+  "destinationCode": "RKSH",
+  "departureTime": "18:40:00",
+  "arrivalTime": "08:00:00",
+  "duration": "13h 20m",
+  "distance": "558 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,29 @@
+{
+  "number": "15308-Slip",
+  "name": "Nainital Express Slip",
+  "type": "Exp",
+  "source": "AISHBAGH",
+  "sourceCode": "ASH",
+  "destination": "Tanakpur",
+  "destinationCode": "TPU",
+  "departureTime": "20:45:00",
+  "arrivalTime": "09:25:00",
+  "duration": "12h 40m",
+  "distance": "322 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "04115",
+  "name": "Allahabad - Mumbai LTT (Weekly) Special",
+  "type": "Exp",
+  "source": "ALLAHABAD JN",
+  "sourceCode": "ALD",
+  "destination": "LOKMANYA TILAK TERM",
+  "destinationCode": "LTT",
+  "departureTime": "10:20:00",
+  "arrivalTime": "14:35:00",
+  "duration": "28h 15m",
+  "distance": "1533 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

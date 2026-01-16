@@ -1,0 +1,30 @@
+{
+  "number": "52278",
+  "name": "Mailani Palia Kalan Passenger",
+  "type": "Pass",
+  "source": "MAILANI",
+  "sourceCode": "MLN",
+  "destination": "PALIA KALAN",
+  "destinationCode": "PLK",
+  "departureTime": "14:15:00",
+  "arrivalTime": "15:05:00",
+  "duration": "0h 50m",
+  "distance": "30 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,13 @@
+{
+  "code": "JAT",
+  "name": "Jammu Tawi",
+  "fullName": "Jammu Tawi Railway Station",
+  "zone": "NR",
+  "state": "Jammu & Kashmir",
+  "category": "A",
+  "platforms": 4,
+  "connectivity": [
+    "Bus",
+    "Taxi"
+  ]
+}

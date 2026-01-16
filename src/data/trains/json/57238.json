@@ -1,0 +1,30 @@
+{
+  "number": "57238",
+  "name": "Vijaywada Kazipet Passenger",
+  "type": "Pass",
+  "source": "VIJAYAWADA JN",
+  "sourceCode": "BZA",
+  "destination": "KAZIPET JN",
+  "destinationCode": "KZJ",
+  "departureTime": "12:45:00",
+  "arrivalTime": "19:05:00",
+  "duration": "6h 20m",
+  "distance": "218 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,32 @@
+{
+  "number": "18451",
+  "name": "HATIA - PURI Tapaswini Exp",
+  "type": "Exp",
+  "source": "HATIA",
+  "sourceCode": "HTE",
+  "destination": "PURI",
+  "destinationCode": "PURI",
+  "departureTime": "16:05:00",
+  "arrivalTime": "07:15:00",
+  "duration": "15h 10m",
+  "distance": "691 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

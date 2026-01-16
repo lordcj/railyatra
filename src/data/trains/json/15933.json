@@ -1,0 +1,31 @@
+{
+  "number": "15933",
+  "name": "Dibrugarh-Amritsar Weekly Express",
+  "type": "Exp",
+  "source": "DIBRUGARH",
+  "sourceCode": "DBRG",
+  "destination": "AMRITSAR JN",
+  "destinationCode": "ASR",
+  "departureTime": "07:00:00",
+  "arrivalTime": "20:45:00",
+  "duration": "61h 45m",
+  "distance": "2870 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

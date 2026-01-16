@@ -1,0 +1,31 @@
+{
+  "number": "12487",
+  "name": "Seemanchal Express",
+  "type": "SF",
+  "source": "JOGBANI",
+  "sourceCode": "JBN",
+  "destination": "ANAND VIHAR TRM",
+  "destinationCode": "ANVT",
+  "departureTime": "20:30:00",
+  "arrivalTime": "20:50:00",
+  "duration": "24h 20m",
+  "distance": "1383 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

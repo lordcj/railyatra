@@ -1,0 +1,32 @@
+{
+  "number": "12604",
+  "name": "Hyderabad - Chennai Express",
+  "type": "SF",
+  "source": "HYDERABAD DECCAN",
+  "sourceCode": "HYB",
+  "destination": "CHENNAI CENTRAL",
+  "destinationCode": "MAS",
+  "departureTime": "16:55:00",
+  "arrivalTime": "05:55:00",
+  "duration": "13h 0m",
+  "distance": "715 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

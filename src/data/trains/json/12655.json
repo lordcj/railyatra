@@ -1,0 +1,32 @@
+{
+  "number": "12655",
+  "name": "Navjeevan Express",
+  "type": "SF",
+  "source": "AHMEDABAD JN",
+  "sourceCode": "ADI",
+  "destination": "CHENNAI CENTRAL",
+  "destinationCode": "MAS",
+  "departureTime": "06:30:00",
+  "arrivalTime": "16:05:00",
+  "duration": "33h 35m",
+  "distance": "1893 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,32 @@
+{
+  "number": "12527",
+  "name": "Mumbai CST-Latur Superfast Express.",
+  "type": "SF",
+  "source": "MUMBAI CST",
+  "sourceCode": "CSTM",
+  "destination": "LATUR",
+  "destinationCode": "LUR",
+  "departureTime": "21:00:00",
+  "arrivalTime": "06:30:00",
+  "duration": "9h 30m",
+  "distance": "530 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

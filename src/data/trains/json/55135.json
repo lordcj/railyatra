@@ -1,0 +1,30 @@
+{
+  "number": "55135",
+  "name": "AZAMGARH MANDUADIH PASS",
+  "type": "Pass",
+  "source": "AZAMGARH",
+  "sourceCode": "AMH",
+  "destination": "MANDUADIH",
+  "destinationCode": "MUV",
+  "departureTime": "05:00:00",
+  "arrivalTime": "09:45:00",
+  "duration": "4h 45m",
+  "distance": "140 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "32252",
+  "name": "Dankuni Sealdah Local",
+  "type": "MEMU",
+  "source": "DANKUNI",
+  "sourceCode": "DKAE",
+  "destination": "KOLKATA SEALDAH",
+  "destinationCode": "SDAH",
+  "departureTime": "14:08:00",
+  "arrivalTime": "14:52:00",
+  "duration": "0h 44m",
+  "distance": "22 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

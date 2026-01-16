@@ -1,0 +1,30 @@
+{
+  "number": "15042",
+  "name": "Farrukhabad Express",
+  "type": "Exp",
+  "source": "KASGANJ",
+  "sourceCode": "KSJ",
+  "destination": "FARRUKHABAD",
+  "destinationCode": "FBD",
+  "departureTime": "18:55:00",
+  "arrivalTime": "21:20:00",
+  "duration": "2h 25m",
+  "distance": "107 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

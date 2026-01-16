@@ -1,0 +1,30 @@
+{
+  "number": "43801",
+  "name": "Chennai Beach Arakkonam EMU",
+  "type": "MEMU",
+  "source": "CHENNAI BEACH",
+  "sourceCode": "MSB",
+  "destination": "ARAKKONAM",
+  "destinationCode": "AJJ",
+  "departureTime": "01:20:00",
+  "arrivalTime": "03:20:00",
+  "duration": "2h 0m",
+  "distance": "70 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

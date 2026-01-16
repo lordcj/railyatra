@@ -1,0 +1,31 @@
+{
+  "number": "07004",
+  "name": "Korba-Hyderabad Special",
+  "type": "Exp",
+  "source": "Korba",
+  "sourceCode": "KRBA",
+  "destination": "HYDERABAD DECCAN",
+  "destinationCode": "HYB",
+  "departureTime": "08:00:00",
+  "arrivalTime": "04:45:00",
+  "duration": "20h 45m",
+  "distance": "999 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

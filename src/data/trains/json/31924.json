@@ -1,0 +1,30 @@
+{
+  "number": "31924",
+  "name": "GEDE SDAH LOCAL",
+  "type": "MEMU",
+  "source": "Gede",
+  "sourceCode": "GEDE",
+  "destination": "KOLKATA SEALDAH",
+  "destinationCode": "SDAH",
+  "departureTime": "19:54:00",
+  "arrivalTime": "22:35:00",
+  "duration": "2h 41m",
+  "distance": "116 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

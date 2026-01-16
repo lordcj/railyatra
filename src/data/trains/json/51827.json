@@ -1,0 +1,30 @@
+{
+  "number": "51827",
+  "name": "Itarsi Jhansi Passenger",
+  "type": "Pass",
+  "source": "ITARSI JN",
+  "sourceCode": "ET",
+  "destination": "JHANSI JN",
+  "destinationCode": "JHS",
+  "departureTime": "18:15:00",
+  "arrivalTime": "08:55:00",
+  "duration": "14h 40m",
+  "distance": "383 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

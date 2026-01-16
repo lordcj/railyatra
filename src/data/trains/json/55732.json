@@ -1,0 +1,30 @@
+{
+  "number": "55732",
+  "name": "Barsoi Katihar Passenger",
+  "type": "Pass",
+  "source": "BARSOI JN",
+  "sourceCode": "BOE",
+  "destination": "KATIHAR JN",
+  "destinationCode": "KIR",
+  "departureTime": "04:25:00",
+  "arrivalTime": "06:10:00",
+  "duration": "1h 45m",
+  "distance": "38 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

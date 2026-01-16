@@ -1,0 +1,32 @@
+{
+  "number": "12658",
+  "name": "BANGALORE - CHENNAI Mail",
+  "type": "SF",
+  "source": "BANGALORE CITY JN",
+  "sourceCode": "SBC",
+  "destination": "CHENNAI CENTRAL",
+  "destinationCode": "MAS",
+  "departureTime": "22:45:00",
+  "arrivalTime": "04:40:00",
+  "duration": "5h 55m",
+  "distance": "362 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "14109",
+  "name": "Chitrakoot Kanpur Express",
+  "type": "Exp",
+  "source": "CHITRAKUTDHAM KARWI",
+  "sourceCode": "CKTD",
+  "destination": "KANPUR CENTRAL",
+  "destinationCode": "CNB",
+  "departureTime": "14:55:00",
+  "arrivalTime": "19:40:00",
+  "duration": "4h 45m",
+  "distance": "213 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,29 @@
+{
+  "number": "18241-Slip",
+  "name": "Durg Ambikapur Express Slip",
+  "type": "Exp",
+  "source": "DURG",
+  "sourceCode": "DURG",
+  "destination": "Chirmiri",
+  "destinationCode": "CHRM",
+  "departureTime": "20:10:00",
+  "arrivalTime": "08:05:00",
+  "duration": "11h 55m",
+  "distance": "381 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

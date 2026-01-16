@@ -1,0 +1,30 @@
+{
+  "number": "15319",
+  "name": "PALIA KALAN - AISHBAGH  Exp",
+  "type": "Exp",
+  "source": "PALIA KALAN",
+  "sourceCode": "PLK",
+  "destination": "AISHBAGH",
+  "destinationCode": "ASSH",
+  "departureTime": "03:05:00",
+  "arrivalTime": "09:30:00",
+  "duration": "6h 25m",
+  "distance": "222 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

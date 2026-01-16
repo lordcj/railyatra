@@ -1,0 +1,29 @@
+{
+  "number": "11025",
+  "name": "Manmad Pune Express(Via Nasik)",
+  "type": "Exp",
+  "source": "MANMAD JN",
+  "sourceCode": "MMR",
+  "destination": "PUNE JN",
+  "destinationCode": "PUNE",
+  "departureTime": "04:30:00",
+  "arrivalTime": "12:05:00",
+  "duration": "7h 35m",
+  "distance": "364 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

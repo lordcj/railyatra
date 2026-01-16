@@ -1,0 +1,29 @@
+{
+  "number": "12740",
+  "name": "Secunderabad-Visakhapatnam Garib Rath",
+  "type": "GR",
+  "source": "SECUNDERABAD JN",
+  "sourceCode": "SC",
+  "destination": "VISHAKAPATNAM",
+  "destinationCode": "VSKP",
+  "departureTime": "20:15:00",
+  "arrivalTime": "07:30:00",
+  "duration": "11h 15m",
+  "distance": "701 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "3A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "34858",
+  "name": "Sealdah-Diamond Harbour Local",
+  "type": "MEMU",
+  "source": "KOLKATA SEALDAH",
+  "sourceCode": "SDAH",
+  "destination": "Diamond Harbour",
+  "destinationCode": "DH",
+  "departureTime": "07:25:00",
+  "arrivalTime": "09:27:00",
+  "duration": "2h 2m",
+  "distance": "59 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

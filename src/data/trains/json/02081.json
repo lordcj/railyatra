@@ -1,0 +1,30 @@
+{
+  "number": "02081",
+  "name": "Jaipur Luharu Special",
+  "type": "Exp",
+  "source": "JAIPUR",
+  "sourceCode": "JP",
+  "destination": "Loharu",
+  "destinationCode": "LHU",
+  "departureTime": "18:25:00",
+  "arrivalTime": "01:00:00",
+  "duration": "6h 35m",
+  "distance": "229 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

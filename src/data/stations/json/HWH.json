@@ -1,0 +1,14 @@
+{
+  "code": "HWH",
+  "name": "Howrah",
+  "fullName": "Howrah Junction",
+  "zone": "ER",
+  "state": "West Bengal",
+  "category": "A1",
+  "platforms": 23,
+  "connectivity": [
+    "Metro",
+    "Ferry",
+    "Bus"
+  ]
+}

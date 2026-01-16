@@ -1,0 +1,30 @@
+{
+  "number": "52183",
+  "name": "Bari Mohari Sirmuttra Passenger",
+  "type": "Pass",
+  "source": "Bari",
+  "sourceCode": "BARI",
+  "destination": "Sirmuttra",
+  "destinationCode": "SRMT",
+  "departureTime": "14:45:00",
+  "arrivalTime": "16:25:00",
+  "duration": "1h 40m",
+  "distance": "38 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

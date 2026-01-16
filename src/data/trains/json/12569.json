@@ -1,0 +1,29 @@
+{
+  "number": "12569",
+  "name": "Jaynagar-Delhi AnandViharT Garib Rath",
+  "type": "GR",
+  "source": "JAYNAGAR",
+  "sourceCode": "JYG",
+  "destination": "ANAND VIHAR TRM",
+  "destinationCode": "ANVT",
+  "departureTime": "12:10:00",
+  "arrivalTime": "08:25:00",
+  "duration": "20h 15m",
+  "distance": "1252 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "3A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

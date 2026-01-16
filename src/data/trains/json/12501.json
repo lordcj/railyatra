@@ -1,0 +1,32 @@
+{
+  "number": "12501",
+  "name": "GUWAHATI - NEW DELHI Poorvottar Sampark Kranti Exp",
+  "type": "SKr",
+  "source": "GUWAHATI",
+  "sourceCode": "GHY",
+  "destination": "NEW DELHI",
+  "destinationCode": "NDLS",
+  "departureTime": "06:00:00",
+  "arrivalTime": "13:00:00",
+  "duration": "31h 0m",
+  "distance": "1974 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

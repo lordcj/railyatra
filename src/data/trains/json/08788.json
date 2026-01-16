@@ -1,0 +1,30 @@
+{
+  "number": "08788",
+  "name": "Durg-Raipur Special",
+  "type": "Pass",
+  "source": "DURG",
+  "sourceCode": "DURG",
+  "destination": "RAIPUR JN",
+  "destinationCode": "R",
+  "departureTime": "08:05:00",
+  "arrivalTime": "09:05:00",
+  "duration": "1h 0m",
+  "distance": "37 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

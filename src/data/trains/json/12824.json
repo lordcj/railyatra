@@ -1,0 +1,32 @@
+{
+  "number": "12824",
+  "name": "Chhattisgarh Sampark Kranti Express",
+  "type": "SKr",
+  "source": "DELHI H NIZAMUDDIN",
+  "sourceCode": "NZM",
+  "destination": "DURG",
+  "destinationCode": "DURG",
+  "departureTime": "17:25:00",
+  "arrivalTime": "15:10:00",
+  "duration": "21h 45m",
+  "distance": "1284 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

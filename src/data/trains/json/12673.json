@@ -1,0 +1,32 @@
+{
+  "number": "12673",
+  "name": "Cheran Express",
+  "type": "SF",
+  "source": "CHENNAI CENTRAL",
+  "sourceCode": "MAS",
+  "destination": "COIMBATORE JN",
+  "destinationCode": "CBE",
+  "departureTime": "22:10:00",
+  "arrivalTime": "06:10:00",
+  "duration": "8h 0m",
+  "distance": "497 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "51822",
+  "name": "KHUJURAHO - JHANSI Passenger",
+  "type": "Pass",
+  "source": "KHAJURAHO",
+  "sourceCode": "KURJ",
+  "destination": "JHANSI JN",
+  "destinationCode": "JHS",
+  "departureTime": "12:30:00",
+  "arrivalTime": "18:10:00",
+  "duration": "5h 40m",
+  "distance": "201 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

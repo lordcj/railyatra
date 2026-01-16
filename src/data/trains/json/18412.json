@@ -1,0 +1,30 @@
+{
+  "number": "18412",
+  "name": "Visakhapatnam-Bhubaneswar Inter City Express",
+  "type": "Exp",
+  "source": "VISHAKAPATNAM",
+  "sourceCode": "VSKP",
+  "destination": "BHUBANESWAR",
+  "destinationCode": "BBS",
+  "departureTime": "14:55:00",
+  "arrivalTime": "23:05:00",
+  "duration": "8h 10m",
+  "distance": "443 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,31 @@
+{
+  "number": "12440",
+  "name": "NEW DELHI - RANCHI Rajdhani Exp",
+  "type": "Raj",
+  "source": "NEW DELHI",
+  "sourceCode": "NDLS",
+  "destination": "RANCHI",
+  "destinationCode": "RNC",
+  "departureTime": "16:10:00",
+  "arrivalTime": "09:10:00",
+  "duration": "17h 0m",
+  "distance": "1306 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

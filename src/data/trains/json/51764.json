@@ -1,0 +1,30 @@
+{
+  "number": "51764",
+  "name": "Manikpur Satna Passenger",
+  "type": "Pass",
+  "source": "MANIKPUR JN",
+  "sourceCode": "MKP",
+  "destination": "SATNA",
+  "destinationCode": "STA",
+  "departureTime": "08:25:00",
+  "arrivalTime": "10:20:00",
+  "duration": "1h 55m",
+  "distance": "77 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

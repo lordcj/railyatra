@@ -1,0 +1,31 @@
+{
+  "number": "13245",
+  "name": "Capital Express",
+  "type": "Exp",
+  "source": "NEW JALPAIGURI",
+  "sourceCode": "NJP",
+  "destination": "DANAPUR",
+  "destinationCode": "DNR",
+  "departureTime": "14:40:00",
+  "arrivalTime": "04:50:00",
+  "duration": "14h 10m",
+  "distance": "501 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

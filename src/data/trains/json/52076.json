@@ -1,0 +1,30 @@
+{
+  "number": "52076",
+  "name": "Mavli Marwar Passenger",
+  "type": "Pass",
+  "source": "MAVLI JN",
+  "sourceCode": "MVJ",
+  "destination": "MARWAR JN",
+  "destinationCode": "MJ",
+  "departureTime": "06:35:00",
+  "arrivalTime": "13:10:00",
+  "duration": "6h 35m",
+  "distance": "152 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

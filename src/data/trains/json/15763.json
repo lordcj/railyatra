@@ -1,0 +1,30 @@
+{
+  "number": "15763",
+  "name": "Balurghat-New Jalpaiguri Intercity Express",
+  "type": "Exp",
+  "source": "BALURGHAT",
+  "sourceCode": "BLGT",
+  "destination": "NEW JALPAIGURI",
+  "destinationCode": "NJP",
+  "departureTime": "10:40:00",
+  "arrivalTime": "16:40:00",
+  "duration": "6h 0m",
+  "distance": "303 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

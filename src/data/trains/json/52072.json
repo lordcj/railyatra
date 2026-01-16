@@ -1,0 +1,30 @@
+{
+  "number": "52072",
+  "name": "MAVLI - BARI SADRI PASSENGER",
+  "type": "Pass",
+  "source": "MAVLI JN",
+  "sourceCode": "MVJ",
+  "destination": "BARI SADRI",
+  "destinationCode": "BI",
+  "departureTime": "09:40:00",
+  "arrivalTime": "12:30:00",
+  "duration": "2h 50m",
+  "distance": "82 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

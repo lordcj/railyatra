@@ -1,0 +1,30 @@
+{
+  "number": "56137",
+  "name": "Ooty-Mettupalayam Passenger",
+  "type": "Pass",
+  "source": "Udagamandalam",
+  "sourceCode": "UAM",
+  "destination": "Mettupalayam",
+  "destinationCode": "MTP",
+  "departureTime": "14:00:00",
+  "arrivalTime": "17:35:00",
+  "duration": "3h 35m",
+  "distance": "46 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

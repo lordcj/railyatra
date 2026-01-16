@@ -1,0 +1,30 @@
+{
+  "number": "17304",
+  "name": "Malgudi Express",
+  "type": "Exp",
+  "source": "YESVANTPUR JN",
+  "sourceCode": "YPR",
+  "destination": "MYSORE JN",
+  "destinationCode": "MYS",
+  "departureTime": "11:45:00",
+  "arrivalTime": "15:00:00",
+  "duration": "3h 15m",
+  "distance": "143 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

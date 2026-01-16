@@ -1,0 +1,30 @@
+{
+  "number": "52960",
+  "name": "Mhow Ratlam Fast Passenger",
+  "type": "Pass",
+  "source": "Mhow",
+  "sourceCode": "MHOW",
+  "destination": "RATLAM JN",
+  "destinationCode": "RTM",
+  "departureTime": "15:20:00",
+  "arrivalTime": "19:30:00",
+  "duration": "4h 10m",
+  "distance": "147 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

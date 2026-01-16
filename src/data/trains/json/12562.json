@@ -1,0 +1,32 @@
+{
+  "number": "12562",
+  "name": "Swatantrata Sainani Express",
+  "type": "SF",
+  "source": "NEW DELHI",
+  "sourceCode": "NDLS",
+  "destination": "DARBHANGA JN",
+  "destinationCode": "DBG",
+  "departureTime": "20:40:00",
+  "arrivalTime": "18:05:00",
+  "duration": "21h 25m",
+  "distance": "1166 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

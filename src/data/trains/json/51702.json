@@ -1,0 +1,30 @@
+{
+  "number": "51702",
+  "name": "REWA - JABALPUR PASSENGER",
+  "type": "Pass",
+  "source": "REWA",
+  "sourceCode": "REWA",
+  "destination": "JABALPUR",
+  "destinationCode": "JBP",
+  "departureTime": "13:45:00",
+  "arrivalTime": "20:10:00",
+  "duration": "6h 25m",
+  "distance": "238 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

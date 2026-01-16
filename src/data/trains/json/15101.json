@@ -1,0 +1,30 @@
+{
+  "number": "15101",
+  "name": "Chhapra-Mumbai Jansadharan Express",
+  "type": "Exp",
+  "source": "CHHAPRA",
+  "sourceCode": "CPR",
+  "destination": "MUMBAI CST",
+  "destinationCode": "CSTM",
+  "departureTime": "21:15:00",
+  "arrivalTime": "06:30:00",
+  "duration": "33h 15m",
+  "distance": "1973 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

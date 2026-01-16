@@ -1,0 +1,30 @@
+{
+  "number": "57278",
+  "name": "Vijayawada Bitragunta Passenger",
+  "type": "Pass",
+  "source": "VIJAYAWADA JN",
+  "sourceCode": "BZA",
+  "destination": "BITRAGUNTA",
+  "destinationCode": "BTTR",
+  "departureTime": "18:15:00",
+  "arrivalTime": "23:40:00",
+  "duration": "5h 25m",
+  "distance": "221 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

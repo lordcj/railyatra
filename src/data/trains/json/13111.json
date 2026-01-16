@@ -1,0 +1,30 @@
+{
+  "number": "13111",
+  "name": "Lal Quila Express",
+  "type": "Exp",
+  "source": "KOLKATA CHITPUR",
+  "sourceCode": "KOAA",
+  "destination": "OLD DELHI",
+  "destinationCode": "DLI",
+  "departureTime": "20:15:00",
+  "arrivalTime": "03:10:00",
+  "duration": "30h 55m",
+  "distance": "1527 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

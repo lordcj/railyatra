@@ -1,0 +1,30 @@
+{
+  "number": "59307",
+  "name": "Indore Jaipur link Express",
+  "type": "Pass",
+  "source": "INDORE JN BG",
+  "sourceCode": "INDB",
+  "destination": "JAIPUR",
+  "destinationCode": "JP",
+  "departureTime": "18:00:00",
+  "arrivalTime": "09:25:00",
+  "duration": "15h 25m",
+  "distance": "685 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

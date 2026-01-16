@@ -1,0 +1,29 @@
+{
+  "number": "59725",
+  "name": "Rewari Sadulpur Passenger",
+  "type": "Pass",
+  "source": "REWARI",
+  "sourceCode": "RE",
+  "destination": "Hisar",
+  "destinationCode": "HSR",
+  "departureTime": "18:55:00",
+  "arrivalTime": "00:20:00",
+  "duration": "5h 25m",
+  "distance": "211 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

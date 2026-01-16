@@ -1,0 +1,30 @@
+{
+  "number": "54511",
+  "name": "Ambala Nangal Dam",
+  "type": "Pass",
+  "source": "AMBALA CANT JN",
+  "sourceCode": "UMB",
+  "destination": "NANGAL DAM",
+  "destinationCode": "NLDM",
+  "departureTime": "07:35:00",
+  "arrivalTime": "11:40:00",
+  "duration": "4h 5m",
+  "distance": "170 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

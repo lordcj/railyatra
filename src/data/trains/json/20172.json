@@ -1,0 +1,34 @@
+{
+  "number": "20172",
+  "name": "Bhopal - New Delhi Vande Bharat Express",
+  "type": "Vande Bharat",
+  "source": "Bhopal",
+  "sourceCode": "BPL",
+  "destination": "New Delhi",
+  "destinationCode": "NDLS",
+  "departureTime": "15:15",
+  "arrivalTime": "22:55",
+  "duration": "7h 40m",
+  "distance": "700 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+  ],
+  "zone": "WCR",
+  "classes": [
+    "CC",
+    "EC"
+  ],
+  "stops": 5,
+  "majorStops": [
+    "Jhansi",
+    "Gwalior",
+    "Agra Cantt",
+    "New Delhi"
+  ],
+  "frequency": "Daily"
+}

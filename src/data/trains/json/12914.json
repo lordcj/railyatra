@@ -1,0 +1,31 @@
+{
+  "number": "12914",
+  "name": "Nagpur-Indore Weekly Express",
+  "type": "SF",
+  "source": "NAGPUR",
+  "sourceCode": "NGP",
+  "destination": "INDORE JN BG",
+  "destinationCode": "INDB",
+  "departureTime": "19:15:00",
+  "arrivalTime": "06:50:00",
+  "duration": "11h 35m",
+  "distance": "652 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

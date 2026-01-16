@@ -1,0 +1,13 @@
+{
+  "code": "NJP",
+  "name": "New Jalpaiguri",
+  "fullName": "New Jalpaiguri Junction",
+  "zone": "NFR",
+  "state": "West Bengal",
+  "category": "A",
+  "platforms": 10,
+  "connectivity": [
+    "Bus",
+    "Taxi"
+  ]
+}

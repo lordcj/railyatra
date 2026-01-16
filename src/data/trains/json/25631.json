@@ -1,0 +1,30 @@
+{
+  "number": "25631",
+  "name": "Bikaner Guwahati Express",
+  "type": "Exp",
+  "source": "BIKANER JN",
+  "sourceCode": "BKN",
+  "destination": "GUWAHATI",
+  "destinationCode": "GHY",
+  "departureTime": "23:45:00",
+  "arrivalTime": "23:15:00",
+  "duration": "47h 30m",
+  "distance": "2333 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

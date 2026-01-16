@@ -1,0 +1,29 @@
+{
+  "number": "12037",
+  "name": "New Delhi-Ludhiana Shatabdi Express",
+  "type": "Shtb",
+  "source": "NEW DELHI",
+  "sourceCode": "NDLS",
+  "destination": "LUDHIANA JN",
+  "destinationCode": "LDH",
+  "departureTime": "07:00:00",
+  "arrivalTime": "12:20:00",
+  "duration": "5h 20m",
+  "distance": "329 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

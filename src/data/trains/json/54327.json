@@ -1,0 +1,30 @@
+{
+  "number": "54327",
+  "name": "Sitapur Shahjehanpur Passenger",
+  "type": "Pass",
+  "source": "SITAPUR CITY",
+  "sourceCode": "SPC",
+  "destination": "SHAHJEHANPUR",
+  "destinationCode": "SPN",
+  "departureTime": "17:05:00",
+  "arrivalTime": "19:25:00",
+  "duration": "2h 20m",
+  "distance": "87 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

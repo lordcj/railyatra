@@ -1,0 +1,31 @@
+{
+  "number": "22463",
+  "name": "Rajasthan Sampark Kranti Express",
+  "type": "SF",
+  "source": "MERTA ROAD JN",
+  "sourceCode": "MTD",
+  "destination": "BIKANER JN",
+  "destinationCode": "BKN",
+  "departureTime": "06:45:00",
+  "arrivalTime": "10:35:00",
+  "duration": "3h 50m",
+  "distance": "173 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

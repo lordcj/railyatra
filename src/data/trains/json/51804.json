@@ -1,0 +1,30 @@
+{
+  "number": "51804",
+  "name": "Banda Mahoba Passenger",
+  "type": "Pass",
+  "source": "BANDA JN",
+  "sourceCode": "BNDA",
+  "destination": "MAHOBA",
+  "destinationCode": "MBA",
+  "departureTime": "04:00:00",
+  "arrivalTime": "05:05:00",
+  "duration": "1h 5m",
+  "distance": "53 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

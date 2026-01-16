@@ -1,0 +1,31 @@
+{
+  "number": "03686",
+  "name": "Delhi Gaya S",
+  "type": "SF",
+  "source": "OLD DELHI",
+  "sourceCode": "DLI",
+  "destination": "GAYA JN",
+  "destinationCode": "GAYA",
+  "departureTime": "19:10:00",
+  "arrivalTime": "09:45:00",
+  "duration": "14h 35m",
+  "distance": "972 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

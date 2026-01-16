@@ -1,0 +1,32 @@
+{
+  "number": "18474",
+  "name": "JODHPUR - PURI Express",
+  "type": "Exp",
+  "source": "JODHPUR JN",
+  "sourceCode": "JU",
+  "destination": "PURI",
+  "destinationCode": "PURI",
+  "departureTime": "13:55:00",
+  "arrivalTime": "12:25:00",
+  "duration": "46h 30m",
+  "distance": "2433 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

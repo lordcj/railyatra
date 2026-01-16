@@ -1,0 +1,29 @@
+{
+  "number": "13243",
+  "name": "Patna Dehri On Sone InterCity Express",
+  "type": "Exp",
+  "source": "PATNA JN",
+  "sourceCode": "PNBE",
+  "destination": "DEHRI ON SONE",
+  "destinationCode": "DOS",
+  "departureTime": "17:30:00",
+  "arrivalTime": "22:25:00",
+  "duration": "4h 55m",
+  "distance": "177 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

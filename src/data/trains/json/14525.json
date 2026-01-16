@@ -1,0 +1,29 @@
+{
+  "number": "14525",
+  "name": "Ambala Cantt-Shri GangaNagar InterCity Express",
+  "type": "Exp",
+  "source": "AMBALA CANT JN",
+  "sourceCode": "UMB",
+  "destination": "SHRI GANGANAGAR",
+  "destinationCode": "SGNR",
+  "departureTime": "05:15:00",
+  "arrivalTime": "12:25:00",
+  "duration": "7h 10m",
+  "distance": "328 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

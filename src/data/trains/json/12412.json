@@ -1,0 +1,32 @@
+{
+  "number": "12412",
+  "name": "AMRITSAR - CHANDIGARH Intercity SF Exp",
+  "type": "SF",
+  "source": "AMRITSAR JN",
+  "sourceCode": "ASR",
+  "destination": "CHANDIGARH",
+  "destinationCode": "CDG",
+  "departureTime": "15:25:00",
+  "arrivalTime": "07:15:00",
+  "duration": "15h 50m",
+  "distance": "909 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

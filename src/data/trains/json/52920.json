@@ -1,0 +1,30 @@
+{
+  "number": "52920",
+  "name": "Ahmedabad Himmatnagar Passenger",
+  "type": "Pass",
+  "source": "AHMEDABAD JN",
+  "sourceCode": "ADI",
+  "destination": "HIMMATNAGAR",
+  "destinationCode": "HMT",
+  "departureTime": "08:50:00",
+  "arrivalTime": "12:30:00",
+  "duration": "3h 40m",
+  "distance": "133 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

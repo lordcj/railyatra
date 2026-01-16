@@ -1,0 +1,30 @@
+{
+  "number": "14556",
+  "name": "Delhi-Bareilly Express",
+  "type": "Exp",
+  "source": "OLD DELHI",
+  "sourceCode": "DLI",
+  "destination": "BAREILLY",
+  "destinationCode": "BE",
+  "departureTime": "06:05:00",
+  "arrivalTime": "13:00:00",
+  "duration": "6h 55m",
+  "distance": "274 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

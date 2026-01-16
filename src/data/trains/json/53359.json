@@ -1,0 +1,30 @@
+{
+  "number": "53359",
+  "name": "Gomoh Barka Kana Passenger",
+  "type": "Pass",
+  "source": "GOMOH JN",
+  "sourceCode": "GMO",
+  "destination": "BARKAKANA",
+  "destinationCode": "BRKA",
+  "departureTime": "18:00:00",
+  "arrivalTime": "21:20:00",
+  "duration": "3h 20m",
+  "distance": "100 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

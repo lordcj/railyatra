@@ -1,0 +1,30 @@
+{
+  "number": "51612",
+  "name": "BINA - KOTA Passenger",
+  "type": "Pass",
+  "source": "BINA JN",
+  "sourceCode": "BINA",
+  "destination": "KOTA JN",
+  "destinationCode": "KOTA",
+  "departureTime": "10:45:00",
+  "arrivalTime": "19:20:00",
+  "duration": "8h 35m",
+  "distance": "303 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

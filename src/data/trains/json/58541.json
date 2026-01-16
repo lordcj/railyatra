@@ -1,0 +1,30 @@
+{
+  "number": "58541",
+  "name": "Rayagada Koraput Passenger",
+  "type": "Pass",
+  "source": "RAYAGADA",
+  "sourceCode": "RGDA",
+  "destination": "KORAPUT",
+  "destinationCode": "KRPU",
+  "departureTime": "10:50:00",
+  "arrivalTime": "15:30:00",
+  "duration": "4h 40m",
+  "distance": "173 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,31 @@
+{
+  "number": "11125",
+  "name": "Indore Gwalior Express",
+  "type": "Exp",
+  "source": "INDORE JN BG",
+  "sourceCode": "INDB",
+  "destination": "GWALIOR JN",
+  "destinationCode": "GWL",
+  "departureTime": "20:15:00",
+  "arrivalTime": "08:25:00",
+  "duration": "12h 10m",
+  "distance": "562 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

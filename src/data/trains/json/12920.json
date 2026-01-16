@@ -1,0 +1,31 @@
+{
+  "number": "12920",
+  "name": "Malwa Express",
+  "type": "SF",
+  "source": "JAMMU TAWI",
+  "sourceCode": "JAT",
+  "destination": "INDORE JN BG",
+  "destinationCode": "INDB",
+  "departureTime": "09:00:00",
+  "arrivalTime": "12:50:00",
+  "duration": "27h 50m",
+  "distance": "1540 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

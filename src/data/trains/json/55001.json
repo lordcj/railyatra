@@ -1,0 +1,30 @@
+{
+  "number": "55001",
+  "name": "Gorakhpur Ayodhya Passenger",
+  "type": "Pass",
+  "source": "GORAKHPUR JN",
+  "sourceCode": "GKP",
+  "destination": "AYODHYA",
+  "destinationCode": "AY",
+  "departureTime": "07:00:00",
+  "arrivalTime": "13:10:00",
+  "duration": "6h 10m",
+  "distance": "161 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

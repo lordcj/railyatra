@@ -1,0 +1,30 @@
+{
+  "number": "51823",
+  "name": "Farukhabad Allahabad kanpur Passenger",
+  "type": "Pass",
+  "source": "ALLAHABAD JN",
+  "sourceCode": "ALD",
+  "destination": "FARRUKHABAD",
+  "destinationCode": "FBD",
+  "departureTime": "07:00:00",
+  "arrivalTime": "17:00:00",
+  "duration": "10h 0m",
+  "distance": "334 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

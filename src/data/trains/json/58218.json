@@ -1,0 +1,30 @@
+{
+  "number": "58218",
+  "name": "Raipur Titagarh Passenger",
+  "type": "Pass",
+  "source": "RAIPUR JN",
+  "sourceCode": "R",
+  "destination": "TITLAGARH",
+  "destinationCode": "TIG",
+  "departureTime": "02:30:00",
+  "arrivalTime": "07:10:00",
+  "duration": "4h 40m",
+  "distance": "202 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

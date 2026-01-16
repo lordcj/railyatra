@@ -1,0 +1,30 @@
+{
+  "number": "53553",
+  "name": "Jasidih-Dumka Passenger",
+  "type": "Pass",
+  "source": "JASIDIH JN",
+  "sourceCode": "JSME",
+  "destination": "Dumka",
+  "destinationCode": "DUMK",
+  "departureTime": "13:00:00",
+  "arrivalTime": "14:45:00",
+  "duration": "1h 45m",
+  "distance": "72 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

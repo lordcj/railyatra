@@ -1,0 +1,30 @@
+{
+  "number": "58525",
+  "name": "Palasa Visakhapatnam Passenger",
+  "type": "Pass",
+  "source": "PALASA",
+  "sourceCode": "PSA",
+  "destination": "VISHAKAPATNAM",
+  "destinationCode": "VSKP",
+  "departureTime": "09:00:00",
+  "arrivalTime": "16:25:00",
+  "duration": "7h 25m",
+  "distance": "203 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

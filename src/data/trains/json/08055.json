@@ -1,0 +1,31 @@
+{
+  "number": "08055",
+  "name": "Shalimar-Tirupati Special",
+  "type": "SF",
+  "source": "KOLKATA SHALIMAR",
+  "sourceCode": "SHM",
+  "destination": "TIRUPATI MAIN",
+  "destinationCode": "TPTY",
+  "departureTime": "15:50:00",
+  "arrivalTime": "18:00:00",
+  "duration": "26h 10m",
+  "distance": "1616 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

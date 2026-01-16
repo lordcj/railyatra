@@ -1,0 +1,29 @@
+{
+  "number": "13113",
+  "name": "Hazarduari Express",
+  "type": "Exp",
+  "source": "KOLKATA CHITPUR",
+  "sourceCode": "KOAA",
+  "destination": "Lalgola",
+  "destinationCode": "LGL",
+  "departureTime": "06:50:00",
+  "arrivalTime": "12:10:00",
+  "duration": "5h 20m",
+  "distance": "223 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,31 @@
+{
+  "number": "19018",
+  "name": "Saurashtra Janata Express",
+  "type": "Exp",
+  "source": "JAMNAGAR",
+  "sourceCode": "JAM",
+  "destination": "MUMBAI BANDRA TERMINUS",
+  "destinationCode": "BDTS",
+  "departureTime": "13:40:00",
+  "arrivalTime": "05:45:00",
+  "duration": "16h 5m",
+  "distance": "812 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

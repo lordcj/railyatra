@@ -1,0 +1,30 @@
+{
+  "number": "06592",
+  "name": "Hosur-Yesvantpur Passenger",
+  "type": "Pass",
+  "source": "Hosur",
+  "sourceCode": "HSRA",
+  "destination": "YESVANTPUR JN",
+  "destinationCode": "YPR",
+  "departureTime": "08:10:00",
+  "arrivalTime": "09:50:00",
+  "duration": "1h 40m",
+  "distance": "67 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

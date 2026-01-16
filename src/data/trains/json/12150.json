@@ -1,0 +1,31 @@
+{
+  "number": "12150",
+  "name": "PATLIPUTRA - PUNE SF Exp",
+  "type": "SF",
+  "source": "PATLIPUTRA",
+  "sourceCode": "PPTA",
+  "destination": "PUNE JN",
+  "destinationCode": "PUNE",
+  "departureTime": "22:55:00",
+  "arrivalTime": "05:30:00",
+  "duration": "30h 35m",
+  "distance": "1780 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

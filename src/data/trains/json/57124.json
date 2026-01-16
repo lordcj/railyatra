@@ -1,0 +1,30 @@
+{
+  "number": "57124",
+  "name": "Balharshah Bhadrachalam Passenger",
+  "type": "Pass",
+  "source": "BALHARSHAH",
+  "sourceCode": "BPQ",
+  "destination": "Bhadrachalam Road",
+  "destinationCode": "BDCR",
+  "departureTime": "11:00:00",
+  "arrivalTime": "21:15:00",
+  "duration": "10h 15m",
+  "distance": "382 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

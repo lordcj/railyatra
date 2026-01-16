@@ -1,0 +1,30 @@
+{
+  "number": "51441",
+  "name": "Satara C Shahu Maharaj Passenger",
+  "type": "Pass",
+  "source": "SATARA",
+  "sourceCode": "STR",
+  "destination": "C SHAHU M RAJ KOLHAPUR TERM",
+  "destinationCode": "KOP",
+  "departureTime": "05:25:00",
+  "arrivalTime": "09:55:00",
+  "duration": "4h 30m",
+  "distance": "181 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

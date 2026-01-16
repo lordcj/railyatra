@@ -1,0 +1,30 @@
+{
+  "number": "41066",
+  "name": "Velachery Chennai Local",
+  "type": "Pass",
+  "source": "Velachery",
+  "sourceCode": "VLCY",
+  "destination": "CHENNAI BEACH",
+  "destinationCode": "MSB",
+  "departureTime": "13:00:00",
+  "arrivalTime": "13:40:00",
+  "duration": "0h 40m",
+  "distance": "0 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

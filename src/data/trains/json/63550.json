@@ -1,0 +1,30 @@
+{
+  "number": "63550",
+  "name": "Koderma Dhanbad Passenger MEMU",
+  "type": "MEMU",
+  "source": "KODERMA",
+  "sourceCode": "KQR",
+  "destination": "DHANBAD JN",
+  "destinationCode": "DHN",
+  "departureTime": "07:20:00",
+  "arrivalTime": "09:45:00",
+  "duration": "2h 25m",
+  "distance": "133 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,29 @@
+{
+  "number": "12725",
+  "name": "Siddhaganga Intercity Express",
+  "type": "SF",
+  "source": "BANGALORE CITY JN",
+  "sourceCode": "SBC",
+  "destination": "DHARWAR",
+  "destinationCode": "DWR",
+  "departureTime": "13:00:00",
+  "arrivalTime": "21:50:00",
+  "duration": "8h 50m",
+  "distance": "490 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

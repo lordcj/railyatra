@@ -1,0 +1,30 @@
+{
+  "number": "59441-Slip",
+  "name": "Ahmedabad Passenger Slip",
+  "type": "Pass",
+  "source": "Mumbai Central",
+  "sourceCode": "BCT",
+  "destination": "NANDURBAR",
+  "destinationCode": "NDB",
+  "departureTime": "22:40:00",
+  "arrivalTime": "12:45:00",
+  "duration": "14h 5m",
+  "distance": "423 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

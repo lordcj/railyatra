@@ -1,0 +1,30 @@
+{
+  "number": "56964",
+  "name": "VASCO DA GAMA - KULEM Passenger",
+  "type": "Pass",
+  "source": "VASCO DA GAMA",
+  "sourceCode": "VSG",
+  "destination": "KULEM",
+  "destinationCode": "QLM",
+  "departureTime": "13:10:00",
+  "arrivalTime": "15:00:00",
+  "duration": "1h 50m",
+  "distance": "55 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "KR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

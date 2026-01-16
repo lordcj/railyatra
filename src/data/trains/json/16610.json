@@ -1,0 +1,30 @@
+{
+  "number": "16610",
+  "name": "Coimbatore-Nagercoil Express",
+  "type": "Exp",
+  "source": "COIMBATORE JN",
+  "sourceCode": "CBE",
+  "destination": "NAGERCOIL JN",
+  "destinationCode": "NCJ",
+  "departureTime": "20:30:00",
+  "arrivalTime": "06:55:00",
+  "duration": "10h 25m",
+  "distance": "536 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

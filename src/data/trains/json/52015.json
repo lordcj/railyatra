@@ -1,0 +1,30 @@
+{
+  "number": "52015",
+  "name": "Bharuch Kavi Passenger",
+  "type": "Pass",
+  "source": "BHARUCH JN",
+  "sourceCode": "BH",
+  "destination": "Kavi",
+  "destinationCode": "KAVI",
+  "departureTime": "08:45:00",
+  "arrivalTime": "12:05:00",
+  "duration": "3h 20m",
+  "distance": "0 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

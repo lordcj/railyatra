@@ -1,0 +1,30 @@
+{
+  "number": "51802",
+  "name": "Kanpur Mahoba Passenger",
+  "type": "Pass",
+  "source": "KANPUR CENTRAL",
+  "sourceCode": "CNB",
+  "destination": "MAHOBA",
+  "destinationCode": "MBA",
+  "departureTime": "16:40:00",
+  "arrivalTime": "21:45:00",
+  "duration": "5h 5m",
+  "distance": "191 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

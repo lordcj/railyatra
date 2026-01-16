@@ -1,0 +1,30 @@
+{
+  "number": "67296",
+  "name": "Visakhapatnam Rajahmundry Pass",
+  "type": "Pass",
+  "source": "VISHAKAPATNAM",
+  "sourceCode": "VSKP",
+  "destination": "RAJAMUNDRY",
+  "destinationCode": "RJY",
+  "departureTime": "18:10:00",
+  "arrivalTime": "23:25:00",
+  "duration": "5h 15m",
+  "distance": "201 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

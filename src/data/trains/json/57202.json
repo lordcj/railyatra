@@ -1,0 +1,30 @@
+{
+  "number": "57202",
+  "name": "Tenali Repalle Passenger",
+  "type": "Pass",
+  "source": "TENALI JN",
+  "sourceCode": "TEL",
+  "destination": "Repalle",
+  "destinationCode": "RAL",
+  "departureTime": "00:15:00",
+  "arrivalTime": "01:15:00",
+  "duration": "1h 0m",
+  "distance": "34 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

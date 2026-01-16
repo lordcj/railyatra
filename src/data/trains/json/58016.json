@@ -1,0 +1,30 @@
+{
+  "number": "58016",
+  "name": "Adra Howrah Passenger",
+  "type": "Pass",
+  "source": "ADRA JN",
+  "sourceCode": "ADRA",
+  "destination": "HOWRAH JN",
+  "destinationCode": "HWH",
+  "departureTime": "04:30:00",
+  "arrivalTime": "10:05:00",
+  "duration": "5h 35m",
+  "distance": "283 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

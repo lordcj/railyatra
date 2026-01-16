@@ -1,0 +1,31 @@
+{
+  "number": "17209",
+  "name": "BANGALORE - KAKINADA TOWN Seshadri Exp",
+  "type": "Exp",
+  "source": "BANGALORE CITY JN",
+  "sourceCode": "SBC",
+  "destination": "KAKINADA TOWN",
+  "destinationCode": "CCT",
+  "departureTime": "13:20:00",
+  "arrivalTime": "08:45:00",
+  "duration": "19h 25m",
+  "distance": "963 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

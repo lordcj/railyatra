@@ -1,0 +1,29 @@
+{
+  "number": "12278",
+  "name": "Puri-Howrah AC Duronto Express",
+  "type": "Drnt",
+  "source": "PURI",
+  "sourceCode": "PURI",
+  "destination": "HOWRAH JN",
+  "destinationCode": "HWH",
+  "departureTime": "06:30:00",
+  "arrivalTime": "13:45:00",
+  "duration": "7h 15m",
+  "distance": "502 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

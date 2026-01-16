@@ -1,0 +1,32 @@
+{
+  "number": "12797",
+  "name": "Venkatadri SF Express",
+  "type": "SF",
+  "source": "KACHEGUDA",
+  "sourceCode": "KCG",
+  "destination": "CHITTOOR",
+  "destinationCode": "CTO",
+  "departureTime": "20:05:00",
+  "arrivalTime": "08:55:00",
+  "duration": "12h 50m",
+  "distance": "707 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

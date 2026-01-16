@@ -1,0 +1,30 @@
+{
+  "number": "12010",
+  "name": "Ahmedabad-Mumbai Central Shatabdi",
+  "type": "Shtb",
+  "source": "AHMEDABAD JN",
+  "sourceCode": "ADI",
+  "destination": "Mumbai Central",
+  "destinationCode": "BCT",
+  "departureTime": "14:30:00",
+  "arrivalTime": "21:35:00",
+  "duration": "7h 5m",
+  "distance": "491 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "1A",
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "55905",
+  "name": "Dibrugarh Ledo Passenger",
+  "type": "Pass",
+  "source": "DIBRUGARH TOWN",
+  "sourceCode": "DBRT",
+  "destination": "Ledo",
+  "destinationCode": "LEDO",
+  "departureTime": "07:05:00",
+  "arrivalTime": "10:45:00",
+  "duration": "3h 40m",
+  "distance": "103 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

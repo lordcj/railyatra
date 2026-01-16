@@ -1,0 +1,34 @@
+{
+  "number": "20901",
+  "name": "Mumbai Central - Gandhinagar Vande Bharat Express",
+  "type": "Vande Bharat",
+  "source": "Mumbai Central",
+  "sourceCode": "BCT",
+  "destination": "Gandhinagar Capital",
+  "destinationCode": "GNC",
+  "departureTime": "06:10",
+  "arrivalTime": "12:30",
+  "duration": "6h 20m",
+  "distance": "493 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+  ],
+  "zone": "WR",
+  "classes": [
+    "CC",
+    "EC"
+  ],
+  "stops": 4,
+  "majorStops": [
+    "Surat",
+    "Vadodara",
+    "Ahmedabad",
+    "Gandhinagar"
+  ],
+  "frequency": "Daily"
+}

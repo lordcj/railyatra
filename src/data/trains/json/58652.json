@@ -1,0 +1,30 @@
+{
+  "number": "58652",
+  "name": "Lohardaga Ranchi Passenger",
+  "type": "Pass",
+  "source": "Lohardaga",
+  "sourceCode": "LAD",
+  "destination": "RANCHI",
+  "destinationCode": "RNC",
+  "departureTime": "07:35:00",
+  "arrivalTime": "09:05:00",
+  "duration": "1h 30m",
+  "distance": "67 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

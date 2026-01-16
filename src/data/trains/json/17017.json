@@ -1,0 +1,31 @@
+{
+  "number": "17017",
+  "name": "Rajkot Secunderabad Express",
+  "type": "Exp",
+  "source": "RAJKOT JN",
+  "sourceCode": "RJT",
+  "destination": "SECUNDERABAD JN",
+  "destinationCode": "SC",
+  "departureTime": "05:00:00",
+  "arrivalTime": "10:30:00",
+  "duration": "29h 30m",
+  "distance": "1478 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

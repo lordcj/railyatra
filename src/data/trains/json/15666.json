@@ -1,0 +1,31 @@
+{
+  "number": "15666",
+  "name": "Dimapur-Guwahati Express",
+  "type": "Exp",
+  "source": "DIMAPUR",
+  "sourceCode": "DMV",
+  "destination": "GUWAHATI",
+  "destinationCode": "GHY",
+  "departureTime": "21:45:00",
+  "arrivalTime": "03:45:00",
+  "duration": "6h 0m",
+  "distance": "250 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

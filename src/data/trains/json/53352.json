@@ -1,0 +1,30 @@
+{
+  "number": "53352",
+  "name": "Chunar Chopan Passenger",
+  "type": "Pass",
+  "source": "CHUNAR",
+  "sourceCode": "CAR",
+  "destination": "CHOPAN",
+  "destinationCode": "CPU",
+  "departureTime": "14:00:00",
+  "arrivalTime": "17:10:00",
+  "duration": "3h 10m",
+  "distance": "103 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

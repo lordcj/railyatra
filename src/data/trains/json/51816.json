@@ -1,0 +1,30 @@
+{
+  "number": "51816",
+  "name": "Agra Jhansi Passenger",
+  "type": "Pass",
+  "source": "AGRA CANTT",
+  "sourceCode": "AGC",
+  "destination": "JHANSI JN",
+  "destinationCode": "JHS",
+  "departureTime": "14:50:00",
+  "arrivalTime": "20:50:00",
+  "duration": "6h 0m",
+  "distance": "216 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

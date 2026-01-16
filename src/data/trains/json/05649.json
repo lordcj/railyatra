@@ -1,0 +1,30 @@
+{
+  "number": "05649",
+  "name": "Mumbai LTT - Kamakhya (Weekly) Special",
+  "type": "Exp",
+  "source": "LOKMANYA TILAK TERM",
+  "sourceCode": "LTT",
+  "destination": "KAMAKHYA",
+  "destinationCode": "KYQ",
+  "departureTime": "15:50:00",
+  "arrivalTime": "21:55:00",
+  "duration": "54h 5m",
+  "distance": "2665 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

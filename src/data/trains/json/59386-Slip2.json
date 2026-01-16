@@ -1,0 +1,29 @@
+{
+  "number": "59386-Slip2",
+  "name": "Panchvalley Passenger Slip2",
+  "type": "Pass",
+  "source": "Chhindwara Junction",
+  "sourceCode": "CWA",
+  "destination": "GORAKHPUR JN",
+  "destinationCode": "GKP",
+  "departureTime": "21:05:00",
+  "arrivalTime": "07:25:00",
+  "duration": "34h 20m",
+  "distance": "1197 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

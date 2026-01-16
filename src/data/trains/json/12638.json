@@ -1,0 +1,32 @@
+{
+  "number": "12638",
+  "name": "MADURAI - CHENNAI EGMORE Pandiyan SF Exp",
+  "type": "SF",
+  "source": "MADURAI JN",
+  "sourceCode": "MDU",
+  "destination": "CHENNAI EGMORE",
+  "destinationCode": "MS",
+  "departureTime": "20:35:00",
+  "arrivalTime": "05:35:00",
+  "duration": "9h 0m",
+  "distance": "497 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

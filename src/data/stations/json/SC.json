@@ -1,0 +1,14 @@
+{
+  "code": "SC",
+  "name": "Secunderabad",
+  "fullName": "Secunderabad Junction",
+  "zone": "SCR",
+  "state": "Telangana",
+  "category": "A1",
+  "platforms": 10,
+  "connectivity": [
+    "Metro",
+    "Bus",
+    "Taxi"
+  ]
+}

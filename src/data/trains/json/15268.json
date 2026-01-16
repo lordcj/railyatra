@@ -1,0 +1,30 @@
+{
+  "number": "15268",
+  "name": "MUMBAI LTT - RAXAUL Jan Sadharan Exp",
+  "type": "Exp",
+  "source": "LOKMANYA TILAK TERM",
+  "sourceCode": "LTT",
+  "destination": "RAXAUL JN",
+  "destinationCode": "RXL",
+  "departureTime": "15:50:00",
+  "arrivalTime": "07:40:00",
+  "duration": "39h 50m",
+  "distance": "1979 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

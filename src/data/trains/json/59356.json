@@ -1,0 +1,30 @@
+{
+  "number": "59356",
+  "name": "Mathura Ratlam Passenger",
+  "type": "Pass",
+  "source": "MATHURA JN",
+  "sourceCode": "MTJ",
+  "destination": "RATLAM JN",
+  "destinationCode": "RTM",
+  "departureTime": "05:15:00",
+  "arrivalTime": "21:00:00",
+  "duration": "15h 45m",
+  "distance": "591 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

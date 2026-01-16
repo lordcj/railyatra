@@ -1,0 +1,30 @@
+{
+  "number": "14704",
+  "name": "Jaisalmer Express",
+  "type": "Exp",
+  "source": "LALGARH JN",
+  "sourceCode": "LGH",
+  "destination": "JAISALMER",
+  "destinationCode": "JSM",
+  "departureTime": "07:20:00",
+  "arrivalTime": "13:20:00",
+  "duration": "6h 0m",
+  "distance": "323 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

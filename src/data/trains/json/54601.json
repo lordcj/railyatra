@@ -1,0 +1,29 @@
+{
+  "number": "54601",
+  "name": "Hisar Amritsar Passenger",
+  "type": "Pass",
+  "source": "Hisar",
+  "sourceCode": "HSR",
+  "destination": "AMRITSAR JN",
+  "destinationCode": "ASR",
+  "departureTime": "22:30:00",
+  "arrivalTime": "09:40:00",
+  "duration": "11h 10m",
+  "distance": "346 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

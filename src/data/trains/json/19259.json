@@ -1,0 +1,31 @@
+{
+  "number": "19259",
+  "name": "KOCHUVELI - BHAVNAGAR Exp",
+  "type": "Exp",
+  "source": "KOCHUVELI",
+  "sourceCode": "KCVL",
+  "destination": "BHAVNAGAR TERMINUS",
+  "destinationCode": "BVC",
+  "departureTime": "15:15:00",
+  "arrivalTime": "13:00:00",
+  "duration": "45h 45m",
+  "distance": "2569 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,13 @@
+{
+  "code": "RKSH",
+  "name": "Rishikesh",
+  "fullName": "Rishikesh Railway Station",
+  "zone": "NR",
+  "state": "Uttarakhand",
+  "category": "B",
+  "platforms": 2,
+  "connectivity": [
+    "Bus",
+    "Taxi"
+  ]
+}

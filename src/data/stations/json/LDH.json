@@ -1,0 +1,13 @@
+{
+  "code": "LDH",
+  "name": "Ludhiana",
+  "fullName": "Ludhiana Junction",
+  "zone": "NR",
+  "state": "Punjab",
+  "category": "A1",
+  "platforms": 5,
+  "connectivity": [
+    "Bus",
+    "Taxi"
+  ]
+}

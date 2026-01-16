@@ -1,0 +1,30 @@
+{
+  "number": "58118",
+  "name": "Gondia Jharsuguda Passenger",
+  "type": "Pass",
+  "source": "GONDIA JN",
+  "sourceCode": "G",
+  "destination": "JHARSUGUDA JN",
+  "destinationCode": "JSG",
+  "departureTime": "05:00:00",
+  "arrivalTime": "20:15:00",
+  "duration": "15h 15m",
+  "distance": "487 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

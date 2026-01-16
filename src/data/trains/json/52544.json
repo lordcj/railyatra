@@ -1,0 +1,30 @@
+{
+  "number": "52544",
+  "name": "Darjeeling Kurseong Toy Train",
+  "type": "Pass",
+  "source": "Darjeeling",
+  "sourceCode": "DJ",
+  "destination": "Kurseong",
+  "destinationCode": "KGN",
+  "departureTime": "10:15:00",
+  "arrivalTime": "13:10:00",
+  "duration": "2h 55m",
+  "distance": "31 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

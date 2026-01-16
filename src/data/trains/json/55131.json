@@ -1,0 +1,30 @@
+{
+  "number": "55131",
+  "name": "Chhapra Varanasi Passenger",
+  "type": "Pass",
+  "source": "CHHAPRA",
+  "sourceCode": "CPR",
+  "destination": "VARANASI JN",
+  "destinationCode": "BSB",
+  "departureTime": "07:50:00",
+  "arrivalTime": "16:25:00",
+  "duration": "8h 35m",
+  "distance": "205 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

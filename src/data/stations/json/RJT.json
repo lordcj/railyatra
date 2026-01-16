@@ -1,0 +1,13 @@
+{
+  "code": "RJT",
+  "name": "Rajkot",
+  "fullName": "Rajkot Junction",
+  "zone": "WR",
+  "state": "Gujarat",
+  "category": "A",
+  "platforms": 4,
+  "connectivity": [
+    "Bus",
+    "Taxi"
+  ]
+}

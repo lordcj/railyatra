@@ -1,0 +1,32 @@
+{
+  "number": "12955",
+  "name": "Mumbai-Jaipur SF Express",
+  "type": "SF",
+  "source": "Mumbai Central",
+  "sourceCode": "BCT",
+  "destination": "JAIPUR",
+  "destinationCode": "JP",
+  "departureTime": "18:50:00",
+  "arrivalTime": "12:50:00",
+  "duration": "18h 0m",
+  "distance": "1159 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

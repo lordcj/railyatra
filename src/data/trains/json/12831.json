@@ -1,0 +1,29 @@
+{
+  "number": "12831",
+  "name": "DHANBAD - BHUBANESWAR Garib Rath Exp",
+  "type": "GR",
+  "source": "DHANBAD JN",
+  "sourceCode": "DHN",
+  "destination": "BHUBANESWAR",
+  "destinationCode": "BBS",
+  "departureTime": "16:00:00",
+  "arrivalTime": "08:15:00",
+  "duration": "16h 15m",
+  "distance": "780 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "3A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

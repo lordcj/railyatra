@@ -1,0 +1,30 @@
+{
+  "number": "54036",
+  "name": "JAKHAL - DELHI PASSENGER",
+  "type": "Pass",
+  "source": "JAKHAL JN",
+  "sourceCode": "JHL",
+  "destination": "OLD DELHI",
+  "destinationCode": "DLI",
+  "departureTime": "04:20:00",
+  "arrivalTime": "10:40:00",
+  "duration": "6h 20m",
+  "distance": "199 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

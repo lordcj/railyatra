@@ -1,0 +1,13 @@
+{
+  "code": "SVDK",
+  "name": "Katra",
+  "fullName": "Shri Mata Vaishno Devi Katra",
+  "zone": "NR",
+  "state": "Jammu & Kashmir",
+  "category": "A",
+  "platforms": 4,
+  "connectivity": [
+    "Bus",
+    "Taxi"
+  ]
+}

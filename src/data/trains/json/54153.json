@@ -1,0 +1,30 @@
+{
+  "number": "54153",
+  "name": "Rae Bareli Kanpur Passenger",
+  "type": "Pass",
+  "source": "RAE BARELI JN",
+  "sourceCode": "RBL",
+  "destination": "KANPUR CENTRAL",
+  "destinationCode": "CNB",
+  "departureTime": "03:00:00",
+  "arrivalTime": "08:50:00",
+  "duration": "5h 50m",
+  "distance": "167 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

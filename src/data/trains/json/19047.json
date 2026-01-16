@@ -1,0 +1,30 @@
+{
+  "number": "19047",
+  "name": "SURAT - BHAGALPUR Tapti Ganga Exp",
+  "type": "Exp",
+  "source": "SURAT",
+  "sourceCode": "ST",
+  "destination": "BHAGALPUR",
+  "destinationCode": "BGP",
+  "departureTime": "09:35:00",
+  "arrivalTime": "19:10:00",
+  "duration": "33h 35m",
+  "distance": "1824 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

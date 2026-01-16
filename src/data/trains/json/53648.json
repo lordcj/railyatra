@@ -1,0 +1,30 @@
+{
+  "number": "53648",
+  "name": "Tarighat Dildarnagar Passenger",
+  "type": "Pass",
+  "source": "Tarighat",
+  "sourceCode": "TRG",
+  "destination": "DILDARNAGAR JN",
+  "destinationCode": "DLN",
+  "departureTime": "17:55:00",
+  "arrivalTime": "18:40:00",
+  "duration": "0h 45m",
+  "distance": "19 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

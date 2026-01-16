@@ -1,0 +1,30 @@
+{
+  "number": "52262",
+  "name": "Nepalganj Gonda Passenger",
+  "type": "Pass",
+  "source": "Nepalganj Road",
+  "sourceCode": "NPR",
+  "destination": "GONDA JN",
+  "destinationCode": "GD",
+  "departureTime": "05:15:00",
+  "arrivalTime": "09:15:00",
+  "duration": "4h 0m",
+  "distance": "114 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

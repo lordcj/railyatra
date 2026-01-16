@@ -1,0 +1,31 @@
+{
+  "number": "15942",
+  "name": "DIBRUGARH - JHAJHA Exp",
+  "type": "Exp",
+  "source": "DIBRUGARH",
+  "sourceCode": "DBRG",
+  "destination": "JHAJHA",
+  "destinationCode": "JAJ",
+  "departureTime": "06:35:00",
+  "arrivalTime": "17:50:00",
+  "duration": "35h 15m",
+  "distance": "1710 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

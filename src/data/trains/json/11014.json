@@ -1,0 +1,32 @@
+{
+  "number": "11014",
+  "name": "Coimbatore Mumbai LTT Express",
+  "type": "Exp",
+  "source": "COIMBATORE JN",
+  "sourceCode": "CBE",
+  "destination": "LOKMANYA TILAK TERM",
+  "destinationCode": "LTT",
+  "departureTime": "08:00:00",
+  "arrivalTime": "14:30:00",
+  "duration": "30h 30m",
+  "distance": "1518 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

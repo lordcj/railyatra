@@ -1,0 +1,29 @@
+{
+  "number": "56910",
+  "name": "Bangalore Passenger",
+  "type": "Pass",
+  "source": "HOSPET JN",
+  "sourceCode": "HPT",
+  "destination": "BANGALORE CITY JN",
+  "destinationCode": "SBC",
+  "departureTime": "13:30:00",
+  "arrivalTime": "05:15:00",
+  "duration": "15h 45m",
+  "distance": "529 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

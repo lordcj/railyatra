@@ -1,0 +1,30 @@
+{
+  "number": "55903",
+  "name": "Furkating Mariani Passenger",
+  "type": "Pass",
+  "source": "FURKATING JN",
+  "sourceCode": "FKG",
+  "destination": "MARIANI JN",
+  "destinationCode": "MXN",
+  "departureTime": "16:05:00",
+  "arrivalTime": "19:15:00",
+  "duration": "3h 10m",
+  "distance": "85 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

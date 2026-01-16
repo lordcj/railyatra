@@ -1,0 +1,32 @@
+{
+  "number": "12965",
+  "name": "Gwalior Udaipur Express",
+  "type": "SF",
+  "source": "GWALIOR JN",
+  "sourceCode": "GWL",
+  "destination": "UDAIPUR CITY",
+  "destinationCode": "UDZ",
+  "departureTime": "15:50:00",
+  "arrivalTime": "06:10:00",
+  "duration": "14h 20m",
+  "distance": "794 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,31 @@
+{
+  "number": "11017",
+  "name": "Chalukya Express",
+  "type": "Exp",
+  "source": "MUMBAI DADAR CENTRAL",
+  "sourceCode": "DR",
+  "destination": "YESVANTPUR JN",
+  "destinationCode": "YPR",
+  "departureTime": "21:30:00",
+  "arrivalTime": "21:55:00",
+  "duration": "24h 25m",
+  "distance": "1205 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "57562",
+  "name": "Manmad - Kacheguda Passenger",
+  "type": "Pass",
+  "source": "MANMAD JN",
+  "sourceCode": "MMR",
+  "destination": "KACHEGUDA",
+  "destinationCode": "KCG",
+  "departureTime": "05:20:00",
+  "arrivalTime": "22:30:00",
+  "duration": "17h 10m",
+  "distance": "626 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,31 @@
+{
+  "number": "12950",
+  "name": "K SANTRAGANCHI - PORBANDAR Kavi Guru SF Exp",
+  "type": "SF",
+  "source": "SANTRAGACHI JN",
+  "sourceCode": "SRC",
+  "destination": "PORBANDAR",
+  "destinationCode": "PBR",
+  "departureTime": "21:25:00",
+  "arrivalTime": "21:00:00",
+  "duration": "47h 35m",
+  "distance": "2658 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

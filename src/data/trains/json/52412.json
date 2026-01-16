@@ -1,0 +1,30 @@
+{
+  "number": "52412",
+  "name": "Shri Ganganagar Sadulpur Passenger",
+  "type": "Pass",
+  "source": "SHRI GANGANAGAR",
+  "sourceCode": "SGNR",
+  "destination": "Sadulpur Junction",
+  "destinationCode": "SDLP",
+  "departureTime": "04:40:00",
+  "arrivalTime": "11:10:00",
+  "duration": "6h 30m",
+  "distance": "246 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

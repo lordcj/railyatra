@@ -1,0 +1,32 @@
+{
+  "number": "18005",
+  "name": "HOWRAH - JAGDALPUR Samaleshwari Exp",
+  "type": "Exp",
+  "source": "HOWRAH JN",
+  "sourceCode": "HWH",
+  "destination": "JAGDALPUR",
+  "destinationCode": "JDB",
+  "departureTime": "21:35:00",
+  "arrivalTime": "20:25:00",
+  "duration": "22h 50m",
+  "distance": "1057 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

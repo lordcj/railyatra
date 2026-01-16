@@ -1,0 +1,30 @@
+{
+  "number": "13161",
+  "name": "KOLKATA CHITPUR - BALURGHAT Tebhaga Exp",
+  "type": "Exp",
+  "source": "KOLKATA CHITPUR",
+  "sourceCode": "KOAA",
+  "destination": "BALURGHAT",
+  "destinationCode": "BLGT",
+  "departureTime": "12:55:00",
+  "arrivalTime": "22:05:00",
+  "duration": "9h 10m",
+  "distance": "438 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,32 @@
+{
+  "number": "06535",
+  "name": "Bijapur Express",
+  "type": "Exp",
+  "source": "YESVANTPUR JN",
+  "sourceCode": "YPR",
+  "destination": "BIJAPUR",
+  "destinationCode": "BJP",
+  "departureTime": "19:45:00",
+  "arrivalTime": "11:00:00",
+  "duration": "15h 15m",
+  "distance": "712 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

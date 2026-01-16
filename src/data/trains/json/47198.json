@@ -1,0 +1,30 @@
+{
+  "number": "47198",
+  "name": "Falaknuma Secunderabad MMTS",
+  "type": "Hyd",
+  "source": "KACHEGUDA FALAKNUMA",
+  "sourceCode": "FM",
+  "destination": "LINGAMPALLI",
+  "destinationCode": "LPI",
+  "departureTime": "11:10:00",
+  "arrivalTime": "12:30:00",
+  "duration": "1h 20m",
+  "distance": "37 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "63230",
+  "name": "Mughal Sarai Buxar Passenger",
+  "type": "MEMU",
+  "source": "MUGHAL SARAI JN",
+  "sourceCode": "MGS",
+  "destination": "BUXAR",
+  "destinationCode": "BXR",
+  "departureTime": "15:45:00",
+  "arrivalTime": "18:30:00",
+  "duration": "2h 45m",
+  "distance": "94 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

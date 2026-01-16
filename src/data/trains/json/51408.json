@@ -1,0 +1,30 @@
+{
+  "number": "51408",
+  "name": "Kolhapur Miraj Passenger",
+  "type": "Pass",
+  "source": "C SHAHU M RAJ KOLHAPUR TERM",
+  "sourceCode": "KOP",
+  "destination": "MIRAJ JN",
+  "destinationCode": "MRJ",
+  "departureTime": "21:30:00",
+  "arrivalTime": "22:55:00",
+  "duration": "1h 25m",
+  "distance": "47 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

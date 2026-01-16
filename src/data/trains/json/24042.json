@@ -1,0 +1,30 @@
+{
+  "number": "24042",
+  "name": "KOTDWAR - NAJIBABAD Mussoorie Exp",
+  "type": "Exp",
+  "source": "KOTDWARA",
+  "sourceCode": "KTW",
+  "destination": "DELHI SARAI ROHILLA",
+  "destinationCode": "DEE",
+  "departureTime": "22:00:00",
+  "arrivalTime": "08:35:00",
+  "duration": "10h 35m",
+  "distance": "243 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

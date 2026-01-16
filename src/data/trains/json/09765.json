@@ -1,0 +1,30 @@
+{
+  "number": "09765",
+  "name": "Phulera Rewari Passenger Special",
+  "type": "Pass",
+  "source": "PHULERA JN",
+  "sourceCode": "FL",
+  "destination": "REWARI",
+  "destinationCode": "RE",
+  "departureTime": "11:25:00",
+  "arrivalTime": "16:30:00",
+  "duration": "5h 5m",
+  "distance": "216 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

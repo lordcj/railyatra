@@ -1,0 +1,29 @@
+{
+  "number": "53047",
+  "name": "Viswabharati Fast Passenger",
+  "type": "Pass",
+  "source": "HOWRAH JN",
+  "sourceCode": "HWH",
+  "destination": "RAMPUR HAT",
+  "destinationCode": "RPH",
+  "departureTime": "16:40:00",
+  "arrivalTime": "21:35:00",
+  "duration": "4h 55m",
+  "distance": "219 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

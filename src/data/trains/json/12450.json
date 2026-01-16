@@ -1,0 +1,32 @@
+{
+  "number": "12450",
+  "name": "CHANDIGARH - MADGAON Goa Sampark Kranti Exp",
+  "type": "SKr",
+  "source": "CHANDIGARH",
+  "sourceCode": "CDG",
+  "destination": "MADGAON",
+  "destinationCode": "MAO",
+  "departureTime": "07:25:00",
+  "arrivalTime": "13:15:00",
+  "duration": "29h 50m",
+  "distance": "2094 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

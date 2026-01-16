@@ -1,0 +1,30 @@
+{
+  "number": "19129",
+  "name": "Baroda Ahmedabad Express",
+  "type": "Exp",
+  "source": "VADODARA JN",
+  "sourceCode": "BRC",
+  "destination": "AHMEDABAD JN",
+  "destinationCode": "ADI",
+  "departureTime": "18:15:00",
+  "arrivalTime": "20:30:00",
+  "duration": "2h 15m",
+  "distance": "100 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

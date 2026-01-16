@@ -1,0 +1,31 @@
+{
+  "number": "19051",
+  "name": "VALSAD - MUZAFFARPUR Shramik Exp",
+  "type": "Exp",
+  "source": "VALSAD",
+  "sourceCode": "BL",
+  "destination": "MUZAFFARPUR JN",
+  "destinationCode": "MFP",
+  "departureTime": "19:40:00",
+  "arrivalTime": "05:30:00",
+  "duration": "33h 50m",
+  "distance": "1729 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

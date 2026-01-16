@@ -1,0 +1,30 @@
+{
+  "number": "17481",
+  "name": "Bilaspur-Tirupati Express",
+  "type": "Exp",
+  "source": "BILASPUR JN",
+  "sourceCode": "BSP",
+  "destination": "TIRUPATI MAIN",
+  "destinationCode": "TPTY",
+  "departureTime": "10:05:00",
+  "arrivalTime": "16:15:00",
+  "duration": "30h 10m",
+  "distance": "1403 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

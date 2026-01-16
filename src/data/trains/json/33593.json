@@ -1,0 +1,30 @@
+{
+  "number": "33593",
+  "name": "Sealdah-Basirath Local",
+  "type": "MEMU",
+  "source": "KOLKATA SEALDAH",
+  "sourceCode": "SDAH",
+  "destination": "Barasat",
+  "destinationCode": "BT",
+  "departureTime": "14:25:00",
+  "arrivalTime": "15:09:00",
+  "duration": "0h 44m",
+  "distance": "22 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

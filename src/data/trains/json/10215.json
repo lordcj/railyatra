@@ -1,0 +1,32 @@
+{
+  "number": "10215",
+  "name": "Madgaon Ernakulam Weekly Super Fast Express",
+  "type": "Exp",
+  "source": "MADGAON",
+  "sourceCode": "MAO",
+  "destination": "ERNAKULAM JN",
+  "destinationCode": "ERS",
+  "departureTime": "21:30:00",
+  "arrivalTime": "10:55:00",
+  "duration": "13h 25m",
+  "distance": "850 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "KR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,31 @@
+{
+  "number": "13288",
+  "name": "RAJENDRA NAGAR BIHAR - DURG South Bihar Exp",
+  "type": "Exp",
+  "source": "RAJENDRA NAGAR BIHAR",
+  "sourceCode": "RJPB",
+  "destination": "DURG",
+  "destinationCode": "DURG",
+  "departureTime": "19:50:00",
+  "arrivalTime": "20:40:00",
+  "duration": "24h 50m",
+  "distance": "1130 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

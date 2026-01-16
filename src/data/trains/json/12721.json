@@ -1,0 +1,31 @@
+{
+  "number": "12721",
+  "name": "Dakshin SF Express",
+  "type": "SF",
+  "source": "HYDERABAD DECCAN",
+  "sourceCode": "HYB",
+  "destination": "DELHI H NIZAMUDDIN",
+  "destinationCode": "NZM",
+  "departureTime": "22:30:00",
+  "arrivalTime": "04:05:00",
+  "duration": "29h 35m",
+  "distance": "1670 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

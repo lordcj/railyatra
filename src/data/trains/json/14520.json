@@ -1,0 +1,29 @@
+{
+  "number": "14520",
+  "name": "Kisan Express",
+  "type": "Exp",
+  "source": "BHATINDA JN",
+  "sourceCode": "BTI",
+  "destination": "OLD DELHI",
+  "destinationCode": "DLI",
+  "departureTime": "06:55:00",
+  "arrivalTime": "14:20:00",
+  "duration": "7h 25m",
+  "distance": "337 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "19565",
+  "name": "Uttaranchal Express",
+  "type": "Exp",
+  "source": "OKHA",
+  "sourceCode": "OKHA",
+  "destination": "DEHRADUN",
+  "destinationCode": "DDN",
+  "departureTime": "07:40:00",
+  "arrivalTime": "19:00:00",
+  "duration": "35h 20m",
+  "distance": "1680 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

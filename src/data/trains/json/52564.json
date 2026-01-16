@@ -1,0 +1,29 @@
+{
+  "number": "52564",
+  "name": "Silchar Agartala Passenger",
+  "type": "Pass",
+  "source": "SILCHAR",
+  "sourceCode": "SCL",
+  "destination": "Agartala",
+  "destinationCode": "AGTL",
+  "departureTime": "10:45:00",
+  "arrivalTime": "20:00:00",
+  "duration": "9h 15m",
+  "distance": "257 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

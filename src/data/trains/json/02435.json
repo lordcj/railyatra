@@ -1,0 +1,29 @@
+{
+  "number": "02435",
+  "name": "Dibrugarh Guwahati Rajdhani Express",
+  "type": "Raj",
+  "source": "DIBRUGARH TOWN",
+  "sourceCode": "DBRT",
+  "destination": "GUWAHATI",
+  "destinationCode": "GHY",
+  "departureTime": "19:00:00",
+  "arrivalTime": "05:05:00",
+  "duration": "10h 5m",
+  "distance": "564 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

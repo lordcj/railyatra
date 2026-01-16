@@ -1,0 +1,29 @@
+{
+  "number": "12498",
+  "name": "Shan-e-Punjab Express",
+  "type": "SF",
+  "source": "AMRITSAR JN",
+  "sourceCode": "ASR",
+  "destination": "NEW DELHI",
+  "destinationCode": "NDLS",
+  "departureTime": "15:10:00",
+  "arrivalTime": "22:45:00",
+  "duration": "7h 35m",
+  "distance": "448 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

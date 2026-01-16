@@ -1,0 +1,30 @@
+{
+  "number": "19151",
+  "name": "PALANPUR - GANDHIDHAM Exp",
+  "type": "Exp",
+  "source": "PALANPUR JN",
+  "sourceCode": "PNU",
+  "destination": "GANDHIDHAM BG",
+  "destinationCode": "GIMB",
+  "departureTime": "14:55:00",
+  "arrivalTime": "21:25:00",
+  "duration": "6h 30m",
+  "distance": "301 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

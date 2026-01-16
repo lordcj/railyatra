@@ -1,0 +1,31 @@
+{
+  "number": "17230",
+  "name": "Sabari Express",
+  "type": "Exp",
+  "source": "HYDERABAD DECCAN",
+  "sourceCode": "HYB",
+  "destination": "TRIVANDRUM CENTRAL",
+  "destinationCode": "TVC",
+  "departureTime": "12:00:00",
+  "arrivalTime": "18:55:00",
+  "duration": "30h 55m",
+  "distance": "1568 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

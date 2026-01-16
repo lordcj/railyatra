@@ -1,0 +1,30 @@
+{
+  "number": "53522",
+  "name": "Varanasi-Asansol Passenger",
+  "type": "Pass",
+  "source": "VARANASI JN",
+  "sourceCode": "BSB",
+  "destination": "ASANSOL JN",
+  "destinationCode": "ASN",
+  "departureTime": "04:25:00",
+  "arrivalTime": "21:00:00",
+  "duration": "16h 35m",
+  "distance": "489 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

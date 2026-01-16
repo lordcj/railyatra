@@ -1,0 +1,14 @@
+{
+  "code": "BCT",
+  "name": "Mumbai Central",
+  "fullName": "Mumbai Central Terminus",
+  "zone": "WR",
+  "state": "Maharashtra",
+  "category": "A1",
+  "platforms": 6,
+  "connectivity": [
+    "Metro",
+    "Local",
+    "Bus"
+  ]
+}

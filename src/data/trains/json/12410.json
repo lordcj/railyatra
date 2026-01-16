@@ -1,0 +1,31 @@
+{
+  "number": "12410",
+  "name": "Gondwana Express",
+  "type": "SF",
+  "source": "DELHI H NIZAMUDDIN",
+  "sourceCode": "NZM",
+  "destination": "RAIGARH",
+  "destinationCode": "RIG",
+  "departureTime": "15:25:00",
+  "arrivalTime": "19:05:00",
+  "duration": "27h 40m",
+  "distance": "1626 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

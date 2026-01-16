@@ -1,0 +1,30 @@
+{
+  "number": "56918",
+  "name": "Shimoga Bangalore Passenger",
+  "type": "Pass",
+  "source": "Shimoga Town",
+  "sourceCode": "SMET",
+  "destination": "BANGALORE CITY JN",
+  "destinationCode": "SBC",
+  "departureTime": "13:50:00",
+  "arrivalTime": "21:10:00",
+  "duration": "7h 20m",
+  "distance": "274 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

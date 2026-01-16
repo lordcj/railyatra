@@ -1,0 +1,30 @@
+{
+  "number": "55241",
+  "name": "Barauni-Sonpur Passenger",
+  "type": "Pass",
+  "source": "BARAUNI JN",
+  "sourceCode": "BJU",
+  "destination": "SONPUR JN",
+  "destinationCode": "SEE",
+  "departureTime": "03:35:00",
+  "arrivalTime": "06:30:00",
+  "duration": "2h 55m",
+  "distance": "93 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

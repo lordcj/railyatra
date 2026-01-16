@@ -1,0 +1,30 @@
+{
+  "number": "57519",
+  "name": "Bolarum Secunderabad Suburban",
+  "type": "Pass",
+  "source": "BOLARUM",
+  "sourceCode": "BMO",
+  "destination": "HYDERABAD DECCAN",
+  "destinationCode": "HYB",
+  "departureTime": "20:20:00",
+  "arrivalTime": "21:20:00",
+  "duration": "1h 0m",
+  "distance": "21 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

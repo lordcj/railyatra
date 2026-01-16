@@ -1,0 +1,30 @@
+{
+  "number": "58212",
+  "name": "Bilaspur Gevra Passenger",
+  "type": "Pass",
+  "source": "BILASPUR JN",
+  "sourceCode": "BSP",
+  "destination": "Gevra Road",
+  "destinationCode": "GAD",
+  "departureTime": "14:20:00",
+  "arrivalTime": "17:00:00",
+  "duration": "2h 40m",
+  "distance": "98 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

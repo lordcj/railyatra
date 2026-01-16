@@ -1,0 +1,30 @@
+{
+  "number": "54301",
+  "name": "Hapur Ghaziabad Shuttle",
+  "type": "Pass",
+  "source": "HAPUR",
+  "sourceCode": "HPU",
+  "destination": "GHAZIABAD",
+  "destinationCode": "GZB",
+  "departureTime": "09:20:00",
+  "arrivalTime": "10:25:00",
+  "duration": "1h 5m",
+  "distance": "37 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

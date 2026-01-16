@@ -1,0 +1,30 @@
+{
+  "number": "58806",
+  "name": "Gondia Wadsa Passenger",
+  "type": "Pass",
+  "source": "GONDIA JN",
+  "sourceCode": "G",
+  "destination": "Wadsa",
+  "destinationCode": "WSA",
+  "departureTime": "19:05:00",
+  "arrivalTime": "21:45:00",
+  "duration": "2h 40m",
+  "distance": "104 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

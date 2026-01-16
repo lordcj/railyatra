@@ -1,0 +1,31 @@
+{
+  "number": "12958",
+  "name": "New Delhi-Ahmedabad Swarna Jayanti Rajdhani Expres",
+  "type": "Raj",
+  "source": "NEW DELHI",
+  "sourceCode": "NDLS",
+  "destination": "AHMEDABAD JN",
+  "destinationCode": "ADI",
+  "departureTime": "19:55:00",
+  "arrivalTime": "09:35:00",
+  "duration": "13h 40m",
+  "distance": "934 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

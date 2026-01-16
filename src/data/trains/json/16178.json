@@ -1,0 +1,32 @@
+{
+  "number": "16178",
+  "name": "Rock Fort (Malai Kottai) Express",
+  "type": "Exp",
+  "source": "KUMBAKONAM",
+  "sourceCode": "KMU",
+  "destination": "CHENNAI EGMORE",
+  "destinationCode": "MS",
+  "departureTime": "19:55:00",
+  "arrivalTime": "05:15:00",
+  "duration": "9h 20m",
+  "distance": "425 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

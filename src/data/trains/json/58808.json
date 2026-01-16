@@ -1,0 +1,30 @@
+{
+  "number": "58808",
+  "name": "Wadsa Chanda Fort Passenger",
+  "type": "Pass",
+  "source": "Wadsa",
+  "sourceCode": "WSA",
+  "destination": "Chanda Fort",
+  "destinationCode": "CAF",
+  "departureTime": "07:00:00",
+  "arrivalTime": "09:50:00",
+  "duration": "2h 50m",
+  "distance": "137 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

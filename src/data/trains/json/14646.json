@@ -1,0 +1,32 @@
+{
+  "number": "14646",
+  "name": "Shalimar Express",
+  "type": "Exp",
+  "source": "JAMMU TAWI",
+  "sourceCode": "JAT",
+  "destination": "OLD DELHI",
+  "destinationCode": "DLI",
+  "departureTime": "21:00:00",
+  "arrivalTime": "10:55:00",
+  "duration": "13h 55m",
+  "distance": "640 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

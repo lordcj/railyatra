@@ -1,0 +1,30 @@
+{
+  "number": "58113",
+  "name": "TATA BSP PASS",
+  "type": "Pass",
+  "source": "TATANAGAR JN",
+  "sourceCode": "TATA",
+  "destination": "BILASPUR JN",
+  "destinationCode": "BSP",
+  "departureTime": "06:30:00",
+  "arrivalTime": "19:55:00",
+  "duration": "13h 25m",
+  "distance": "469 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

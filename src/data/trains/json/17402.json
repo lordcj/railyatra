@@ -1,0 +1,30 @@
+{
+  "number": "17402",
+  "name": "Machilipatanam-Tirupati Express",
+  "type": "Exp",
+  "source": "Machilipatnam",
+  "sourceCode": "MTM",
+  "destination": "TIRUPATI MAIN",
+  "destinationCode": "TPTY",
+  "departureTime": "19:00:00",
+  "arrivalTime": "04:35:00",
+  "duration": "9h 35m",
+  "distance": "467 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

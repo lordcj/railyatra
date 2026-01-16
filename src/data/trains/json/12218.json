@@ -1,0 +1,32 @@
+{
+  "number": "12218",
+  "name": "CHANDIGARH - KOCHUVELI Kerala Sampark Kranti Exp",
+  "type": "SKr",
+  "source": "CHANDIGARH",
+  "sourceCode": "CDG",
+  "destination": "KOCHUVELI",
+  "destinationCode": "KCVL",
+  "departureTime": "09:00:00",
+  "arrivalTime": "14:50:00",
+  "duration": "53h 50m",
+  "distance": "3415 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

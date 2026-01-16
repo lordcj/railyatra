@@ -1,0 +1,30 @@
+{
+  "number": "57133",
+  "name": "Bijapur Raichur Passenger",
+  "type": "Pass",
+  "source": "BIJAPUR",
+  "sourceCode": "BJP",
+  "destination": "RAICHUR",
+  "destinationCode": "RC",
+  "departureTime": "11:25:00",
+  "arrivalTime": "21:25:00",
+  "duration": "10h 0m",
+  "distance": "367 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

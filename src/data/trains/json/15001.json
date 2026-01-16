@@ -1,0 +1,31 @@
+{
+  "number": "15001",
+  "name": "Rapti Ganga Express",
+  "type": "Exp",
+  "source": "MUZAFFARPUR JN",
+  "sourceCode": "MFP",
+  "destination": "DEHRADUN",
+  "destinationCode": "DDN",
+  "departureTime": "14:00:00",
+  "arrivalTime": "14:00:00",
+  "duration": "24h 0m",
+  "distance": "1124 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

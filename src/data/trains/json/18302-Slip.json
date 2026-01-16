@@ -1,0 +1,29 @@
+{
+  "number": "18302-Slip",
+  "name": "Sambalpur Express Slip",
+  "type": "Exp",
+  "source": "RAYAGADA",
+  "sourceCode": "RGDA",
+  "destination": "PURI",
+  "destinationCode": "PURI",
+  "departureTime": "14:30:00",
+  "arrivalTime": "07:15:00",
+  "duration": "16h 45m",
+  "distance": "695 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

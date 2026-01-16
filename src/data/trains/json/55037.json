@@ -1,0 +1,30 @@
+{
+  "number": "55037",
+  "name": "BURHWAL - SITAPUR PASS",
+  "type": "Pass",
+  "source": "BURHWAL",
+  "sourceCode": "BUW",
+  "destination": "SITAPUR CITY",
+  "destinationCode": "SPC",
+  "departureTime": "18:50:00",
+  "arrivalTime": "21:10:00",
+  "duration": "2h 20m",
+  "distance": "97 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,29 @@
+{
+  "number": "14228",
+  "name": "Varuna Express",
+  "type": "Exp",
+  "source": "LUCKNOW",
+  "sourceCode": "LKO",
+  "destination": "VARANASI JN",
+  "destinationCode": "BSB",
+  "departureTime": "17:50:00",
+  "arrivalTime": "23:20:00",
+  "duration": "5h 30m",
+  "distance": "284 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

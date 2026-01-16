@@ -1,0 +1,30 @@
+{
+  "number": "52252",
+  "name": "Aishbagh Sitapur Passenger",
+  "type": "Pass",
+  "source": "AISHBAGH",
+  "sourceCode": "ASH",
+  "destination": "SITAPUR",
+  "destinationCode": "STP",
+  "departureTime": "13:35:00",
+  "arrivalTime": "16:10:00",
+  "duration": "2h 35m",
+  "distance": "86 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

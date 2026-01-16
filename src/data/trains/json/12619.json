@@ -1,0 +1,31 @@
+{
+  "number": "12619",
+  "name": "MUMBAI LTT - MANGALORE CENT Matsyagandha Exp",
+  "type": "SF",
+  "source": "LOKMANYA TILAK TERM",
+  "sourceCode": "LTT",
+  "destination": "MANGALORE CNTL",
+  "destinationCode": "MAQ",
+  "departureTime": "15:20:00",
+  "arrivalTime": "07:30:00",
+  "duration": "16h 10m",
+  "distance": "1185 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

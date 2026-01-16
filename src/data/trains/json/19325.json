@@ -1,0 +1,31 @@
+{
+  "number": "19325",
+  "name": "Indore Amritsar (Weekly) Express",
+  "type": "Exp",
+  "source": "INDORE JN BG",
+  "sourceCode": "INDB",
+  "destination": "AMRITSAR JN",
+  "destinationCode": "ASR",
+  "departureTime": "17:30:00",
+  "arrivalTime": "20:45:00",
+  "duration": "27h 15m",
+  "distance": "1344 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

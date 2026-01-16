@@ -1,0 +1,30 @@
+{
+  "number": "57279",
+  "name": "Gudivada Narasapur Passenger",
+  "type": "Pass",
+  "source": "GUDIVADA JN",
+  "sourceCode": "GDV",
+  "destination": "Narasapur",
+  "destinationCode": "NS",
+  "departureTime": "18:40:00",
+  "arrivalTime": "22:00:00",
+  "duration": "3h 20m",
+  "distance": "96 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

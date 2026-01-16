@@ -1,0 +1,30 @@
+{
+  "number": "15276",
+  "name": "Barauni-Saharsa Express",
+  "type": "Exp",
+  "source": "BARAUNI JN",
+  "sourceCode": "BJU",
+  "destination": "SAHARSA JN",
+  "destinationCode": "SHC",
+  "departureTime": "03:45:00",
+  "arrivalTime": "06:50:00",
+  "duration": "3h 5m",
+  "distance": "107 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

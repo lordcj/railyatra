@@ -1,0 +1,31 @@
+{
+  "number": "12666",
+  "name": "KANYAKUMARI - KOL HOWRAH Weekly Exp",
+  "type": "SF",
+  "source": "KANYAKUMARI",
+  "sourceCode": "CAPE",
+  "destination": "HOWRAH JN",
+  "destinationCode": "HWH",
+  "departureTime": "07:50:00",
+  "arrivalTime": "03:20:00",
+  "duration": "43h 30m",
+  "distance": "2431 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

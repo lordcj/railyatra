@@ -1,0 +1,29 @@
+{
+  "number": "54251",
+  "name": "Lucknow Saharanpur Passenger",
+  "type": "Pass",
+  "source": "LUCKNOW",
+  "sourceCode": "LKO",
+  "destination": "SAHARANPUR",
+  "destinationCode": "SRE",
+  "departureTime": "23:45:00",
+  "arrivalTime": "18:20:00",
+  "duration": "18h 35m",
+  "distance": "519 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

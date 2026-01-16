@@ -1,0 +1,30 @@
+{
+  "number": "12948",
+  "name": "Azimabad Express",
+  "type": "SF",
+  "source": "PATNA JN",
+  "sourceCode": "PNBE",
+  "destination": "AHMEDABAD JN",
+  "destinationCode": "ADI",
+  "departureTime": "23:30:00",
+  "arrivalTime": "05:50:00",
+  "duration": "30h 20m",
+  "distance": "1772 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

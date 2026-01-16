@@ -1,0 +1,30 @@
+{
+  "number": "55810",
+  "name": "Guwahati New Bongaigaon Passenger",
+  "type": "Pass",
+  "source": "GUWAHATI",
+  "sourceCode": "GHY",
+  "destination": "NEW BONGAIGAON",
+  "destinationCode": "NBQ",
+  "departureTime": "05:00:00",
+  "arrivalTime": "10:00:00",
+  "duration": "5h 0m",
+  "distance": "157 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

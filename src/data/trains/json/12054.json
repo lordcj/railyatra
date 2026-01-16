@@ -1,0 +1,29 @@
+{
+  "number": "12054",
+  "name": "Amritsar Haridwar Jan Shatabdi",
+  "type": "JShtb",
+  "source": "AMRITSAR JN",
+  "sourceCode": "ASR",
+  "destination": "HARIDWAR JN",
+  "destinationCode": "HW",
+  "departureTime": "07:00:00",
+  "arrivalTime": "13:55:00",
+  "duration": "6h 55m",
+  "distance": "407 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

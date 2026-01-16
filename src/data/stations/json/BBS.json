@@ -1,0 +1,13 @@
+{
+  "code": "BBS",
+  "name": "Bhubaneswar",
+  "fullName": "Bhubaneswar Railway Station",
+  "zone": "ECoR",
+  "state": "Odisha",
+  "category": "A1",
+  "platforms": 6,
+  "connectivity": [
+    "Bus",
+    "Taxi"
+  ]
+}

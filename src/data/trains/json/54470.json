@@ -1,0 +1,30 @@
+{
+  "number": "54470",
+  "name": "Etah Tundla Passenger",
+  "type": "Pass",
+  "source": "Etah",
+  "sourceCode": "ETAH",
+  "destination": "TUNDLA JN",
+  "destinationCode": "TDL",
+  "departureTime": "16:00:00",
+  "arrivalTime": "18:00:00",
+  "duration": "2h 0m",
+  "distance": "73 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

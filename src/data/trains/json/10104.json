@@ -1,0 +1,32 @@
+{
+  "number": "10104",
+  "name": "MADGAON - MUMBAI CST Mandovi Exp",
+  "type": "Exp",
+  "source": "MADGAON",
+  "sourceCode": "MAO",
+  "destination": "MUMBAI CST",
+  "destinationCode": "CSTM",
+  "departureTime": "09:30:00",
+  "arrivalTime": "21:30:00",
+  "duration": "12h 0m",
+  "distance": "765 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "KR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

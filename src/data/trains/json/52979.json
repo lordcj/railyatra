@@ -1,0 +1,30 @@
+{
+  "number": "52979",
+  "name": "Indore Mhow Passenger",
+  "type": "Pass",
+  "source": "INDORE JN BG",
+  "sourceCode": "INDB",
+  "destination": "Mhow",
+  "destinationCode": "MHOW",
+  "departureTime": "14:45:00",
+  "arrivalTime": "15:50:00",
+  "duration": "1h 5m",
+  "distance": "29 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

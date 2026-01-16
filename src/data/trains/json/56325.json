@@ -1,0 +1,30 @@
+{
+  "number": "56325",
+  "name": "Nagercoil Cape Passenger",
+  "type": "Pass",
+  "source": "NAGERCOIL JN",
+  "sourceCode": "NCJ",
+  "destination": "KANYAKUMARI",
+  "destinationCode": "CAPE",
+  "departureTime": "16:45:00",
+  "arrivalTime": "17:05:00",
+  "duration": "0h 20m",
+  "distance": "15 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

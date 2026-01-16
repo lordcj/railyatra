@@ -1,0 +1,29 @@
+{
+  "number": "17687",
+  "name": "Manmad-Dharmabad Composite Express",
+  "type": "Exp",
+  "source": "MANMAD JN",
+  "sourceCode": "MMR",
+  "destination": "DHARMABAD",
+  "destinationCode": "DAB",
+  "departureTime": "15:00:00",
+  "arrivalTime": "23:50:00",
+  "duration": "8h 50m",
+  "distance": "422 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

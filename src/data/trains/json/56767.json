@@ -1,0 +1,30 @@
+{
+  "number": "56767",
+  "name": "Tuticorin Tiruchendur Passenger",
+  "type": "Pass",
+  "source": "TUTICORIN",
+  "sourceCode": "TN",
+  "destination": "Tiruchendur",
+  "destinationCode": "TCN",
+  "departureTime": "08:45:00",
+  "arrivalTime": "13:10:00",
+  "duration": "4h 25m",
+  "distance": "121 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

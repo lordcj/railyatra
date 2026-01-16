@@ -1,0 +1,30 @@
+{
+  "number": "58202",
+  "name": "Raipur Bilaspur MEMU Local",
+  "type": "Pass",
+  "source": "RAIPUR JN",
+  "sourceCode": "R",
+  "destination": "BILASPUR JN",
+  "destinationCode": "BSP",
+  "departureTime": "19:15:00",
+  "arrivalTime": "22:30:00",
+  "duration": "3h 15m",
+  "distance": "110 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

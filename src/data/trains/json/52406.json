@@ -1,0 +1,30 @@
+{
+  "number": "52406",
+  "name": "Suratgarh Hanumangarh Passenger",
+  "type": "Pass",
+  "source": "SHRI GANGANAGAR",
+  "sourceCode": "SGNR",
+  "destination": "Sadulpur Junction",
+  "destinationCode": "SDLP",
+  "departureTime": "11:10:00",
+  "arrivalTime": "19:15:00",
+  "duration": "8h 5m",
+  "distance": "246 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

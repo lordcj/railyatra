@@ -1,0 +1,30 @@
+{
+  "number": "52566",
+  "name": "JIRIBAM - SILCHAR MG Passenger",
+  "type": "Pass",
+  "source": "JIRIBAM",
+  "sourceCode": "JRBM",
+  "destination": "SILCHAR",
+  "destinationCode": "SCL",
+  "departureTime": "11:45:00",
+  "arrivalTime": "14:45:00",
+  "duration": "3h 0m",
+  "distance": "56 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

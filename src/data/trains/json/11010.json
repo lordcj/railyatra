@@ -1,0 +1,29 @@
+{
+  "number": "11010",
+  "name": "Sinhagad Express",
+  "type": "Exp",
+  "source": "PUNE JN",
+  "sourceCode": "PUNE",
+  "destination": "MUMBAI CST",
+  "destinationCode": "CSTM",
+  "departureTime": "06:05:00",
+  "arrivalTime": "09:55:00",
+  "duration": "3h 50m",
+  "distance": "192 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

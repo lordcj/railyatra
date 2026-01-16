@@ -1,0 +1,30 @@
+{
+  "number": "52020",
+  "name": "Dabhoi Miyagam Passenger",
+  "type": "Pass",
+  "source": "Chandod",
+  "sourceCode": "CDD",
+  "destination": "MIYAGAM KARJAN",
+  "destinationCode": "MYG",
+  "departureTime": "17:30:00",
+  "arrivalTime": "20:40:00",
+  "duration": "3h 10m",
+  "distance": "49 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

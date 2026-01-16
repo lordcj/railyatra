@@ -1,0 +1,13 @@
+{
+  "code": "ST",
+  "name": "Surat",
+  "fullName": "Surat Railway Station",
+  "zone": "WR",
+  "state": "Gujarat",
+  "category": "A1",
+  "platforms": 7,
+  "connectivity": [
+    "Bus",
+    "Taxi"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "code": "MS",
+  "name": "Chennai Egmore",
+  "fullName": "Chennai Egmore Railway Station",
+  "zone": "SR",
+  "state": "Tamil Nadu",
+  "category": "A1",
+  "platforms": 11,
+  "connectivity": [
+    "Metro",
+    "Bus",
+    "Taxi"
+  ]
+}

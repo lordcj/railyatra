@@ -1,0 +1,33 @@
+{
+  "number": "20607",
+  "name": "Chennai - Mysore Vande Bharat Express",
+  "type": "Vande Bharat",
+  "source": "MGR Chennai Central",
+  "sourceCode": "MAS",
+  "destination": "Mysore",
+  "destinationCode": "MYS",
+  "departureTime": "06:00",
+  "arrivalTime": "13:15",
+  "duration": "7h 15m",
+  "distance": "421 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+  ],
+  "zone": "SR",
+  "classes": [
+    "CC",
+    "EC"
+  ],
+  "stops": 4,
+  "majorStops": [
+    "Katpadi",
+    "Bangalore",
+    "Mysore"
+  ],
+  "frequency": "Daily"
+}

@@ -1,0 +1,31 @@
+{
+  "number": "11124",
+  "name": "Gwalior Barauni Mail",
+  "type": "Mail",
+  "source": "GWALIOR JN",
+  "sourceCode": "GWL",
+  "destination": "BARAUNI JN",
+  "destinationCode": "BJU",
+  "departureTime": "11:45:00",
+  "arrivalTime": "13:05:00",
+  "duration": "25h 20m",
+  "distance": "1055 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

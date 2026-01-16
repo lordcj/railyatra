@@ -1,0 +1,30 @@
+{
+  "number": "55793",
+  "name": "New Jalpaiguri Bamanhat Passenger",
+  "type": "Pass",
+  "source": "NEW JALPAIGURI",
+  "sourceCode": "NJP",
+  "destination": "NEW COOCH BEHAR",
+  "destinationCode": "NCB",
+  "departureTime": "08:00:00",
+  "arrivalTime": "14:05:00",
+  "duration": "6h 5m",
+  "distance": "191 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

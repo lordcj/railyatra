@@ -1,0 +1,32 @@
+{
+  "number": "12289",
+  "name": "Mumbai CSTM-Nagpur Duronto Express",
+  "type": "Drnt",
+  "source": "MUMBAI CST",
+  "sourceCode": "CSTM",
+  "destination": "NAGPUR",
+  "destinationCode": "NGP",
+  "departureTime": "20:15:00",
+  "arrivalTime": "07:15:00",
+  "duration": "11h 0m",
+  "distance": "838 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "53490",
+  "name": "Rajmahal Tinpahar Passenger",
+  "type": "Pass",
+  "source": "Rajmahal",
+  "sourceCode": "RJL",
+  "destination": "TINPAHAR JN",
+  "destinationCode": "TPH",
+  "departureTime": "17:10:00",
+  "arrivalTime": "17:38:00",
+  "duration": "0h 28m",
+  "distance": "11 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

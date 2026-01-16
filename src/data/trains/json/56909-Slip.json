@@ -1,0 +1,29 @@
+{
+  "number": "56909-Slip",
+  "name": "Bangalore Hospet Passenger Slip",
+  "type": "Pass",
+  "source": "BANGALORE CITY JN",
+  "sourceCode": "SBC",
+  "destination": "HOSPET JN",
+  "destinationCode": "HPT",
+  "departureTime": "22:15:00",
+  "arrivalTime": "12:40:00",
+  "duration": "14h 25m",
+  "distance": "529 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

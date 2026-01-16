@@ -1,0 +1,30 @@
+{
+  "number": "59158",
+  "name": "Anand Vadodara Passenger",
+  "type": "Pass",
+  "source": "ANAND JN",
+  "sourceCode": "ANND",
+  "destination": "VADODARA JN",
+  "destinationCode": "BRC",
+  "departureTime": "22:15:00",
+  "arrivalTime": "23:45:00",
+  "duration": "1h 30m",
+  "distance": "36 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

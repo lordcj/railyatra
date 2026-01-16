@@ -1,0 +1,30 @@
+{
+  "number": "57554",
+  "name": "Adilabad Parli Vaijnath Passenger",
+  "type": "Pass",
+  "source": "ADILABAD",
+  "sourceCode": "ADB",
+  "destination": "PARLI VAIJNATH",
+  "destinationCode": "PRLI",
+  "departureTime": "04:00:00",
+  "arrivalTime": "12:45:00",
+  "duration": "8h 45m",
+  "distance": "308 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

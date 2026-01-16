@@ -1,0 +1,14 @@
+{
+  "code": "LTT",
+  "name": "Lokmanya Tilak Terminus",
+  "fullName": "Lokmanya Tilak Terminus",
+  "zone": "CR",
+  "state": "Maharashtra",
+  "category": "A",
+  "platforms": 9,
+  "connectivity": [
+    "Local",
+    "Bus",
+    "Taxi"
+  ]
+}

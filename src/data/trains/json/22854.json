@@ -1,0 +1,31 @@
+{
+  "number": "22854",
+  "name": "Visakhapatnam-Shalimar Express",
+  "type": "SF",
+  "source": "VISHAKAPATNAM",
+  "sourceCode": "VSKP",
+  "destination": "KOLKATA SHALIMAR",
+  "destinationCode": "SHM",
+  "departureTime": "13:45:00",
+  "arrivalTime": "03:30:00",
+  "duration": "13h 45m",
+  "distance": "880 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

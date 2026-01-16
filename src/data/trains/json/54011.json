@@ -1,0 +1,30 @@
+{
+  "number": "54011",
+  "name": "Rewari Passenger",
+  "type": "Pass",
+  "source": "TILAK BRIDGE",
+  "sourceCode": "TKJ",
+  "destination": "REWARI",
+  "destinationCode": "RE",
+  "departureTime": "17:43:00",
+  "arrivalTime": "20:45:00",
+  "duration": "3h 2m",
+  "distance": "86 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "06948",
+  "name": "Hubli Jn - Vasco Da Gama Link Express",
+  "type": "Exp",
+  "source": "HUBLI JN",
+  "sourceCode": "UBL",
+  "destination": "VASCO DA GAMA",
+  "destinationCode": "VSG",
+  "departureTime": "23:00:00",
+  "arrivalTime": "06:30:00",
+  "duration": "7h 30m",
+  "distance": "236 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

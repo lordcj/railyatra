@@ -1,0 +1,30 @@
+{
+  "number": "12287",
+  "name": "Kochuveli-Dehradun Weekly Express",
+  "type": "SF",
+  "source": "KOCHUVELI",
+  "sourceCode": "KCVL",
+  "destination": "DEHRADUN",
+  "destinationCode": "DDN",
+  "departureTime": "08:50:00",
+  "arrivalTime": "18:00:00",
+  "duration": "57h 10m",
+  "distance": "3459 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

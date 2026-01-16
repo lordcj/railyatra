@@ -1,0 +1,30 @@
+{
+  "number": "51410",
+  "name": "Shree Chatrapati Shahu M(T) Kolhapur- Pune Passenger",
+  "type": "Pass",
+  "source": "C SHAHU M RAJ KOLHAPUR TERM",
+  "sourceCode": "KOP",
+  "destination": "PUNE JN",
+  "destinationCode": "PUNE",
+  "departureTime": "04:45:00",
+  "arrivalTime": "16:25:00",
+  "duration": "11h 40m",
+  "distance": "318 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

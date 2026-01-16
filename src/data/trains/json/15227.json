@@ -1,0 +1,31 @@
+{
+  "number": "15227",
+  "name": "YESVANTPUR - MUZAFFARPUR Weekly Exp",
+  "type": "Exp",
+  "source": "YESVANTPUR JN",
+  "sourceCode": "YPR",
+  "destination": "MUZAFFARPUR JN",
+  "destinationCode": "MFP",
+  "departureTime": "23:55:00",
+  "arrivalTime": "04:00:00",
+  "duration": "52h 5m",
+  "distance": "2733 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

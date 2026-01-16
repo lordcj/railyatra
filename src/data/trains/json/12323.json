@@ -1,0 +1,31 @@
+{
+  "number": "12323",
+  "name": "Howrah-NewDelhi SF Express",
+  "type": "SF",
+  "source": "HOWRAH JN",
+  "sourceCode": "HWH",
+  "destination": "NEW DELHI",
+  "destinationCode": "NDLS",
+  "departureTime": "18:45:00",
+  "arrivalTime": "17:00:00",
+  "duration": "22h 15m",
+  "distance": "1447 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

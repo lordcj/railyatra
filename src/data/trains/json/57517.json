@@ -1,0 +1,29 @@
+{
+  "number": "57517",
+  "name": "Hyderabad-Tandur Passenger",
+  "type": "Pass",
+  "source": "HYDERABAD DECCAN",
+  "sourceCode": "HYB",
+  "destination": "TANDUR",
+  "destinationCode": "TDU",
+  "departureTime": "12:35:00",
+  "arrivalTime": "15:15:00",
+  "duration": "2h 40m",
+  "distance": "116 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

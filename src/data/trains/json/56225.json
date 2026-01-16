@@ -1,0 +1,30 @@
+{
+  "number": "56225",
+  "name": "Bangalore Tumkur Passenger",
+  "type": "Pass",
+  "source": "BANGALORE CITY JN",
+  "sourceCode": "SBC",
+  "destination": "TUMKUR",
+  "destinationCode": "TK",
+  "departureTime": "13:40:00",
+  "arrivalTime": "15:25:00",
+  "duration": "1h 45m",
+  "distance": "70 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

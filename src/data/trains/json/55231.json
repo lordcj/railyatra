@@ -1,0 +1,30 @@
+{
+  "number": "55231",
+  "name": "Begusarai Mokama Passenger",
+  "type": "Pass",
+  "source": "LAKHO",
+  "sourceCode": "LAK",
+  "destination": "MOKAMEH JN",
+  "destinationCode": "MKA",
+  "departureTime": "06:05:00",
+  "arrivalTime": "08:10:00",
+  "duration": "2h 5m",
+  "distance": "43 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

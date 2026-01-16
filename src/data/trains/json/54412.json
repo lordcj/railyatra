@@ -1,0 +1,30 @@
+{
+  "number": "54412",
+  "name": "Meerut NDLS Rewari Passenger",
+  "type": "Pass",
+  "source": "MEERUT CANT",
+  "sourceCode": "MUT",
+  "destination": "REWARI",
+  "destinationCode": "RE",
+  "departureTime": "06:50:00",
+  "arrivalTime": "12:15:00",
+  "duration": "5h 25m",
+  "distance": "167 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

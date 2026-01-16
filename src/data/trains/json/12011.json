@@ -1,0 +1,29 @@
+{
+  "number": "12011",
+  "name": "Kalka Shatabdi Express",
+  "type": "Shtb",
+  "source": "NEW DELHI",
+  "sourceCode": "NDLS",
+  "destination": "Kalka",
+  "destinationCode": "KLK",
+  "departureTime": "07:40:00",
+  "arrivalTime": "11:45:00",
+  "duration": "4h 5m",
+  "distance": "303 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

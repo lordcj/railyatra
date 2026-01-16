@@ -1,0 +1,30 @@
+{
+  "number": "13111-Slip",
+  "name": "Lal Quila Express Slip",
+  "type": "Exp",
+  "source": "KOLKATA CHITPUR",
+  "sourceCode": "KOAA",
+  "destination": "Giridih",
+  "destinationCode": "GRD",
+  "departureTime": "20:15:00",
+  "arrivalTime": "04:30:00",
+  "duration": "8h 15m",
+  "distance": "322 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

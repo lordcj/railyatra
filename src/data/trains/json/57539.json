@@ -1,0 +1,30 @@
+{
+  "number": "57539",
+  "name": "Akola Parli Vaijnath Passenger",
+  "type": "Pass",
+  "source": "AKOLA JN",
+  "sourceCode": "AK",
+  "destination": "PARLI VAIJNATH",
+  "destinationCode": "PRLI",
+  "departureTime": "14:15:00",
+  "arrivalTime": "22:55:00",
+  "duration": "8h 40m",
+  "distance": "296 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

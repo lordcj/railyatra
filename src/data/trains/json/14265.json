@@ -1,0 +1,31 @@
+{
+  "number": "14265",
+  "name": "Varanasi Dehradun Janata Express",
+  "type": "Exp",
+  "source": "VARANASI JN",
+  "sourceCode": "BSB",
+  "destination": "DEHRADUN",
+  "destinationCode": "DDN",
+  "departureTime": "08:30:00",
+  "arrivalTime": "06:40:00",
+  "duration": "22h 10m",
+  "distance": "846 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

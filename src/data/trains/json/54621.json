@@ -1,0 +1,30 @@
+{
+  "number": "54621",
+  "name": "Jalandhar Pathankot Passenger",
+  "type": "Pass",
+  "source": "JALANDHAR CITY",
+  "sourceCode": "JUC",
+  "destination": "PATHANKOT",
+  "destinationCode": "PTK",
+  "departureTime": "17:30:00",
+  "arrivalTime": "20:55:00",
+  "duration": "3h 25m",
+  "distance": "115 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

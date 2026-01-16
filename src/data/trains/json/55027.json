@@ -1,0 +1,30 @@
+{
+  "number": "55027",
+  "name": "Gorakhpur Gonda Passenger",
+  "type": "Pass",
+  "source": "GORAKHPUR JN",
+  "sourceCode": "GKP",
+  "destination": "GONDA JN",
+  "destinationCode": "GD",
+  "departureTime": "18:25:00",
+  "arrivalTime": "22:50:00",
+  "duration": "4h 25m",
+  "distance": "152 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,31 @@
+{
+  "number": "09724",
+  "name": "Jaipur - Sabarmati SF Holiday Spl",
+  "type": "SF",
+  "source": "JAIPUR",
+  "sourceCode": "JP",
+  "destination": "SABARMATI JN",
+  "destinationCode": "SBI",
+  "departureTime": "21:30:00",
+  "arrivalTime": "08:20:00",
+  "duration": "10h 50m",
+  "distance": "620 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NWR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

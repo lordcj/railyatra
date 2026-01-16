@@ -1,0 +1,30 @@
+{
+  "number": "55017",
+  "name": "Chhapra-Mau Passenger",
+  "type": "Pass",
+  "source": "CHHAPRA",
+  "sourceCode": "CPR",
+  "destination": "MAU JN",
+  "destinationCode": "MAU",
+  "departureTime": "17:30:00",
+  "arrivalTime": "22:40:00",
+  "duration": "5h 10m",
+  "distance": "134 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

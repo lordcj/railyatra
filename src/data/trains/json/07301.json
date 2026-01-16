@@ -1,0 +1,29 @@
+{
+  "number": "07301",
+  "name": "Mysore Shimoga Express",
+  "type": "Exp",
+  "source": "MYSORE JN",
+  "sourceCode": "MYS",
+  "destination": "Shimoga Town",
+  "destinationCode": "SMET",
+  "departureTime": "22:15:00",
+  "arrivalTime": "06:10:00",
+  "duration": "7h 55m",
+  "distance": "276 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

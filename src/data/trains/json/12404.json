@@ -1,0 +1,32 @@
+{
+  "number": "12404",
+  "name": "Mathura Allahabad SF Express",
+  "type": "SF",
+  "source": "MATHURA JN",
+  "sourceCode": "MTJ",
+  "destination": "ALLAHABAD JN",
+  "destinationCode": "ALD",
+  "departureTime": "20:20:00",
+  "arrivalTime": "05:00:00",
+  "duration": "8h 40m",
+  "distance": "507 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

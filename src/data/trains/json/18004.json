@@ -1,0 +1,29 @@
+{
+  "number": "18004",
+  "name": "Purulia Jhargram Express",
+  "type": "Exp",
+  "source": "PURULIA JN",
+  "sourceCode": "PRR",
+  "destination": "JHARGRAM",
+  "destinationCode": "JGM",
+  "departureTime": "14:45:00",
+  "arrivalTime": "17:55:00",
+  "duration": "3h 10m",
+  "distance": "187 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

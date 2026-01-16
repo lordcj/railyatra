@@ -1,0 +1,32 @@
+{
+  "number": "12191",
+  "name": "Shridham Express",
+  "type": "SF",
+  "source": "NEW DELHI",
+  "sourceCode": "NDLS",
+  "destination": "JABALPUR",
+  "destinationCode": "JBP",
+  "departureTime": "14:05:00",
+  "arrivalTime": "07:15:00",
+  "duration": "17h 10m",
+  "distance": "1038 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WCR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

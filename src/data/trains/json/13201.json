@@ -1,0 +1,31 @@
+{
+  "number": "13201",
+  "name": "RAJENDRA NAGAR PATNA - MUMBAI LTT Janta Exp",
+  "type": "Exp",
+  "source": "RAJENDRA NAGAR BIHAR",
+  "sourceCode": "RJPB",
+  "destination": "LOKMANYA TILAK TERM",
+  "destinationCode": "LTT",
+  "departureTime": "23:30:00",
+  "arrivalTime": "11:30:00",
+  "duration": "36h 0m",
+  "distance": "1715 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

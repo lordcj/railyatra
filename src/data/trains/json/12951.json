@@ -1,0 +1,31 @@
+{
+  "number": "12951",
+  "name": "Mumbai Central-New Delhi Rajdhani Express",
+  "type": "Raj",
+  "source": "Mumbai Central",
+  "sourceCode": "BCT",
+  "destination": "NEW DELHI",
+  "destinationCode": "NDLS",
+  "departureTime": "16:40:00",
+  "arrivalTime": "08:30:00",
+  "duration": "15h 50m",
+  "distance": "1384 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

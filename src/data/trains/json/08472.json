@@ -1,0 +1,31 @@
+{
+  "number": "08472",
+  "name": "Tirupati - Bhubaneswar Weekly Special",
+  "type": "Exp",
+  "source": "TIRUPATI MAIN",
+  "sourceCode": "TPTY",
+  "destination": "BHUBANESWAR",
+  "destinationCode": "BBS",
+  "departureTime": "14:00:00",
+  "arrivalTime": "14:00:00",
+  "duration": "24h 0m",
+  "distance": "1205 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "52037",
+  "name": "Nadiad Bhadran Mix Passenger",
+  "type": "Pass",
+  "source": "NADIAD JN",
+  "sourceCode": "ND",
+  "destination": "Bhadran",
+  "destinationCode": "BDRN",
+  "departureTime": "09:15:00",
+  "arrivalTime": "12:25:00",
+  "duration": "3h 10m",
+  "distance": "62 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

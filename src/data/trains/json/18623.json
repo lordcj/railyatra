@@ -1,0 +1,32 @@
+{
+  "number": "18623",
+  "name": "Patna Rajendra Nagar-Hatia Express",
+  "type": "Exp",
+  "source": "RAJENDRA NAGAR BIHAR",
+  "sourceCode": "RJPB",
+  "destination": "HATIA",
+  "destinationCode": "HTE",
+  "departureTime": "21:20:00",
+  "arrivalTime": "08:45:00",
+  "duration": "11h 25m",
+  "distance": "421 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "52550",
+  "name": "Darjeeling Joyride",
+  "type": "Toy",
+  "source": "Darjeeling",
+  "sourceCode": "DJ",
+  "destination": "To Darjeeling",
+  "destinationCode": "DJRZ",
+  "departureTime": "10:10:00",
+  "arrivalTime": "10:10:00",
+  "duration": "0h 0m",
+  "distance": "0 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

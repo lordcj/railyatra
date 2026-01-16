@@ -1,0 +1,31 @@
+{
+  "number": "11004",
+  "name": "SAWANTWADI RD - DADAR Rajya Rani Exp",
+  "type": "Exp",
+  "source": "SAWANTWADI ROAD",
+  "sourceCode": "SWV",
+  "destination": "MUMBAI DADAR CENTRAL",
+  "destinationCode": "DR",
+  "departureTime": "18:10:00",
+  "arrivalTime": "06:30:00",
+  "duration": "12h 20m",
+  "distance": "646 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

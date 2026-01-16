@@ -1,0 +1,30 @@
+{
+  "number": "56829",
+  "name": "Tiruchchirapalli Rameswaram Passenger",
+  "type": "Pass",
+  "source": "TIRUCHIRAPPALLI",
+  "sourceCode": "TPJ",
+  "destination": "RAMESWARAM",
+  "destinationCode": "RMM",
+  "departureTime": "06:15:00",
+  "arrivalTime": "12:45:00",
+  "duration": "6h 30m",
+  "distance": "266 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

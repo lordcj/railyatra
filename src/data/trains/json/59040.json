@@ -1,0 +1,30 @@
+{
+  "number": "59040",
+  "name": "Vapi Virar Shuttle",
+  "type": "Pass",
+  "source": "VAPI",
+  "sourceCode": "VAPI",
+  "destination": "VIRAR",
+  "destinationCode": "VR",
+  "departureTime": "13:55:00",
+  "arrivalTime": "16:15:00",
+  "duration": "2h 20m",
+  "distance": "112 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

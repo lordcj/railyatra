@@ -1,0 +1,30 @@
+{
+  "number": "15311",
+  "name": "KUMAON EXPRESS",
+  "type": "Exp",
+  "source": "Kasganj Mg",
+  "sourceCode": "KSJF",
+  "destination": "Lal Kuan",
+  "destinationCode": "LKKA",
+  "departureTime": "09:40:00",
+  "arrivalTime": "15:20:00",
+  "duration": "5h 40m",
+  "distance": "188 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

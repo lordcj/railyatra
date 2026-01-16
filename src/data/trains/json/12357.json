@@ -1,0 +1,31 @@
+{
+  "number": "12357",
+  "name": "KOLKATA CHITPUR - AMRITSAR Durgiana SF Exp",
+  "type": "SF",
+  "source": "KOLKATA CHITPUR",
+  "sourceCode": "KOAA",
+  "destination": "AMRITSAR JN",
+  "destinationCode": "ASR",
+  "departureTime": "12:30:00",
+  "arrivalTime": "16:50:00",
+  "duration": "28h 20m",
+  "distance": "1812 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

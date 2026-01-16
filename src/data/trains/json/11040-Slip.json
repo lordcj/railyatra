@@ -1,0 +1,29 @@
+{
+  "number": "11040-Slip",
+  "name": "Gondia-Solapur Maharashtra Express Slip",
+  "type": "Exp",
+  "source": "GONDIA JN",
+  "sourceCode": "G",
+  "destination": "SOLAPUR JN",
+  "destinationCode": "SUR",
+  "departureTime": "08:20:00",
+  "arrivalTime": "08:50:00",
+  "duration": "24h 30m",
+  "distance": "1132 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

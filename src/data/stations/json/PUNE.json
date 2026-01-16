@@ -1,0 +1,13 @@
+{
+  "code": "PUNE",
+  "name": "Pune",
+  "fullName": "Pune Junction",
+  "zone": "CR",
+  "state": "Maharashtra",
+  "category": "A1",
+  "platforms": 6,
+  "connectivity": [
+    "Bus",
+    "Taxi"
+  ]
+}

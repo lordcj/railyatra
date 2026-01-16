@@ -1,0 +1,29 @@
+{
+  "number": "57515",
+  "name": "Daund Nanded Passenger",
+  "type": "Pass",
+  "source": "DAUND JN",
+  "sourceCode": "DD",
+  "destination": "HUZUR SAHIB NANDED",
+  "destinationCode": "NED",
+  "departureTime": "13:05:00",
+  "arrivalTime": "04:15:00",
+  "duration": "15h 10m",
+  "distance": "586 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

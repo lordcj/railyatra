@@ -1,0 +1,30 @@
+{
+  "number": "19025-Slip",
+  "name": "Surat Bhavnagar Express Slip Slip",
+  "type": "Exp",
+  "source": "SURAT",
+  "sourceCode": "ST",
+  "destination": "BHAVNAGAR TERMINUS",
+  "destinationCode": "BVC",
+  "departureTime": "05:30:00",
+  "arrivalTime": "17:25:00",
+  "duration": "11h 55m",
+  "distance": "526 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

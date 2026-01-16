@@ -1,0 +1,30 @@
+{
+  "number": "19119",
+  "name": "Ahmedabad Somnath Intercity Express",
+  "type": "Exp",
+  "source": "AHMEDABAD JN",
+  "sourceCode": "ADI",
+  "destination": "VERAVAL",
+  "destinationCode": "VRL",
+  "departureTime": "10:30:00",
+  "arrivalTime": "19:30:00",
+  "duration": "9h 0m",
+  "distance": "430 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

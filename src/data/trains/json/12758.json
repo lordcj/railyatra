@@ -1,0 +1,29 @@
+{
+  "number": "12758",
+  "name": "Coimbatore-Tirupati (Triweekly) SF Intercity Expre",
+  "type": "SF",
+  "source": "COIMBATORE JN",
+  "sourceCode": "CBE",
+  "destination": "TIRUPATI MAIN",
+  "destinationCode": "TPTY",
+  "departureTime": "06:00:00",
+  "arrivalTime": "13:30:00",
+  "duration": "7h 30m",
+  "distance": "472 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

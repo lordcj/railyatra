@@ -1,0 +1,30 @@
+{
+  "number": "54309",
+  "name": "Delhi Rewari Passenger",
+  "type": "Pass",
+  "source": "OLD DELHI",
+  "sourceCode": "DLI",
+  "destination": "REWARI",
+  "destinationCode": "RE",
+  "departureTime": "05:20:00",
+  "arrivalTime": "08:10:00",
+  "duration": "2h 50m",
+  "distance": "82 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

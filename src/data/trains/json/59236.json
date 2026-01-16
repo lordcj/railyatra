@@ -1,0 +1,30 @@
+{
+  "number": "59236",
+  "name": "Mahuva Dhola Passenger",
+  "type": "Pass",
+  "source": "MAHUVA JN",
+  "sourceCode": "MHV",
+  "destination": "DHOLA JN",
+  "destinationCode": "DLJ",
+  "departureTime": "17:30:00",
+  "arrivalTime": "21:05:00",
+  "duration": "3h 35m",
+  "distance": "153 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

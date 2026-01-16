@@ -1,0 +1,30 @@
+{
+  "number": "25716",
+  "name": "Garib Nawaz Express",
+  "type": "Exp",
+  "source": "KATIHAR JN",
+  "sourceCode": "KIR",
+  "destination": "Radhikapur",
+  "destinationCode": "RDP",
+  "departureTime": "01:05:00",
+  "arrivalTime": "03:30:00",
+  "duration": "2h 25m",
+  "distance": "92 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

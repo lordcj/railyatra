@@ -1,0 +1,31 @@
+{
+  "number": "18477",
+  "name": "Utkal Express",
+  "type": "Exp",
+  "source": "PURI",
+  "sourceCode": "PURI",
+  "destination": "HARIDWAR JN",
+  "destinationCode": "HW",
+  "departureTime": "21:00:00",
+  "arrivalTime": "20:30:00",
+  "duration": "47h 30m",
+  "distance": "2379 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

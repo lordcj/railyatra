@@ -1,0 +1,30 @@
+{
+  "number": "12201",
+  "name": "MUMBAI LTT - KOCHUVELI Garib Rath Exp",
+  "type": "GR",
+  "source": "LOKMANYA TILAK TERM",
+  "sourceCode": "LTT",
+  "destination": "KOCHUVELI",
+  "destinationCode": "KCVL",
+  "departureTime": "16:55:00",
+  "arrivalTime": "20:30:00",
+  "duration": "27h 35m",
+  "distance": "1812 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

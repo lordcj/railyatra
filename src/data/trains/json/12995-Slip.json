@@ -1,0 +1,31 @@
+{
+  "number": "12995-Slip",
+  "name": "Bandra-Udaipur SF Express Slip",
+  "type": "SF",
+  "source": "MUMBAI BANDRA TERMINUS",
+  "sourceCode": "BDTS",
+  "destination": "AJMER JN",
+  "destinationCode": "AII",
+  "departureTime": "15:45:00",
+  "arrivalTime": "09:45:00",
+  "duration": "18h 0m",
+  "distance": "1017 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

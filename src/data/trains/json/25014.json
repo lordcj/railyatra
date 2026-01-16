@@ -1,0 +1,30 @@
+{
+  "number": "25014",
+  "name": "Corbett Park Link Express",
+  "type": "Exp",
+  "source": "RAMNAGAR",
+  "sourceCode": "RMR",
+  "destination": "OLD DELHI",
+  "destinationCode": "DLI",
+  "departureTime": "21:55:00",
+  "arrivalTime": "03:55:00",
+  "duration": "6h 0m",
+  "distance": "239 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

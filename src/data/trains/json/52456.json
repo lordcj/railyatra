@@ -1,0 +1,29 @@
+{
+  "number": "52456",
+  "name": "Himalayan Queen",
+  "type": "Pass",
+  "source": "Shimla",
+  "sourceCode": "SML",
+  "destination": "Kalka",
+  "destinationCode": "KLK",
+  "departureTime": "10:30:00",
+  "arrivalTime": "16:10:00",
+  "duration": "5h 40m",
+  "distance": "96 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

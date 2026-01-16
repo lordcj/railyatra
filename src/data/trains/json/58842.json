@@ -1,0 +1,30 @@
+{
+  "number": "58842",
+  "name": "Ramakona Nagpur Passenger",
+  "type": "Pass",
+  "source": "Ramakona",
+  "sourceCode": "RMO",
+  "destination": "NAGPUR",
+  "destinationCode": "NGP",
+  "departureTime": "05:00:00",
+  "arrivalTime": "09:10:00",
+  "duration": "4h 10m",
+  "distance": "86 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

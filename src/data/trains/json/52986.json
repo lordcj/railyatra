@@ -1,0 +1,30 @@
+{
+  "number": "52986",
+  "name": "Mhow Indore MG Pass",
+  "type": "Pass",
+  "source": "Mhow",
+  "sourceCode": "MHOW",
+  "destination": "INDORE JN BG",
+  "destinationCode": "INDB",
+  "departureTime": "19:20:00",
+  "arrivalTime": "20:10:00",
+  "duration": "0h 50m",
+  "distance": "29 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

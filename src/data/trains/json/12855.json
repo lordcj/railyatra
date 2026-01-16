@@ -1,0 +1,31 @@
+{
+  "number": "12855",
+  "name": "Bilaspur-Nagpur InterCity",
+  "type": "SF",
+  "source": "BILASPUR JN",
+  "sourceCode": "BSP",
+  "destination": "NAGPUR",
+  "destinationCode": "NGP",
+  "departureTime": "16:15:00",
+  "arrivalTime": "23:00:00",
+  "duration": "6h 45m",
+  "distance": "411 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

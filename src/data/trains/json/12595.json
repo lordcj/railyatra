@@ -1,0 +1,33 @@
+{
+  "number": "12595",
+  "name": "Anand Vihar - Gorakhpur Humsafar",
+  "type": "Humsafar",
+  "source": "Anand Vihar Terminal",
+  "sourceCode": "ANVT",
+  "destination": "Gorakhpur",
+  "destinationCode": "GKP",
+  "departureTime": "23:20",
+  "arrivalTime": "10:50",
+  "duration": "11h 30m",
+  "distance": "747 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "3A"
+  ],
+  "stops": 5,
+  "majorStops": [
+    "Lucknow",
+    "Gonda",
+    "Gorakhpur"
+  ],
+  "frequency": "Daily"
+}

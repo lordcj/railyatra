@@ -1,0 +1,32 @@
+{
+  "number": "16723",
+  "name": "CHENNAI EGMORE - TRIVANDRUM Anantapuri Exp",
+  "type": "Exp",
+  "source": "CHENNAI EGMORE",
+  "sourceCode": "MS",
+  "destination": "TRIVANDRUM CENTRAL",
+  "destinationCode": "TVC",
+  "departureTime": "19:15:00",
+  "arrivalTime": "11:05:00",
+  "duration": "15h 50m",
+  "distance": "798 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

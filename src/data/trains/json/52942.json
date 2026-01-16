@@ -1,0 +1,30 @@
+{
+  "number": "52942",
+  "name": "SBI-BTD - GANDHIGRAM PASSENGER",
+  "type": "Pass",
+  "source": "BOTAD JN",
+  "sourceCode": "BTDF",
+  "destination": "GANDHIGRAM",
+  "destinationCode": "GG",
+  "departureTime": "07:15:00",
+  "arrivalTime": "10:45:00",
+  "duration": "3h 30m",
+  "distance": "155 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,29 @@
+{
+  "number": "18447-Slip",
+  "name": "Hirakhand Express Slip",
+  "type": "Exp",
+  "source": "BHUBANESWAR",
+  "sourceCode": "BBS",
+  "destination": "Kirandul",
+  "destinationCode": "KRDL",
+  "departureTime": "19:35:00",
+  "arrivalTime": "21:20:00",
+  "duration": "25h 45m",
+  "distance": "935 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

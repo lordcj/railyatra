@@ -1,0 +1,30 @@
+{
+  "number": "12026",
+  "name": "Secunderabad-Pune Shatabdi",
+  "type": "Shtb",
+  "source": "SECUNDERABAD JN",
+  "sourceCode": "SC",
+  "destination": "PUNE JN",
+  "destinationCode": "PUNE",
+  "departureTime": "14:40:00",
+  "arrivalTime": "23:00:00",
+  "duration": "8h 20m",
+  "distance": "597 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "1A",
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

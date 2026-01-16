@@ -1,0 +1,30 @@
+{
+  "number": "53346",
+  "name": "ALLAHABAD - CHOPAN Passenger",
+  "type": "Pass",
+  "source": "ALLAHABAD JN",
+  "sourceCode": "ALD",
+  "destination": "CHOPAN",
+  "destinationCode": "CPU",
+  "departureTime": "14:50:00",
+  "arrivalTime": "22:45:00",
+  "duration": "7h 55m",
+  "distance": "223 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

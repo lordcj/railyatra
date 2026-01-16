@@ -1,0 +1,30 @@
+{
+  "number": "55542",
+  "name": "Phulwaria Hajipur Passenger",
+  "type": "Pass",
+  "source": "Bathua Bazar",
+  "sourceCode": "BHBR",
+  "destination": "HAJIPUR JN",
+  "destinationCode": "HJP",
+  "departureTime": "05:00:00",
+  "arrivalTime": "10:20:00",
+  "duration": "5h 20m",
+  "distance": "0 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

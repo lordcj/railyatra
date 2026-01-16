@@ -1,0 +1,30 @@
+{
+  "number": "58028",
+  "name": "Kurdha Road Bhubaneshwar Passenger",
+  "type": "Pass",
+  "source": "KHURDA ROAD JN",
+  "sourceCode": "KUR",
+  "destination": "BHUBANESWAR",
+  "destinationCode": "BBS",
+  "departureTime": "13:15:00",
+  "arrivalTime": "13:50:00",
+  "duration": "0h 35m",
+  "distance": "19 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

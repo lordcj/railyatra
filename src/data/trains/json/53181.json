@@ -1,0 +1,29 @@
+{
+  "number": "53181",
+  "name": "Lalgola Passenger",
+  "type": "Pass",
+  "source": "KOLKATA SEALDAH",
+  "sourceCode": "SDAH",
+  "destination": "Lalgola",
+  "destinationCode": "LGL",
+  "departureTime": "23:05:00",
+  "arrivalTime": "05:00:00",
+  "duration": "5h 55m",
+  "distance": "227 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

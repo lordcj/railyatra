@@ -1,0 +1,29 @@
+{
+  "number": "06501",
+  "name": "Yesvantpur - Ahmedabad Garib Rath Special",
+  "type": "GR",
+  "source": "YESVANTPUR JN",
+  "sourceCode": "YPR",
+  "destination": "AHMEDABAD JN",
+  "destinationCode": "ADI",
+  "departureTime": "05:20:00",
+  "arrivalTime": "16:10:00",
+  "duration": "34h 50m",
+  "distance": "1719 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "3A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

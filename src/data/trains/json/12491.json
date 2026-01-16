@@ -1,0 +1,30 @@
+{
+  "number": "12491",
+  "name": "BARAUNI - JAMMU TAWI Maur Dhwaj Express",
+  "type": "SF",
+  "source": "BARAUNI JN",
+  "sourceCode": "BJU",
+  "destination": "JAMMU TAWI",
+  "destinationCode": "JAT",
+  "departureTime": "07:00:00",
+  "arrivalTime": "11:50:00",
+  "duration": "28h 50m",
+  "distance": "1510 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

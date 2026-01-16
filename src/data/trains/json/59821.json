@@ -1,0 +1,29 @@
+{
+  "number": "59821",
+  "name": "KOTA - BHIND Passenger",
+  "type": "Pass",
+  "source": "KOTA JN",
+  "sourceCode": "KOTA",
+  "destination": "BHIND",
+  "destinationCode": "BIX",
+  "departureTime": "22:05:00",
+  "arrivalTime": "14:40:00",
+  "duration": "16h 35m",
+  "distance": "495 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WCR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

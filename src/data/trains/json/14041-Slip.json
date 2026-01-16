@@ -1,0 +1,30 @@
+{
+  "number": "14041-Slip",
+  "name": "Mussoorie Express Slip",
+  "type": "Exp",
+  "source": "DELHI SARAI ROHILLA",
+  "sourceCode": "DEE",
+  "destination": "KOTDWARA",
+  "destinationCode": "KTW",
+  "departureTime": "21:30:00",
+  "arrivalTime": "05:55:00",
+  "duration": "8h 25m",
+  "distance": "243 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

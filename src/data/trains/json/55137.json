@@ -1,0 +1,30 @@
+{
+  "number": "55137",
+  "name": "Ballia Shahganj Passenger",
+  "type": "Pass",
+  "source": "BALLIA",
+  "sourceCode": "BUI",
+  "destination": "SHAHGANJ JN",
+  "destinationCode": "SHG",
+  "departureTime": "05:00:00",
+  "arrivalTime": "11:15:00",
+  "duration": "6h 15m",
+  "distance": "168 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,29 @@
+{
+  "number": "19023",
+  "name": "Mumbai Firozpur Janata Express",
+  "type": "Exp",
+  "source": "Mumbai Central",
+  "sourceCode": "BCT",
+  "destination": "FIROZPUR CANT",
+  "destinationCode": "FZR",
+  "departureTime": "07:25:00",
+  "arrivalTime": "22:20:00",
+  "duration": "38h 55m",
+  "distance": "1772 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

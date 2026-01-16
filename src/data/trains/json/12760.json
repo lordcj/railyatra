@@ -1,0 +1,32 @@
+{
+  "number": "12760",
+  "name": "Charminar Express",
+  "type": "SF",
+  "source": "HYDERABAD DECCAN",
+  "sourceCode": "HYB",
+  "destination": "CHENNAI CENTRAL",
+  "destinationCode": "MAS",
+  "departureTime": "18:30:00",
+  "arrivalTime": "08:15:00",
+  "duration": "13h 45m",
+  "distance": "790 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

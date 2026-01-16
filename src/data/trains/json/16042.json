@@ -1,0 +1,31 @@
+{
+  "number": "16042",
+  "name": "Alappuzha-Chennai Express",
+  "type": "Exp",
+  "source": "ALLEPPEY",
+  "sourceCode": "ALLP",
+  "destination": "CHENNAI CENTRAL",
+  "destinationCode": "MAS",
+  "departureTime": "16:05:00",
+  "arrivalTime": "06:05:00",
+  "duration": "14h 0m",
+  "distance": "746 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

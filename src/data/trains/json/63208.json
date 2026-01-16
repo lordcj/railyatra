@@ -1,0 +1,30 @@
+{
+  "number": "63208",
+  "name": "Patna Jhajha Passenger MEMU",
+  "type": "MEMU",
+  "source": "PATNA JN",
+  "sourceCode": "PNBE",
+  "destination": "JHAJHA",
+  "destinationCode": "JAJ",
+  "departureTime": "08:30:00",
+  "arrivalTime": "14:40:00",
+  "duration": "6h 10m",
+  "distance": "176 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

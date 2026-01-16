@@ -1,0 +1,30 @@
+{
+  "number": "51449",
+  "name": "Pune Solapur Passenger",
+  "type": "Pass",
+  "source": "PUNE JN",
+  "sourceCode": "PUNE",
+  "destination": "SOLAPUR JN",
+  "destinationCode": "SUR",
+  "departureTime": "08:15:00",
+  "arrivalTime": "15:40:00",
+  "duration": "7h 25m",
+  "distance": "263 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

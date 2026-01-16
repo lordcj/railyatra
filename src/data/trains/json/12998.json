@@ -1,0 +1,30 @@
+{
+  "number": "12998",
+  "name": "Hapa-Tirunelveli Express",
+  "type": "SF",
+  "source": "HAPA",
+  "sourceCode": "HAPA",
+  "destination": "TIRUNELVELI",
+  "destinationCode": "TEN",
+  "departureTime": "21:20:00",
+  "arrivalTime": "17:30:00",
+  "duration": "44h 10m",
+  "distance": "2730 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "3A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

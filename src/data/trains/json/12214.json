@@ -1,0 +1,31 @@
+{
+  "number": "12214",
+  "name": "Delhi Sarai Rohilla-Yesvantpur AC Duronto Express",
+  "type": "Drnt",
+  "source": "DELHI SARAI ROHILLA",
+  "sourceCode": "DEE",
+  "destination": "YESVANTPUR JN",
+  "destinationCode": "YPR",
+  "departureTime": "23:00:00",
+  "arrivalTime": "07:30:00",
+  "duration": "32h 30m",
+  "distance": "2314 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,31 @@
+{
+  "number": "18426",
+  "name": "DURG - PURI Exp",
+  "type": "Exp",
+  "source": "DURG",
+  "sourceCode": "DURG",
+  "destination": "PURI",
+  "destinationCode": "PURI",
+  "departureTime": "16:25:00",
+  "arrivalTime": "09:15:00",
+  "duration": "16h 50m",
+  "distance": "786 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

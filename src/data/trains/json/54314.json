@@ -1,0 +1,30 @@
+{
+  "number": "54314",
+  "name": "Moradabad Chandausi Passenger",
+  "type": "Pass",
+  "source": "MORADABAD",
+  "sourceCode": "MB",
+  "destination": "CHANDAUSI JN",
+  "destinationCode": "CH",
+  "departureTime": "16:10:00",
+  "arrivalTime": "17:30:00",
+  "duration": "1h 20m",
+  "distance": "44 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

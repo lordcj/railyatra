@@ -1,0 +1,31 @@
+{
+  "number": "14003",
+  "name": "New Farakka-New Delhi Express",
+  "type": "Exp",
+  "source": "NEW FARAKKA JN",
+  "sourceCode": "NFK",
+  "destination": "NEW DELHI",
+  "destinationCode": "NDLS",
+  "departureTime": "09:45:00",
+  "arrivalTime": "14:25:00",
+  "duration": "28h 40m",
+  "distance": "1387 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

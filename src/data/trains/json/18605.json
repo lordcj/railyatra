@@ -1,0 +1,31 @@
+{
+  "number": "18605",
+  "name": "Ranchi-Jaynagar Express",
+  "type": "Exp",
+  "source": "RANCHI",
+  "sourceCode": "RNC",
+  "destination": "JAYNAGAR",
+  "destinationCode": "JYG",
+  "departureTime": "20:40:00",
+  "arrivalTime": "11:35:00",
+  "duration": "14h 55m",
+  "distance": "612 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

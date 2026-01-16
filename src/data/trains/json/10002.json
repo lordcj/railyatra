@@ -1,0 +1,30 @@
+{
+  "number": "10002",
+  "name": "Satpura Express",
+  "type": "Exp",
+  "source": "JABALPUR",
+  "sourceCode": "JBP",
+  "destination": "Balaghat Junction",
+  "destinationCode": "BTC",
+  "departureTime": "05:30:00",
+  "arrivalTime": "12:10:00",
+  "duration": "6h 40m",
+  "distance": "187 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SECR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

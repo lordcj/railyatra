@@ -1,0 +1,31 @@
+{
+  "number": "12778",
+  "name": "TRIVANDRUM KOCHUVELI - HUBLI SF Exp",
+  "type": "SF",
+  "source": "KOCHUVELI",
+  "sourceCode": "KCVL",
+  "destination": "HUBLI JN",
+  "destinationCode": "UBL",
+  "departureTime": "12:50:00",
+  "arrivalTime": "12:45:00",
+  "duration": "23h 55m",
+  "distance": "1307 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

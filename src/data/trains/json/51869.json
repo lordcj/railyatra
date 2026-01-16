@@ -1,0 +1,30 @@
+{
+  "number": "51869",
+  "name": "Ait Konch Passenger",
+  "type": "Pass",
+  "source": "AIT",
+  "sourceCode": "AIT",
+  "destination": "Konch",
+  "destinationCode": "KNH",
+  "departureTime": "21:55:00",
+  "arrivalTime": "22:30:00",
+  "duration": "0h 35m",
+  "distance": "13 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

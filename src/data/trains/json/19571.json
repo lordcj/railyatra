@@ -1,0 +1,29 @@
+{
+  "number": "19571",
+  "name": "Rajkot-Porbandar Express",
+  "type": "Exp",
+  "source": "RAJKOT JN",
+  "sourceCode": "RJT",
+  "destination": "PORBANDAR",
+  "destinationCode": "PBR",
+  "departureTime": "07:20:00",
+  "arrivalTime": "12:00:00",
+  "duration": "4h 40m",
+  "distance": "202 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

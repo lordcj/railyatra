@@ -1,0 +1,31 @@
+{
+  "number": "12330",
+  "name": "West Bengal Sampark Kranti Express",
+  "type": "SKr",
+  "source": "OLD DELHI",
+  "sourceCode": "DLI",
+  "destination": "KOLKATA SEALDAH",
+  "destinationCode": "SDAH",
+  "departureTime": "19:10:00",
+  "arrivalTime": "17:25:00",
+  "duration": "22h 15m",
+  "distance": "1448 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

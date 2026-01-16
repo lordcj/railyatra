@@ -1,0 +1,30 @@
+{
+  "number": "59503",
+  "name": "Viramgam Okha Fast Passenger",
+  "type": "Pass",
+  "source": "VIRAMGAM JN",
+  "sourceCode": "VG",
+  "destination": "OKHA",
+  "destinationCode": "OKHA",
+  "departureTime": "11:35:00",
+  "arrivalTime": "00:35:00",
+  "duration": "13h 0m",
+  "distance": "429 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

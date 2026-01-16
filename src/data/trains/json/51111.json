@@ -1,0 +1,30 @@
+{
+  "number": "51111",
+  "name": "Chalisgaon Dhule Mix Passenger",
+  "type": "Pass",
+  "source": "CHALISGAON JN",
+  "sourceCode": "CSN",
+  "destination": "Dhule",
+  "destinationCode": "DHI",
+  "departureTime": "06:10:00",
+  "arrivalTime": "07:25:00",
+  "duration": "1h 15m",
+  "distance": "56 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "CR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

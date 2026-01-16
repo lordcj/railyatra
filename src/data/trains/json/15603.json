@@ -1,0 +1,31 @@
+{
+  "number": "15603",
+  "name": "Guwahati Ledo Intercity Express",
+  "type": "Exp",
+  "source": "GUWAHATI",
+  "sourceCode": "GHY",
+  "destination": "Ledo",
+  "destinationCode": "LEDO",
+  "departureTime": "22:30:00",
+  "arrivalTime": "12:15:00",
+  "duration": "13h 45m",
+  "distance": "571 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

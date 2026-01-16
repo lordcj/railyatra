@@ -1,0 +1,29 @@
+{
+  "number": "23040",
+  "name": "Rajgir Howrah Passenger",
+  "type": "Pass",
+  "source": "Rajgir",
+  "sourceCode": "RGD",
+  "destination": "HOWRAH JN",
+  "destinationCode": "HWH",
+  "departureTime": "16:05:00",
+  "arrivalTime": "06:05:00",
+  "duration": "14h 0m",
+  "distance": "552 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ER",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

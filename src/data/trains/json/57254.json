@@ -1,0 +1,30 @@
+{
+  "number": "57254",
+  "name": "Vijayawada Bhadrachalam Passenger",
+  "type": "Pass",
+  "source": "VIJAYAWADA JN",
+  "sourceCode": "BZA",
+  "destination": "Bhadrachalam Road",
+  "destinationCode": "BDCR",
+  "departureTime": "08:00:00",
+  "arrivalTime": "12:40:00",
+  "duration": "4h 40m",
+  "distance": "177 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

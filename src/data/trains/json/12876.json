@@ -1,0 +1,31 @@
+{
+  "number": "12876",
+  "name": "NEW DELHI - PURI Neelanchal SF Exp",
+  "type": "SF",
+  "source": "NEW DELHI",
+  "sourceCode": "NDLS",
+  "destination": "PURI",
+  "destinationCode": "PURI",
+  "departureTime": "06:30:00",
+  "arrivalTime": "17:10:00",
+  "duration": "34h 40m",
+  "distance": "1910 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECoR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

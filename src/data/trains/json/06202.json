@@ -1,0 +1,31 @@
+{
+  "number": "06202",
+  "name": "Sainagar Shirdi - Mysore Special",
+  "type": "Exp",
+  "source": "SAINAGAR SHIRDI",
+  "sourceCode": "SNSI",
+  "destination": "MYSORE JN",
+  "destinationCode": "MYS",
+  "departureTime": "23:55:00",
+  "arrivalTime": "07:10:00",
+  "duration": "31h 15m",
+  "distance": "1304 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

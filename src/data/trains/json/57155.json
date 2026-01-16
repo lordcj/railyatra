@@ -1,0 +1,30 @@
+{
+  "number": "57155",
+  "name": "Gulbarga-Hyderabad Passenger",
+  "type": "Pass",
+  "source": "WADI",
+  "sourceCode": "WADI",
+  "destination": "HYDERABAD DECCAN",
+  "destinationCode": "HYB",
+  "departureTime": "04:15:00",
+  "arrivalTime": "09:00:00",
+  "duration": "4h 45m",
+  "distance": "186 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

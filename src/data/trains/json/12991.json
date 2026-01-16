@@ -1,0 +1,29 @@
+{
+  "number": "12991",
+  "name": "Udaipur-Ajmer Express",
+  "type": "SF",
+  "source": "UDAIPUR CITY",
+  "sourceCode": "UDZ",
+  "destination": "AJMER JN",
+  "destinationCode": "AII",
+  "departureTime": "06:15:00",
+  "arrivalTime": "11:40:00",
+  "duration": "5h 25m",
+  "distance": "301 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

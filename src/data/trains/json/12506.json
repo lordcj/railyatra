@@ -1,0 +1,31 @@
+{
+  "number": "12506",
+  "name": "DELHI ANAND VIHAR - GUWAHATI North East Exp",
+  "type": "SF",
+  "source": "ANAND VIHAR TRM",
+  "sourceCode": "ANVT",
+  "destination": "GUWAHATI",
+  "destinationCode": "GHY",
+  "departureTime": "06:50:00",
+  "arrivalTime": "16:40:00",
+  "duration": "33h 50m",
+  "distance": "1867 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NFR",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

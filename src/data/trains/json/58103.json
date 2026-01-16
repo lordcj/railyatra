@@ -1,0 +1,30 @@
+{
+  "number": "58103",
+  "name": "Tatanagar Barabil Passenger",
+  "type": "Pass",
+  "source": "TATANAGAR JN",
+  "sourceCode": "TATA",
+  "destination": "Barbil",
+  "destinationCode": "BBN",
+  "departureTime": "17:00:00",
+  "arrivalTime": "21:20:00",
+  "duration": "4h 20m",
+  "distance": "148 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SER",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

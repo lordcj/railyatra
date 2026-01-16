@@ -1,0 +1,29 @@
+{
+  "number": "57258",
+  "name": "Kakinada Port Tirupati Passenger",
+  "type": "Pass",
+  "source": "Kakinada Port",
+  "sourceCode": "COA",
+  "destination": "TIRUPATI MAIN",
+  "destinationCode": "TPTY",
+  "departureTime": "07:00:00",
+  "arrivalTime": "02:50:00",
+  "duration": "19h 50m",
+  "distance": "601 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SCR",
+  "classes": [
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "52972",
+  "name": "Mhow Ujjain Passenger",
+  "type": "Pass",
+  "source": "Mhow",
+  "sourceCode": "MHOW",
+  "destination": "UJJAIN JN",
+  "destinationCode": "UJN",
+  "departureTime": "18:25:00",
+  "arrivalTime": "21:15:00",
+  "duration": "2h 50m",
+  "distance": "91 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

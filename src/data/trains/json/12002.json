@@ -1,0 +1,30 @@
+{
+  "number": "12002",
+  "name": "New Delhi-Bhopal Shatabdi Express",
+  "type": "Shtb",
+  "source": "NEW DELHI",
+  "sourceCode": "NDLS",
+  "destination": "BHOPAL JN",
+  "destinationCode": "BPL",
+  "departureTime": "06:15:00",
+  "arrivalTime": "14:05:00",
+  "duration": "7h 50m",
+  "distance": "701 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "1A",
+    "CC"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "56209",
+  "name": "Chamrajnagar Mysore Passenger",
+  "type": "Pass",
+  "source": "CHAMARAJANAGAR",
+  "sourceCode": "CMNR",
+  "destination": "MYSORE JN",
+  "destinationCode": "MYS",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:50:00",
+  "duration": "1h 50m",
+  "distance": "61 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "SWR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

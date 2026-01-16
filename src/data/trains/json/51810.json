@@ -1,0 +1,30 @@
+{
+  "number": "51810",
+  "name": "Tundla Kanpur Passenger",
+  "type": "Pass",
+  "source": "TUNDLA JN",
+  "sourceCode": "TDL",
+  "destination": "KANPUR CENTRAL",
+  "destinationCode": "CNB",
+  "departureTime": "06:50:00",
+  "arrivalTime": "14:00:00",
+  "duration": "7h 10m",
+  "distance": "232 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NCR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

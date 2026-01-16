@@ -1,0 +1,32 @@
+{
+  "number": "12565",
+  "name": "Bihar Sampark Kranti Express",
+  "type": "SKr",
+  "source": "DARBHANGA JN",
+  "sourceCode": "DBG",
+  "destination": "NEW DELHI",
+  "destinationCode": "NDLS",
+  "departureTime": "08:35:00",
+  "arrivalTime": "05:30:00",
+  "duration": "20h 55m",
+  "distance": "1172 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "ECR",
+  "classes": [
+    "3A",
+    "2A",
+    "1A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,29 @@
+{
+  "number": "15020",
+  "name": "Gorakhpur Nautanwa Express",
+  "type": "Exp",
+  "source": "Nautanwa",
+  "sourceCode": "NTV",
+  "destination": "GORAKHPUR JN",
+  "destinationCode": "GKP",
+  "departureTime": "14:40:00",
+  "arrivalTime": "16:40:00",
+  "duration": "2h 0m",
+  "distance": "82 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "3A"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

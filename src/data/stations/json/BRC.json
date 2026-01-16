@@ -1,0 +1,13 @@
+{
+  "code": "BRC",
+  "name": "Vadodara",
+  "fullName": "Vadodara Junction",
+  "zone": "WR",
+  "state": "Gujarat",
+  "category": "A1",
+  "platforms": 5,
+  "connectivity": [
+    "Bus",
+    "Taxi"
+  ]
+}

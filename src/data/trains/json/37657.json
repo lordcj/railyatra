@@ -1,0 +1,30 @@
+{
+  "number": "37657",
+  "name": "Howrah-Memari Local",
+  "type": "MEMU",
+  "source": "HOWRAH JN",
+  "sourceCode": "HWH",
+  "destination": "MEMARI",
+  "destinationCode": "MYM",
+  "departureTime": "08:40:00",
+  "arrivalTime": "10:30:00",
+  "duration": "1h 50m",
+  "distance": "82 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "?",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

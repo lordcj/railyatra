@@ -1,0 +1,31 @@
+{
+  "number": "12507",
+  "name": "TRIVANDRUM - GUWAHATI SF Exp",
+  "type": "SF",
+  "source": "TRIVANDRUM CENTRAL",
+  "sourceCode": "TVC",
+  "destination": "GUWAHATI",
+  "destinationCode": "GHY",
+  "departureTime": "21:05:00",
+  "arrivalTime": "07:55:00",
+  "duration": "58h 50m",
+  "distance": "3331 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NER",
+  "classes": [
+    "3A",
+    "2A",
+    "SL"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

@@ -1,0 +1,30 @@
+{
+  "number": "14633",
+  "name": "Ravi Express",
+  "type": "Exp",
+  "source": "AMRITSAR JN",
+  "sourceCode": "ASR",
+  "destination": "PATHANKOT",
+  "destinationCode": "PTK",
+  "departureTime": "09:15:00",
+  "arrivalTime": "11:40:00",
+  "duration": "2h 25m",
+  "distance": "107 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "NR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

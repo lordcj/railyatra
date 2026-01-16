@@ -1,0 +1,30 @@
+{
+  "number": "52906",
+  "name": "Ahmedabad Mahesana Passenger",
+  "type": "Pass",
+  "source": "AHMEDABAD JN",
+  "sourceCode": "ADI",
+  "destination": "MAHESANA JN",
+  "destinationCode": "MSH",
+  "departureTime": "13:55:00",
+  "arrivalTime": "16:45:00",
+  "duration": "2h 50m",
+  "distance": "69 km",
+  "runningDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "zone": "WR",
+  "classes": [
+    "SL",
+    "GEN"
+  ],
+  "stops": 0,
+  "majorStops": [],
+  "frequency": "Daily"
+}

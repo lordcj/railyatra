@@ -1,86 +1,36 @@
-# RailYatra - Indian Railway Information App
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-**Live at: [railyatra.co.in](https://railyatra.co.in)**
+## Getting Started
 
-A modern, fast, and beautiful Progressive Web App (PWA) for checking Indian Railway information in real-time.
+First, run the development server:
 
-## Features
-
-- 🚄 **PNR Status Check** - Real-time PNR status with passenger details
-- 🔍 **Train Search** - Find trains between any two stations
-- 📍 **Train Schedule** - View complete train routes and timings
-- 📱 **Mobile First** - Optimized for mobile devices
-- 💰 **Ad-Supported** - Free to use, supported by Google AdSense
-- ⚡ **Lightning Fast** - Aggressive caching for instant results
-- 🌐 **PWA** - Install on your phone like a native app
-- 📈 **User Analytics** - Metrics tracking via Google Analytics 4
-
-## Tech Stack
-
-- **Frontend**: React 18 + Vite
-- **Routing**: React Router v6
-- **Styling**: Vanilla CSS (Glassmorphism design)
-- **Icons**: Lucide React
-- **API**: Free Indian Railway APIs
-- **Hosting**: Vercel (Free tier)
-- **Domain**: railyatra.co.in
-
-## Quick Start
-
-### Development
 ```bash
-npm install
 npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
 ```
 
-### Build
-```bash
-npm run build
-npm run preview
-```
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Deployment
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-See [DEPLOY.md](./DEPLOY.md) for detailed deployment instructions.
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-**Quick Deploy to Vercel:**
-1. Push to GitHub
-2. Import to Vercel
-3. Add environment variables
-4. Deploy!
+## Learn More
 
-## Environment Variables
+To learn more about Next.js, take a look at the following resources:
 
-Copy `.env.example` to `.env` and configure:
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-```env
-VITE_RAILWAY_API_BASE_URL=https://indianrailapi.com/api/v2
-VITE_ADSENSE_CLIENT_ID=ca-pub-YOUR_ACTUAL_ID
-VITE_GA_MEASUREMENT_ID=G-XXXXXXXXXX
-```
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Monetization
+## Deploy on Vercel
 
-RailYatra is monetization-ready with:
-- 4 strategic ad placements per user journey
-- Google AdSense integration
-- Expected revenue: ₹50,000-100,000/year (with 500+ daily users)
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-See [adsense_setup_guide.md](./adsense_setup_guide.md) for complete setup.
-
-## SEO Optimized
-
-- Optimized for keywords: "PNR status", "live train status", "Indian railway"
-- Fast loading times (<2s)
-- Mobile-first responsive design
-- PWA for better engagement
-
-## License
-
-MIT
-
-## Contact
-
-Built with ❤️ for Indian Railway travelers
-
-**Website**: [railyatra.co.in](https://railyatra.co.in)
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
